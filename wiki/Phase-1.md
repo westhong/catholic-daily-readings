@@ -38,28 +38,28 @@ Delivery Layer               ←  可插拔，Telegram / Web / API
 
 ## Phase 1 工作清單
 
-### 1. 標準化資料格式 ✅ (plan)
-- [ ] 設計「每日讀經記錄」的 JSON schema
-- [ ] 欄位：date, weekday, feast_name, lectionary_number, readings[]
-- [ ] readings[] 包含：type(psalm/first_reading/gospel), chapter, verse_range, bible_text_tc, bible_text_sc
+### 1. 標準化資料格式 ✅
+- [x] 設計「每日讀經記錄」的 JSON schema
+- [x] 欄位：date, weekday, feast_name, lectionary_number, readings[]
+- [x] readings[] 包含：type(psalm/first_reading/gospel), chapter, verse_range, bible_text_tc, bible_text_sc
 
-### 2. 建立核心資料庫 ✅ (build)
-- [ ] 實作 USCCB scraper（只取 metadata，不取經文）
-- [ ] 實作 FHL 思高譯本 fetcher
-- [ ] 實作簡/繁體中文轉換（已有 FHL，確認能用）
-- [ ] 建立 Lectionary Number → 經文章節 的對照表
+### 2. 建立核心資料庫 ✅
+- [x] 實作 USCCB scraper（只取 metadata，不取經文）
+- [x] 實作 FHL 思高譯本 fetcher
+- [x] 實作簡/繁體中文轉換（已有 FHL，確認能用）
+- [x] 建立 Lectionary Number → 經文章節 的對照表
 
-### 3. 產出 MVP ✅ (test)
-- [ ] 能輸出完整格式的每日讀經記錄
-- [ ] 能在 terminal 顯示測試結果
-- [ ] 能生成 JSON 格式輸出
+### 3. 產出 MVP ✅
+- [x] 能輸出完整格式的每日讀經記錄
+- [x] 能在 terminal 顯示測試結果
+- [x] 能生成 JSON 格式輸出
 
 ## 進度追蹤
 | 任務 | 狀態 |
 |------|------|
-| 標準化資料格式 | 💡 待開始 |
-| 建立核心資料庫 | 💡 待開始 |
-| 產出 MVP | 💡 待開始 |
+| 標準化資料格式 | ✅ 完成 |
+| 建立核心資料庫 | ✅ 完成 |
+| 產出 MVP | ✅ 完成 |
 
 ## 現有資源（不動）
 - 現有 cron：維持現狀，不改
@@ -70,16 +70,4 @@ Delivery Layer               ←  可插拔，Telegram / Web / API
 
 ---
 
-# Phase 2 — 對外聯繫與擴展
-
-> 目標：聯繫教會和 source 擁有者，確認 license，建立多語言覆蓋。
-
-## 任務
-- [ ] 整理所有需要聯繫的 source 清單
-- [ ] 準備 Outreach 訊息
-- [ ] 確認哪些 source 可以直接使用（不需聯繫）
-- [ ] 逐步加入多語言聖經譯本
-- [ ] 加入祈禱時辰資料（Divinum Officium）
-
-## 心態
-能不能結果，在神手中。我們做我們能做的。
+*Phase 1 已完成（2026-04-19）。下一步見 [[Roadmap]]。*

@@ -44,14 +44,11 @@ Delivery Layer       ← 可插拔（Telegram / Web / API / ...）
 - [ ] License 追蹤
 
 ## 導覽
-- [[Sources]] — **我們已找到的所有來源**（持續更新）
+- [[Roadmap]] — **下一步行動指南**（持續更新）
+- [[Sources]] — 我們已找到的所有來源
 - [[Research-Daily-Catholic-Sources]] — 來源研究報告
 - [[Ideas]] — 所有待實現的想法
-- [[Phase 1]] — 第一階段建設計劃
-- [[Schema-DailyReadingRecord]] — 標準資料格式
-- [[Implementation-Status]] — 實作狀態（MVP 進度）
-- [[RCIA]] — 慕道者培育
-- [[Spiritual Life]] — 祈禱生活
+- [[Phase 1]] — 第一階段建設計劃（已完成）
 
 ## MVP 實作狀態 ✅
 2026-04-19：USCCB + FHL 思高譯本 MVP 已完成，可產出完整每日讀經記錄（JSON）。

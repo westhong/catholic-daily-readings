@@ -13,17 +13,11 @@
 
 ## 🔜 Next
 
-**Phase 1 MVP：設計標準資料格式（JSON Schema）**
+**Phase 2：歐洲語系整合**
 
-目標：用 USCCB + FHL 做出示範，建立以 Lectionary Number 為核心的統一每日讀經記錄格式。
+目標：用德語區（Katholisch.de / LITURGIE）、意大利語（Messainlatino.it）、法蘭德斯（Kerknet.be）的 RSS feed 取 Lectionary Number，配上對應語言譯本，輸出多語言每日讀經。
 
-MVP 完成時的輸出：
-- 日期 / 星期
-- 禮儀節日名稱
-- Lectionary Number
-- Psalm / First Reading / Gospel 章節
-- 繁體中文經文（思高譯本）
-- 簡體中文經文
+詳見：[[Roadmap]]
 
 ---
 
@@ -60,12 +54,14 @@ MVP 完成時的輸出：
 
 ## ✅ Done
 
-- [x] 切換聖經版本至思高譯本
-- [x] 建立每日三次讀經 cron（Psalm / First Reading / Gospel）
 - [x] 建立 Catholic Assistant 專案結構
 - [x] 建立 wiki
-- [x] 初步研究全球 14+ sources，7+ 語言 → [[Research-Daily-Catholic-Sources]]
-- [x] 建立系統分層架構 → [[Phase 1]]
+- [x] 研究全球 12+ 個 sources，覆蓋德語/意大利語/波蘭語/荷蘭語
+- [x] 建立系統分層架構
+- [x] **Phase 1 MVP 完成**（USCCB + FHL 思高譯本）
+- [x] GitHub public repo + v1.0.0 release + CONTRIBUTING.md
+- [x] **確認中文缺口**：中文世界完全沒有機器可讀的天主教每日讀經系統
+- [x] **確認版權策略**：只用 Lectionary Number（公共遺產），經文由自己譯本輸出
 
 ---
 
