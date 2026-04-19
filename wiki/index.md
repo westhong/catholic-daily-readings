@@ -44,9 +44,10 @@ Delivery Layer       ← 可插拔（Telegram / Web / API / ...）
 - [ ] License 追蹤
 
 ## 導覽
+- [[Sources]] — **我們已找到的所有來源**（持續更新）
+- [[Research-Daily-Catholic-Sources]] — 來源研究報告
 - [[Ideas]] — 所有待實現的想法
 - [[Phase 1]] — 第一階段建設計劃
-- [[Research-Daily-Catholic-Sources]] — 全球天主教每日讀經來源研究
 - [[Schema-DailyReadingRecord]] — 標準資料格式
 - [[Implementation-Status]] — 實作狀態（MVP 進度）
 - [[RCIA]] — 慕道者培育
