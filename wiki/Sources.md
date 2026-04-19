@@ -16,6 +16,47 @@
 
 ---
 
+## 英語系 Sources（✅ 已確認 types）
+
+### 英語系 — 每日彌撒讀經（Mass Lectionary）
+
+#### 1. USCCB
+| 欄位 | 內容 |
+|------|------|
+| URL | https://bible.usccb.org/daily-bible-reading |
+| RSS | ❌ 沒有 RSS |
+| 機器可讀 | ✅ HTML（CSS selector 抓取） |
+| **Confirmed Types** | **Reading 1, Responsorial Psalm, Reading 2, Alleluia Verse, Gospel** |
+| License | © Confraternity of Christian Doctrine（私人使用免費） |
+
+#### 2. CatholicOnline
+| 欄位 | 內容 |
+|------|------|
+| URL | https://www.catholic.org/ |
+| **Feed URL** | **https://www.catholic.org/xml/rss_dailyreadings.php** |
+| RSS | ✅ 有 |
+| 經文 | ✅ RSS description 有章節引用 |
+| **Confirmed Types** | **Reading 1, Responsorial Psalm, Gospel, Reading 2（主日）** |
+| License | © Catholic Online（New Jerusalem Bible） |
+
+### 英語系 — 祈禱時辰（Breviary / Liturgy of the Hours）
+
+#### 3. DivineOffice.org
+| 欄位 | 內容 |
+|------|------|
+| URL | https://www.divineoffice.org/ |
+| **Feed URL** | **https://divineoffice.org/feed/** |
+| RSS | ✅ 有 |
+| 經文 | ✅ RSS description 有完整 HTML 格式 |
+| **Confirmed Types** | **8 個時辰全部確認：** Invitatory, Office of Readings, Morning Prayer, Midmorning Prayer, Midday Prayer, Midafternoon Prayer, Evening Prayer, Night Prayer |
+| License | © English in the Liturgy Corporation（個人免費使用） |
+
+> **系統說明：**
+> - `mass`（彌撒讀經）和 `breviary`（祈禱時辰）是**兩個不同系統**，來自不同來源
+> - 兩者都會出現在同一個 JSON：`record.mass` + `record.breviary`
+
+---
+
 ## 歐洲語系 Sources（2026-04-19 研究完成）
 
 ### 🇩🇪 德語區

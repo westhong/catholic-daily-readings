@@ -33,50 +33,57 @@ Lectionary Number 是公共遺產，無版權問題。
 
 ---
 
-## Phase 2 🔄 即將開始：歐洲語系整合
+## Phase 2 🔄 即將開始：三個英語系整合
 
-**目標：用歐洲各國來源的 Lectionary Number，配上我們的譯本，輸出多語言每日讀經**
+> 先做英語系，因為我們已確認這三個都有機器可讀格式。歐洲 sources 需要瀏覽器工具，之後再做。
 
-### 2.1 德語整合 🇩🇪🇦🇹🇨🇭
+**目標：同一個 JSON，同時包含 Mass 讀經 + Breviary 祈禱時辰**
 
-| 來源 | 優先度 | 原因 |
-|------|--------|------|
-| Katholisch.de（DBK） | 🔴 高 | 官方背書，RSS質量最高，有JSON-LD |
-| LITURGIE | 🔴 高 | CDATA格式，質量最好 |
-| Kiwi.ch（瑞士） | 🟡 中 | 瑞士主教團相關 |
-| katholisch.at（奧） | 🟡 中 | 官方，但RSS只有連結 |
-| Bistum Brixen（南蒂） | 🟢 低 | 意大利德語區，覆蓋範圍重疊 |
+```json
+{
+  "date": "2026-04-18",
+  "mass": {
+    "feast_name": "復活期第二周星期六",
+    "lectionary_number": 272,
+    "readings": [
+      { "type": "first_reading", "name": "讀經一", "reference": "宗徒大事錄 6:1-7", "bible_texts": {...} },
+      { "type": "responsorial_psalm", "name": "答唱詠", "reference": "聖詠 33:1-2, 4-5, 18-19", "bible_texts": {...} },
+      { "type": "gospel", "name": "福音", "reference": "若望福音 6:16-21", "bible_texts": {...} }
+    ]
+  },
+  "breviary": {
+    "invitatory":      { "name": "邀請禱",  "hour": "Invitatory", "antiphon": "...", "psalm": "聖詠 24" },
+    "office_of_readings": { "name": "誦讀課", "hour": "Office of Readings", "antiphon": "...", "reading": "..." },
+    "morning_prayer":   { "name": "晨禱",   "hour": "Morning Prayer", "psalms": [...], "antiphon": "..." },
+    "midday":          { "name": "午時禱",  "hour": "Midday Prayer", ... },
+    "midafternoon":    { "name": "午後禱",  "hour": "Midafternoon Prayer", ... },
+    "evening_prayer":  { "name": "晚禱",    "hour": "Evening Prayer", ... },
+    "night_prayer":    { "name": "夜禱",    "hour": "Night Prayer", ... }
+  }
+}
+```
+
+### 2.1 英語系：三個來源 🔄 下一步
+
+| 來源 | 系統 | 已有 confirmed types？ | RSS/HTML |
+|------|------|----------------------|----------|
+| **USCCB** | Mass | ✅ Reading 1, Psalm, Reading 2, Alleluia, Gospel | HTML |
+| **CatholicOnline** | Mass | ✅ Reading 1, Psalm, Gospel, Reading 2（主日） | ✅ RSS |
+| **DivineOffice.org** | Breviary | ✅ Invitatory / Office / Morning / Midmorning / Midday / Midafternoon / Evening / Night | ✅ RSS |
 
 **交付：**
-- `src/sources/katholisch_de.py`
-- `src/sources/liturgie_de.py`
-- 德語區統一輸出格式
+- [ ] 更新 schema.py：加入 mass + breviary 雙系統結構
+- [ ] 新增 `src/sources/catholic_online.py`（RSS parser）
+- [ ] 新增 `src/sources/divine_office.py`（RSS parser）
+- [ ] 統一 English sources 整合進同一個 record
 
-### 2.2 意大利語整合 🇮🇹
+### 2.2 德語整合 🇩🇪🇦🇹🇨🇭（之後）
 
-| 來源 | 優先度 | 原因 |
-|------|--------|------|
-| Messainlatino.it | 🔴 高 | 完整static HTML + RSS |
-| CEI 官方 | 🟢 低 | 未確認有機器可讀格式 |
+> 需要瀏覽器工具抓 JS 渲染的頁面
 
-**交付：**
-- `src/sources/messainlatino_it.py`
-- 意大利語輸出
+### 2.3 意大利語整合 🇮🇹（之後）
 
-### 2.3 荷蘭語整合 🇳🇱🇧🇪
-
-| 來源 | 優先度 | 原因 |
-|------|--------|------|
-| Kerknet.be（法蘭德斯） | 🔴 高 | 有專用RSS |
-| RKK.nl（荷蘭） | 🟡 中 | 有欄目但無專用feed |
-
-**交付：**
-- `src/sources/kerknet_be.py`
-- 荷蘭語輸出
-
----
-
-## Phase 3：更多語言
+> 同上
 
 | 語系 | 優先度 | 狀態 |
 |------|--------|------|
