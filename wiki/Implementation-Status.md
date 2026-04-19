@@ -4,65 +4,66 @@
 
 ---
 
-## MVP 實作完成 ✅
+## Phase 1 MVP ✅ (2026-04-18)
+USCCB + FHL 思高譯本，單日測試記錄。
+
+---
+
+## Phase 2 MVP 2.1 — 三年禮儀年結構數據 ✅ (2026-04-19)
 
 ### 專案結構
 ```
 catholic-assistant/
-├── main.py                      # Entry point
+├── main.py
 ├── src/
-│   ├── schema.py               # DailyReadingRecord schema + book mappings
-│   ├── sources/
-│   │   ├── usccb.py           # USCCB metadata scraper ✅
-│   │   └── fhl.py             # FHL 思高譯本 fetcher ✅
-│   └── core/
-│       └── reader.py           # Assembles record from sources ✅
-└── data/
-    └── 2026-04-18.json        # First test record ✅
+│   ├── schema.py
+│   ├── sources/usccb.py
+│   ├── sources/fhl.py
+│   ├── core/reader.py
+│   └── liturgy/calendar.py   # 算法禮儀日曆引擎
+├── scripts/
+│   ├── scrape_usccb_readings.py  # 抓 USCCB .cfm URL
+│   └── fill_missing.py           # 補抓特殊日子
+├── data/
+│   ├── 2026-04-18.json           # Phase 1 測試
+│   └── lectionary/
+│       ├── calendar_raw.json      # USCCB Drupal Views AJAX 禮儀日曆
+│       └── readings.json         # ✅ 1060天讀經數據 (2024-12 至 2027-10)
+├── wiki/
+└── sources_inventory.json
 ```
 
-### 已實現功能
-- [x] USCCB 每日讀經章節抓取（scrape）
-- [x] FHL 思高譯本聖經經文取得（繁體中文）
-- [x] 繁→簡體中文轉換
-- [x] Lectionary Number 對齊
-- [x] 禮儀年識別（將臨期/聖誕期/四旬期/復活期/常年 期）
-- [x] 節日名稱中文化
-- [x] 完整 DailyReadingRecord JSON 輸出
-- [x] 測試記錄產出（2026-04-18）
+### 已完成
+- [x] 發現 USCCB `.cfm` URL 格式可直接 fetch（繞過 JavaScript）
+- [x] 抓取全部 3 個禮儀年的讀經結構數據
+- [x] 處理聖誕節 4 個時段彌撒 (Vigil/Night/Dawn/Day)
+- [x] 處理聖週特殊日子 (Chrism Mass / Evening Mass / Good Friday / Easter Vigil)
+- [x] 處理多選項日子（五旬節、耶穌升天、聖母升天等）
+- [x] 更新 wiki
 
-### 測試結果（2026-04-18 復活期第二周星期六）
-- Lectionary: 272
-- Reading 1: 宗徒大事錄 6:1-7 — ✅ 思高譯本（宗徒大事錄）
-- Psalm: 聖詠 33:1-2, 4-5, 18-19 — ✅ 思高譯本
-- Alleluia: USCCB 無明確經文章節，略過
-- Gospel: 若望福音 6:16-21 — ✅ 思高譯本
+### 數據覆蓋率
+- 總天數：1060（覆蓋 2024-12-01 → 2027-10-31）
+- 完整讀經（lectionary number + 章節引用）：**99.2%**
+- 已知缺口：7 個 2026 年日子（USCCB 不提供 readings sub-page）
 
-### 技術修正記錄
-1. **FHL API 參數名**：`CN` ❌ → `chineses` ✅
-2. **FHL 書名簡稱**（已驗證）：
-   - Acts → `徒`（不是 `宗`）
-   - John → `約`（不是 `若`）
-   - Psalms → `詩`（不是 `詠`）
-3. **USCCB HTML parsing**：Alleluia section 的 anchor tag 是 malformed（`">`），需偵測並跳過
-4. **FHL 章節範圍**：需逐節 fetch（`1-2, 4-5` 分開請求）
+### 缺口記錄（USCCB 數據限制）
+以下日期的 lectionary number 和 feast name 已知，但章節引用無法從 USCCB 取得：
+- 2026-05-14: L58 — 耶穌升天節 (The Ascension of the Lord)
+- 2026-05-17: L58 — 耶穌升天節主日 (Seventh Sunday of Easter - Ascension)
+- 2026-05-24: L62 — 五旬節 (Pentecost Sunday)
+- 2026-06-24: L586 — 聖若翰洗者誕辰 (Solemnity of St. John the Baptist)
+- 2026-06-29: L590 — 聖伯多祿聖保祿宗徒節 (Solemnity of Sts. Peter and Paul)
+- 2026-08-15: L621 — 聖母升天節 (The Assumption of the Blessed Virgin Mary)
+- 2026-11-26: L506 — 常年期第34周星期四 (Thursday of the 34th Week)
+
+原因：USCCB 的 `.cfm` 頁面本體無讀經內容，sub-page 返回 HTTP 404。
 
 ---
 
 ## 下一步
-- [ ] 建立格式化靈修禱文輸出（Telegram 格式）
-- [ ] 設定每日 cron job
+- [ ] 逐日驗證 readings.json 數據
+- [ ] 接洽 USCCB / FHL 確認版權
+- [ ] 建立 JSON → 中文靈修禱文格式輸出
 - [ ] 加入聖人日曆（Menology）
 - [ ] 加入靈修導讀問題
-- [ ] 加入引導祈禱文
-- [ ] 建立第二譯本支援（和合本）
-- [ ] 確認各 source license
-
----
-
-## GitHub 準備
-- [x] 初始化 git repo
-- [ ] 建立 public repo
-- [ ] 撰寫 README
-- [ ] 選擇 license（建議：MIT 或 Apache 2.0）
-
+- [ ] 確認 source license

@@ -33,7 +33,20 @@ Lectionary Number 是公共遺產，無版權問題。
 
 ---
 
-## Phase 2 🔄 即將開始：三個英語系整合
+## Phase 2.1 ✅ USCCB 三年讀經結構數據 (2026-04-19)
+
+> 用 `.cfm` URL 繞過 JavaScript，直接 fetch USCCB HTML，1049 天數據，99.2% 覆蓋率。
+
+- [x] 發現 `.cfm` URL 格式（`MMDDYY.cfm`）
+- [x] 處理聖誕節多時段 (Vigil/Night/Dawn/Day)
+- [x] 處理聖週特殊日子
+- [x] 處理多 lectionary option 日子
+- [x] 抓取 2024-12 至 2027-10（共 1060 天）
+- [x] 更新 wiki
+- [ ] 逐日驗證 readings.json 數據 ← 當前任務
+- [ ] 建立 GitHub release
+
+### 2.2 🔄 下一個：接洽 USCCB + FHL
 
 > 先做英語系，因為我們已確認這三個都有機器可讀格式。歐洲 sources 需要瀏覽器工具，之後再做。
 
@@ -120,7 +133,7 @@ Lectionary Number 是公共遺產，無版權問題。
 
 ```
 Phase 1  ████████████████████ ✅ MVP 完成
-Phase 2  ██░░░░░░░░░░░░░░░░░░ 🔄 德/意/荷整合（下一步）
+Phase 2  ██░░░░░░░░░░░░░░░░░░ 🔄 2.1 ✅ → 逐日驗證中
 Phase 3  ░░░░░░░░░░░░░░░░░░░ ⏳ 更多語言
 Phase 4  ░░░░░░░░░░░░░░░░░░░ ⏳ 功能深化
 Phase 5  ░░░░░░░░░░░░░░░░░░░ ⏳ 傳播

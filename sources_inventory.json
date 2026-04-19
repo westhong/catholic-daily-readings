@@ -1,0 +1,154 @@
+{
+  "_note": "Breviary JSON Schema Design — 祈禱時辰（Liturgy of the Hours）結構",
+  "_source": "DivineOffice.org 實際頁面分析（2026-04-19）",
+  "_principle": "先用免費的做，再用成功去說服別人",
+
+  "breviary": {
+    "hour_types": {
+      "invitatory": {
+        "description": "邀請禱 — 一天的第一個小時，召喚人祈禱",
+        "structure": ["opening_verse", "antiphon", "psalm"],
+        "psalm_format": "只有一個Psalm（例：Psalm 100），無章節範圍"
+      },
+      "office_of_readings": {
+        "description": "誦讀課 — 主要聖經誦讀",
+        "structure": ["opening_verse", "psalmody", "first_reading", "second_reading", "concluding_prayer"],
+        "psalm_format": "一個Psalm + Psalm-prayer"
+      },
+      "morning_prayer": {
+        "description": "晨禱 — 一天的開始，配合工作",
+        "structure": ["opening_verse", "hymn", "psalmody", "canticle", "psalm_prayer", "intercessions", "concluding_prayer"],
+        "psalm_format": "三首Psalm + 一個舊約答唱詠"
+      },
+      "midday_prayer": {
+        "description": "午時禱",
+        "structure": ["opening_verse", "antiphon", "psalms", "concluding_prayer"],
+        "psalm_format": "兩首Psalm"
+      },
+      "midafternoon_prayer": {
+        "description": "午後禱",
+        "structure": ["opening_verse", "antiphon", "psalms", "concluding_prayer"],
+        "psalm_format": "兩首Psalm"
+      },
+      "evening_prayer": {
+        "description": "晚禱 — 一天結束",
+        "structure": ["opening_verse", "hymn", "psalmody", "canticle", "intercessions", "concluding_prayer"],
+        "psalm_format": "兩首Psalm + 新約答唱詠（Magnificat）"
+      },
+      "night_prayer": {
+        "description": "夜禱 — 睡前",
+        "structure": ["opening_verse", "psalms", "concluding_prayer"],
+        "psalm_format": "兩首Psalm"
+      }
+    },
+
+    "field_definitions": {
+      "opening_verse": {
+        "type": "string",
+        "description": "「天主，來扶助我。上主，來扶助我。」固定經文",
+        "example": "God, come to my assistance. Lord, make haste to help me."
+      },
+      "hymn": {
+        "type": "object",
+        "description": "聖詩（並非每天每個小時都有）",
+        "fields": ["title", "text", "author", "tune", "copyright"]
+      },
+      "antiphon": {
+        "type": "string",
+        "description": "聖詠前對經，在每首聖詠前唱的短經",
+        "example": "The Lord is risen, alleluia."
+      },
+      "psalm": {
+        "type": "object",
+        "description": "聖詠（注意：沒有章:節格式，只有Psalm Number）",
+        "fields": {
+          "psalm_number": "詩篇編號（例：100）",
+          "psalm_en": "詩篇英文名（例：Psalm 100）",
+          "reference": "簡化引用（例：詩 100）",
+          "antiphon": "該聖詠的對經",
+          "text": "詩篇內容（英文）"
+        }
+      },
+      "canticle": {
+        "type": "object",
+        "description": "答唱詠（不同於弥撒的答唱詠，這是聖咏對經）",
+        "fields": {
+          "source": "來源（例：申命紀 32:1-12）",
+          "antiphon": "對經",
+          "text": "內容"
+        }
+      },
+      "psalm_prayer": {
+        "type": "string",
+        "description": "聖詠祈禱文，在聖詠之後的簡短祈禱",
+        "example": "Lord, you have revealed the resurrection of Christ..."
+      },
+      "reading": {
+        "type": "object",
+        "description": "聖經誦讀（用於誦讀課）",
+        "fields": {
+          "order": "first | second",
+          "source": "聖經章節（例：宗徒大事錄 6:1-7）",
+          "text": "誦讀內容（英文）"
+        }
+      },
+      "intercessions": {
+        "type": "string",
+        "description": "代禱，在晚禱和晨禱出現",
+        "example": "Christ, our light, you are the way, the truth and the life..."
+      },
+      "concluding_prayer": {
+        "type": "string",
+        "description": "結尾祈禱文",
+        "example": "Lord, hear the prayers of your people..."
+      }
+    }
+  },
+
+  "mass_vs_breviary_comparison": {
+    "mass": {
+      "reference_format": "路加福音 24:13-35（章:節）",
+      "has_hymn": false,
+      "has_intercessions": false,
+      "has_antiphon": false,
+      "has_psalm_prayer": false
+    },
+    "breviary": {
+      "reference_format": "Psalm 100（只有編號，無章:節）",
+      "has_hymn": true,
+      "has_intercessions": true,
+      "has_antiphon": true,
+      "has_psalm_prayer": true
+    }
+  },
+
+  "example_hour_object": {
+    "hour": "morning_prayer",
+    "name_en": "Morning Prayer",
+    "name_zh": "晨禱",
+    "ribbon_placement": "Liturgy of the Hours Vol. II: Ordinary: 1049",
+    "structure": ["opening_verse", "hymn", "psalmody", "psalm_prayer", "intercessions", "concluding_prayer"],
+
+    "psalm_numbers": {
+      "psalm_1": { "number": 92,  "source_en": "Psalm 92",  "reference_zh": "詩 92" },
+      "canticle":  { "source": "申命紀 32:1-12", "source_en": "Deuteronomy 32:1-12" },
+      "psalm_2": { "number": 8,    "source_en": "Psalm 8",    "reference_zh": "詩 8" }
+    },
+
+    "_free_text_status": {
+      "psalm_text": "FHL 思高譯本有版權（研究用），未來目標：說服其他網站提供",
+      "hymn": "需要版權確認",
+      "intercessions": "需要版權確認",
+      "psalm_prayer": "需要版權確認"
+    }
+  },
+
+  "psalm_number_only_minimum": {
+    "description": "如果抓不到中文譯文，至少記下 Psalm Number，日後可用於對照",
+    "example": {
+      "date": "2026-04-18",
+      "hour": "morning_prayer",
+      "psalm_numbers": [92, "Dt 32:1-12", 8]
+    }
+  },
+}
