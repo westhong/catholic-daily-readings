@@ -84,9 +84,20 @@ catholic-daily-readings/
 
 ---
 
-## 📜 授權
+## 📜 授權與使用聲明
 
+### 聖經經文
+- **英文聖經經文**：來自 New American Bible Revised Edition (NABRE)，版權 © Confraternity of Christian Doctrine (CCD)，Washington, DC。僅供私人研究使用。
+- **中文聖經經文**：來自律敦思高譯本，版權 © 香港聖經公會 / 信望愛資源中心。僅供私人研究使用。
+
+### 讀經結構數據
+讀經選擇與編排（Lectionary Selection）版權 © Confraternity of Christian Doctrine。僅供私人研究使用。
+
+### 軟件
 MIT — 自由使用，為主服務。
+
+---
+*本專案旨在榮耀天主。所有聖經經文版權歸其各自持有者所有。
 
 ---
 
