@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+*.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hermes (private)
+memory/
+plans/
+rcia-materials/
+
+# Data (generated daily — commit samples only)
+/data/*.json
+!data/2026-04-18.json

@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-18",
+  "weekday": "星期六",
+  "feast_name": "Saturday of the Second Week of Easter",
+  "feast_name_zh": "復活期第二周星期六",
+  "lectionary_number": 272,
+  "liturgical_year": "Easter Season",
+  "liturgical_year_zh": "復活期",
+  "readings": [
+    {
+      "type": "first_reading",
+      "reference": {
+        "book_en": "Acts",
+        "book_fhl": "徒",
+        "book_full_zh": "宗徒大事錄",
+        "chapter": 6,
+        "verse_range": "1-7"
+      },
+      "bible_texts": {
+        "zh_trad": "那時候，門徒們漸漸增多，希臘化的猶太人，對希伯來人發出了怨言，因為他們在日常的供應品上，疏忽了他們的寡婦。\n於是十二宗徒召集眾門徒說：「讓我們放棄天主的聖言，而操管飲食，實在不相宜。\n所以，弟兄們！當從你們中檢定七位有好聲望，且充滿聖神和智慧的人，派他們管這要務。\n至於我們，我們要專務祈禱，並為真道服役。」\n這番話得了全體的悅服，就選了斯德望，他是位充滿信德和聖神的人，和斐理伯、仆洛曷洛、尼加諾爾、提孟、帕爾默納及尼苛勞，他是個歸依猶太教的安提約基雅人，\n叫他們立在宗徒面前；宗徒們祈禱以後，就給他們覆了手。\n天主的道漸漸發揚，門徒的數目在耶路撒冷大為增加，司祭中也有許多人，服從了信仰。",
+        "zh_simpl": "那時候，門徒们漸漸增多，希臘化的猶太人，對希伯來人發出了怨言，因为他们在日常的供应品上，疏忽了他们的寡婦。\n於是十二宗徒召集眾門徒說：「讓我们放棄天主的圣言，而操管飲食，實在不相宜。\n所以，弟兄们！當從你们中檢定七位有好聲望，且充滿圣神和智慧的人，派他们管这要務。\n至於我们，我们要專務祈祷，並为真道服役。」\n这番話得了全體的悅服，就選了斯德望，他是位充滿信德和圣神的人，和斐理伯、仆洛曷洛、尼加諾爾、提孟、帕爾默納及尼苛勞，他是个歸依猶太教的安提約基雅人，\n叫他们立在宗徒面前；宗徒们祈祷以後，就給他们覆了手。\n天主的道漸漸發揚，門徒的數目在耶路撒冷大为增加，司祭中也有許多人，服從了信仰。"
+      },
+      "alleluia_verse": null
+    },
+    {
+      "type": "psalm",
+      "reference": {
+        "book_en": "Psalm",
+        "book_fhl": "詩",
+        "book_full_zh": "聖詠",
+        "chapter": 33,
+        "verse_range": "1-2, 4-5, 18-19"
+      },
+      "bible_texts": {
+        "zh_trad": "義人，你們應向上主踴躍歡呼，\n因為正直的人，理應讚美上主。\n你們該彈琴，稱謝上主，\n彈奏十絃琴，讚頌上主。\n因為上主的言語是正直的，\n他的一切作為都是忠實的；\n他愛護正義和公理，\n他的慈愛瀰漫大地。\n請看，上主的眼睛常關注敬畏他的人，\n他的雙目常眷顧靠他仁慈的人，\n為使他們的性命，脫免死亡，\n使他們在饑饉時，生活如常。",
+        "zh_simpl": "义人，你们应向上主踊跃欢呼，\n因为正直的人，理应讚美上主。\n你们該弹琴，称谢上主，\n弹奏十弦琴，讚颂上主。\n因为上主的言语是正直的，\n他的一切作为都是忠實的；\n他爱护正义和公理，\n他的慈爱瀰漫大地。\n请看，上主的眼睛常关注敬畏他的人，\n他的双目常眷顧靠他仁慈的人，\n为使他们的性命，脫免死亡，\n使他们在饑饉時，生活如常。"
+      },
+      "alleluia_verse": null
+    },
+    {
+      "type": "alleluia",
+      "reference": {
+        "book_en": "",
+        "book_fhl": "",
+        "book_full_zh": "",
+        "chapter": 0,
+        "verse_range": ""
+      },
+      "bible_texts": {
+        "zh_trad": "",
+        "zh_simpl": ""
+      },
+      "alleluia_verse": null
+    },
+    {
+      "type": "gospel",
+      "reference": {
+        "book_en": "John",
+        "book_fhl": "約",
+        "book_full_zh": "若望福音",
+        "chapter": 6,
+        "verse_range": "16-21"
+      },
+      "bible_texts": {
+        "zh_trad": "到了晚上，他的門徒下到海邊，\n上船要到海對岸的葛法翁去。天已黑了，耶穌還沒有來到他們那裏。\n海上因起了大風，便翻騰起來。\n當他們搖櫓大約過了二十五或三十「斯塔狄」時，看見耶穌在海面上行走，臨近了船，便害怕起來。\n但他卻向他們說：「是我，不要害怕！」\n他們便欣然接他上船，船就立時到了他們所要去的地方。",
+        "zh_simpl": "到了晚上，他的門徒下到海邊，\n上船要到海對岸的葛法翁去。天已黑了，耶稣還沒有來到他们那裏。\n海上因起了大風，便翻騰起來。\n當他们搖櫓大約過了二十五或三十「斯塔狄」時，看見耶稣在海面上行走，臨近了船，便害怕起來。\n但他卻向他们說：「是我，不要害怕！」\n他们便欣然接他上船，船就立時到了他们所要去的地方。"
+      },
+      "alleluia_verse": null
+    }
+  ],
+  "metadata": {
+    "sources": [
+      {
+        "source_id": "usccb",
+        "source_name_en": "USCCB Daily Bible Reading",
+        "source_name_zh": "美國主教團每日讀經",
+        "source_uri": "https://bible.usccb.org/daily-bible-reading",
+        "license": "private-use-only",
+        "license_detail": "Copyright © Confraternity of Christian Doctrine. Personal/parish use free; redistribution requires permission.",
+        "lectionary_ref": 272,
+        "data": {}
+      }
+    ],
+    "translations": [
+      {
+        "translation_id": "fhl_ofm",
+        "translation_name_en": "Studium Biblicum Franciscanum (Sikong)",
+        "translation_name_zh": "思高學會譯本",
+        "source_uri": "https://bible.fhl.net/",
+        "language": "zh_trad",
+        "license": "research-use",
+        "license_detail": "Free for research use; commercial use requires permission."
+      }
+    ],
+    "generated_at": "2026-04-19T00:23:13.021272Z",
+    "schema_version": "1.0"
+  }
+}
