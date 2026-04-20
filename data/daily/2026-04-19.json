@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-19",
+  "source": "usccb",
+  "lectionary_number": 46,
+  "feast_en": "Third Sunday of Easter",
+  "color": "white",
+  "local_file": "2026-04-19-041926.cfm",
+  "url": "https://bible.usccb.org/bible/readings/041926.cfm",
+  "readings": [
+    {
+      "slot": 1,
+      "type": "first_reading",
+      "label": "Reading 1",
+      "citation_id": "acts:2",
+      "usccb_url": "https://bible.usccb.org/bible/acts/2?14",
+      "alternatives": []
+    },
+    {
+      "slot": 2,
+      "type": "responsorial_psalm",
+      "label": "Responsorial Psalm",
+      "citation_id": "psalm:16",
+      "usccb_url": "https://bible.usccb.org/bible/psalms/16?1",
+      "alternatives": []
+    },
+    {
+      "slot": 3,
+      "type": "second_reading",
+      "label": "Reading 2",
+      "citation_id": "1peter:1",
+      "usccb_url": "https://bible.usccb.org/bible/1peter/1?17",
+      "alternatives": []
+    },
+    {
+      "slot": 4,
+      "type": "alleluia_verse",
+      "label": "Alleluia",
+      "citation_id": "luke:24",
+      "usccb_url": "https://bible.usccb.org/bible/luke/24?32",
+      "alternatives": []
+    },
+    {
+      "slot": 5,
+      "type": "gospel",
+      "label": "Gospel",
+      "citation_id": "luke:24",
+      "usccb_url": "https://bible.usccb.org/bible/luke/24?13",
+      "alternatives": []
+    }
+  ]
+}

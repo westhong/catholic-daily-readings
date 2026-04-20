@@ -3,7 +3,7 @@
 > 天主教靈修助理 — 想法、試驗、與記錄
 
 ## 異象 🌟
->「為神做一些事，讓神的話語更能遠傳。」
+>「為神做一些事，去填補這個世界應該要有的東西，讓神的話語更能遠傳。溫柔地對待這個世界。」
 > 目標遠大，起點簡單。從每日中文讀經開始，最終建立完整的中文天主教靈修陪伴系統。
 
 ## 系統定位
@@ -47,6 +47,7 @@ Delivery Layer       ← 可插拔（Telegram / Web / API / ...）
 - [[Roadmap]] — **下一步行動指南**（持續更新）
 - [[Sources]] — 我們已找到的所有來源
 - [[Research-Daily-Catholic-Sources]] — 來源研究報告
+- [[Data-Layers]] — **數據分層架構**（Layer 0 Source / Layer 1 Processed / Layer 2 Applied）
 - [[Ideas]] — 所有待實現的想法
 - [[Phase 1]] — 第一階段建設計劃（已完成）
 
