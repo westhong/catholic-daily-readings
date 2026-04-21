@@ -2,6 +2,10 @@
 
 > 更新日期：2026-04-21
 
+**2026-04-21 備註：** 發現部分電郵地址有誤，已修正後重新發送。
+- `info@bstwn.org`（已失效）→ `service@bstwn.org`
+- `pub@cccb.ca`（group address 被封鎖）→ `permissions@cccb.ca`
+
 本頁記錄 Catholic Daily Readings 項目與各地聖經版權持有機構的來往通訊，供公眾查閱，亦作為本專案遵守版權法的公開承諾。
 
 ---
@@ -53,9 +57,9 @@
 | 機構 | 電郵 | 請求內容 | 狀態 |
 |------|------|----------|------|
 | 香港思高聖經學會 | sbofmdirector@gmail.com | 思高譯本 | 已發送 |
-| 台灣聖經公會 | info@bstwn.org | 現代中文譯本、和合本修訂版 | 已發送 |
+| 台灣聖經公會 | service@bstwn.org | 現代中文譯本、和合本修訂版 | ✅ 已發送（2026-04-21）|
 | 香港聖經公會 | info@hkbs.org.hk | 和合本修訂版 | 已發送 |
-| 加拿大 CCCB | pub@cccb.ca | 加拿大禮儀聖經譯本 | 已發送 |
+| 加拿大 CCCB | permissions@cccb.ca | 加拿大禮儀聖經譯本 | ✅ 已發送（2026-04-21）|
 
 ---
 
