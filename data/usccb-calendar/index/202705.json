@@ -1,0 +1,330 @@
+{
+  "2027-05-01": [
+    {
+      "feast": "Saturday of the Fifth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050127.cfm",
+      "color": "white",
+      "local_file": "2027-05-01-050127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-02": [
+    {
+      "feast": "Sixth Sunday of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050227.cfm",
+      "color": "white",
+      "local_file": "2027-05-02-050227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-03": [
+    {
+      "feast": "Feast of Saints Philip and James, Apostles",
+      "url": "https://bible.usccb.org/bible/readings/050327.cfm",
+      "color": "red",
+      "local_file": "2027-05-03-050327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-04": [
+    {
+      "feast": "Tuesday of the Sixth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050427.cfm",
+      "color": "white",
+      "local_file": "2027-05-04-050427.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-05": [
+    {
+      "feast": "Wednesday of the Sixth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050527.cfm",
+      "color": "white",
+      "local_file": "2027-05-05-050527.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-06": [
+    {
+      "feast": "Thursday of the Sixth Week of Easter - Ascension",
+      "url": "https://bible.usccb.org/bible/readings/050627.cfm",
+      "color": "white",
+      "local_file": "2027-05-06-050627.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Solemnity of the Ascension of the Lord",
+      "url": "https://bible.usccb.org/bible/readings/050627-Ascension",
+      "color": "white",
+      "local_file": "2027-05-06-050627-Ascension.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Thursday of the Sixth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050627-Thursday.cfm",
+      "color": "white",
+      "local_file": "2027-05-06-050627-Thursday.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-07": [
+    {
+      "feast": "Friday of the Sixth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050727cfm",
+      "color": "white",
+      "local_file": "2027-05-07-050727.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-08": [
+    {
+      "feast": "Saturday of the Sixth Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050827.cfm",
+      "color": "white",
+      "local_file": "2027-05-08-050827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-09": [
+    {
+      "feast": "Seventh Sunday of Easter - Ascension",
+      "url": "https://bible.usccb.org/bible/readings/050927.cfm",
+      "color": "white",
+      "local_file": "2027-05-09-050927.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Seventh Sunday of Easter",
+      "url": "https://bible.usccb.org/bible/readings/050927-Sunday.cfm",
+      "color": "white",
+      "local_file": "2027-05-09-050927-Sunday.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Solemnity of the Ascension of the Lord",
+      "url": "https://bible.usccb.org/bible/readings/050927-Ascension.cfm",
+      "color": "white",
+      "local_file": "2027-05-09-050927-Ascension.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-10": [
+    {
+      "feast": "Monday of the Seventh Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/051027.cfm",
+      "color": "white",
+      "local_file": "2027-05-10-051027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-11": [
+    {
+      "feast": "Tuesday of the Seventh Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/051127.cfm",
+      "color": "white",
+      "local_file": "2027-05-11-051127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-12": [
+    {
+      "feast": "Wednesday of the Seventh Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/051227.cfm",
+      "color": "white",
+      "local_file": "2027-05-12-051227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-13": [
+    {
+      "feast": "Thursday of the Seventh Week of Easter",
+      "url": "https://bible.usccb.org/bible/readings/051327.cfm",
+      "color": "white",
+      "local_file": "2027-05-13-051327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-14": [
+    {
+      "feast": "Feast of Saint Matthias, Apostle",
+      "url": "https://bible.usccb.org/bible/readings/051427.cfm",
+      "color": "red",
+      "local_file": "2027-05-14-051427.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-15": [
+    {
+      "feast": "Saturday of the Seventh Week of Easter - Mass in the Morning",
+      "url": "https://bible.usccb.org/bible/readings/051527.cfm",
+      "color": "white",
+      "local_file": "2027-05-15-051527.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-16": [
+    {
+      "feast": "Pentecost Sunday",
+      "url": "https://bible.usccb.org/bible/readings/051627.cfm",
+      "color": "red",
+      "local_file": "2027-05-16-051627.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Pentecost Sunday - Mass during the Day",
+      "url": "https://bible.usccb.org/bible/readings/051627-Day.cfm",
+      "color": "red",
+      "local_file": "2027-05-16-051627-Day.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Pentecost Sunday - Vigil Mass",
+      "url": "https://bible.usccb.org/bible/readings/051627-Vigil.cfm",
+      "color": "red",
+      "local_file": "2027-05-16-051627-Vigil.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Pentecost Sunday",
+      "url": "https://bible.usccb.org/bible/readings/051627-Extended.cfm",
+      "color": "red",
+      "local_file": "2027-05-16-051627-Extended.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-17": [
+    {
+      "feast": "Memorial of the Blessed Virgin Mary, Mother of the Church",
+      "url": "https://bible.usccb.org/bible/readings/051727.cfm",
+      "color": "white",
+      "local_file": "2027-05-17-051727.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-18": [
+    {
+      "feast": "Tuesday of the Seventh Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/051827.cfm",
+      "color": "green",
+      "local_file": "2027-05-18-051827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-19": [
+    {
+      "feast": "Wednesday of the Seventh Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/051927.cfm",
+      "color": "green",
+      "local_file": "2027-05-19-051927.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-20": [
+    {
+      "feast": "Thursday of the Seventh Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052027.cfm",
+      "color": "green",
+      "local_file": "2027-05-20-052027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-21": [
+    {
+      "feast": "Friday of the Seventh Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052127.cfm",
+      "color": "green",
+      "local_file": "2027-05-21-052127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-22": [
+    {
+      "feast": "Saturday of the Seventh Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052227.cfm",
+      "color": "green",
+      "local_file": "2027-05-22-052227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-23": [
+    {
+      "feast": "The Solemnity of the Most Holy Trinity",
+      "url": "https://bible.usccb.org/bible/readings/052327.cfm",
+      "color": "white",
+      "local_file": "2027-05-23-052327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-24": [
+    {
+      "feast": "Monday of the Eighth Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052427.cfm",
+      "color": "green",
+      "local_file": "2027-05-24-052427.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-25": [
+    {
+      "feast": "Tuesday of the Eighth Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052527.cfm",
+      "color": "green",
+      "local_file": "2027-05-25-052527.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-26": [
+    {
+      "feast": "Memorial of Saint Philip Neri, Priest",
+      "url": "https://bible.usccb.org/bible/readings/052627.cfm",
+      "color": "white",
+      "local_file": "2027-05-26-052627.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-27": [
+    {
+      "feast": "Thursday of the Eighth Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052727.cfm",
+      "color": "green",
+      "local_file": "2027-05-27-052727.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-28": [
+    {
+      "feast": "Friday of the Eighth Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052827.cfm",
+      "color": "green",
+      "local_file": "2027-05-28-052827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-29": [
+    {
+      "feast": "Saturday of the Eighth Week in Ordinary Time",
+      "url": "https://bible.usccb.org/bible/readings/052927.cfm",
+      "color": "green",
+      "local_file": "2027-05-29-052927.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-30": [
+    {
+      "feast": "The Solemnity of the Most Holy Body and Blood of Christ",
+      "url": "https://bible.usccb.org/bible/readings/053027.cfm",
+      "color": "white",
+      "local_file": "2027-05-30-053027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-05-31": [
+    {
+      "feast": "Feast of the Visitation of the Blessed Virgin Mary",
+      "url": "https://bible.usccb.org/bible/readings/053127.cfm",
+      "color": "white",
+      "local_file": "2027-05-31-053127.cfm",
+      "download_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "2027-03-01": [
+    {
+      "feast": "Monday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030127.cfm",
+      "color": "violet",
+      "local_file": "2027-03-01-030127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-02": [
+    {
+      "feast": "Tuesday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030227.cfm",
+      "color": "violet",
+      "local_file": "2027-03-02-030227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-03": [
+    {
+      "feast": "Wednesday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030327.cfm",
+      "color": "violet",
+      "local_file": "2027-03-03-030327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-04": [
+    {
+      "feast": "Thursday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030427.cfm",
+      "color": "violet",
+      "local_file": "2027-03-04-030427.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-05": [
+    {
+      "feast": "Friday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030527.cfm",
+      "color": "violet",
+      "local_file": "2027-03-05-030527.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-06": [
+    {
+      "feast": "Saturday of the Third Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030627.cfm",
+      "color": "violet",
+      "local_file": "2027-03-06-030627.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-07": [
+    {
+      "feast": "Fourth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030727-YearA.cfm",
+      "color": "white",
+      "local_file": "2027-03-07-030727-YearA.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Fourth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030727.cfm",
+      "color": "violet",
+      "local_file": "2027-03-07-030727.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Fourth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030727-YearB.cfm",
+      "color": "white",
+      "local_file": "2027-03-07-030727-YearB.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-08": [
+    {
+      "feast": "Monday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030827.cfm",
+      "color": "violet",
+      "local_file": "2027-03-08-030827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-09": [
+    {
+      "feast": "Tuesday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/030927.cfm",
+      "color": "violet",
+      "local_file": "2027-03-09-030927.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-10": [
+    {
+      "feast": "Wednesday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031027.cfm",
+      "color": "violet",
+      "local_file": "2027-03-10-031027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-11": [
+    {
+      "feast": "Thursday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031127.cfm",
+      "color": "violet",
+      "local_file": "2027-03-11-031127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-12": [
+    {
+      "feast": "Friday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031227.cfm",
+      "color": "violet",
+      "local_file": "2027-03-12-031227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-13": [
+    {
+      "feast": "Saturday of the Fourth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031327.cfm",
+      "color": "violet",
+      "local_file": "2027-03-13-031327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-14": [
+    {
+      "feast": "Fifth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031427.cfm",
+      "color": "violet",
+      "local_file": "2027-03-14-031427.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Fifth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031427-YearA.cfm",
+      "color": "violet",
+      "local_file": "2027-03-14-031427-YearA.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Fifth Sunday of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031427-YearB.cfm",
+      "color": "white",
+      "local_file": "2027-03-14-031427-YearB.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-15": [
+    {
+      "feast": "Monday of the Fifth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031527.cfm",
+      "color": "violet",
+      "local_file": "2027-03-15-031527.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-16": [
+    {
+      "feast": "Tuesday of the Fifth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031627.cfm",
+      "color": "violet",
+      "local_file": "2027-03-16-031627.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-17": [
+    {
+      "feast": "Wednesday of the Fifth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031727.cfm",
+      "color": "violet",
+      "local_file": "2027-03-17-031727.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-18": [
+    {
+      "feast": "Thursday of the Fifth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/031827.cfm",
+      "color": "violet",
+      "local_file": "2027-03-18-031827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-19": [
+    {
+      "feast": "Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary",
+      "url": "https://bible.usccb.org/bible/readings/031927.cfm",
+      "color": "white",
+      "local_file": "2027-03-19-031927.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-20": [
+    {
+      "feast": "Saturday of the Fifth Week of Lent",
+      "url": "https://bible.usccb.org/bible/readings/032027.cfm",
+      "color": "violet",
+      "local_file": "2027-03-20-032027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-21": [
+    {
+      "feast": "Palm Sunday of the Lord's Passion",
+      "url": "https://bible.usccb.org/bible/readings/032127.cfm",
+      "color": "red",
+      "local_file": "2027-03-21-032127.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-22": [
+    {
+      "feast": "Monday of Holy Week",
+      "url": "https://bible.usccb.org/bible/readings/032227.cfm",
+      "color": "violet",
+      "local_file": "2027-03-22-032227.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-23": [
+    {
+      "feast": "Tuesday of Holy Week",
+      "url": "https://bible.usccb.org/bible/readings/032327.cfm",
+      "color": "violet",
+      "local_file": "2027-03-23-032327.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-24": [
+    {
+      "feast": "Wednesday of Holy Week",
+      "url": "https://bible.usccb.org/bible/readings/032427.cfm",
+      "color": "violet",
+      "local_file": "2027-03-24-032427.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-25": [
+    {
+      "feast": "Holy Thursday-Evening Mass of the Lord’s Supper",
+      "url": "https://bible.usccb.org/bible/readings/032527-EveningMass.cfm",
+      "color": "white",
+      "local_file": "2027-03-25-032527-EveningMass.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Thursday of Holy Week",
+      "url": "https://bible.usccb.org/bible/readings/032527.cfm",
+      "color": "white",
+      "local_file": "2027-03-25-032527.cfm",
+      "download_status": "success"
+    },
+    {
+      "feast": "Holy Thursday - Chrism Mass",
+      "url": "https://bible.usccb.org/bible/readings/032427-Chrism.cfm",
+      "color": "white",
+      "local_file": "2027-03-25-032427-Chrism.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-26": [
+    {
+      "feast": "Good Friday of the Lord’s Passion",
+      "url": "https://bible.usccb.org/bible/readings/032627.cfm",
+      "color": "red",
+      "local_file": "2027-03-26-032627.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-27": [
+    {
+      "feast": "Holy Saturday At the Easter Vigil in the Holy Night of Easter",
+      "url": "https://bible.usccb.org/bible/readings/032727.cfm",
+      "color": "white",
+      "local_file": "2027-03-27-032727.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-28": [
+    {
+      "feast": "The Resurrection of the Lord",
+      "url": "https://bible.usccb.org/bible/readings/032827.cfm",
+      "color": "white",
+      "local_file": "2027-03-28-032827.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-29": [
+    {
+      "feast": "Monday in the Octave of Easter",
+      "url": "https://bible.usccb.org/bible/readings/032927.cfm",
+      "color": "white",
+      "local_file": "2027-03-29-032927.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-30": [
+    {
+      "feast": "Tuesday in the Octave of Easter",
+      "url": "https://bible.usccb.org/bible/readings/033027.cfm",
+      "color": "white",
+      "local_file": "2027-03-30-033027.cfm",
+      "download_status": "success"
+    }
+  ],
+  "2027-03-31": [
+    {
+      "feast": "Wednesday in the Octave of Easter",
+      "url": "https://bible.usccb.org/bible/readings/033127.cfm",
+      "color": "white",
+      "local_file": "2027-03-31-033127.cfm",
+      "download_status": "success"
+    }
+  ]
+}
