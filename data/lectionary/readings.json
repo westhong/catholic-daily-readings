@@ -25552,14 +25552,14 @@
   "2026-09-01": [
     {
       "date": "2026-09-01",
-      "url": "https://bible.usccb.org/bible/readings/090126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/901.cfm",
       "lectionary_number": 432,
-      "feast": "Tuesday of the Twenty-second Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 2:10",
+            "citation": "1 Corinthians 2:10b-16",
             "sources": [
               "USCCB"
             ]
@@ -25567,7 +25567,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:8-9, 10-11, 12-13",
+            "citation": "Psalm 145:8-9, 10-11, 12-13ab, 13cd-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 7:16",
             "sources": [
               "USCCB"
             ]
@@ -25587,9 +25595,9 @@
   "2026-09-02": [
     {
       "date": "2026-09-02",
-      "url": "https://bible.usccb.org/bible/readings/090226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/902.cfm",
       "lectionary_number": 433,
-      "feast": "Wednesday of the Twenty-second Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25603,6 +25611,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 33:12-13, 14-15, 20-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 4:18",
             "sources": [
               "USCCB"
             ]
@@ -25622,9 +25638,9 @@
   "2026-09-03": [
     {
       "date": "2026-09-03",
-      "url": "https://bible.usccb.org/bible/readings/090326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/903.cfm",
       "lectionary_number": 434,
-      "feast": "Memorial of Saint Gregory the Great, Pope and Doctor of the Church",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25637,7 +25653,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 24:1",
+            "citation": "Psalm 24:1bc-2, 3-4ab, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 4:19",
             "sources": [
               "USCCB"
             ]
@@ -25657,9 +25681,9 @@
   "2026-09-04": [
     {
       "date": "2026-09-04",
-      "url": "https://bible.usccb.org/bible/readings/090426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/904.cfm",
       "lectionary_number": 435,
-      "feast": "Friday of the Twenty-second Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25673,6 +25697,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 37:3-4, 5-6, 27-28, 39-40",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:12",
             "sources": [
               "USCCB"
             ]
@@ -25692,14 +25724,14 @@
   "2026-09-05": [
     {
       "date": "2026-09-05",
-      "url": "https://bible.usccb.org/bible/readings/090526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/905.cfm",
       "lectionary_number": 436,
-      "feast": "Saturday of the Twenty-second Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 4:6",
+            "citation": "1 Corinthians 4:6b-15",
             "sources": [
               "USCCB"
             ]
@@ -25708,6 +25740,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 145:17-18, 19-20, 21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:6",
             "sources": [
               "USCCB"
             ]
@@ -25727,9 +25767,9 @@
   "2026-09-06": [
     {
       "date": "2026-09-06",
-      "url": "https://bible.usccb.org/bible/readings/090626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/906.cfm",
       "lectionary_number": 127,
-      "feast": "Twenty-third Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25756,6 +25796,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "2 Corinthians 5:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 18:15-20",
@@ -25770,9 +25818,9 @@
   "2026-09-07": [
     {
       "date": "2026-09-07",
-      "url": "https://bible.usccb.org/bible/readings/090726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/907.cfm",
       "lectionary_number": 437,
-      "feast": "Monday of the Twenty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25786,6 +25834,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 5:5-6, 7, 12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
             "sources": [
               "USCCB"
             ]
@@ -25805,14 +25861,20 @@
   "2026-09-08": [
     {
       "date": "2026-09-08",
-      "url": "https://bible.usccb.org/bible/readings/090826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/908.cfm",
       "lectionary_number": 636,
-      "feast": "Feast of the Nativity of the Blessed Virgin Mary",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Micah 5:1-4",
+            "citation": "Micah 5:1-4a",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Romans 8:28-30",
             "sources": [
               "USCCB"
             ]
@@ -25820,7 +25882,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 13:6",
+            "citation": "Psalm 13:6ab, 6c",
             "sources": [
               "USCCB"
             ]
@@ -25832,6 +25894,12 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Matthew 1:18-23",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
       }
@@ -25840,9 +25908,9 @@
   "2026-09-09": [
     {
       "date": "2026-09-09",
-      "url": "https://bible.usccb.org/bible/readings/090926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/909.cfm",
       "lectionary_number": 439,
-      "feast": "Memorial of Saint Peter Claver, Priest [In the Dioceses of the United States]",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25856,6 +25924,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 45:11-12, 14-15, 16-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 6:23ab",
             "sources": [
               "USCCB"
             ]
@@ -25875,14 +25951,14 @@
   "2026-09-10": [
     {
       "date": "2026-09-10",
-      "url": "https://bible.usccb.org/bible/readings/091026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/910.cfm",
       "lectionary_number": 440,
-      "feast": "Thursday of the Twenty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 8:1",
+            "citation": "1 Corinthians 8:1b-7, 11-13",
             "sources": [
               "USCCB"
             ]
@@ -25890,7 +25966,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 139:1",
+            "citation": "Psalm 139:1b-3, 13-14ab, 23-24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 John 4:12",
             "sources": [
               "USCCB"
             ]
@@ -25910,22 +25994,14 @@
   "2026-09-11": [
     {
       "date": "2026-09-11",
-      "url": "https://bible.usccb.org/bible/readings/091126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/911.cfm",
       "lectionary_number": 441,
-      "feast": "Friday of the Twenty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 9:16-19, 22",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
-        "gospel": [
-          {
-            "citation": "Luke 6:39-42",
+            "citation": "1 Corinthians 9:16-19, 22b-27",
             "sources": [
               "USCCB"
             ]
@@ -25938,6 +26014,22 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia": [
+          {
+            "citation": "See John 17:17b, 17a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 6:39-42",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       }
     }
@@ -25945,9 +26037,9 @@
   "2026-09-12": [
     {
       "date": "2026-09-12",
-      "url": "https://bible.usccb.org/bible/readings/091226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/912.cfm",
       "lectionary_number": 442,
-      "feast": "Saturday of the Twenty-Third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -25961,6 +26053,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 116:12-13, 17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:23",
             "sources": [
               "USCCB"
             ]
@@ -25980,14 +26080,14 @@
   "2026-09-13": [
     {
       "date": "2026-09-13",
-      "url": "https://bible.usccb.org/bible/readings/091326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/913.cfm",
       "lectionary_number": 130,
-      "feast": "Twenty-fourth Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Sirach 27:30—28",
+            "citation": "Sirach 27:30—28:7",
             "sources": [
               "USCCB"
             ]
@@ -26009,6 +26109,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "John 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 18:21-35",
@@ -26023,14 +26131,14 @@
   "2026-09-14": [
     {
       "date": "2026-09-14",
-      "url": "https://bible.usccb.org/bible/readings/091426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/914.cfm",
       "lectionary_number": 638,
-      "feast": "Feast of the Exaltation of the Holy Cross",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Numbers 21:4",
+            "citation": "Numbers 21:4b-9",
             "sources": [
               "USCCB"
             ]
@@ -26038,7 +26146,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 78:1",
+            "citation": "Psalm 78:1bc-2, 34-35, 36-37, 38",
             "sources": [
               "USCCB"
             ]
@@ -26059,21 +26167,22 @@
               "USCCB"
             ]
           }
-        ]
+        ],
+        "alleluia": []
       }
     }
   ],
   "2026-09-15": [
     {
       "date": "2026-09-15",
-      "url": "https://bible.usccb.org/bible/readings/091526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/915.cfm",
       "lectionary_number": 444,
-      "feast": "Memorial of Our Lady of Sorrows",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 12:12-14, 27-31",
+            "citation": "1 Corinthians 12:12-14, 27-31a",
             "sources": [
               "USCCB"
             ]
@@ -26081,7 +26190,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 100:1",
+            "citation": "Psalm 100:1b-2, 3, 4, 5",
             "sources": [
               "USCCB"
             ]
@@ -26094,21 +26203,22 @@
               "USCCB"
             ]
           }
-        ]
+        ],
+        "alleluia": []
       }
     }
   ],
   "2026-09-16": [
     {
       "date": "2026-09-16",
-      "url": "https://bible.usccb.org/bible/readings/091626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/916.cfm",
       "lectionary_number": 445,
-      "feast": "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Corinthians 12:31-13",
+            "citation": "1 Corinthians 12:31-13:13",
             "sources": [
               "USCCB"
             ]
@@ -26116,7 +26226,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:2-3, 4-5, 12",
+            "citation": "Psalm 33:2-3, 4-5, 12 and 22",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See John 6:63c, 68c",
             "sources": [
               "USCCB"
             ]
@@ -26136,14 +26254,30 @@
   "2026-09-17": [
     {
       "date": "2026-09-17",
-      "url": "https://bible.usccb.org/bible/readings/091726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/917.cfm",
       "lectionary_number": 446,
-      "feast": "Thursday of the Twenty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
             "citation": "1 Corinthians 15:1-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 118:1b-2, 16ab-17, 28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:28",
             "sources": [
               "USCCB"
             ]
@@ -26156,14 +26290,6 @@
               "USCCB"
             ]
           }
-        ],
-        "responsorial_psalm": [
-          {
-            "citation": "Psalm 118:1",
-            "sources": [
-              "USCCB"
-            ]
-          }
         ]
       }
     }
@@ -26171,9 +26297,9 @@
   "2026-09-18": [
     {
       "date": "2026-09-18",
-      "url": "https://bible.usccb.org/bible/readings/091826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/918.cfm",
       "lectionary_number": 447,
-      "feast": "Friday of the Twenty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26186,7 +26312,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 17:1",
+            "citation": "Psalm 17:1bcd, 6-7, 8b, 15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See Matthew 11:25",
             "sources": [
               "USCCB"
             ]
@@ -26206,9 +26340,9 @@
   "2026-09-19": [
     {
       "date": "2026-09-19",
-      "url": "https://bible.usccb.org/bible/readings/091926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/919.cfm",
       "lectionary_number": 448,
-      "feast": "Saturday of the Twenty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26221,7 +26355,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 56:10",
+            "citation": "Psalm 56:10c-12, 13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 8:15",
             "sources": [
               "USCCB"
             ]
@@ -26241,9 +26383,9 @@
   "2026-09-20": [
     {
       "date": "2026-09-20",
-      "url": "https://bible.usccb.org/bible/readings/092026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/920.cfm",
       "lectionary_number": 133,
-      "feast": "Twenty-fifth Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26264,7 +26406,15 @@
         ],
         "second_reading": [
           {
-            "citation": "Philippians 1:20",
+            "citation": "Philippians 1:20c-24, 27a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Cf. Acts 16:14b",
             "sources": [
               "USCCB"
             ]
@@ -26272,7 +26422,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 20:1-16",
+            "citation": "Matthew 20:1-16a",
             "sources": [
               "USCCB"
             ]
@@ -26284,9 +26434,9 @@
   "2026-09-21": [
     {
       "date": "2026-09-21",
-      "url": "https://bible.usccb.org/bible/readings/092126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/921.cfm",
       "lectionary_number": 643,
-      "feast": "Feast of Saint Matthew, Apostle and evangelist",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26312,16 +26462,17 @@
               "USCCB"
             ]
           }
-        ]
+        ],
+        "alleluia": []
       }
     }
   ],
   "2026-09-22": [
     {
       "date": "2026-09-22",
-      "url": "https://bible.usccb.org/bible/readings/092226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/922.cfm",
       "lectionary_number": 450,
-      "feast": "Tuesday of the Twenty-fifth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26335,6 +26486,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 119:1, 27, 30, 34, 35, 44",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 11:28",
             "sources": [
               "USCCB"
             ]
@@ -26354,9 +26513,9 @@
   "2026-09-23": [
     {
       "date": "2026-09-23",
-      "url": "https://bible.usccb.org/bible/readings/092326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/923.cfm",
       "lectionary_number": 451,
-      "feast": "Memorial of Saint Pius of Pietrelcina, Priest",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26370,6 +26529,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 119:29, 72, 89, 101, 104, 163",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Mark 1:15",
             "sources": [
               "USCCB"
             ]
@@ -26389,9 +26556,9 @@
   "2026-09-24": [
     {
       "date": "2026-09-24",
-      "url": "https://bible.usccb.org/bible/readings/092426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/924.cfm",
       "lectionary_number": 452,
-      "feast": "Thursday of the Twenty-fifth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26404,7 +26571,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:3-4, 5-6, 12-13, 14, 17",
+            "citation": "Psalm 90:3-4, 5-6, 12-13, 14, 17bc",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:6",
             "sources": [
               "USCCB"
             ]
@@ -26424,9 +26599,9 @@
   "2026-09-25": [
     {
       "date": "2026-09-25",
-      "url": "https://bible.usccb.org/bible/readings/092526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/925.cfm",
       "lectionary_number": 453,
-      "feast": "Friday of the Twenty-fifth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26439,7 +26614,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 144:1",
+            "citation": "Psalm 144:1b and 2abc, 3-4",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Mark 10:45",
             "sources": [
               "USCCB"
             ]
@@ -26459,14 +26642,14 @@
   "2026-09-26": [
     {
       "date": "2026-09-26",
-      "url": "https://bible.usccb.org/bible/readings/092626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/926.cfm",
       "lectionary_number": 454,
-      "feast": "Saturday of the Twenty-Fifth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Ecclesiastes 11:9—12",
+            "citation": "Ecclesiastes 11:9—12:8",
             "sources": [
               "USCCB"
             ]
@@ -26474,7 +26657,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:3-4, 5-6, 12-13, 14",
+            "citation": "Psalm 90:3-4, 5-6, 12-13, 14 and 17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "2 Timothy 1:10",
             "sources": [
               "USCCB"
             ]
@@ -26482,7 +26673,7 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 9:43",
+            "citation": "Luke 9:43b-45",
             "sources": [
               "USCCB"
             ]
@@ -26494,9 +26685,9 @@
   "2026-09-27": [
     {
       "date": "2026-09-27",
-      "url": "https://bible.usccb.org/bible/readings/092726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/927.cfm",
       "lectionary_number": 136,
-      "feast": "Twenty-sixth Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26523,6 +26714,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 21:28-32",
@@ -26537,9 +26736,9 @@
   "2026-09-28": [
     {
       "date": "2026-09-28",
-      "url": "https://bible.usccb.org/bible/readings/092826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/928.cfm",
       "lectionary_number": 455,
-      "feast": "Monday of the Twenty-sixth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26552,7 +26751,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 17:1",
+            "citation": "Psalm 17:1bcd, 2-3, 6-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Mark 10:45",
             "sources": [
               "USCCB"
             ]
@@ -26572,9 +26779,9 @@
   "2026-09-29": [
     {
       "date": "2026-09-29",
-      "url": "https://bible.usccb.org/bible/readings/092926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/929.cfm",
       "lectionary_number": 647,
-      "feast": "Feast of Saints Michael, Gabriel, and Raphael, Archangels",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26587,7 +26794,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 138:1-2",
+            "citation": "Psalm 138:1-2ab, 2cde-3, 4-5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 103:21",
             "sources": [
               "USCCB"
             ]
@@ -26607,9 +26822,9 @@
   "2026-09-30": [
     {
       "date": "2026-09-30",
-      "url": "https://bible.usccb.org/bible/readings/093026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/930.cfm",
       "lectionary_number": 457,
-      "feast": "Memorial of Saint Jerome, Priest and Doctor of the Church",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -26622,7 +26837,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 88:10",
+            "citation": "Psalm 88:10bc-11, 12-13, 14-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Philippians 3:8-9",
             "sources": [
               "USCCB"
             ]
