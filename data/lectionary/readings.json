@@ -29642,9 +29642,9 @@
   "2026-12-01": [
     {
       "date": "2026-12-01",
-      "url": "https://bible.usccb.org/bible/readings/120126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261201.cfm",
       "lectionary_number": 176,
-      "feast": "Tuesday of the First Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29677,14 +29677,14 @@
   "2026-12-02": [
     {
       "date": "2026-12-02",
-      "url": "https://bible.usccb.org/bible/readings/120226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261202.cfm",
       "lectionary_number": 177,
-      "feast": "Wednesday of the First Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 25:6-10",
+            "citation": "Isaiah 25:6-10a",
             "sources": [
               "USCCB"
             ]
@@ -29692,7 +29692,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 23:1-3",
+            "citation": "Psalm 23:1-3a, 3b-4, 5, 6",
             "sources": [
               "USCCB"
             ]
@@ -29712,9 +29712,9 @@
   "2026-12-03": [
     {
       "date": "2026-12-03",
-      "url": "https://bible.usccb.org/bible/readings/120326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261203.cfm",
       "lectionary_number": 178,
-      "feast": "Memorial of Saint Francis Xavier, Priest",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29727,7 +29727,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 118:1",
+            "citation": "Psalm 118:1 and 8-9, 19-21, 25-27a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Isaiah 55:6",
             "sources": [
               "USCCB"
             ]
@@ -29747,9 +29755,9 @@
   "2026-12-04": [
     {
       "date": "2026-12-04",
-      "url": "https://bible.usccb.org/bible/readings/120426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261204.cfm",
       "lectionary_number": 179,
-      "feast": "Friday of the First Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29782,9 +29790,9 @@
   "2026-12-05": [
     {
       "date": "2026-12-05",
-      "url": "https://bible.usccb.org/bible/readings/120526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261205.cfm",
       "lectionary_number": 180,
-      "feast": "Saturday of the First Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29803,9 +29811,17 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Isaiah 33:22",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Matthew 9:35–10:1, 5a, 6-8",
             "sources": [
               "USCCB"
             ]
@@ -29817,9 +29833,9 @@
   "2026-12-06": [
     {
       "date": "2026-12-06",
-      "url": "https://bible.usccb.org/bible/readings/120626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261206.cfm",
       "lectionary_number": 5,
-      "feast": "Second Sunday of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29846,6 +29862,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Luke 3:4, 6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Mark 1:1-8",
@@ -29860,9 +29884,9 @@
   "2026-12-07": [
     {
       "date": "2026-12-07",
-      "url": "https://bible.usccb.org/bible/readings/120726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261207.cfm",
       "lectionary_number": 181,
-      "feast": "Memorial of Saint Ambrose, Bishop and Doctor of the Church",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29875,7 +29899,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 85:9",
+            "citation": "Psalm 85:9ab and 10, 11-12, 13-14",
             "sources": [
               "USCCB"
             ]
@@ -29895,9 +29919,9 @@
   "2026-12-08": [
     {
       "date": "2026-12-08",
-      "url": "https://bible.usccb.org/bible/readings/120826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261208.cfm",
       "lectionary_number": 689,
-      "feast": "Solemnity of the Immaculate Conception of the Blessed Virgin Mary",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29910,7 +29934,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3",
+            "citation": "Psalm 98:1, 2-3ab, 3cd-4",
             "sources": [
               "USCCB"
             ]
@@ -29919,6 +29943,14 @@
         "second_reading": [
           {
             "citation": "Ephesians 1:3-6, 11-12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See Luke 1:28",
             "sources": [
               "USCCB"
             ]
@@ -29938,9 +29970,9 @@
   "2026-12-09": [
     {
       "date": "2026-12-09",
-      "url": "https://bible.usccb.org/bible/readings/120926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261209.cfm",
       "lectionary_number": 183,
-      "feast": "Wednesday of the Second Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29953,7 +29985,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:1-2, 3-4, 8",
+            "citation": "Psalm 103:1-2, 3-4, 8 and 10",
             "sources": [
               "USCCB"
             ]
@@ -29973,9 +30005,9 @@
   "2026-12-10": [
     {
       "date": "2026-12-10",
-      "url": "https://bible.usccb.org/bible/readings/121026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261210.cfm",
       "lectionary_number": 184,
-      "feast": "Thursday of the Second Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29988,7 +30020,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:1",
+            "citation": "Psalm 145:1 and 9, 10-11, 12-13ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See Isaiah 45:8",
             "sources": [
               "USCCB"
             ]
@@ -30008,9 +30048,9 @@
   "2026-12-11": [
     {
       "date": "2026-12-11",
-      "url": "https://bible.usccb.org/bible/readings/121126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261211.cfm",
       "lectionary_number": 185,
-      "feast": "Friday of the Second Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30023,7 +30063,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 1:1-2, 3, 4",
+            "citation": "Psalm 1:1-2, 3, 4 and 6",
             "sources": [
               "USCCB"
             ]
@@ -30043,9 +30083,9 @@
   "2026-12-12": [
     {
       "date": "2026-12-12",
-      "url": "https://bible.usccb.org/bible/readings/121226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261212.cfm",
       "lectionary_number": 690,
-      "feast": "Feast of Our Lady of Guadalupe [In the Dioceses of the United States]",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30058,7 +30098,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Judith 13:18",
+            "citation": "Judith 13:18bcde, 19",
             "sources": [
               "USCCB"
             ]
@@ -30078,14 +30118,14 @@
   "2026-12-13": [
     {
       "date": "2026-12-13",
-      "url": "https://bible.usccb.org/bible/readings/121326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261213.cfm",
       "lectionary_number": 8,
-      "feast": "Third Sunday of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 61:1-2",
+            "citation": "Isaiah 61:1-2a, 10-11",
             "sources": [
               "USCCB"
             ]
@@ -30107,6 +30147,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Isaiah 61:1 (cited in Luke 4:18)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "John 1:6-8, 19-28",
@@ -30121,14 +30169,14 @@
   "2026-12-14": [
     {
       "date": "2026-12-14",
-      "url": "https://bible.usccb.org/bible/readings/121426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261214.cfm",
       "lectionary_number": 187,
-      "feast": "Memorial of Saint John of the Cross, Priest and Doctor of the Church",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Numbers 24:2-7, 15-17",
+            "citation": "Numbers 24:2-7, 15-17a",
             "sources": [
               "USCCB"
             ]
@@ -30136,7 +30184,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 25:4-5",
+            "citation": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 85:8",
             "sources": [
               "USCCB"
             ]
@@ -30156,9 +30212,9 @@
   "2026-12-15": [
     {
       "date": "2026-12-15",
-      "url": "https://bible.usccb.org/bible/readings/121526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261215.cfm",
       "lectionary_number": 188,
-      "feast": "Tuesday of the Third Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30171,7 +30227,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2-3, 6-7, 17-18, 19",
+            "citation": "Psalm 34:2-3, 6-7, 17-18, 19 and 23",
             "sources": [
               "USCCB"
             ]
@@ -30191,14 +30247,14 @@
   "2026-12-16": [
     {
       "date": "2026-12-16",
-      "url": "https://bible.usccb.org/bible/readings/121626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261216.cfm",
       "lectionary_number": 189,
-      "feast": "Wednesday of the Third Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 45:6",
+            "citation": "Isaiah 45:6c-8, 18, 21c-25",
             "sources": [
               "USCCB"
             ]
@@ -30206,7 +30262,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 85:9",
+            "citation": "Psalm 85:9ab, 10, 11-12, 13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See Isaiah 40:9-10",
             "sources": [
               "USCCB"
             ]
@@ -30214,7 +30278,7 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 7:18",
+            "citation": "Luke 7:18b-23",
             "sources": [
               "USCCB"
             ]
@@ -30226,9 +30290,9 @@
   "2026-12-17": [
     {
       "date": "2026-12-17",
-      "url": "https://bible.usccb.org/bible/readings/121726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261217.cfm",
       "lectionary_number": 193,
-      "feast": "Thursday of the Third Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30241,7 +30305,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 72:1-2, 3-4",
+            "citation": "Psalm 72:1-2, 3-4ab, 7-8, 17",
             "sources": [
               "USCCB"
             ]
@@ -30261,9 +30325,9 @@
   "2026-12-18": [
     {
       "date": "2026-12-18",
-      "url": "https://bible.usccb.org/bible/readings/121826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261218.cfm",
       "lectionary_number": 194,
-      "feast": "Friday of the Third Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30296,14 +30360,14 @@
   "2026-12-19": [
     {
       "date": "2026-12-19",
-      "url": "https://bible.usccb.org/bible/readings/121926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261219.cfm",
       "lectionary_number": 195,
-      "feast": "Saturday of the Third Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Judges 13:2-7, 24-25",
+            "citation": "Judges 13:2-7, 24-25a",
             "sources": [
               "USCCB"
             ]
@@ -30311,7 +30375,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 71:3-4",
+            "citation": "Psalm 71:3-4a, 5-6ab, 16-17",
             "sources": [
               "USCCB"
             ]
@@ -30331,14 +30395,14 @@
   "2026-12-20": [
     {
       "date": "2026-12-20",
-      "url": "https://bible.usccb.org/bible/readings/122026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261220.cfm",
       "lectionary_number": 11,
-      "feast": "Fourth Sunday of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 7:1-5, 8",
+            "citation": "2 Samuel 7:1-5, 8b-12, 14a, 16",
             "sources": [
               "USCCB"
             ]
@@ -30360,6 +30424,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Luke 1:38",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Luke 1:26-38",
@@ -30374,14 +30446,20 @@
   "2026-12-21": [
     {
       "date": "2026-12-21",
-      "url": "https://bible.usccb.org/bible/readings/122126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261221.cfm",
       "lectionary_number": 197,
-      "feast": "Monday of the Fourth Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "of Songs 2:8-14",
+            "citation": "Song of Songs 2:8-14",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Zephaniah 3:14-18a",
             "sources": [
               "USCCB"
             ]
@@ -30409,9 +30487,9 @@
   "2026-12-22": [
     {
       "date": "2026-12-22",
-      "url": "https://bible.usccb.org/bible/readings/122226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261222.cfm",
       "lectionary_number": 198,
-      "feast": "Tuesday of the Fourth Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30424,7 +30502,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "1 Samuel 2:1, 4-5, 6-7, 8",
+            "citation": "1 Samuel 2:1, 4-5, 6-7, 8abcd",
             "sources": [
               "USCCB"
             ]
@@ -30444,9 +30522,9 @@
   "2026-12-23": [
     {
       "date": "2026-12-23",
-      "url": "https://bible.usccb.org/bible/readings/122326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261223.cfm",
       "lectionary_number": 199,
-      "feast": "Wednesday of the Fourth Week of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30459,7 +30537,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 25:4-5",
+            "citation": "Psalm 25:4-5ab, 8-9, 10 and 14",
             "sources": [
               "USCCB"
             ]
@@ -30479,14 +30557,14 @@
   "2026-12-24": [
     {
       "date": "2026-12-24",
-      "url": "https://bible.usccb.org/bible/readings/122426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261224.cfm",
       "lectionary_number": 200,
-      "feast": "Thursday of the Fourth Week of Advent Mass in the Morning",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 7:1-5, 8",
+            "citation": "2 Samuel 7:1-5, 8b-12, 14a, 16",
             "sources": [
               "USCCB"
             ]
@@ -30494,7 +30572,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 4-5, 27",
+            "citation": "Psalm 89:2-3, 4-5, 27 and 29",
             "sources": [
               "USCCB"
             ]
@@ -30514,9 +30592,9 @@
   "2026-12-25": [
     {
       "date": "2026-12-25",
-      "url": "https://bible.usccb.org/bible/readings/122526-Vigil.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261225.cfm",
       "lectionary_number": 13,
-      "feast": "The Nativity of the Lord (Christmas) Vigil Mass",
+      "feast": "",
       "mass": "Vigil",
       "readings": {
         "first_reading": [
@@ -30529,7 +30607,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:4-5, 16-17, 27, 29",
+            "citation": "Psalm 89:4-5, 16-17, 27, 29.",
             "sources": [
               "USCCB"
             ]
@@ -30555,9 +30633,9 @@
     },
     {
       "date": "2026-12-25",
-      "url": "https://bible.usccb.org/bible/readings/122526-Night.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261225.cfm",
       "lectionary_number": 14,
-      "feast": "The Nativity of the Lord (Christmas) Mass during the Night",
+      "feast": "",
       "mass": "Night",
       "readings": {
         "first_reading": [
@@ -30570,7 +30648,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 96: 1-2, 2-3, 11-12, 13",
+            "citation": "Psalm 96: 1-2, 2-3, 11-12, 13.",
             "sources": [
               "USCCB"
             ]
@@ -30579,6 +30657,14 @@
         "second_reading": [
           {
             "citation": "Titus 2:11-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 2:10-11",
             "sources": [
               "USCCB"
             ]
@@ -30596,9 +30682,9 @@
     },
     {
       "date": "2026-12-25",
-      "url": "https://bible.usccb.org/bible/readings/122526-Dawn.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261225.cfm",
       "lectionary_number": 15,
-      "feast": "The Nativity of the Lord (Christmas) Mass at Dawn",
+      "feast": "",
       "mass": "Dawn",
       "readings": {
         "first_reading": [
@@ -30611,7 +30697,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 97:1, 6, 11-12",
+            "citation": "Psalm 97:1, 6, 11-12.",
             "sources": [
               "USCCB"
             ]
@@ -30620,6 +30706,14 @@
         "second_reading": [
           {
             "citation": "Titus 3:4-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 2:14",
             "sources": [
               "USCCB"
             ]
@@ -30637,9 +30731,9 @@
     },
     {
       "date": "2026-12-25",
-      "url": "https://bible.usccb.org/bible/readings/122526-Day.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261225.cfm",
       "lectionary_number": 16,
-      "feast": "The Nativity of the Lord (Christmas) Mass during the Day",
+      "feast": "",
       "mass": "Day",
       "readings": {
         "first_reading": [
@@ -30652,7 +30746,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3, 3-4, 5-6",
+            "citation": "Psalm 98:1, 2-3, 3-4, 5-6.",
             "sources": [
               "USCCB"
             ]
@@ -30680,14 +30774,14 @@
   "2026-12-26": [
     {
       "date": "2026-12-26",
-      "url": "https://bible.usccb.org/bible/readings/122626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261226.cfm",
       "lectionary_number": 696,
-      "feast": "Feast of Saint Stephen, First Martyr",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 6:8-10",
+            "citation": "Acts 6:8-10; 7:54-59",
             "sources": [
               "USCCB"
             ]
@@ -30695,7 +30789,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 31:3",
+            "citation": "Psalm 31:3cd-4, 6 and 8ab, 16bc and 17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:26a, 27a",
             "sources": [
               "USCCB"
             ]
@@ -30715,9 +30817,9 @@
   "2026-12-27": [
     {
       "date": "2026-12-27",
-      "url": "https://bible.usccb.org/bible/readings/122726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261227.cfm",
       "lectionary_number": 17,
-      "feast": "The Holy Family of Jesus, Mary and Joseph",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30730,7 +30832,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 128:1-2, 3, 4-5",
+            "citation": "Psalm 128:1-2, 3, 4-5.",
             "sources": [
               "USCCB"
             ]
@@ -30739,6 +30841,14 @@
         "second_reading": [
           {
             "citation": "Colossians 3:12-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Colossians 3:15a, 16a",
             "sources": [
               "USCCB"
             ]
@@ -30758,14 +30868,14 @@
   "2026-12-28": [
     {
       "date": "2026-12-28",
-      "url": "https://bible.usccb.org/bible/readings/122826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261228.cfm",
       "lectionary_number": 698,
-      "feast": "Feast of the Holy Innocents, Martyrs",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "1 John 1:5—2",
+            "citation": "1 John 1:5—2:2",
             "sources": [
               "USCCB"
             ]
@@ -30773,7 +30883,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 124:2-3, 4-5, 7",
+            "citation": "Psalm 124:2-3, 4-5, 7cd-8",
             "sources": [
               "USCCB"
             ]
@@ -30793,9 +30903,9 @@
   "2026-12-29": [
     {
       "date": "2026-12-29",
-      "url": "https://bible.usccb.org/bible/readings/122926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261229.cfm",
       "lectionary_number": 202,
-      "feast": "The Fifth Day in the Octave of Christmas",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30808,7 +30918,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 96:1-2",
+            "citation": "Psalm 96:1-2a, 2b-3, 5b-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 2:32",
             "sources": [
               "USCCB"
             ]
@@ -30828,9 +30946,9 @@
   "2026-12-30": [
     {
       "date": "2026-12-30",
-      "url": "https://bible.usccb.org/bible/readings/123026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261230.cfm",
       "lectionary_number": 203,
-      "feast": "The Sixth Day in the Octave of Christmas",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30843,7 +30961,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 96:7-8",
+            "citation": "Psalm 96:7-8a, 8b-9, 10",
             "sources": [
               "USCCB"
             ]
@@ -30863,9 +30981,9 @@
   "2026-12-31": [
     {
       "date": "2026-12-31",
-      "url": "https://bible.usccb.org/bible/readings/123126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261231.cfm",
       "lectionary_number": 204,
-      "feast": "The Seventh Day in the Octave of Christmas",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -30879,6 +30997,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 96:1-2, 11-12, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 1:14a, 12a",
             "sources": [
               "USCCB"
             ]
