@@ -22832,7 +22832,7 @@
   "2026-07-01": [
     {
       "date": "2026-07-01",
-      "url": "https://bible.usccb.org/bible/readings/070126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/71.cfm",
       "lectionary_number": 379,
       "feast": "Wednesday of the Thirteenth Week in Ordinary Time",
       "mass": "default",
@@ -22847,7 +22847,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:7, 8-9, 10-11, 12-13, 16",
+            "citation": "Psalm 50:7, 8-9, 10-11, 12-13, 16bc-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "James 1:18",
             "sources": [
               "USCCB"
             ]
@@ -22867,7 +22875,7 @@
   "2026-07-02": [
     {
       "date": "2026-07-02",
-      "url": "https://bible.usccb.org/bible/readings/070226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/72.cfm",
       "lectionary_number": 380,
       "feast": "Thursday of the Thirteenth Week in Ordinary Time",
       "mass": "default",
@@ -22888,6 +22896,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "2 Corinthians 5:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 9:1-8",
@@ -22902,7 +22918,7 @@
   "2026-07-03": [
     {
       "date": "2026-07-03",
-      "url": "https://bible.usccb.org/bible/readings/070326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/73.cfm",
       "lectionary_number": 593,
       "feast": "Feast of Saint Thomas, Apostle",
       "mass": "default",
@@ -22917,7 +22933,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 117:1",
+            "citation": "Psalm 117:1bc, 2",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 20:29",
             "sources": [
               "USCCB"
             ]
@@ -22937,7 +22961,7 @@
   "2026-07-04": [
     {
       "date": "2026-07-04",
-      "url": "https://bible.usccb.org/bible/readings/070426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/74.cfm",
       "lectionary_number": 382,
       "feast": "Saturday of the Thirteenth Week in Ordinary Time",
       "mass": "default",
@@ -22952,7 +22976,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 85:9",
+            "citation": "Psalm 85:9 and 10, 11-12, 13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
             "sources": [
               "USCCB"
             ]
@@ -22972,7 +23004,7 @@
   "2026-07-05": [
     {
       "date": "2026-07-05",
-      "url": "https://bible.usccb.org/bible/readings/070526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/75.cfm",
       "lectionary_number": 100,
       "feast": "Fourteenth Sunday in Ordinary Time",
       "mass": "default",
@@ -23001,6 +23033,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Cf. Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 11:25-30",
@@ -23015,14 +23055,14 @@
   "2026-07-06": [
     {
       "date": "2026-07-06",
-      "url": "https://bible.usccb.org/bible/readings/070626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/76.cfm",
       "lectionary_number": 383,
       "feast": "Monday of the Fourteenth Week in Ordinary Time",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Hosea 2:16, 17",
+            "citation": "Hosea 2:16, 17c-18, 21-22",
             "sources": [
               "USCCB"
             ]
@@ -23031,6 +23071,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 145:2-3, 4-5, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See 2 Timothy 1:10",
             "sources": [
               "USCCB"
             ]
@@ -23050,7 +23098,7 @@
   "2026-07-07": [
     {
       "date": "2026-07-07",
-      "url": "https://bible.usccb.org/bible/readings/070726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/77.cfm",
       "lectionary_number": 384,
       "feast": "Tuesday of the Fourteenth Week in Ordinary Time",
       "mass": "default",
@@ -23065,7 +23113,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 115:3-4, 5-6, 7",
+            "citation": "Psalm 115:3-4, 5-6, 7ab-8, 9-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:14",
             "sources": [
               "USCCB"
             ]
@@ -23073,7 +23129,7 @@
         ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Matthew 9:32-38",
             "sources": [
               "USCCB"
             ]
@@ -23085,7 +23141,7 @@
   "2026-07-08": [
     {
       "date": "2026-07-08",
-      "url": "https://bible.usccb.org/bible/readings/070826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/78.cfm",
       "lectionary_number": 385,
       "feast": "Wednesday of the Fourteenth Week in Ordinary Time",
       "mass": "default",
@@ -23106,6 +23162,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 10:1-7",
@@ -23120,14 +23184,14 @@
   "2026-07-09": [
     {
       "date": "2026-07-09",
-      "url": "https://bible.usccb.org/bible/readings/070926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/79.cfm",
       "lectionary_number": 386,
       "feast": "Thursday of the Fourteenth Week in Ordinary Time",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Hosea 11:1-4, 8",
+            "citation": "Hosea 11:1-4, 8e-9",
             "sources": [
               "USCCB"
             ]
@@ -23135,7 +23199,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 80:2",
+            "citation": "Psalm 80:2ac, 3b, 15-16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Mark 1:15",
             "sources": [
               "USCCB"
             ]
@@ -23155,7 +23227,7 @@
   "2026-07-10": [
     {
       "date": "2026-07-10",
-      "url": "https://bible.usccb.org/bible/readings/071026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/710.cfm",
       "lectionary_number": 387,
       "feast": "Friday of the Fourteenth Week in Ordinary Time",
       "mass": "default",
@@ -23176,6 +23248,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "John 16:13a; 14:26d",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 10:16-23",
@@ -23190,7 +23270,7 @@
   "2026-07-11": [
     {
       "date": "2026-07-11",
-      "url": "https://bible.usccb.org/bible/readings/071126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/711.cfm",
       "lectionary_number": 388,
       "feast": "Memorial of Saint Benedict, Abbot",
       "mass": "default",
@@ -23205,7 +23285,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 93:1",
+            "citation": "Psalm 93:1ab, 1cd-2, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Peter 4:14",
             "sources": [
               "USCCB"
             ]
@@ -23225,7 +23313,7 @@
   "2026-07-12": [
     {
       "date": "2026-07-12",
-      "url": "https://bible.usccb.org/bible/readings/071226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/712.cfm",
       "lectionary_number": 103,
       "feast": "Fifteenth Sunday in Ordinary Time",
       "mass": "default",
@@ -23260,6 +23348,12 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Matthew 13:1-9",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
       }
@@ -23268,7 +23362,7 @@
   "2026-07-13": [
     {
       "date": "2026-07-13",
-      "url": "https://bible.usccb.org/bible/readings/071326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/713.cfm",
       "lectionary_number": 389,
       "feast": "Monday of the Fifteenth Week in Ordinary Time",
       "mass": "default",
@@ -23283,7 +23377,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:8-9, 16",
+            "citation": "Psalm 50:8-9, 16bc-17, 21, 23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 5:10",
             "sources": [
               "USCCB"
             ]
@@ -23291,7 +23393,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 10:34-11",
+            "citation": "Matthew 10:34-11:1",
             "sources": [
               "USCCB"
             ]
@@ -23303,9 +23405,9 @@
   "2026-07-14": [
     {
       "date": "2026-07-14",
-      "url": "https://bible.usccb.org/bible/readings/071426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/714.cfm",
       "lectionary_number": 390,
-      "feast": "Memorial of Saint Kateri Tekakwitha, Virgin [In the Dioceses of the United States]",
+      "feast": "Memorial of Saint Kateri Tekakwitha, Virgin  [In the Dioceses of the United States]",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23318,7 +23420,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 48:2-3",
+            "citation": "Psalm 48:2-3a, 3b-4, 5-6, 7-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 95:8",
             "sources": [
               "USCCB"
             ]
@@ -23338,14 +23448,14 @@
   "2026-07-15": [
     {
       "date": "2026-07-15",
-      "url": "https://bible.usccb.org/bible/readings/071526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/715.cfm",
       "lectionary_number": 391,
       "feast": "Memorial of Saint Bonaventure, Bishop and Doctor of the Church",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 10:5-7, 13",
+            "citation": "Isaiah 10:5-7, 13b-16",
             "sources": [
               "USCCB"
             ]
@@ -23354,6 +23464,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 94:5-6, 7-8, 9-10, 14-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:25",
             "sources": [
               "USCCB"
             ]
@@ -23373,7 +23491,7 @@
   "2026-07-16": [
     {
       "date": "2026-07-16",
-      "url": "https://bible.usccb.org/bible/readings/071626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/716.cfm",
       "lectionary_number": 392,
       "feast": "Thursday of the Fifteenth Week in Ordinary Time",
       "mass": "default",
@@ -23388,7 +23506,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 102:13-14",
+            "citation": "Psalm 102:13-14ab and 15, 16-18, 19-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:28",
             "sources": [
               "USCCB"
             ]
@@ -23408,7 +23534,7 @@
   "2026-07-17": [
     {
       "date": "2026-07-17",
-      "url": "https://bible.usccb.org/bible/readings/071726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/717.cfm",
       "lectionary_number": 393,
       "feast": "Friday of the Fifteenth Week in Ordinary Time",
       "mass": "default",
@@ -23423,7 +23549,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Isaiah 38:10, 11, 12",
+            "citation": "Isaiah 38:10, 11, 12abcd, 16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
             "sources": [
               "USCCB"
             ]
@@ -23443,7 +23577,7 @@
   "2026-07-18": [
     {
       "date": "2026-07-18",
-      "url": "https://bible.usccb.org/bible/readings/071826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/718.cfm",
       "lectionary_number": 394,
       "feast": "Saturday of the Fifteenth Week in Ordinary Time",
       "mass": "default",
@@ -23464,6 +23598,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "2 Corinthians 5:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 12:14-21",
@@ -23478,7 +23620,7 @@
   "2026-07-19": [
     {
       "date": "2026-07-19",
-      "url": "https://bible.usccb.org/bible/readings/071926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/719.cfm",
       "lectionary_number": 106,
       "feast": "Sixteenth Sunday in Ordinary Time",
       "mass": "default",
@@ -23507,9 +23649,23 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Cf. Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 13:24-43",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Matthew 13:24-30",
             "sources": [
               "USCCB"
             ]
@@ -23521,7 +23677,7 @@
   "2026-07-20": [
     {
       "date": "2026-07-20",
-      "url": "https://bible.usccb.org/bible/readings/072026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/720.cfm",
       "lectionary_number": 395,
       "feast": "Monday of the Sixteenth Week in Ordinary Time",
       "mass": "default",
@@ -23536,7 +23692,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:5-6, 8-9, 16",
+            "citation": "Psalm 50:5-6, 8-9, 16bc-17, 21, 23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 95:8",
             "sources": [
               "USCCB"
             ]
@@ -23556,9 +23720,9 @@
   "2026-07-21": [
     {
       "date": "2026-07-21",
-      "url": "https://bible.usccb.org/bible/readings/072126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/721.cfm",
       "lectionary_number": 396,
-      "feast": "Tuesday of the Sixteenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23572,6 +23736,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 85:2-4, 5-6, 7-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:23",
             "sources": [
               "USCCB"
             ]
@@ -23598,7 +23770,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "of Songs 3:1-4",
+            "citation": "Song of Songs 3:1-4b",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "2 Corinthians 5:14-17",
             "sources": [
               "USCCB"
             ]
@@ -23612,6 +23790,7 @@
             ]
           }
         ],
+        "alleluia": [],
         "gospel": [
           {
             "citation": "John 20:1-2, 11-18",
@@ -23626,9 +23805,9 @@
   "2026-07-23": [
     {
       "date": "2026-07-23",
-      "url": "https://bible.usccb.org/bible/readings/072326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/723.cfm",
       "lectionary_number": 398,
-      "feast": "Thursday of the Sixteenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23641,7 +23820,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 36:6-7",
+            "citation": "Psalm 36:6-7ab, 8-9, 10-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:25",
             "sources": [
               "USCCB"
             ]
@@ -23661,9 +23848,9 @@
   "2026-07-24": [
     {
       "date": "2026-07-24",
-      "url": "https://bible.usccb.org/bible/readings/072426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/724.cfm",
       "lectionary_number": 399,
-      "feast": "Friday of the Sixteenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23676,7 +23863,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Jeremiah 31:10, 11-12",
+            "citation": "Jeremiah 31:10, 11-12abcd, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 8:15",
             "sources": [
               "USCCB"
             ]
@@ -23696,9 +23891,9 @@
   "2026-07-25": [
     {
       "date": "2026-07-25",
-      "url": "https://bible.usccb.org/bible/readings/072526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/725.cfm",
       "lectionary_number": 605,
-      "feast": "Feast of Saint James, Apostle",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23711,7 +23906,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 126:1",
+            "citation": "Psalm 126:1bc-2ab, 2cd-3, 4-5, 6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See John 15:16",
             "sources": [
               "USCCB"
             ]
@@ -23731,9 +23934,9 @@
   "2026-07-26": [
     {
       "date": "2026-07-26",
-      "url": "https://bible.usccb.org/bible/readings/072626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/726.cfm",
       "lectionary_number": 109,
-      "feast": "Seventeenth Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23760,13 +23963,29 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Cf. Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 13:44-52",
             "sources": [
               "USCCB"
             ]
-          }
+          },
+          [
+            {
+              "citation": "Matthew 13:44-46",
+              "sources": [
+                "USCCB"
+              ]
+            }
+          ]
         ]
       }
     }
@@ -23774,9 +23993,9 @@
   "2026-07-27": [
     {
       "date": "2026-07-27",
-      "url": "https://bible.usccb.org/bible/readings/072726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/727.cfm",
       "lectionary_number": 401,
-      "feast": "Monday of the Seventeenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23790,6 +24009,14 @@
         "responsorial_psalm": [
           {
             "citation": "Deuteronomy 32:18-19, 20, 21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "James 1:18",
             "sources": [
               "USCCB"
             ]
@@ -23809,9 +24036,9 @@
   "2026-07-28": [
     {
       "date": "2026-07-28",
-      "url": "https://bible.usccb.org/bible/readings/072826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/728.cfm",
       "lectionary_number": 402,
-      "feast": "Tuesday of the Seventeenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23824,12 +24051,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 79:8, 9, 11",
+            "citation": "Psalm 79:8, 9, 11 and 13",
             "sources": [
               "USCCB"
             ]
           }
         ],
+        "alleluia": [],
         "gospel": [
           {
             "citation": "Matthew 13:36-43",
@@ -23844,9 +24072,9 @@
   "2026-07-29": [
     {
       "date": "2026-07-29",
-      "url": "https://bible.usccb.org/bible/readings/072926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/729.cfm",
       "lectionary_number": 403,
-      "feast": "Memorial of Saints Martha, Mary, and Lazarus",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23860,6 +24088,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 59:2-3, 4, 10-11, 17, 18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:12",
             "sources": [
               "USCCB"
             ]
@@ -23879,9 +24115,9 @@
   "2026-07-30": [
     {
       "date": "2026-07-30",
-      "url": "https://bible.usccb.org/bible/readings/073026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/730.cfm",
       "lectionary_number": 404,
-      "feast": "Thursday of the Seventeenth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23894,7 +24130,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 146:1",
+            "citation": "Psalm 146:1B-2, 3-4, 5-6ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Acts 16:14",
             "sources": [
               "USCCB"
             ]
@@ -23914,9 +24158,9 @@
   "2026-07-31": [
     {
       "date": "2026-07-31",
-      "url": "https://bible.usccb.org/bible/readings/073126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/731.cfm",
       "lectionary_number": 405,
-      "feast": "Memorial of Saint Ignatius of Loyola, Priest",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -23930,6 +24174,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 69:5, 8-10, 14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Peter 1:25",
             "sources": [
               "USCCB"
             ]
