@@ -12158,18 +12158,46 @@
       "feast": "Tuesday in the Octave of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 2:36-41"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 33:4-5, 18-19, 20"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 20:11-18"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 2:36-41",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 33:4-5, 18-19, 20 and 22",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 20:11-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12181,18 +12209,46 @@
       "feast": "Wednesday in the Octave of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 3:1-10"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 105:1-2, 3-4, 6-7, 8-9"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "Luke 24:13-35"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 3:1-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 24:13-35",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12204,18 +12260,46 @@
       "feast": "Thursday in the Octave of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 3:11-26"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 8:2"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "Luke 24:35-48"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 3:11-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 8:2ab and 5, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 24:35-48",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12227,18 +12311,46 @@
       "feast": "Friday in the Octave of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 4:1-12"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 118:1-2"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 21:1-14"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 4:1-12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 118:1-2 and 4, 22-24, 25-27a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 21:1-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12250,18 +12362,46 @@
       "feast": "Saturday in the Octave of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 4:13-21"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 118:1"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "to every creature.” LISTEN PODCAST VIEW"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 4:13-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 118:1 and 14-15ab, 16-18, 19-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 16:9-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12270,24 +12410,49 @@
       "date": "2026-04-12",
       "url": "https://bible.usccb.org/bible/readings/041226.cfm",
       "lectionary_number": 43,
-      "feast": "Second Sunday of Easter (or Sunday of Divine Mercy)",
+      "feast": "Second Sunday of Easter (Divine Mercy)",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 2:42-47"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 118:2-4, 13-15, 22-24"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "second_reading": {
-          "reference": "1 Peter 1:3-9"
-        },
-        "gospel": {
-          "reference": "John 20:19-31"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 2:42-47",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 118:2-4, 13-15, 22-24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 1:3-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 20:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 20:19-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12299,18 +12464,38 @@
       "feast": "Monday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 4:23-31"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 2:1-3, 4-7"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 3:1-8"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 4:23-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 2:1-3, 4-7a, 7b-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Colossians 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 3:1-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12322,18 +12507,38 @@
       "feast": "Tuesday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 4:32-37"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 93:1"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 3:7"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 4:32-37",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 93:1ab, 1cd-2, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 3:14-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 3:7b-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12345,18 +12550,38 @@
       "feast": "Wednesday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 5:17-26"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 34:2-3, 4-5, 6-7, 8-9"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 3:16-21"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 5:17-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 34:2-3, 4-5, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 3:16-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12368,18 +12593,38 @@
       "feast": "Thursday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 5:27-33"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 34:2"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 3:31-36"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 5:27-33",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 34:2 and 9, 17-18, 19-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 20:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 3:31-36",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12391,18 +12636,38 @@
       "feast": "Friday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 5:34-42"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 27:1, 4, 13-14"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 6:1-15"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 5:34-42",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 27:1, 4, 13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 4:4b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:1-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12414,18 +12679,31 @@
       "feast": "Saturday of the Second Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 6:1-7"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 33:1-2, 4-5, 18-19"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 6:16-21"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 6:1-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 33:1-2, 4-5, 18-19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [],
+        "gospel": [
+          {
+            "citation": "John 6:16-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12433,25 +12711,50 @@
     {
       "date": "2026-04-19",
       "url": "https://bible.usccb.org/bible/readings/041926.cfm",
-      "lectionary_number": 46,
+      "lectionary_number": 44,
       "feast": "Third Sunday of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 2:14, 22-33"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 16:1-2, 5, 7-8, 9-10, 11"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "second_reading": {
-          "reference": "1 Peter 1:17-21"
-        },
-        "gospel": {
-          "reference": "Luke 24:13-35"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 2:14, 22-33",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 16:1-2, 5, 7-8, 9-10, 11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 1:17-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Luke 24:32",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 24:13-35",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12459,22 +12762,42 @@
     {
       "date": "2026-04-20",
       "url": "https://bible.usccb.org/bible/readings/042026.cfm",
-      "lectionary_number": 273,
+      "lectionary_number": 274,
       "feast": "Monday of the Third Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 6:8-15"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 119:23-24, 26-27, 29-30"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 6:22-29"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 6:8-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 119:23-24, 26-27, 29-30",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 4:4b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:22-29",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12482,22 +12805,42 @@
     {
       "date": "2026-04-21",
       "url": "https://bible.usccb.org/bible/readings/042126.cfm",
-      "lectionary_number": 274,
+      "lectionary_number": 275,
       "feast": "Tuesday of the Third Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 7:51—8"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 31:3"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 6:30-35"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 7:51-8:1a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 6:35ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:30-35",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12505,22 +12848,42 @@
     {
       "date": "2026-04-22",
       "url": "https://bible.usccb.org/bible/readings/042226.cfm",
-      "lectionary_number": 275,
+      "lectionary_number": 276,
       "feast": "Wednesday of the Third Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 8:1"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 66:1-3"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 6:35-40"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 8:1b-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 66:1-3a, 4-5, 6-7a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. John 6:40",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:35-40",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12528,22 +12891,42 @@
     {
       "date": "2026-04-23",
       "url": "https://bible.usccb.org/bible/readings/042326.cfm",
-      "lectionary_number": 276,
+      "lectionary_number": 277,
       "feast": "Thursday of the Third Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 8:26-40"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 66:8-9, 16-17, 20"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 6:44-51"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 8:26-40",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 66:8-9, 16-17, 20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:44-51",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12551,22 +12934,42 @@
     {
       "date": "2026-04-24",
       "url": "https://bible.usccb.org/bible/readings/042426.cfm",
-      "lectionary_number": 277,
+      "lectionary_number": 278,
       "feast": "Friday of the Third Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 9:1-20"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 117:1"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 6:52-59"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 9:1-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 117:1bc, 2",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 6:56",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 6:52-59",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12574,22 +12977,42 @@
     {
       "date": "2026-04-25",
       "url": "https://bible.usccb.org/bible/readings/042526.cfm",
-      "lectionary_number": 555,
-      "feast": "Feast of Saint Mark, evangelist",
+      "lectionary_number": 573,
+      "feast": "Feast of Saint Mark, Evangelist",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "1 Peter 5:5"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 89:2-3, 6-7, 16-17"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "to every creature. Whoever believes and"
-        }
+        "first_reading": [
+          {
+            "citation": "1 Peter 5:5b-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 89:2-3, 6-7, 16-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Corinthians 1:23a-24b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 16:15-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12597,25 +13020,50 @@
     {
       "date": "2026-04-26",
       "url": "https://bible.usccb.org/bible/readings/042626.cfm",
-      "lectionary_number": 49,
+      "lectionary_number": 47,
       "feast": "Fourth Sunday of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 2:14"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 23: 1-3"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "second_reading": {
-          "reference": "1 Peter 2:20"
-        },
-        "gospel": {
-          "reference": "John 10:1-10"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 2:14a, 36-41",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 23:1-3a, 3b4, 5, 6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 2:20b-25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 10:1-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12623,22 +13071,42 @@
     {
       "date": "2026-04-27",
       "url": "https://bible.usccb.org/bible/readings/042726.cfm",
-      "lectionary_number": 279,
+      "lectionary_number": 280,
       "feast": "Monday of the Fourth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 11:1-18"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 42:2-3"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 10:11-18"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 11:1-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 42:2-3; 43:3, 4",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 10:11-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12646,22 +13114,42 @@
     {
       "date": "2026-04-28",
       "url": "https://bible.usccb.org/bible/readings/042826.cfm",
-      "lectionary_number": 280,
+      "lectionary_number": 281,
       "feast": "Tuesday of the Fourth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 11:19-26"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 87:1"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 10:22-30"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 11:19-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 87:1b-3, 4-5, 6-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 10:22-30",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12669,22 +13157,42 @@
     {
       "date": "2026-04-29",
       "url": "https://bible.usccb.org/bible/readings/042926.cfm",
-      "lectionary_number": 281,
+      "lectionary_number": 658,
       "feast": "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 12:24—13"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 67:2-3, 5, 6"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 12:44-50"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 12:24-13:5a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 67:2-3, 5, 6 and 8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 12:44-50",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12692,22 +13200,42 @@
     {
       "date": "2026-04-30",
       "url": "https://bible.usccb.org/bible/readings/043026.cfm",
-      "lectionary_number": 282,
+      "lectionary_number": 283,
       "feast": "Thursday of the Fourth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 13:13-25"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 89:2-3, 21-22, 25"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 13:16-20"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 13:13-25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 89:2-3, 21-22, 25 and 27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Revelation 1:5ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 13:16-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12719,18 +13247,38 @@
       "feast": "Friday of the Fourth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 13:26-33"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 2:6-7, 8-9, 10-11"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 14:1-6"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 13:26-33",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 2:6-7, 8-9, 10-11ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:1-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12742,18 +13290,38 @@
       "feast": "Memorial of Saint Athanasius, Bishop and Doctor of the Church",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 13:44-52"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 98:1, 2-3"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 14:7-14"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 13:44-52",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 98:1, 2-3ab, 3cd-4",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:31b-32",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:7-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12765,21 +13333,46 @@
       "feast": "Fifth Sunday of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 6:1-7"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 33:1-2, 4-5, 18-19"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "second_reading": {
-          "reference": "1 Peter 2:4-9"
-        },
-        "gospel": {
-          "reference": "John 14:1-12"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 6:1-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 33:1-2, 4-5, 18-19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:1-12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 2:4-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12791,18 +13384,38 @@
       "feast": "Monday of the Fifth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 14:5-18"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 115:1-2, 3-4, 15-16"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 14:21-26"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 14:5-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 115:1-2, 3-4, 15-16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:21-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12811,21 +13424,41 @@
       "date": "2026-05-05",
       "url": "https://bible.usccb.org/bible/readings/050526.cfm",
       "lectionary_number": 286,
-      "feast": "Tuesday of Fifth Week of Easter",
+      "feast": "Tuesday of the Fifth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 14:19-28"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 145:10-11, 12-13"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 14:27-31"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 14:19-28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 145:10-11, 12-13ab, 21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Luke 24:46, 26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:27-31a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12837,18 +13470,38 @@
       "feast": "Wednesday of the Fifth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 15:1-6"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 122:1-2, 3-4"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 15:1-8"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 15:1-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 122:1-2, 3-4ab, 4cd-5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 15:4a, 5b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:1-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12860,18 +13513,38 @@
       "feast": "Thursday of the Fifth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 15:7-21"
-        },
-        "gospel": {
-          "reference": "John 15:9-11"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 96:1-2"
-        },
-        "alleluia": {
-          "reference": ","
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 15:7-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 96:1-2a, 2b-3, 10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:9-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12883,18 +13556,38 @@
       "feast": "Friday of the Fifth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 15:22-31"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 57:8-9, 10"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 15:12-17"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 15:22-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 57:8-9, 10 and 12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 15:15b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:12-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12906,21 +13599,46 @@
       "feast": "Sixth Sunday of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 8:5-8, 14-17"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 66:1-3, 4-5, 6-7, 16, 20"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "second_reading": {
-          "reference": "1 Peter 3:15-18"
-        },
-        "gospel": {
-          "reference": "John 14:15-21"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 8:5-8, 14-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 66:1-3, 4-5, 6-7, 16, 20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 14:15-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 3:15-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12932,18 +13650,38 @@
       "feast": "Monday of the Sixth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 16:11-15"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 149:1"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 15:26—16"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 16:11-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 15:26b, 27a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:26-16:4a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12955,18 +13693,38 @@
       "feast": "Tuesday of the Sixth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 16:22-34"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 138:1-2"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 16:5-11"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 16:22-34",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 138:1-2ab, 2cde-3, 7c-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. John 16:7, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 16:5-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12978,18 +13736,38 @@
       "feast": "Wednesday of the Sixth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 17:15, 22—18"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 148:1-2, 11-12, 13, 14"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 16:12-15"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 17:15, 22-18:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 148:1-2, 11-12, 13, 14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 16:12-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -12998,9 +13776,91 @@
       "date": "2026-05-14",
       "url": "https://bible.usccb.org/bible/readings/051426.cfm",
       "lectionary_number": 58,
-      "feast": "The Ascension of the Lord - Feast of Saint Matthias",
+      "feast": "The Ascension of the Lord",
       "mass": "default",
-      "readings": {}
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 1:1-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 47:2-3, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "Ephesians 1:17-23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 28:19a, 20b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Matthew 28:16-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "url": "https://bible.usccb.org/bible/readings/051426-Thursday.cfm",
+      "lectionary_number": 564,
+      "feast": "Feast of Saint Matthias, Apostle",
+      "mass": "alternate",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 1:15-17, 20-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 113:1-2, 3-4, 5-6, 7-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:9-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
     }
   ],
   "2026-05-15": [
@@ -13011,18 +13871,38 @@
       "feast": "Friday of the Sixth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 18:9-18"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 47:2-3, 4-5, 6-7"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 16:20-23"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 18:9-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 47:2-3, 4-5, 6-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Luke 24:46, 26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 16:20-23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13034,29 +13914,139 @@
       "feast": "Saturday of the Sixth Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 18:23-28"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 47:2-3, 8-9, 10"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 16:23"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 18:23-28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 47:2-3, 8-9, 10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 16:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 16:23b-28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
   "2026-05-17": [
     {
       "date": "2026-05-17",
-      "url": "https://bible.usccb.org/bible/readings/051726.cfm",
-      "lectionary_number": 58,
-      "feast": "Seventh Sunday of Easter - Ascension",
+      "url": "https://bible.usccb.org/bible/readings/051726-Sunday.cfm",
+      "lectionary_number": 59,
+      "feast": "Seventh Sunday of Easter",
       "mass": "default",
-      "readings": {}
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 1:12-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 27:1, 4, 7-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Peter 4:13-16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 17:1-11a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "url": "https://bible.usccb.org/bible/readings/051726-Ascension.cfm",
+      "lectionary_number": 58,
+      "feast": "The Ascension of the Lord (US celebration)",
+      "mass": "alternate",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 1:1-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 47:2-3, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "Ephesians 1:17-23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 28:19a, 20b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Matthew 28:16-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
     }
   ],
   "2026-05-18": [
@@ -13067,18 +14057,38 @@
       "feast": "Monday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 19:1-8"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 68:2-3"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 16:29-33"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 19:1-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 68:2-3ab, 4-5acd, 6-7ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Colossians 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 16:29-33",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13090,18 +14100,38 @@
       "feast": "Tuesday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 20:17-27"
-        },
-        "gospel": {
-          "reference": "John 17:1-11"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 68:10-11, 20-21"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 20:17-27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 68:10-11, 20-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 17:1-11a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13113,18 +14143,38 @@
       "feast": "Wednesday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 20:28-38"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 68:29-30, 33-35"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 17:11"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 20:28-38",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 68:29-30, 33-35a, 35bc-36ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 17:17b, 17a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 17:11b-19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13136,18 +14186,38 @@
       "feast": "Thursday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 22:30"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 16:1-2"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 17:20-26"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 22:30; 23:6-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 17:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 17:20-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13159,18 +14229,38 @@
       "feast": "Friday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 25:13"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 103:1-2, 11-12, 19-20"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 21:15-19"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 25:13b-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 103:1-2, 11-12, 19-20ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 21:15-19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13179,32 +14269,217 @@
       "date": "2026-05-23",
       "url": "https://bible.usccb.org/bible/readings/052326.cfm",
       "lectionary_number": 302,
-      "feast": "Saturday of the Seventh Week of Easter - Mass in the Morning",
+      "feast": "Saturday of the Seventh Week of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 28:16-20, 30-31"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 11:4, 5"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 21:20-25"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 28:16-20, 30-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 11:4, 5 and 7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 16:7, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 21:20-25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
   "2026-05-24": [
     {
       "date": "2026-05-24",
-      "url": "https://bible.usccb.org/bible/readings/052426.cfm",
-      "lectionary_number": 62,
-      "feast": "Pentecost Sunday",
+      "url": "https://bible.usccb.org/bible/readings/052426-Day.cfm",
+      "lectionary_number": 63,
+      "feast": "Pentecost Sunday (Mass during the Day)",
       "mass": "default",
-      "readings": {}
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 2:1-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 104:1, 24, 29-30, 31, 34",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Corinthians 12:3b-7, 12-13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "verse_before_gospel": [],
+        "gospel": [
+          {
+            "citation": "John 20:19-23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "url": "https://bible.usccb.org/bible/readings/052426-Vigil.cfm",
+      "lectionary_number": 62,
+      "feast": "Pentecost Sunday (Vigil Mass)",
+      "mass": "vigil",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Genesis 11:1-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 104:1-2, 24, 35, 27-28, 29, 30",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "Romans 8:22-27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "verse_before_gospel": [],
+        "gospel": [
+          {
+            "citation": "John 7:37-39",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "url": "https://bible.usccb.org/bible/readings/052426-Extended.cfm",
+      "lectionary_number": 62,
+      "feast": "Pentecost Sunday (Extended Form)",
+      "mass": "extended",
+      "readings": {
+        "reading_1": [
+          {
+            "citation": "Genesis 11:1-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm_1": [
+          {
+            "citation": "Psalm 33:10-11, 12-13, 14-15",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "reading_2": [
+          {
+            "citation": "Exodus 19:3-8a, 16-20b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm_2": [
+          {
+            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "reading_3": [
+          {
+            "citation": "Ezekiel 37:1-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm_3": [
+          {
+            "citation": "Psalm 107:2-3, 4-5, 6-7, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "reading_4": [
+          {
+            "citation": "Joel 3:1-5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm_4": [
+          {
+            "citation": "Psalm 104:1-2, 24, 35, 27-28, 29-30",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "epistle": [
+          {
+            "citation": "Romans 8:22-27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 7:37-39",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
     }
   ],
   "2026-05-25": [
@@ -13215,18 +14490,38 @@
       "feast": "Memorial of the Blessed Virgin Mary, Mother of the Church",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Genesis 3:9-15, 20"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 87:1-2, 3"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "John 19:25-34"
-        }
+        "first_reading": [
+          {
+            "citation": "Genesis 3:9-15, 20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 87:1-2, 3 and 5, 6-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Romans 5:5 or John 19:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 19:25-34",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13238,18 +14533,38 @@
       "feast": "Memorial of Saint Philip Neri, Priest",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "1 Peter 1:10-16"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 98:1, 2-3"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "who will not receive a hundred times mor"
-        }
+        "first_reading": [
+          {
+            "citation": "1 Peter 1:10-16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 98:1, 2-3ab, 3cd-4",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 10:28-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13261,18 +14576,38 @@
       "feast": "Wednesday of the Eighth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "1 Peter 1:18-25"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 147:12-13, 14-15, 19-20"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "Mark 10:32-45"
-        }
+        "first_reading": [
+          {
+            "citation": "1 Peter 1:18-25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 147:12-13, 14-15, 19-20",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Mark 10:45",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 10:32-45",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13284,18 +14619,38 @@
       "feast": "Thursday of the Eighth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "1 Peter 2:2-5, 9-12"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 100:2, 3, 4, 5"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "Mark 10:46-52"
-        }
+        "first_reading": [
+          {
+            "citation": "1 Peter 2:2-5, 9-12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 100:2, 3, 4, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 10:46-52",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13307,18 +14662,38 @@
       "feast": "Friday of the Eighth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "1 Peter 4:7-13"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 96:10, 11-12, 13"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "Mark 11:11-26"
-        }
+        "first_reading": [
+          {
+            "citation": "1 Peter 4:7-13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 96:10, 11-12, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 11:11-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13330,18 +14705,38 @@
       "feast": "Saturday of the Eighth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Jude 17, 20b-25 Beloved, remember the wo"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 63:2, 3-4, 5-6"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "Mark 11:27-33"
-        }
+        "first_reading": [
+          {
+            "citation": "Jude 17, 20b-25",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 63:2, 3-4, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Colossians 3:16a, 17c",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mark 11:27-33",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -13353,21 +14748,46 @@
       "feast": "The Solemnity of the Most Holy Trinity",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Exodus 34:4"
-        },
-        "responsorial_psalm": {
-          "reference": "Daniel 3:52, 53, 54, 55, 56"
-        },
-        "second_reading": {
-          "reference": "2 Corinthians 13:11-13"
-        },
-        "alleluia": {
-          "reference": "&nbsp;"
-        },
-        "gospel": {
-          "reference": "John 3:16-18"
-        }
+        "first_reading": [
+          {
+            "citation": "Exodus 34:4b-6, 8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. Revelation 1:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 3:16-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "2 Corinthians 13:11-13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ],
@@ -41359,6 +42779,49 @@
         "gospel": {
           "reference": "Mt 4:18-22"
         }
+      }
+    }
+  ],
+  "2026-05-09": [
+    {
+      "date": "2026-05-09",
+      "url": "https://bible.usccb.org/bible/readings/050926.cfm",
+      "lectionary_number": 290,
+      "feast": "Saturday of the Fifth Week of Easter",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 16:1-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 100:1b-2, 3, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Colossians 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 15:18-21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
       }
     }
   ]
