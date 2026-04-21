@@ -12100,21 +12100,53 @@
       "date": "2026-04-06",
       "url": "https://bible.usccb.org/bible/readings/040626.cfm",
       "lectionary_number": 261,
-      "feast": "Monday in the Octave of Easter",
+      "feast": "Easter Monday",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 2:14, 22-33"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 16:1-2"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "gospel": {
-          "reference": "Matthew 28:8-15"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 2:14, 22-33",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Matthew 28:8-15",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ]
       }
     }
   ],
