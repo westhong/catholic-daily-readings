@@ -11746,21 +11746,58 @@
       "date": "2026-04-03",
       "url": "https://bible.usccb.org/bible/readings/040326.cfm",
       "lectionary_number": 40,
-      "feast": "Good Friday of the Lord’s Passion",
+      "feast": "Good Friday",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Isaiah 52:13—53"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 31:2, 6, 12-13, 15-16, 17, 25"
-        },
-        "second_reading": {
-          "reference": "Hebrews 4:14-16"
-        },
-        "gospel": {
-          "reference": "John 18:1—19"
-        }
+        "first_reading": [
+          {
+            "citation": "Isaiah 52:13—53:12",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 31:2, 6, 12-13, 15-16, 17, 25",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "Hebrews 4:14-16; 5:7-9",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ],
+        "verse_before_gospel": [
+          {
+            "citation": "Philippians 2:8-9",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 18:1—19:42",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ]
       }
     }
   ],
