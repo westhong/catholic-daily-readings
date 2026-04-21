@@ -28229,9 +28229,9 @@
   "2026-11-01": [
     {
       "date": "2026-11-01",
-      "url": "https://bible.usccb.org/bible/readings/110126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261101.cfm",
       "lectionary_number": 667,
-      "feast": "Solemnity of All Saints",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28244,7 +28244,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 24:1",
+            "citation": "Psalm 24:1bc-2, 3-4ab, 5-6",
             "sources": [
               "USCCB"
             ]
@@ -28258,9 +28258,17 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
-            "citation": "Matthew 5:1-12",
+            "citation": "Matthew 5:1-12a",
             "sources": [
               "USCCB"
             ]
@@ -28272,9 +28280,9 @@
   "2026-11-02": [
     {
       "date": "2026-11-02",
-      "url": "https://bible.usccb.org/bible/readings/110226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261102.cfm",
       "lectionary_number": 668,
-      "feast": "The Commemoration of All the Faithful Departed (All Souls)",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28287,7 +28295,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 23:1-3",
+            "citation": "Psalm 23:1-3a, 3b-4, 5, 6",
             "sources": [
               "USCCB"
             ]
@@ -28296,6 +28304,20 @@
         "second_reading": [
           {
             "citation": "Romans 5:5-11",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Romans 6:3-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 25:34",
             "sources": [
               "USCCB"
             ]
@@ -28315,9 +28337,9 @@
   "2026-11-03": [
     {
       "date": "2026-11-03",
-      "url": "https://bible.usccb.org/bible/readings/110326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261103.cfm",
       "lectionary_number": 486,
-      "feast": "Tuesday of the Thirty-first Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28330,7 +28352,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 22:26",
+            "citation": "Psalm 22:26b-27, 28-30ab, 30e, 31-32",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:28",
             "sources": [
               "USCCB"
             ]
@@ -28350,9 +28380,9 @@
   "2026-11-04": [
     {
       "date": "2026-11-04",
-      "url": "https://bible.usccb.org/bible/readings/110426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261104.cfm",
       "lectionary_number": 487,
-      "feast": "Memorial of Saint Charles Borromeo, Bishop",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28366,6 +28396,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 27:1, 4, 13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Peter 4:14",
             "sources": [
               "USCCB"
             ]
@@ -28385,14 +28423,14 @@
   "2026-11-05": [
     {
       "date": "2026-11-05",
-      "url": "https://bible.usccb.org/bible/readings/110526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261105.cfm",
       "lectionary_number": 488,
-      "feast": "Thursday of the Thirty-first Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Philippians 3:3-8",
+            "citation": "Philippians 3:3-8a",
             "sources": [
               "USCCB"
             ]
@@ -28401,6 +28439,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 105:2-3, 4-5, 6-7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 11:28",
             "sources": [
               "USCCB"
             ]
@@ -28420,14 +28466,14 @@
   "2026-11-06": [
     {
       "date": "2026-11-06",
-      "url": "https://bible.usccb.org/bible/readings/110626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261106.cfm",
       "lectionary_number": 489,
-      "feast": "Friday of the Thirty-first Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Philippians 3:17—4",
+            "citation": "Philippians 3:17—4:1",
             "sources": [
               "USCCB"
             ]
@@ -28435,7 +28481,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 122:1-2, 3-4",
+            "citation": "Psalm 122:1-2, 3-4ab, 4cd-5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 John 2:5",
             "sources": [
               "USCCB"
             ]
@@ -28455,9 +28509,9 @@
   "2026-11-07": [
     {
       "date": "2026-11-07",
-      "url": "https://bible.usccb.org/bible/readings/110726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261107.cfm",
       "lectionary_number": 490,
-      "feast": "Saturday of the Thirty-first Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28470,7 +28524,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 112:1",
+            "citation": "Psalm 112:1b-2, 5-6, 8a, 9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "2 Corinthians 8:9",
             "sources": [
               "USCCB"
             ]
@@ -28490,9 +28552,9 @@
   "2026-11-08": [
     {
       "date": "2026-11-08",
-      "url": "https://bible.usccb.org/bible/readings/110826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261108.cfm",
       "lectionary_number": 154,
-      "feast": "Thirty-second Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28517,6 +28579,20 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "1 Thessalonians 4:13-14",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 24:42a, 44",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "gospel": [
@@ -28533,9 +28609,9 @@
   "2026-11-09": [
     {
       "date": "2026-11-09",
-      "url": "https://bible.usccb.org/bible/readings/110926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261109.cfm",
       "lectionary_number": 671,
-      "feast": "Feast of the Dedication of the Lateran Basilica in Rome",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28556,7 +28632,15 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Corinthians 3:9",
+            "citation": "1 Corinthians 3:9c-11, 16-17",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "2 Chronicles 7:16",
             "sources": [
               "USCCB"
             ]
@@ -28576,9 +28660,9 @@
   "2026-11-10": [
     {
       "date": "2026-11-10",
-      "url": "https://bible.usccb.org/bible/readings/111026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261110.cfm",
       "lectionary_number": 492,
-      "feast": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28591,7 +28675,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 37:3-4, 18",
+            "citation": "Psalm 37:3-4, 18 and 23, 27 and 29",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 14:23",
             "sources": [
               "USCCB"
             ]
@@ -28611,9 +28703,9 @@
   "2026-11-11": [
     {
       "date": "2026-11-11",
-      "url": "https://bible.usccb.org/bible/readings/111126.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261111.cfm",
       "lectionary_number": 493,
-      "feast": "Memorial of Saint Martin of Tours, Bishop",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28626,7 +28718,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 23:1",
+            "citation": "Psalm 23:1b-3a, 3bc-4, 5, 6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Thessalonians 5:18",
             "sources": [
               "USCCB"
             ]
@@ -28646,14 +28746,14 @@
   "2026-11-12": [
     {
       "date": "2026-11-12",
-      "url": "https://bible.usccb.org/bible/readings/111226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261112.cfm",
       "lectionary_number": 494,
-      "feast": "Memorial of Saint Josaphat, Bishop and Martyr",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Philemon 7-20 Beloved: I have experience",
+            "citation": "Philemon 7-20",
             "sources": [
               "USCCB"
             ]
@@ -28661,7 +28761,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 146:7, 8-9",
+            "citation": "Psalm 146:7, 8-9a, 9bc-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 15:5",
             "sources": [
               "USCCB"
             ]
@@ -28681,14 +28789,14 @@
   "2026-11-13": [
     {
       "date": "2026-11-13",
-      "url": "https://bible.usccb.org/bible/readings/111326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261113.cfm",
       "lectionary_number": 495,
-      "feast": "Memorial of Saint Frances Xavier Cabrini, Virgin [In the Dioceses of the United States]",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "2 John 4-9 [Chosen Lady:] I rejoiced gre",
+            "citation": "2 John 4-9",
             "sources": [
               "USCCB"
             ]
@@ -28697,6 +28805,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 119:1, 2, 10, 11, 17, 18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 21:28",
             "sources": [
               "USCCB"
             ]
@@ -28716,14 +28832,14 @@
   "2026-11-14": [
     {
       "date": "2026-11-14",
-      "url": "https://bible.usccb.org/bible/readings/111426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261114.cfm",
       "lectionary_number": 496,
-      "feast": "Saturday of the Thirty-second Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "3 John 5-8 Beloved, you are faithful in",
+            "citation": "3 John 5-8",
             "sources": [
               "USCCB"
             ]
@@ -28732,6 +28848,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 112:1-2, 3-4, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See 2 Thessalonians 2:14",
             "sources": [
               "USCCB"
             ]
@@ -28751,9 +28875,9 @@
   "2026-11-15": [
     {
       "date": "2026-11-15",
-      "url": "https://bible.usccb.org/bible/readings/111526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261115.cfm",
       "lectionary_number": 157,
-      "feast": "Thirty-third Sunday in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28780,9 +28904,23 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "John 15:4a, 5b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 25:14-30",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Matthew 25:14-15, 19-21",
             "sources": [
               "USCCB"
             ]
@@ -28794,14 +28932,14 @@
   "2026-11-16": [
     {
       "date": "2026-11-16",
-      "url": "https://bible.usccb.org/bible/readings/111626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261116.cfm",
       "lectionary_number": 497,
-      "feast": "Monday of the Thirty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Revelation 1:1-4",
+            "citation": "Revelation 1:1-4; 2:1-5",
             "sources": [
               "USCCB"
             ]
@@ -28810,6 +28948,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 1:1-2, 3, 4, 6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "John 8:12",
             "sources": [
               "USCCB"
             ]
@@ -28829,9 +28975,9 @@
   "2026-11-17": [
     {
       "date": "2026-11-17",
-      "url": "https://bible.usccb.org/bible/readings/111726.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261117.cfm",
       "lectionary_number": 498,
-      "feast": "Memorial of Saint Elizabeth of Hungary, Religious",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28844,7 +28990,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 15:2-3",
+            "citation": "Psalm 15:2-3a, 3bc-4ab, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 John 4:10b",
             "sources": [
               "USCCB"
             ]
@@ -28864,9 +29018,9 @@
   "2026-11-18": [
     {
       "date": "2026-11-18",
-      "url": "https://bible.usccb.org/bible/readings/111826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261118.cfm",
       "lectionary_number": 499,
-      "feast": "Wednesday of the Thirty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28879,7 +29033,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 150:1",
+            "citation": "Psalm 150:1b-2, 3-4, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See John 15:16",
             "sources": [
               "USCCB"
             ]
@@ -28899,9 +29061,9 @@
   "2026-11-19": [
     {
       "date": "2026-11-19",
-      "url": "https://bible.usccb.org/bible/readings/111926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261119.cfm",
       "lectionary_number": 500,
-      "feast": "Thursday of the Thirty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28914,7 +29076,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 149:1",
+            "citation": "Psalm 149:1b-2, 3-4, 5-6b, 9b",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Psalm 95:8",
             "sources": [
               "USCCB"
             ]
@@ -28934,9 +29104,9 @@
   "2026-11-20": [
     {
       "date": "2026-11-20",
-      "url": "https://bible.usccb.org/bible/readings/112026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261120.cfm",
       "lectionary_number": 501,
-      "feast": "Friday of the Thirty-third Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -28955,6 +29125,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Luke 19:45-48",
@@ -28968,12 +29146,31 @@
   ],
   "2026-11-21": [
     {
+      "date": "2026-11-21",
+      "url": "https://bible.usccb.org/bible/readings/261121.cfm",
       "lectionary_number": 502,
-      "feast": "Memorial of the Presentation of the Blessed Virgin Mary",
+      "feast": "",
+      "mass": "default",
       "readings": {
+        "first_reading": [
+          {
+            "citation": "Revelation 11:4-12",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "responsorial_psalm": [
           {
             "citation": "Psalm 144:1, 2, 9-10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See 2 Timothy 1:10",
             "sources": [
               "USCCB"
             ]
@@ -28987,18 +29184,15 @@
             ]
           }
         ]
-      },
-      "url": "https://bible.usccb.org/bible/readings/112126.cfm",
-      "date": "2026-11-21",
-      "mass": "default"
+      }
     }
   ],
   "2026-11-22": [
     {
       "date": "2026-11-22",
-      "url": "https://bible.usccb.org/bible/readings/112226.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261122.cfm",
       "lectionary_number": 160,
-      "feast": "The Solemnity of Our Lord Jesus Christ, King of the Universe",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29025,6 +29219,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Mark 11:9, 10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Matthew 25:31-46",
@@ -29039,14 +29241,14 @@
   "2026-11-23": [
     {
       "date": "2026-11-23",
-      "url": "https://bible.usccb.org/bible/readings/112326.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261123.cfm",
       "lectionary_number": 503,
-      "feast": "Monday of the Thirty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Revelation 14:1-3, 4",
+            "citation": "Revelation 14:1-3, 4b-5",
             "sources": [
               "USCCB"
             ]
@@ -29054,7 +29256,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 24:1",
+            "citation": "Psalm 24:1bc-2, 3-4ab, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 24:42a, 44",
             "sources": [
               "USCCB"
             ]
@@ -29074,9 +29284,9 @@
   "2026-11-24": [
     {
       "date": "2026-11-24",
-      "url": "https://bible.usccb.org/bible/readings/112426.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261124.cfm",
       "lectionary_number": 504,
-      "feast": "Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29090,6 +29300,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 96:10, 11-12, 13",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Revelation 2:10c",
             "sources": [
               "USCCB"
             ]
@@ -29109,9 +29327,9 @@
   "2026-11-25": [
     {
       "date": "2026-11-25",
-      "url": "https://bible.usccb.org/bible/readings/112526.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261125.cfm",
       "lectionary_number": 505,
-      "feast": "Wednesday of the Thirty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29124,7 +29342,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3",
+            "citation": "Psalm 98:1, 2-3ab, 7-8, 9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Revelation 2:10c",
             "sources": [
               "USCCB"
             ]
@@ -29144,24 +29370,14 @@
   "2026-11-26": [
     {
       "date": "2026-11-26",
-      "url": "https://bible.usccb.org/bible/readings/112626.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261126.cfm",
       "lectionary_number": 506,
-      "feast": "Thursday of the Thirty-fourth Week in Ordinary Time-Thanksgiving",
-      "mass": "default",
-      "readings": {}
-    }
-  ],
-  "2026-11-27": [
-    {
-      "date": "2026-11-27",
-      "url": "https://bible.usccb.org/bible/readings/112726.cfm",
-      "lectionary_number": 507,
-      "feast": "Friday of the Thirty-fourth Week in Ordinary Time",
-      "mass": "default",
+      "feast": "",
+      "mass": "Ord",
       "readings": {
         "first_reading": [
           {
-            "citation": "Revelation 20:1-4, 11—21",
+            "citation": "Revelation 18:1-2, 21-23; 19:1-3, 9a",
             "sources": [
               "USCCB"
             ]
@@ -29169,7 +29385,107 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 84:3, 4, 5-6",
+            "citation": "Psalm 100:1b-2, 3, 4, 5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 21:20-28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "url": "https://bible.usccb.org/bible/readings/261126.cfm",
+      "lectionary_number": 943,
+      "feast": "",
+      "mass": "Thanksgiving",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Sirach 50:22-24",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 145:2-3, 4-5, 6-7, 8-9, 10-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "1 Corinthians 1:3-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "1 Thessalonians 5:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Luke 17:11-19",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "2026-11-27": [
+    {
+      "date": "2026-11-27",
+      "url": "https://bible.usccb.org/bible/readings/261127.cfm",
+      "lectionary_number": 507,
+      "feast": "",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Revelation 20:1-4, 11—21:2",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 84:3, 4, 5-6a, 8a",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 21:28",
             "sources": [
               "USCCB"
             ]
@@ -29189,9 +29505,9 @@
   "2026-11-28": [
     {
       "date": "2026-11-28",
-      "url": "https://bible.usccb.org/bible/readings/112826.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261128.cfm",
       "lectionary_number": 508,
-      "feast": "Saturday of the Thirty-fourth Week in Ordinary Time",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29204,7 +29520,15 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 3-5, 6-7",
+            "citation": "Psalm 95:1-2, 3-5, 6-7ab",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Luke 21:36",
             "sources": [
               "USCCB"
             ]
@@ -29224,14 +29548,14 @@
   "2026-11-29": [
     {
       "date": "2026-11-29",
-      "url": "https://bible.usccb.org/bible/readings/112926.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261129.cfm",
       "lectionary_number": 2,
-      "feast": "First Sunday of Advent",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 63:16",
+            "citation": "Isaiah 63:16b-17, 19b; 64:2-7",
             "sources": [
               "USCCB"
             ]
@@ -29253,6 +29577,14 @@
             ]
           }
         ],
+        "alleluia": [
+          {
+            "citation": "Psalm 85:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
         "gospel": [
           {
             "citation": "Mark 13:33-37",
@@ -29267,9 +29599,9 @@
   "2026-11-30": [
     {
       "date": "2026-11-30",
-      "url": "https://bible.usccb.org/bible/readings/113026.cfm",
+      "url": "https://bible.usccb.org/bible/readings/261130.cfm",
       "lectionary_number": 684,
-      "feast": "Feast of Saint Andrew, Apostle",
+      "feast": "",
       "mass": "default",
       "readings": {
         "first_reading": [
@@ -29283,6 +29615,14 @@
         "responsorial_psalm": [
           {
             "citation": "Psalm 19:8, 9, 10, 11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Matthew 4:19",
             "sources": [
               "USCCB"
             ]
