@@ -67362,5 +67362,134 @@
         ]
       }
     }
+  ],
+  "2023-01-31": [
+    {
+      "date": "2023-01-31",
+      "url": "https://bible.usccb.org/bible/readings/230131.cfm",
+      "lectionary_number": 317,
+      "feast": "",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Heb 9:15, 24-28",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Ps 98:1, 2-3ab, 3cd-4, 5-6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "See 2 Tm 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Mk 3:22-30",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "2023-04-17": [
+    {
+      "date": "2023-04-17",
+      "url": "https://bible.usccb.org/bible/readings/230417.cfm",
+      "lectionary_number": 267,
+      "feast": "",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 4:23-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Ps 2:1-3, 4-7a, 7b-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Col 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Jn 3:1-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "2023-05-25": [
+    {
+      "date": "2023-05-25",
+      "url": "https://bible.usccb.org/bible/readings/230525.cfm",
+      "lectionary_number": 300,
+      "feast": "",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {
+            "citation": "Acts 22:30; 23:6-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Ps 16:1-2a and 5, 7-8, 9-10, 11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "Jn 17:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "Jn 17:20-26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ]
+      }
+    }
   ]
 }
