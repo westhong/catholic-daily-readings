@@ -12010,24 +12010,88 @@
       "date": "2026-04-05",
       "url": "https://bible.usccb.org/bible/readings/040526.cfm",
       "lectionary_number": 42,
-      "feast": "The Resurrection of the Lord The Mass of Easter Day",
+      "feast": "Easter Sunday",
       "mass": "default",
       "readings": {
-        "first_reading": {
-          "reference": "Acts 10:34"
-        },
-        "responsorial_psalm": {
-          "reference": "Psalm 118:1-2, 16-17, 22-23"
-        },
-        "alleluia": {
-          "reference": ","
-        },
-        "second_reading": {
-          "reference": "Colossians 3:1-4"
-        },
-        "gospel": {
-          "reference": "John 20:1-9"
-        }
+        "first_reading": [
+          {
+            "citation": "Acts 10:34a, 37-43",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 118:1-2, 16-17, 22-23",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          }
+        ],
+        "second_reading": [
+          {
+            "citation": "Colossians 3:1-4",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          },
+          {
+            "citation": "1 Corinthians 5:6b-8",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "sequence": [
+          {
+            "citation": "Victimæ paschali laudes (liturgical text, no scripture citation)",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "alleluia": [
+          {
+            "citation": "cf. 1 Corinthians 5:7",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ],
+        "gospel": [
+          {
+            "citation": "John 20:1-9",
+            "sources": [
+              "USCCB",
+              "CatholicGallery",
+              "CatholicOnline"
+            ]
+          },
+          {
+            "citation": "Matthew 28:1-10",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          },
+          {
+            "citation": "Luke 24:13-35 (afternoon or evening mass)",
+            "sources": [
+              "USCCB",
+              "CatholicGallery"
+            ]
+          }
+        ]
       }
     }
   ],
