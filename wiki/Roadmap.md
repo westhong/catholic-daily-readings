@@ -1,6 +1,6 @@
 # Roadmap — 天主教每日讀經系統
 
-> 最後更新：2026-04-19
+> 最後更新：2026-04-21
 > 方向：Agile。持續交付，不斷更新。
 
 ---
@@ -45,29 +45,34 @@ Layer 2 — Applied Layer   各譯本完整章節顯示（譯本方處理）
 
 ---
 
-## Phase 2 🔄 即將完成：Layer 0 + Layer 1
+## Phase 2 ✅ 大量完成：Layer 0 + Layer 1
 
-### 2.0 ✅ Layer 0 Source Data（2026-04-19）
+### 2.0 ✅ Layer 0 Source Data（2026-04-21）
 
-462 個 USCCB `.cfm` 文件，已凍存。
+**1,741 個 USCCB `.cfm` 文件，已凍存。**
 
-- 2026-04 → 2027-04（共 13 個月）
-- 2027-05（練習月）
-- 447 個有效、15 個空殼（redirect 頁）
-- URL 404 問題已修復
+- 2023: 366 個 ✅
+- 2024: 366 個 ✅
+- 2025: 365 個 ✅
+- 2026: 296 個 ✅
+- 2027: 380 個 ✅（含多個 mass 的特殊日子）
 
-### 2.1 🔄 Layer 1 Processed Data（進行中）
+### 2.1 ✅ Layer 1 Processed Data（大量完成）
 
-每個 `.cfm` → 一個 JSON（Layer 1），包含 citation_id。
+**readings.json：1,763 個日期的 citation 記錄。**
 
-- [x] 分析 462 個檔案的 reading 結構
+- [x] 分析 1,741 個 .cfm 檔案的 reading 結構
 - [x] 確認 reading label 不一致問題（Reading I / Reading 1 / Reading 2 等）
 - [x] 確認 alternatives（Or 區塊）結構
 - [x] 確認 lectionary_number 需從 calendar index 帶入
-- [x] 建立 Layer 1 JSON Schema
-- [ ] 生成第一個完整 JSON（2026-04-19 示範）
-- [ ] 批量處理 447 個有效檔案
-- [ ] 更新 wiki：Processed Layer JSON Schema
+- [x] 建立 Layer 1 JSON Schema（multi-source 格式）
+- [x] readings.json：1,763 個日期
+- [x] 修補 984 個缺失段落（second_reading、verse_before_gospel、sequence、alleluia）
+- [x] Alleluias 覆蓋率提升：2023=77%, 2024=78%, 2025=78%, 2026=81%
+
+**仍在進行**：
+- [ ] 逐一驗證缺 Alleluia 的 ~245 個日期
+- [ ] 整合 CatholicGallery / CatholicOnline cross-reference
 
 ### 2.2 🔄 下一個：Layer 2 Applied Layer
 
@@ -128,7 +133,7 @@ Layer 2 — Applied Layer   各譯本完整章節顯示（譯本方處理）
 
 ```
 Phase 1  ████████████████████ ✅ MVP 完成
-Phase 2  ██░░░░░░░░░░░░░░░░░░ 🔄 2.0 ✅ → 2.1 Layer 1 生成中
+Phase 2  ████████████████░░░░ 🔄 Layer 0 ✅ Layer 1 🔄 (1,763/1,763 dates)
 Phase 3  ░░░░░░░░░░░░░░░░░░░ ⏳ 更多語言
 Phase 4  ░░░░░░░░░░░░░░░░░░░ ⏳ 功能深化
 Phase 5  ░░░░░░░░░░░░░░░░░░░ ⏳ 傳播

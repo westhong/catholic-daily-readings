@@ -1,6 +1,6 @@
 # 數據分層架構
 
-> 更新日期：2026-04-19
+> 更新日期：2026-04-21
 
 ---
 
@@ -35,9 +35,13 @@ data/usccb-calendar/raw/
 - 如果任何 downstream 處理有爭議，以 source layer 為準
 
 **已知數據**：
-- 462 個 .cfm 文件（2026-04 → 2027-05）
-- 其中 447 個有效、15 個空殼（USCCB redirect 入口頁）
-- 15 個空殼：`040226.cfm`、`122526.cfm`、`051426.cfm`、`051726.cfm` 等
+- **1,741 個 .cfm 文件**（凍存完成）
+  - 2023: 366 個 ✅
+  - 2024: 366 個 ✅
+  - 2025: 365 個 ✅
+  - 2026: 296 個 ✅
+  - 2027: 380 個 ✅
+- 15 個空殼（USCCB redirect 入口頁，已識別並跳過）
 
 ---
 
@@ -53,9 +57,11 @@ data/usccb-calendar/raw/
 
 **儲存位置**：
 ```
-data/daily/
-  2026-04-19.json      ← 一個 day object
-  2026-04-20.json
+data/lectionary/
+  readings.json      ← 合併的 Layer 1（1,763 個日期）
+data/usccb-calendar/index/
+  202604.json        ← 每月 calendar index（含 lectionary_number）
+  202605.json
   ...
 ```
 
@@ -99,162 +105,92 @@ Layer 0: Source         Layer 1: Processed        Layer 2: Applied
 
 ## Layer 1 JSON Schema
 
+readings.json 的格式（multi-source，1,763 個日期）：
+
 ```json
 {
-  "date": "2026-04-19",
-  "source": "usccb",
-  "lectionary_number": 46,
-  "feast_en": "Third Sunday of Easter",
-  "color": "white",
-  "local_file": "2026-04-19-041926.cfm",
-  "url": "https://bible.usccb.org/bible/readings/041926.cfm",
-  "readings": [
+  "2026-04-19": [
     {
-      "slot": 1,
-      "type": "first_reading",
-      "label": "Reading 1",
-      "citation_id": "acts:2",
-      "usccb_url": "https://bible.usccb.org/bible/acts/2?14",
-      "alternatives": []
-    },
-    {
-      "slot": 2,
-      "type": "responsorial_psalm",
-      "label": "Responsorial Psalm",
-      "citation_id": "psalm:16",
-      "usccb_url": "https://bible.usccb.org/bible/psalms/16?1",
-      "alternatives": []
-    },
-    {
-      "slot": 3,
-      "type": "second_reading",
-      "label": "Reading 2",
-      "citation_id": "1peter:1",
-      "usccb_url": "https://bible.usccb.org/bible/1peter/1?17",
-      "alternatives": []
-    },
-    {
-      "slot": 4,
-      "type": "alleluia_verse",
-      "label": "Alleluia",
-      "citation_id": "luke:24",
-      "usccb_url": "https://bible.usccb.org/bible/luke/24?32",
-      "alternatives": []
-    },
-    {
-      "slot": 5,
-      "type": "gospel",
-      "label": "Gospel",
-      "citation_id": "luke:24",
-      "usccb_url": "https://bible.usccb.org/bible/luke/24?13",
-      "alternatives": []
+      "lectionary_number": 46,
+      "feast": "Third Sunday of Easter",
+      "mass": "default",
+      "readings": {
+        "first_reading": [
+          {"citation": "Acts 2:14b, 22-28", "sources": ["USCCB", "CatholicGallery"]}
+        ],
+        "responsorial_psalm": [
+          {"citation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11", "sources": ["USCCB"]}
+        ],
+        "second_reading": [
+          {"citation": "1 Peter 1:17-21", "sources": ["USCCB"]}
+        ],
+        "alleluia": [
+          {"citation": "Luke 24:32", "sources": ["USCCB"]}
+        ],
+        "gospel": [
+          {"citation": "Luke 24:13-35", "sources": ["USCCB", "CatholicGallery", "CatholicOnline"]}
+        ]
+      }
     }
   ]
 }
 ```
 
----
+**欄位說明**：
 
-## 欄位說明
+|| 欄位 | 說明 |
+||------|------|
+| `date` (key) | 禮儀日期（YYYY-MM-DD） |
+| `lectionary_number` | 彌撒讀經編號 |
+| `feast` | 英文 feast 名稱 |
+| `mass` | `"default"` 或特定 mass（如 `"Chrism"`, `"Supper"`） |
+| `readings.{slot}[].citation` | 標準化章節引用（如 `Acts 2:14b, 22-28`） |
+| `readings.{slot}[].sources` | 哪些 source 有這個 citation |
 
-| 欄位 | 說明 | 例子 |
-|------|------|------|
-| `date` | 禮儀日期（YYYY-MM-DD） | `2026-04-19` |
-| `source` | 來源 ID | `usccb` |
-| `lectionary_number` | 彌撒讀經編號（從 calendar index 帶入） | `46` |
-| `feast_en` | 英文 feast 名稱 | `Third Sunday of Easter` |
-| `color` | 禮儀顏色 | `white` |
-| `local_file` | Layer 0 文件名（用於溯源） | `2026-04-19-041926.cfm` |
-| `url` | 原始 URL | `https://bible.usccb.org/bible/readings/041926.cfm` |
-| `readings[].slot` | 禮儀順序 | `1`, `2`, `3`... |
-| `readings[].type` | 讀經類型 | `first_reading`, `gospel` 等 |
-| `readings[].label` | 原始 HTML 標籤（verbatim） | `Reading 1`, `Responsorial Psalm` |
-| `readings[].citation_id` | 標準化章節 ID | `acts:2`, `psalm:16`, `luke:24` |
-| `readings[].usccb_url` | USCCB 聖經章節 URL | `https://bible.usccb.org/bible/acts/2?14` |
-| `readings[].alternatives[]` | 替代讀經選項（Or 區塊） | 见下方 |
+**Reading Types（`slot`）**：
 
-### Reading Types（`type`）
-
-| type | 說明 |
+| slot | 說明 |
 |------|------|
 | `first_reading` | 讀經一 |
 | `second_reading` | 讀經二 |
-| `old_testament_reading` | 舊約讀經（Easter Vigil 專用） |
 | `responsorial_psalm` | 答唱詠 |
-| `gospel` | 福音 |
-| `alleluia_verse` | 阿肋路亞歡呼 |
-| `verse_before_gospel` | 福音前詠唱（部分大節日用） |
+| `alleluia` | 阿肋路亞歡呼（可能缺少，因為 USCCB 平日可能無 citation） |
+| `verse_before_gospel` | 福音前歡呼（部分大節日） |
 | `sequence` | 繼抒詠（Easter, Pentecost 等） |
-| `epistle` | 書信（Easter Vigil 專用） |
-| `alternative` | 替代讀經（本欄位不用，見 alternatives[]） |
+| `gospel` | 福音 |
 
-### Alternatives（替代讀經）
-
-`Or` 區塊在 HTML 中出現在其附屬讀經之後，用於記錄禮儀可選讀經。
-
-```json
-{
-  "slot": 7,
-  "type": "gospel",
-  "label": "Gospel",
-  "citation_id": "john:20",
-  "usccb_url": "https://bible.usccb.org/bible/john/20?1",
-  "alternatives": [
-    {
-      "citation_id": "matthew:28",
-      "usccb_url": "https://bible.usccb.org/bible/matthew/28?1",
-      "condition": "Or"
-    },
-    {
-      "citation_id": "luke:24",
-      "usccb_url": "https://bible.usccb.org/bible/luke/24?13",
-      "condition": "Or at afternoon or evening mass"
-    }
-  ]
-}
-```
-
-`condition` 的值直接來自 HTML label verbatim，**不翻譯、不簡化**。
-
-### Citation ID 格式
-
-`citation_id` = `book:chapter`，book 用 canonical 名字（小寫，數字英文）：
-
-| USCCB URL book | citation_id |
-|----------------|------------|
-| `acts` | `acts` |
-| `psalms` | `psalm` |
-| `1peter` | `1peter` |
-| `luke` | `luke` |
-| `john` | `john` |
-| `matthew` | `matthew` |
-| `genesis` | `genesis` |
-| `exodus` | `exodus` |
-| `romans` | `romans` |
-| ... | ... |
-
-原則：
-- **只用章 + 節起點**（不記 ending verse），避免冗餘
-- `citation_id` 是公共遺產，無版權
-- Applied Layer 負責把 `citation_id` + 譯本 → 完整顯示（如 `Luke 24:13-35`）
+**版權原則**：
+- `citation` 只存書卷章節（公共遺產，無版權）
+- 實際聖經經文由譯本方在 Layer 2 提供
 
 ---
 
 ## Multi-Source 擴展
 
-未來 Layer 0 / Layer 1 可以容納多個 source：
+已確認的 Cross-Reference Sources：
+
+|| Source | URL 格式 | 狀態 |
+||--------|----------|------|
+| **USCCB** | `bible.usccb.org/bible/readings/MMDDYY.cfm` | ✅ 主要 source |
+| **CatholicGallery** | `catholicgallery.org/mass-reading/DDMMYY/` | ✅ 有 2023-2027 歷史數據 |
+| **CatholicOnline** | `catholic.org/bible/daily_reading/?select_date=YYYY-MM-DD` | ✅ 有 2023-2027 歷史數據 |
+| **Prayla** | `prayla.app/en/bible/readings/YYYY-MM-DD` | 🔄 待驗證 |
+
+所有 readings.json 的 citation 都以 USCCB 為主 source，CatholicGallery / CatholicOnline 為 cross-reference。
+
+Layer 0 / Layer 1 可以容納多個 source：
 
 ```
 Layer 0
-├── usccb/           (英語, .cfm HTML) ✅ 已完成
+├── usccb/           (英語, .cfm HTML) ✅ 已凍存 1,741 個檔案
 ├── fhl/             (繁體中文, 自有格式) — Phase 3
 ├── ibrev/           (意大利語, 自有格式) — Phase 3
 ├── kath/            (德語, 自有格式)     — Phase 3
 └── ...
 
 Layer 1
-├── usccb/2026-04-19.json   ✅ 已完成
-├── fhl/2026-04-19.json     — Phase 3
+├── readings.json    ✅ 1,763 個日期（USCCB 為主 source）
+├── fhl/             — Phase 3
 └── ...
 
 Layer 2
