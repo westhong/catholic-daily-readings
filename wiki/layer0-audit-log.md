@@ -177,3 +177,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 519
 - **Citations** (5): Acts 22:3-16, Acts 9:1-22, Jn 15:16, Mark 16:15, Mk 16:15-18
 - **SHA**: `196a5a137523`
+
+### ✅ 2023-01-26-012623.cfm — 2023-01-26
+- **Checked**: 2026-04-25 13:15 UTC
+- **Feast**: Reading I
+- **Lectionary**: 520
+- **Citations** (4): Mk 4:21-25, Ps 119:105, Ti 1:1-5, Tm 1:1-8
+- **SHA**: `6cbff48fec16`
