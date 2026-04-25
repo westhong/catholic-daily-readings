@@ -323,5 +323,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T12:00:57+00:00"
+  },
+  "2023-01-22-012223.cfm": {
+    "file": "2023-01-22-012223.cfm",
+    "date": "2023-01-22",
+    "lectionary_number": 67,
+    "feast": "Reading 1",
+    "sha12": "b79aad36850c",
+    "citations": [
+      "Cor 1:10-13,",
+      "Is 8:23",
+      "Mt 4:12-23",
+      "Mt 4:23",
+      "Ps 27:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T12:15:17+00:00"
   }
 }
