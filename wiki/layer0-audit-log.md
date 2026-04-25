@@ -114,3 +114,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 311
 - **Citations** (4): Heb 4:12, Heb 5:1-10, Mk 2:18-22, Ps 110:1,
 - **SHA**: `711a9a139606`
+
+### ✅ 2023-01-17-011723.cfm — 2023-01-17
+- **Checked**: 2026-04-25 11:00 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 312
+- **Citations** (3): Eph 1:17-18, Heb 6:10-20, Mk 2:23-28
+- **SHA**: `bbff6204f34f`

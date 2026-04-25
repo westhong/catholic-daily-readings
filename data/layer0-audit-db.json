@@ -247,5 +247,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T10:46:00+00:00"
+  },
+  "2023-01-17-011723.cfm": {
+    "file": "2023-01-17-011723.cfm",
+    "date": "2023-01-17",
+    "lectionary_number": 312,
+    "feast": "Reading 1",
+    "sha12": "bbff6204f34f",
+    "citations": [
+      "Eph 1:17-18",
+      "Heb 6:10-20",
+      "Mk 2:23-28"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T11:00:13+00:00"
   }
 }
