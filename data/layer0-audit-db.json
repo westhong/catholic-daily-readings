@@ -900,5 +900,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T21:00:41+00:00"
+  },
+  "2023-02-26-022623.cfm": {
+    "file": "2023-02-26-022623.cfm",
+    "date": "2023-02-26",
+    "lectionary_number": 22,
+    "feast": "Reading 1",
+    "sha12": "1e19f6b7dc42",
+    "citations": [
+      "Gn 2:7-9",
+      "Mt 4:1-11",
+      "Mt 4:4",
+      "Ps 51:3-4,",
+      "Rom 5:12,",
+      "Rom 5:12-19"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T21:15:51+00:00"
   }
 }
