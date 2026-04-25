@@ -58,3 +58,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 20
 - **Citations** (5): Eph 3:2-3, Is 60:1-6, Mt 2:1-12, Mt 2:2, Ps 72:1-2,
 - **SHA**: `c12c0ba393ec`
+
+### ✅ 2023-01-09-010923.cfm — 2023-01-09
+- **Checked**: 2026-04-25 09:00 UTC
+- **Feast**: Reading I
+- **Lectionary**: 21
+- **Citations** (5): Acts 10:34-38, Is 42:1-4,, Mk 9:7, Mt 3:13-17, Ps 29:1-2,
+- **SHA**: `e74d0a2f15f7`
