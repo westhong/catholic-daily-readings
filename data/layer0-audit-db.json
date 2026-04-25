@@ -87,5 +87,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T08:15:12+00:00"
+  },
+  "2023-01-07-010723.cfm": {
+    "file": "2023-01-07-010723.cfm",
+    "date": "2023-01-07",
+    "lectionary_number": 210,
+    "feast": "Reading 1",
+    "sha12": "8f4dfb5eda77",
+    "citations": [
+      "Jn 2:1-11",
+      "Jn 5:14-21",
+      "Lk 7:16",
+      "Ps 149:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T08:30:24+00:00"
   }
 }
