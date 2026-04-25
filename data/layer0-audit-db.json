@@ -754,5 +754,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T18:45:15+00:00"
+  },
+  "2023-02-17-021723.cfm": {
+    "file": "2023-02-17-021723.cfm",
+    "date": "2023-02-17",
+    "lectionary_number": 339,
+    "feast": "Reading 1",
+    "sha12": "b607ff2daa86",
+    "citations": [
+      "Gn 11:1-9",
+      "Jn 15:15",
+      "Mk 8:34",
+      "Ps 33:10-11,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T19:00:25+00:00"
   }
 }
