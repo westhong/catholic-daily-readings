@@ -152,5 +152,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T09:15:58+00:00"
+  },
+  "2023-01-11-011123.cfm": {
+    "file": "2023-01-11-011123.cfm",
+    "date": "2023-01-11",
+    "lectionary_number": 307,
+    "feast": "Reading I",
+    "sha12": "e2f2ef0f5f35",
+    "citations": [
+      "Hebrews 2:14-18",
+      "John 10:27",
+      "Mark 1:29-39",
+      "Psalm 105:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T09:30:09+00:00"
   }
 }
