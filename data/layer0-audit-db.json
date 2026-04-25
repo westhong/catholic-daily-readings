@@ -594,5 +594,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T16:15:26+00:00"
+  },
+  "2023-02-07-020723.cfm": {
+    "file": "2023-02-07-020723.cfm",
+    "date": "2023-02-07",
+    "lectionary_number": 330,
+    "feast": "Reading 1",
+    "sha12": "84bd3d623e5e",
+    "citations": [
+      "Gn 1:20",
+      "Mk 7:1-13",
+      "Ps 119:36,",
+      "Ps 8:4-5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T16:30:37+00:00"
   }
 }
