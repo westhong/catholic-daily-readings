@@ -1061,5 +1061,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T23:30:32+00:00"
+  },
+  "2023-03-08-030823.cfm": {
+    "file": "2023-03-08-030823.cfm",
+    "date": "2023-03-08",
+    "lectionary_number": 232,
+    "feast": "Reading 1",
+    "sha12": "5ce9c146e844",
+    "citations": [
+      "Jer 18:18-20",
+      "Jn 8:12",
+      "Mt 20:17-28"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T23:45:45+00:00"
   }
 }
