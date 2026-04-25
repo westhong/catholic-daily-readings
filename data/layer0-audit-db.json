@@ -231,5 +231,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T10:30:52+00:00"
+  },
+  "2023-01-16-011623.cfm": {
+    "file": "2023-01-16-011623.cfm",
+    "date": "2023-01-16",
+    "lectionary_number": 311,
+    "feast": "Reading 1",
+    "sha12": "711a9a139606",
+    "citations": [
+      "Heb 4:12",
+      "Heb 5:1-10",
+      "Mk 2:18-22",
+      "Ps 110:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T10:46:00+00:00"
   }
 }
