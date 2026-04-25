@@ -137,5 +137,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T09:00:49+00:00"
+  },
+  "2023-01-10-011023.cfm": {
+    "file": "2023-01-10-011023.cfm",
+    "date": "2023-01-10",
+    "lectionary_number": 306,
+    "feast": "Reading I",
+    "sha12": "2d370c95a623",
+    "citations": [
+      "Heb 2:5-12",
+      "Mk 1:21-28",
+      "Thes 2:13"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T09:15:58+00:00"
   }
 }
