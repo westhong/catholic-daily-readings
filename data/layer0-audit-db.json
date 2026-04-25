@@ -642,5 +642,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T17:00:05+00:00"
+  },
+  "2023-02-10-021023.cfm": {
+    "file": "2023-02-10-021023.cfm",
+    "date": "2023-02-10",
+    "lectionary_number": 333,
+    "feast": "Reading 1",
+    "sha12": "a8568ba92135",
+    "citations": [
+      "Acts 16:14",
+      "Gn 3:1-8",
+      "Mk 7:31-37",
+      "Ps 32:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T17:15:16+00:00"
   }
 }
