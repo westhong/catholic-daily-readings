@@ -72,5 +72,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T08:01:00+00:00"
+  },
+  "2023-01-06-010623.cfm": {
+    "file": "2023-01-06-010623.cfm",
+    "date": "2023-01-06",
+    "lectionary_number": 209,
+    "feast": "Reading 1",
+    "sha12": "eed4571ea6c3",
+    "citations": [
+      "Jn 5:5-13",
+      "Lk 3:23-38",
+      "Mk 9:6"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T08:15:12+00:00"
   }
 }

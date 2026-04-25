@@ -37,3 +37,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 208
 - **Citations** (2): Jn 1:43-51, Jn 3:11-21
 - **SHA**: `1c140948fae1`
+
+### ✅ 2023-01-06-010623.cfm — 2023-01-06
+- **Checked**: 2026-04-25 08:15 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 209
+- **Citations** (3): Jn 5:5-13, Lk 3:23-38, Mk 9:6
+- **SHA**: `eed4571ea6c3`
