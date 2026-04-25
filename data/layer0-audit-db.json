@@ -1012,5 +1012,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T22:45:05+00:00"
+  },
+  "2023-03-05-030523.cfm": {
+    "file": "2023-03-05-030523.cfm",
+    "date": "2023-03-05",
+    "lectionary_number": 25,
+    "feast": "Reading 1",
+    "sha12": "48f1096c2bfd",
+    "citations": [
+      "Gn 12:1-4",
+      "Mt 17:1-9",
+      "Mt 17:5",
+      "Ps 33:4-5,",
+      "Tm 1:8"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T23:00:15+00:00"
   }
 }
