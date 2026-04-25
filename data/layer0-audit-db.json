@@ -372,5 +372,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T12:45:47+00:00"
+  },
+  "2023-01-25-012523.cfm": {
+    "file": "2023-01-25-012523.cfm",
+    "date": "2023-01-25",
+    "lectionary_number": 519,
+    "feast": "Reading 1",
+    "sha12": "196a5a137523",
+    "citations": [
+      "Acts 22:3-16",
+      "Acts 9:1-22",
+      "Jn 15:16",
+      "Mark 16:15",
+      "Mk 16:15-18"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T13:00:59+00:00"
   }
 }
