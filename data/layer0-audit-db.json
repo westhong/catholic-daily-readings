@@ -706,5 +706,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T18:00:46+00:00"
+  },
+  "2023-02-14-021423.cfm": {
+    "file": "2023-02-14-021423.cfm",
+    "date": "2023-02-14",
+    "lectionary_number": 336,
+    "feast": "Reading 1",
+    "sha12": "f35b333c6167",
+    "citations": [
+      "Gn 6:5-8",
+      "Jn 14:23",
+      "Mk 8:14-21",
+      "Ps 29:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T18:15:56+00:00"
   }
 }
