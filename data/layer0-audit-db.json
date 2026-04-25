@@ -884,5 +884,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T20:45:31+00:00"
+  },
+  "2023-02-25-022523.cfm": {
+    "file": "2023-02-25-022523.cfm",
+    "date": "2023-02-25",
+    "lectionary_number": 222,
+    "feast": "Reading 1",
+    "sha12": "6d0c0d25ba67",
+    "citations": [
+      "Ez 33:11",
+      "Is 58:9",
+      "Lk 5:27-32",
+      "Ps 86:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T21:00:41+00:00"
   }
 }
