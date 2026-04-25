@@ -868,5 +868,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T20:30:20+00:00"
+  },
+  "2023-02-24-022423.cfm": {
+    "file": "2023-02-24-022423.cfm",
+    "date": "2023-02-24",
+    "lectionary_number": 221,
+    "feast": "Reading 1",
+    "sha12": "e449abc48229",
+    "citations": [
+      "Am 5:14",
+      "Is 58:1-9",
+      "Mt 9:14-15",
+      "Ps 51:3-4,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T20:45:31+00:00"
   }
 }
