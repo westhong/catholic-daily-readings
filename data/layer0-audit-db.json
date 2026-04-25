@@ -578,5 +578,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T16:00:16+00:00"
+  },
+  "2023-02-06-020623.cfm": {
+    "file": "2023-02-06-020623.cfm",
+    "date": "2023-02-06",
+    "lectionary_number": 329,
+    "feast": "Reading 1",
+    "sha12": "d16961790621",
+    "citations": [
+      "Gn 1:1-19",
+      "Mk 6:53-56",
+      "Mt 4:23",
+      "Ps 104:1-2"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T16:15:26+00:00"
   }
 }
