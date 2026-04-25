@@ -293,5 +293,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T11:30:34+00:00"
+  },
+  "2023-01-20-012023.cfm": {
+    "file": "2023-01-20-012023.cfm",
+    "date": "2023-01-20",
+    "lectionary_number": 315,
+    "feast": "Reading 1",
+    "sha12": "14468cdcc477",
+    "citations": [
+      "Heb 8:6-13",
+      "Mk 3:13-19",
+      "Ps 85:8"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T11:45:46+00:00"
   }
 }
