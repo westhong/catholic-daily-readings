@@ -852,5 +852,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T20:15:12+00:00"
+  },
+  "2023-02-23-022323.cfm": {
+    "file": "2023-02-23-022323.cfm",
+    "date": "2023-02-23",
+    "lectionary_number": 220,
+    "feast": "Reading 1",
+    "sha12": "9f2dba0c460d",
+    "citations": [
+      "Dt 30:15-20",
+      "Lk 9:22-25",
+      "Mt 4:17",
+      "Ps 1:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T20:30:20+00:00"
   }
 }
