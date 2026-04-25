@@ -15,5 +15,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T07:18:06+00:00"
+  },
+  "2023-01-02-010223.cfm": {
+    "file": "2023-01-02-010223.cfm",
+    "date": "2023-01-02",
+    "lectionary_number": 205,
+    "feast": "Reading I",
+    "sha12": "91f73a6cfa49",
+    "citations": [
+      "Heb 1:1-2",
+      "Jn 1:19-28",
+      "Jn 2:22-28"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T07:18:16+00:00"
   }
 }
