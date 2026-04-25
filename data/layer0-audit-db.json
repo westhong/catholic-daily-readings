@@ -1045,5 +1045,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T23:15:23+00:00"
+  },
+  "2023-03-07-030723.cfm": {
+    "file": "2023-03-07-030723.cfm",
+    "date": "2023-03-07",
+    "lectionary_number": 231,
+    "feast": "Reading 1",
+    "sha12": "304df073f4aa",
+    "citations": [
+      "Ez 18:31",
+      "Is 1:10,",
+      "Mt 23:1-12",
+      "Ps 50:8-9,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T23:30:32+00:00"
   }
 }
