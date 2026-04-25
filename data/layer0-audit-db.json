@@ -471,5 +471,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T14:15:56+00:00"
+  },
+  "2023-01-31-012323.cfm": {
+    "file": "2023-01-31-012323.cfm",
+    "date": "2023-01-31",
+    "lectionary_number": 317,
+    "feast": "Reading 1",
+    "sha12": "5a6cb49aab94",
+    "citations": [
+      "Heb 9:15,",
+      "Mk 3:22-30",
+      "Ps 98:1,",
+      "Tm 1:10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T14:30:06+00:00"
   }
 }
