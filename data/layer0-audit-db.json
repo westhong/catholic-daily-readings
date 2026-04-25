@@ -803,5 +803,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T19:30:45+00:00"
+  },
+  "2023-02-20-022023.cfm": {
+    "file": "2023-02-20-022023.cfm",
+    "date": "2023-02-20",
+    "lectionary_number": 341,
+    "feast": "Reading 1",
+    "sha12": "5daaee7de21a",
+    "citations": [
+      "Mk 9:14-29",
+      "Ps 93:1",
+      "Sir 1:1-10",
+      "Tm 1:10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T19:45:57+00:00"
   }
 }

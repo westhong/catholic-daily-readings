@@ -359,3 +359,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 79
 - **Citations** (5): Cor 3:16-23, Jn 2:5, Lv 19:1-2,, Mt 5:38-48, Ps 103:1-2,
 - **SHA**: `26ae1cb4a435`
+
+### ✅ 2023-02-20-022023.cfm — 2023-02-20
+- **Checked**: 2026-04-25 19:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 341
+- **Citations** (4): Mk 9:14-29, Ps 93:1, Sir 1:1-10, Tm 1:10
+- **SHA**: `5daaee7de21a`
