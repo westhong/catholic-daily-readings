@@ -183,5 +183,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T09:45:24+00:00"
+  },
+  "2023-01-13-011323.cfm": {
+    "file": "2023-01-13-011323.cfm",
+    "date": "2023-01-13",
+    "lectionary_number": 309,
+    "feast": "Reading I",
+    "sha12": "3adcf5d831e7",
+    "citations": [
+      "Hebrews 4:1-5,",
+      "Lk 7:16",
+      "Mk 2:1-12"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T10:00:34+00:00"
   }
 }

@@ -86,3 +86,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 308
 - **Citations** (3): Heb 3:7-14, Mk 1:40-45, Mt 4:23
 - **SHA**: `bf90aecc2ec4`
+
+### ✅ 2023-01-13-011323.cfm — 2023-01-13
+- **Checked**: 2026-04-25 10:00 UTC
+- **Feast**: Reading I
+- **Lectionary**: 309
+- **Citations** (3): Hebrews 4:1-5,, Lk 7:16, Mk 2:1-12
+- **SHA**: `3adcf5d831e7`
