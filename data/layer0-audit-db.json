@@ -437,5 +437,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T13:45:36+00:00"
+  },
+  "2023-01-29-012923.cfm": {
+    "file": "2023-01-29-012923.cfm",
+    "date": "2023-01-29",
+    "lectionary_number": 70,
+    "feast": "Reading 1",
+    "sha12": "0ec7de7f49df",
+    "citations": [
+      "Cor 1:26-31",
+      "Mt 5:1-12",
+      "Mt 5:12",
+      "Mt 5:3",
+      "Ps 146:6-7,",
+      "Zep 2:3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T14:00:46+00:00"
   }
 }
