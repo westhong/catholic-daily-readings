@@ -51,3 +51,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 210
 - **Citations** (4): Jn 2:1-11, Jn 5:14-21, Lk 7:16, Ps 149:1-2,
 - **SHA**: `8f4dfb5eda77`
+
+### ✅ 2023-01-08-010823.cfm — 2023-01-08
+- **Checked**: 2026-04-25 08:45 UTC
+- **Feast**: Reading I
+- **Lectionary**: 20
+- **Citations** (5): Eph 3:2-3, Is 60:1-6, Mt 2:1-12, Mt 2:2, Ps 72:1-2,
+- **SHA**: `c12c0ba393ec`

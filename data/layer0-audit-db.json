@@ -103,5 +103,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T08:30:24+00:00"
+  },
+  "2023-01-08-010823.cfm": {
+    "file": "2023-01-08-010823.cfm",
+    "date": "2023-01-08",
+    "lectionary_number": 20,
+    "feast": "Reading I",
+    "sha12": "c12c0ba393ec",
+    "citations": [
+      "Eph 3:2-3",
+      "Is 60:1-6",
+      "Mt 2:1-12",
+      "Mt 2:2",
+      "Ps 72:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T08:45:40+00:00"
   }
 }
