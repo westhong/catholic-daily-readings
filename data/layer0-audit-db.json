@@ -198,5 +198,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T10:00:34+00:00"
+  },
+  "2023-01-14-011423.cfm": {
+    "file": "2023-01-14-011423.cfm",
+    "date": "2023-01-14",
+    "lectionary_number": 310,
+    "feast": "Reading 1",
+    "sha12": "146b0b2cc91e",
+    "citations": [
+      "Heb 4:12-16",
+      "John 6:63",
+      "Lk 4:18",
+      "Mk 2:13-17"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T10:15:42+00:00"
   }
 }
