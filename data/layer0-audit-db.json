@@ -498,5 +498,20 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-25T14:45:17+00:00"
+  },
+  "2023-02-01-020123.cfm": {
+    "file": "2023-02-01-020123.cfm",
+    "date": "2023-02-01",
+    "lectionary_number": 325,
+    "feast": "Reading I",
+    "sha12": "bb9a42496590",
+    "citations": [
+      "Heb 12:4-7,",
+      "Jn 10:27",
+      "Mk 6:1-6"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T15:00:33+00:00"
   }
 }
