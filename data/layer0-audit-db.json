@@ -58,5 +58,19 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-25T07:45:48+00:00"
+  },
+  "2023-01-05-010523.cfm": {
+    "file": "2023-01-05-010523.cfm",
+    "date": "2023-01-05",
+    "lectionary_number": 208,
+    "feast": "Reading 1",
+    "sha12": "1c140948fae1",
+    "citations": [
+      "Jn 1:43-51",
+      "Jn 3:11-21"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-25T08:01:00+00:00"
   }
 }
