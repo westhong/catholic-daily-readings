@@ -1,0 +1,22 @@
+{
+  "2023-01-01-010123.cfm": {
+    "file": "2023-01-01-010123.cfm",
+    "date": null,
+    "lectionary_number": 18,
+    "feast": "Reading I",
+    "sha12": "f1c98a1e2632",
+    "citations": [
+      "Gal 4:4-7",
+      "Heb 1:1-2",
+      "Lk 2:16-21",
+      "Nm 6:22-27",
+      "Ps 67:2-3,"
+    ],
+    "warnings": [
+      "bible_text_in_para_11936chars",
+      "copyright_notice_detected"
+    ],
+    "status": "suspect",
+    "checked_at": "2026-04-25T07:16:02+00:00"
+  }
+}
