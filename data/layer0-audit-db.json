@@ -1907,5 +1907,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T12:30:07+00:00"
+  },
+  "2023-04-29-042923.cfm": {
+    "file": "2023-04-29-042923.cfm",
+    "date": "2023-04-29",
+    "lectionary_number": 278,
+    "feast": "Reading I",
+    "sha12": "c0dc3f6477ec",
+    "citations": [
+      "Acts 9:31-42",
+      "Jn 6:60-69",
+      "Jn 6:63"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T12:45:16+00:00"
   }
 }
