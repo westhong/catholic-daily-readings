@@ -2083,5 +2083,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T15:15:30+00:00"
+  },
+  "2023-05-10-051023.cfm": {
+    "file": "2023-05-10-051023.cfm",
+    "date": "2023-05-10",
+    "lectionary_number": 287,
+    "feast": "Reading 1",
+    "sha12": "1c8a0af81a78",
+    "citations": [
+      "Acts 15:1-6",
+      "Jn 15:1-8",
+      "Jn 15:4",
+      "Ps 122:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T15:30:42+00:00"
   }
 }
