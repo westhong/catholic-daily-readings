@@ -2506,5 +2506,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T22:15:35+00:00"
+  },
+  "2023-06-06-060623.cfm": {
+    "file": "2023-06-06-060623.cfm",
+    "date": "2023-06-06",
+    "lectionary_number": 354,
+    "feast": "Reading 1",
+    "sha12": "52908a356341",
+    "citations": [
+      "Eph 1:17-18",
+      "Mk 12:13-17",
+      "Ps 112:1-2,",
+      "Tb 2:9-14"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T22:30:45+00:00"
   }
 }
