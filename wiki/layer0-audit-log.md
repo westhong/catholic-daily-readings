@@ -1059,3 +1059,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 348
 - **Citations** (3): Mk 10:28-31, Ps 50:5-6,, Sir 35:1-12
 - **SHA**: `674bdec2a4ad`
+
+### ✅ 2023-05-25-tuesday-seventh-week-easter.cfm — 2023-05-25
+- **Checked**: 2026-04-26 20:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 298
+- **Citations** (4): Acts 20:17-27, Jn 14:16, Jn 17:1-11, Ps 68:10-11,
+- **SHA**: `d322d2ebf3e2`
