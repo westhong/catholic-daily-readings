@@ -1092,5 +1092,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T00:00:09+00:00"
+  },
+  "2023-03-10-031023.cfm": {
+    "file": "2023-03-10-031023.cfm",
+    "date": "2023-03-10",
+    "lectionary_number": 234,
+    "feast": "Reading 1",
+    "sha12": "f814042106f4",
+    "citations": [
+      "Gn 37:3-4,",
+      "Jn 3:16",
+      "Mt 21:33-43,",
+      "Ps 105:16-17,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T00:15:25+00:00"
   }
 }
