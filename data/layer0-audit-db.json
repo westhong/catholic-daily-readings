@@ -1747,5 +1747,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T10:00:59+00:00"
+  },
+  "2023-04-19-041923.cfm": {
+    "file": "2023-04-19-041923.cfm",
+    "date": "2023-04-19",
+    "lectionary_number": 269,
+    "feast": "Reading 1",
+    "sha12": "41b5099f066a",
+    "citations": [
+      "Acts 5:17-26",
+      "Jn 3:16",
+      "Jn 3:16-21",
+      "Ps 34:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T10:15:09+00:00"
   }
 }
