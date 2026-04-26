@@ -1809,5 +1809,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T11:00:44+00:00"
+  },
+  "2023-04-23-042323.cfm": {
+    "file": "2023-04-23-042323.cfm",
+    "date": "2023-04-23",
+    "lectionary_number": 46,
+    "feast": "Reading 1",
+    "sha12": "7959c009e214",
+    "citations": [
+      "Acts 2:14,",
+      "Lk 24:13-35",
+      "Lk 24:32",
+      "Ps 16:1-2,",
+      "Pt 1:17-21"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T11:15:58+00:00"
   }
 }
