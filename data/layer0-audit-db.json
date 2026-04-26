@@ -1462,5 +1462,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T05:45:25+00:00"
+  },
+  "2023-04-02-040223.cfm": {
+    "file": "2023-04-02-040223.cfm",
+    "date": "2023-04-02",
+    "lectionary_number": 37,
+    "feast": "At the Procession with Palms - Gospel",
+    "sha12": "cd389998a6c9",
+    "citations": [
+      "Is 50:4-7",
+      "Mt 21:1-11",
+      "Mt 26:14",
+      "Mt 27:11-54",
+      "Phil 2:6-11",
+      "Phil 2:8-9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T06:00:35+00:00"
   }
 }

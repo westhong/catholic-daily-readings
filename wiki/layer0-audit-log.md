@@ -646,3 +646,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 256
 - **Citations** (4): Ez 18:31, Ez 37:21-28, Jeremiah 31:10,, Jn 11:45-56
 - **SHA**: `73373c932db1`
+
+### ✅ 2023-04-02-040223.cfm — 2023-04-02
+- **Checked**: 2026-04-26 06:00 UTC
+- **Feast**: At the Procession with Palms - Gospel
+- **Lectionary**: 37
+- **Citations** (6): Is 50:4-7, Mt 21:1-11, Mt 26:14, Mt 27:11-54, Phil 2:6-11, Phil 2:8-9
+- **SHA**: `cd389998a6c9`
