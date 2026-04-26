@@ -2380,5 +2380,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T20:15:25+00:00"
+  },
+  "2023-05-30-053023.cfm": {
+    "file": "2023-05-30-053023.cfm",
+    "date": "2023-05-30",
+    "lectionary_number": 348,
+    "feast": "Reading 1",
+    "sha12": "674bdec2a4ad",
+    "citations": [
+      "Mk 10:28-31",
+      "Ps 50:5-6,",
+      "Sir 35:1-12"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T20:30:34+00:00"
   }
 }
