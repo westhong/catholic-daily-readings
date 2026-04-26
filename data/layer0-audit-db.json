@@ -1398,5 +1398,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T04:45:33+00:00"
+  },
+  "2023-03-29-032923.cfm": {
+    "file": "2023-03-29-032923.cfm",
+    "date": "2023-03-29",
+    "lectionary_number": 253,
+    "feast": "Reading 1",
+    "sha12": "91472ab872bb",
+    "citations": [
+      "Daniel 3:52,",
+      "Dn 3:14-20,",
+      "Jn 8:31-42",
+      "Lk 8:15"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T05:00:49+00:00"
   }
 }
