@@ -1938,5 +1938,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T13:00:27+00:00"
+  },
+  "2023-05-01-050123.cfm": {
+    "file": "2023-05-01-050123.cfm",
+    "date": "2023-05-01",
+    "lectionary_number": 279,
+    "feast": "Reading 1",
+    "sha12": "9681a99fe144",
+    "citations": [
+      "Acts 11:1-18",
+      "Jn 10:11-18",
+      "Jn 10:14",
+      "Ps 42:2-3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T13:15:41+00:00"
   }
 }
