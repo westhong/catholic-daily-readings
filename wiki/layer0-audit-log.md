@@ -961,3 +961,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 292
 - **Citations** (4): Acts 16:22-34, Jn 16:5-11, Jn 16:7,, Ps 138:1-2
 - **SHA**: `e6cd5cfa7008`
+
+### ✅ 2023-05-17-051723.cfm — 2023-05-17
+- **Checked**: 2026-04-26 17:15 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 293
+- **Citations** (4): Acts 17:15,, Jn 14:16, Jn 16:12-15, Ps 148:1-2,
+- **SHA**: `1522f8af2d02`
