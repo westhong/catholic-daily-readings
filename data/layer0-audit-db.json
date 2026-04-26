@@ -1874,5 +1874,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T12:00:27+00:00"
+  },
+  "2023-04-27-042723.cfm": {
+    "file": "2023-04-27-042723.cfm",
+    "date": "2023-04-27",
+    "lectionary_number": 276,
+    "feast": "Reading 1",
+    "sha12": "726746928bef",
+    "citations": [
+      "Acts 8:26-40",
+      "Jn 6:44-51",
+      "Jn 6:51",
+      "Ps 66:8-9,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T12:15:49+00:00"
   }
 }
