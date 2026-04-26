@@ -2164,5 +2164,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T16:30:25+00:00"
+  },
+  "2023-05-15-051523.cfm": {
+    "file": "2023-05-15-051523.cfm",
+    "date": "2023-05-15",
+    "lectionary_number": 291,
+    "feast": "Reading 1",
+    "sha12": "fc5728fffc05",
+    "citations": [
+      "Acts 16:11-15",
+      "Jn 15:26",
+      "Ps 149:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T16:45:33+00:00"
   }
 }
