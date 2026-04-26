@@ -2211,5 +2211,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T17:15:59+00:00"
+  },
+  "2023-05-18-051823.cfm": {
+    "file": "2023-05-18-051823.cfm",
+    "date": "2023-05-18",
+    "lectionary_number": 58,
+    "feast": null,
+    "sha12": "846a4f0cf25f",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-26T17:30:08+00:00"
   }
 }
