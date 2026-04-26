@@ -1651,5 +1651,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T08:30:45+00:00"
+  },
+  "2023-04-13-041323.cfm": {
+    "file": "2023-04-13-041323.cfm",
+    "date": "2023-04-13",
+    "lectionary_number": 264,
+    "feast": "Reading 1",
+    "sha12": "4a9363276628",
+    "citations": [
+      "Acts 3:11-26",
+      "Lk 24:35-48",
+      "Ps 118:24"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T08:46:00+00:00"
   }
 }
