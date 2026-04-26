@@ -2237,5 +2237,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T17:45:23+00:00"
+  },
+  "2023-05-20-052023.cfm": {
+    "file": "2023-05-20-052023.cfm",
+    "date": "2023-05-20",
+    "lectionary_number": 296,
+    "feast": "Reading 1",
+    "sha12": "46344afc0172",
+    "citations": [
+      "Acts 18:23-28",
+      "Jn 16:23",
+      "Jn 16:28",
+      "Ps 47:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T18:00:31+00:00"
   }
 }
