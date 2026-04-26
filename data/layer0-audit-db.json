@@ -1141,5 +1141,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T00:45:42+00:00"
+  },
+  "2023-03-13-031323.cfm": {
+    "file": "2023-03-13-031323.cfm",
+    "date": "2023-03-13",
+    "lectionary_number": 237,
+    "feast": "Reading 1",
+    "sha12": "94f77c5b273e",
+    "citations": [
+      "Kgs 5:1-15",
+      "Lk 4:24-30",
+      "Psalm 130:5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T01:00:51+00:00"
   }
 }
