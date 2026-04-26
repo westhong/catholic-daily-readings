@@ -2131,5 +2131,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T16:01:01+00:00"
+  },
+  "2023-05-13-051323.cfm": {
+    "file": "2023-05-13-051323.cfm",
+    "date": "2023-05-13",
+    "lectionary_number": 290,
+    "feast": "Reading 1",
+    "sha12": "03bb19a3f629",
+    "citations": [
+      "Acts 16:1-10",
+      "Col 3:1",
+      "Jn 15:18-21",
+      "Ps 100:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T16:15:09+00:00"
   }
 }
