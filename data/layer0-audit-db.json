@@ -1666,5 +1666,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T08:46:00+00:00"
+  },
+  "2023-04-14-041423.cfm": {
+    "file": "2023-04-14-041423.cfm",
+    "date": "2023-04-14",
+    "lectionary_number": 265,
+    "feast": "Reading 1",
+    "sha12": "ee01523a3de5",
+    "citations": [
+      "Acts 4:1-12",
+      "Jn 21:1-14",
+      "Ps 118:1-2",
+      "Ps 118:24"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T09:00:11+00:00"
   }
 }
