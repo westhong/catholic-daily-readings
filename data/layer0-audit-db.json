@@ -1156,5 +1156,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T01:00:51+00:00"
+  },
+  "2023-03-14-031423.cfm": {
+    "file": "2023-03-14-031423.cfm",
+    "date": "2023-03-14",
+    "lectionary_number": 238,
+    "feast": "Reading 1",
+    "sha12": "f69fc888c5bb",
+    "citations": [
+      "Dn 3:25,",
+      "Jl 2:12-13",
+      "Mt 18:21-35",
+      "Ps 25:4-5"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T01:16:03+00:00"
   }
 }
