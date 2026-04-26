@@ -751,3 +751,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 43
 - **Citations** (5): Acts 2:42-47, Jn 20:19-31, Jn 20:29, Ps 118:2-4,, Pt 1:3-9
 - **SHA**: `60bee167ff7b`
+
+### ✅ 2023-04-17-041723.cfm — 2023-04-17
+- **Checked**: 2026-04-26 09:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 267
+- **Citations** (4): Acts 4:23-31, Col 3:1, Jn 3:1-8, Ps 2:1-3,
+- **SHA**: `e29d68011001`
