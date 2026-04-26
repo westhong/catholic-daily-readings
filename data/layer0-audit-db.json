@@ -1124,5 +1124,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T00:30:33+00:00"
+  },
+  "2023-03-12-031223.cfm": {
+    "file": "2023-03-12-031223.cfm",
+    "date": "2023-03-12",
+    "lectionary_number": 28,
+    "feast": "Reading I",
+    "sha12": "6d5388249dd9",
+    "citations": [
+      "Ex 17:3-7",
+      "Jn 4:42,",
+      "Jn 4:5-15,",
+      "Jn 4:5-42",
+      "Rom 5:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T00:45:42+00:00"
   }
 }
