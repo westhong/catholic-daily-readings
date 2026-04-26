@@ -2322,5 +2322,21 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-26T19:15:17+00:00"
+  },
+  "2023-05-26-052623.cfm": {
+    "file": "2023-05-26-052623.cfm",
+    "date": "2023-05-26",
+    "lectionary_number": 301,
+    "feast": "Reading 1",
+    "sha12": "f6197331cc31",
+    "citations": [
+      "Acts 25:13",
+      "Jn 14:26",
+      "Jn 21:15-19",
+      "Ps 103:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T19:30:47+00:00"
   }
 }
