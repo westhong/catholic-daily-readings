@@ -1826,5 +1826,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T11:15:58+00:00"
+  },
+  "2023-04-24-042423.cfm": {
+    "file": "2023-04-24-042423.cfm",
+    "date": "2023-04-24",
+    "lectionary_number": 273,
+    "feast": "Reading 1",
+    "sha12": "a2d86eb16973",
+    "citations": [
+      "Acts 6:8-15",
+      "Jn 6:22-29",
+      "Mt 4:4",
+      "Ps 119:23-24,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T11:30:08+00:00"
   }
 }
