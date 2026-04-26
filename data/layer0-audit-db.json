@@ -1731,5 +1731,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T09:45:46+00:00"
+  },
+  "2023-04-18-041823.cfm": {
+    "file": "2023-04-18-041823.cfm",
+    "date": "2023-04-18",
+    "lectionary_number": 268,
+    "feast": "Reading 1",
+    "sha12": "9ed3ba94fa13",
+    "citations": [
+      "Acts 4:32-37",
+      "Jn 3:14-15",
+      "Jn 3:7",
+      "Ps 93:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T10:00:59+00:00"
   }
 }
