@@ -1302,5 +1302,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T03:15:20+00:00"
+  },
+  "2023-03-23-032323.cfm": {
+    "file": "2023-03-23-032323.cfm",
+    "date": "2023-03-23",
+    "lectionary_number": 247,
+    "feast": "Reading 1",
+    "sha12": "c37409db144a",
+    "citations": [
+      "Ex 32:7-14",
+      "Jn 3:16",
+      "Jn 5:31-47",
+      "Ps 106:19-20,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T03:30:35+00:00"
   }
 }
