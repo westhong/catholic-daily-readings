@@ -2099,5 +2099,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T15:30:42+00:00"
+  },
+  "2023-05-11-051123.cfm": {
+    "file": "2023-05-11-051123.cfm",
+    "date": "2023-05-11",
+    "lectionary_number": 288,
+    "feast": "Reading 1",
+    "sha12": "47b0b47bbe0b",
+    "citations": [
+      "Acts 15:7-21",
+      "Jn 10:27",
+      "Jn 15:9-11",
+      "Ps 96:1-2"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T15:45:50+00:00"
   }
 }
