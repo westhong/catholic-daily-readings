@@ -2018,5 +2018,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T14:15:49+00:00"
+  },
+  "2023-05-06-050623.cfm": {
+    "file": "2023-05-06-050623.cfm",
+    "date": "2023-05-06",
+    "lectionary_number": 284,
+    "feast": "Reading 1",
+    "sha12": "8768717ce701",
+    "citations": [
+      "Acts 13:44-52",
+      "Jn 14:7-14",
+      "Jn 8:31",
+      "Ps 98:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T14:31:00+00:00"
   }
 }
