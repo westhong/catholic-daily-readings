@@ -2296,5 +2296,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T18:45:34+00:00"
+  },
+  "2023-05-24-052423.cfm": {
+    "file": "2023-05-24-052423.cfm",
+    "date": "2023-05-24",
+    "lectionary_number": 299,
+    "feast": "Reading 1",
+    "sha12": "fa5c3dbdb080",
+    "citations": [
+      "Acts 20:28-38",
+      "Jn 17:11",
+      "Jn 17:17"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T19:00:06+00:00"
   }
 }
