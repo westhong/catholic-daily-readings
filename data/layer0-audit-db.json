@@ -1270,5 +1270,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T02:45:57+00:00"
+  },
+  "2023-03-21-032123.cfm": {
+    "file": "2023-03-21-032123.cfm",
+    "date": "2023-03-21",
+    "lectionary_number": 245,
+    "feast": "Reading 1",
+    "sha12": "964eb1308961",
+    "citations": [
+      "Ez 47:1-9,",
+      "Jn 5:1-16",
+      "Ps 46:2-3,",
+      "Ps 51:12"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T03:00:06+00:00"
   }
 }
