@@ -2570,5 +2570,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T23:15:22+00:00"
+  },
+  "2023-06-10-061023.cfm": {
+    "file": "2023-06-10-061023.cfm",
+    "date": "2023-06-10",
+    "lectionary_number": 358,
+    "feast": "Reading 1",
+    "sha12": "06bb83e094ed",
+    "citations": [
+      "Mk 12:38-44",
+      "Mt 5:3",
+      "Tb 12:1,",
+      "Tobit 13:2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T23:30:31+00:00"
   }
 }
