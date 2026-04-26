@@ -1763,5 +1763,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T10:15:09+00:00"
+  },
+  "2023-04-20-042023.cfm": {
+    "file": "2023-04-20-042023.cfm",
+    "date": "2023-04-20",
+    "lectionary_number": 270,
+    "feast": "Reading 1",
+    "sha12": "45fc0cde623f",
+    "citations": [
+      "Acts 5:27-33",
+      "Jn 20:29",
+      "Jn 3:31-36",
+      "Ps 34:2"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T10:30:17+00:00"
   }
 }
