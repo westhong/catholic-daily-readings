@@ -1383,5 +1383,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T04:30:21+00:00"
+  },
+  "2023-03-28-032823.cfm": {
+    "file": "2023-03-28-032823.cfm",
+    "date": "2023-03-28",
+    "lectionary_number": 252,
+    "feast": "Reading 1",
+    "sha12": "9defe117d9b1",
+    "citations": [
+      "Jn 8:21-30",
+      "Nm 21:4-9",
+      "Ps 102:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T04:45:33+00:00"
   }
 }
