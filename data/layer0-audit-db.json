@@ -2443,5 +2443,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-26T21:15:59+00:00"
+  },
+  "2023-06-02-060223.cfm": {
+    "file": "2023-06-02-060223.cfm",
+    "date": "2023-06-02",
+    "lectionary_number": 351,
+    "feast": "Reading 1",
+    "sha12": "28bcdc4e0f44",
+    "citations": [
+      "Jn 15:16",
+      "Mk 11:11-26",
+      "Sir 44:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-26T21:30:09+00:00"
   }
 }

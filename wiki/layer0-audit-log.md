@@ -1087,3 +1087,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 350
 - **Citations** (3): Jn 8:12, Mk 10:46-52, Sir 42:15-25
 - **SHA**: `f4194e4801ec`
+
+### ✅ 2023-06-02-060223.cfm — 2023-06-02
+- **Checked**: 2026-04-26 21:30 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 351
+- **Citations** (3): Jn 15:16, Mk 11:11-26, Sir 44:1,
+- **SHA**: `28bcdc4e0f44`
