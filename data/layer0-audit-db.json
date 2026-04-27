@@ -2684,5 +2684,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T01:00:09+00:00"
+  },
+  "2023-06-17-061723.cfm": {
+    "file": "2023-06-17-061723.cfm",
+    "date": "2023-06-17",
+    "lectionary_number": 573,
+    "feast": "Reading I",
+    "sha12": "59ad88e9d2a8",
+    "citations": [
+      "Cor 5:14-21",
+      "Lk 2:19",
+      "Lk 2:41-51"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T01:15:20+00:00"
   }
 }

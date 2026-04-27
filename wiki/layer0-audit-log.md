@@ -1192,3 +1192,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 170
 - **Citations** (5): Dt 7:6-11, Jn 4:7-16, Mt 11:25-30, Mt 11:29, Ps 103:1-2,
 - **SHA**: `4ad36b228ae6`
+
+### ✅ 2023-06-17-061723.cfm — 2023-06-17
+- **Checked**: 2026-04-27 01:15 UTC
+- **Feast**: Reading I
+- **Lectionary**: 573
+- **Citations** (3): Cor 5:14-21, Lk 2:19, Lk 2:41-51
+- **SHA**: `59ad88e9d2a8`
