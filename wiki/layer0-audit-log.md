@@ -1689,3 +1689,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 424
 - **Citations** (4): Mt 23:1-12, Mt 23:9, Ps 128:1, Ru 2:1-3,
 - **SHA**: `ffa196a45bd7`
+
+### ✅ 2023-08-27-082723.cfm — 2023-08-27
+- **Checked**: 2026-04-27 19:00 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 121
+- **Citations** (5): Is 22:19-23, Mt 16:13-20, Mt 16:18, Ps 138:1-2,, Rom 11:33-36
+- **SHA**: `c3af0b8918bb`
