@@ -3369,5 +3369,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T11:45:41+00:00"
+  },
+  "2023-07-30-073023.cfm": {
+    "file": "2023-07-30-073023.cfm",
+    "date": "2023-07-30",
+    "lectionary_number": 109,
+    "feast": "Reading 1",
+    "sha12": "56ae9eec673d",
+    "citations": [
+      "Kgs 3:5,",
+      "Mt 11:25",
+      "Mt 13:44-46",
+      "Mt 13:44-52",
+      "Ps 119:57,",
+      "Rom 8:28-30"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T12:00:54+00:00"
   }
 }
