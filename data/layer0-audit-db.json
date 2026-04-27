@@ -2806,5 +2806,22 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-27T03:00:34+00:00"
+  },
+  "2023-06-25-062523.cfm": {
+    "file": "2023-06-25-062523.cfm",
+    "date": "2023-06-25",
+    "lectionary_number": 94,
+    "feast": "Reading 1",
+    "sha12": "76c66e56f81f",
+    "citations": [
+      "Jer 20:10-13",
+      "Jn 15:26",
+      "Mt 10:26-33",
+      "Ps 69:8-10,",
+      "Rom 5:12-15"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T03:15:42+00:00"
   }
 }
