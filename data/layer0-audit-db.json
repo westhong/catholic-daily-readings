@@ -2882,5 +2882,20 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-27T04:15:26+00:00"
+  },
+  "2023-06-30-063023.cfm": {
+    "file": "2023-06-30-063023.cfm",
+    "date": "2023-06-30",
+    "lectionary_number": 375,
+    "feast": "Reading I",
+    "sha12": "11f297727c75",
+    "citations": [
+      "Gn 17:1,",
+      "Mt 8:1-4",
+      "Mt 8:17"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T04:30:48+00:00"
   }
 }
