@@ -2635,5 +2635,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T00:15:19+00:00"
+  },
+  "2023-06-14-061423.cfm": {
+    "file": "2023-06-14-061423.cfm",
+    "date": "2023-06-14",
+    "lectionary_number": 361,
+    "feast": "Reading 1",
+    "sha12": "21f5d17b3e25",
+    "citations": [
+      "Cor 3:4-11",
+      "Mt 5:17-19",
+      "Ps 25:4",
+      "Ps 99:5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T00:30:46+00:00"
   }
 }
