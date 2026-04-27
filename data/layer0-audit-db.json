@@ -3191,5 +3191,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T09:00:39+00:00"
+  },
+  "2023-07-19-071923.cfm": {
+    "file": "2023-07-19-071923.cfm",
+    "date": "2023-07-19",
+    "lectionary_number": 391,
+    "feast": "Reading 1",
+    "sha12": "df9e701e96da",
+    "citations": [
+      "Ex 3:1-6,",
+      "Mt 11:25",
+      "Mt 11:25-27",
+      "Ps 103:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T09:15:49+00:00"
   }
 }
