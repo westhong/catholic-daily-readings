@@ -2732,5 +2732,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T01:45:44+00:00"
+  },
+  "2023-06-20-062023.cfm": {
+    "file": "2023-06-20-062023.cfm",
+    "date": "2023-06-20",
+    "lectionary_number": 366,
+    "feast": "Reading 1",
+    "sha12": "c2a987886499",
+    "citations": [
+      "Cor 8:1-9",
+      "Jn 13:34",
+      "Mt 5:43-48",
+      "Ps 146:2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T02:00:53+00:00"
   }
 }
