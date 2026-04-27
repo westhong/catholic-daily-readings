@@ -3387,5 +3387,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T12:00:54+00:00"
+  },
+  "2023-07-31-073123.cfm": {
+    "file": "2023-07-31-073123.cfm",
+    "date": "2023-07-31",
+    "lectionary_number": 401,
+    "feast": "Reading 1",
+    "sha12": "fbbc4eb74e7b",
+    "citations": [
+      "Ex 32:15-24,",
+      "Jas 1:18",
+      "Mt 13:31-35",
+      "Ps 106:19-20,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T12:15:07+00:00"
   }
 }
