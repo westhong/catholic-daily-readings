@@ -1773,3 +1773,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 434
 - **Citations** (4): Col 1:9-14, Lk 5:1-11, Mt 4:19, Ps 98:2-3
 - **SHA**: `09d90d06a8b9`
+
+### ✅ 2023-09-08-090823.cfm — 2023-09-08
+- **Checked**: 2026-04-27 22:00 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 636
+- **Citations** (6): Isaiah 61:10, Mi 5:1-4, Mt 1:1-16,, Mt 1:18-23, Ps 13:6, Rom 8:28-30
+- **SHA**: `81148f312637`

@@ -4008,5 +4008,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T21:45:19+00:00"
+  },
+  "2023-09-08-090823.cfm": {
+    "file": "2023-09-08-090823.cfm",
+    "date": "2023-09-08",
+    "lectionary_number": 636,
+    "feast": "Reading 1",
+    "sha12": "81148f312637",
+    "citations": [
+      "Isaiah 61:10",
+      "Mi 5:1-4",
+      "Mt 1:1-16,",
+      "Mt 1:18-23",
+      "Ps 13:6",
+      "Rom 8:28-30"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T22:00:37+00:00"
   }
 }
