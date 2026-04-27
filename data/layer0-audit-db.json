@@ -3547,5 +3547,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T14:30:49+00:00"
+  },
+  "2023-08-10-081023.cfm": {
+    "file": "2023-08-10-081023.cfm",
+    "date": "2023-08-10",
+    "lectionary_number": 618,
+    "feast": "Reading 1",
+    "sha12": "4b890a392ed6",
+    "citations": [
+      "Cor 9:6-10",
+      "Jn 12:24-26",
+      "Jn 8:12",
+      "Ps 112:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T14:46:01+00:00"
   }
 }
