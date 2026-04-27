@@ -2979,5 +2979,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T05:45:48+00:00"
+  },
+  "2023-07-06-070623.cfm": {
+    "file": "2023-07-06-070623.cfm",
+    "date": "2023-07-06",
+    "lectionary_number": 380,
+    "feast": "Reading 1",
+    "sha12": "d966c0c598dc",
+    "citations": [
+      "Cor 5:19",
+      "Gn 22:1",
+      "Mt 9:1-8",
+      "Ps 115:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T06:00:57+00:00"
   }
 }
