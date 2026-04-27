@@ -3305,5 +3305,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T10:45:56+00:00"
+  },
+  "2023-07-26-072623.cfm": {
+    "file": "2023-07-26-072623.cfm",
+    "date": "2023-07-26",
+    "lectionary_number": 397,
+    "feast": "Reading 1",
+    "sha12": "be9a2f1ecfcd",
+    "citations": [
+      "Ex 16:1-5,",
+      "Mt 13:1-9",
+      "Ps 78:18-19,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T11:00:08+00:00"
   }
 }
