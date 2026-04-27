@@ -3223,5 +3223,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T09:31:01+00:00"
+  },
+  "2023-07-21-072123.cfm": {
+    "file": "2023-07-21-072123.cfm",
+    "date": "2023-07-21",
+    "lectionary_number": 393,
+    "feast": "Reading 1",
+    "sha12": "32d434b1d87d",
+    "citations": [
+      "Ex 11:10",
+      "Jn 10:27",
+      "Mt 12:1-8",
+      "Ps 116:12-13,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T09:45:13+00:00"
   }
 }
