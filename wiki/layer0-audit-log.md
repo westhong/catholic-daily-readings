@@ -1724,3 +1724,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 428
 - **Citations** (4): Mt 24:42, Mt 24:42-51, Ps 90:3-5, Thes 3:7-13
 - **SHA**: `cf9fb787dce4`
+
+### ✅ 2023-09-01-090123.cfm — 2023-09-01
+- **Checked**: 2026-04-27 20:15 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 429
+- **Citations** (4): Lk 21:36, Mt 25:1-13, Ps 97:1, Thes 4:1-8
+- **SHA**: `3cb1dd51a99a`
