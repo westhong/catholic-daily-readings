@@ -3418,5 +3418,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T12:30:16+00:00"
+  },
+  "2023-08-02-080223.cfm": {
+    "file": "2023-08-02-080223.cfm",
+    "date": "2023-08-02",
+    "lectionary_number": 403,
+    "feast": "Reading 1",
+    "sha12": "7191acd70be2",
+    "citations": [
+      "Ex 34:29-35",
+      "Jn 15:15",
+      "Mt 13:44-46",
+      "Ps 99:5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T12:45:26+00:00"
   }
 }
