@@ -3720,5 +3720,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T17:15:22+00:00"
+  },
+  "2023-08-21-082123.cfm": {
+    "file": "2023-08-21-082123.cfm",
+    "date": "2023-08-21",
+    "lectionary_number": 419,
+    "feast": "Reading I",
+    "sha12": "ad9fabe806ca",
+    "citations": [
+      "Jgs 2:11-19",
+      "Mt 19:16-22",
+      "Mt 5:3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T17:30:30+00:00"
   }
 }
