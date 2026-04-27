@@ -3027,5 +3027,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T06:30:31+00:00"
+  },
+  "2023-07-09-070923.cfm": {
+    "file": "2023-07-09-070923.cfm",
+    "date": "2023-07-09",
+    "lectionary_number": 100,
+    "feast": "Reading 1",
+    "sha12": "cfc382f23268",
+    "citations": [
+      "Mt 11:25",
+      "Mt 11:25-30",
+      "Ps 145:1-2,",
+      "Rom 8:9,",
+      "Zec 9:9-10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T06:45:43+00:00"
   }
 }
