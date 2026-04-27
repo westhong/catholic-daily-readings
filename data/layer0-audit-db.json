@@ -3076,5 +3076,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T07:15:10+00:00"
+  },
+  "2023-07-12-071223.cfm": {
+    "file": "2023-07-12-071223.cfm",
+    "date": "2023-07-12",
+    "lectionary_number": 385,
+    "feast": "Reading 1",
+    "sha12": "97c3e652ffd8",
+    "citations": [
+      "Gn 41:55-57",
+      "Mk 1:15",
+      "Mt 10:1-7",
+      "Ps 33:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T07:30:21+00:00"
   }
 }
