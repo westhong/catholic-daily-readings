@@ -2963,5 +2963,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T05:30:36+00:00"
+  },
+  "2023-07-05-070523.cfm": {
+    "file": "2023-07-05-070523.cfm",
+    "date": "2023-07-05",
+    "lectionary_number": 379,
+    "feast": "Reading 1",
+    "sha12": "7d1def81d13a",
+    "citations": [
+      "Gn 21:5,",
+      "Jas 1:18",
+      "Mt 8:28-34",
+      "Ps 34:7-8,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T05:45:48+00:00"
   }
 }
