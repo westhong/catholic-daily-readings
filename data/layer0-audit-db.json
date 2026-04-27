@@ -3880,5 +3880,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T19:45:06+00:00"
+  },
+  "2023-08-31-083123.cfm": {
+    "file": "2023-08-31-083123.cfm",
+    "date": "2023-08-31",
+    "lectionary_number": 428,
+    "feast": "Reading 1",
+    "sha12": "cf9fb787dce4",
+    "citations": [
+      "Mt 24:42",
+      "Mt 24:42-51",
+      "Ps 90:3-5",
+      "Thes 3:7-13"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T20:00:15+00:00"
   }
 }
