@@ -3352,5 +3352,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T11:30:30+00:00"
+  },
+  "2023-07-29-072923.cfm": {
+    "file": "2023-07-29-072923.cfm",
+    "date": "2023-07-29",
+    "lectionary_number": 400,
+    "feast": "Reading 1",
+    "sha12": "be67ab9d2798",
+    "citations": [
+      "Ex 24:3-8",
+      "Jn 11:19-27",
+      "Jn 8:12",
+      "Lk 10:38-42",
+      "Ps 50:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T11:45:41+00:00"
   }
 }
