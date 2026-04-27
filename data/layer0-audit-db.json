@@ -2871,5 +2871,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T04:00:15+00:00"
+  },
+  "2023-06-29-062923.cfm": {
+    "file": "2023-06-29-062923.cfm",
+    "date": "2023-06-29",
+    "lectionary_number": 590,
+    "feast": null,
+    "sha12": "0c7d534dab5f",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-27T04:15:26+00:00"
   }
 }
