@@ -2839,5 +2839,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T03:30:54+00:00"
+  },
+  "2023-06-27-062723.cfm": {
+    "file": "2023-06-27-062723.cfm",
+    "date": "2023-06-27",
+    "lectionary_number": 372,
+    "feast": "Reading 1",
+    "sha12": "d590e4bd2258",
+    "citations": [
+      "Gn 13:2,",
+      "Jn 8:12",
+      "Mt 7:6,",
+      "Ps 15:2-3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T03:45:05+00:00"
   }
 }
