@@ -3092,5 +3092,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T07:30:21+00:00"
+  },
+  "2023-07-13-071323.cfm": {
+    "file": "2023-07-13-071323.cfm",
+    "date": "2023-07-13",
+    "lectionary_number": 386,
+    "feast": "Reading 1",
+    "sha12": "8f69013f2e02",
+    "citations": [
+      "Gn 44:18-21,",
+      "Mk 1:15",
+      "Mt 10:7-15",
+      "Ps 105:16-17,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T07:45:32+00:00"
   }
 }
