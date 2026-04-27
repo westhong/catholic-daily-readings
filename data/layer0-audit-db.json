@@ -3108,5 +3108,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T07:45:32+00:00"
+  },
+  "2023-07-14-071423.cfm": {
+    "file": "2023-07-14-071423.cfm",
+    "date": "2023-07-14",
+    "lectionary_number": 387,
+    "feast": "Reading 1",
+    "sha12": "d09800803dfd",
+    "citations": [
+      "Gn 46:1-7,",
+      "Jn 16:13",
+      "Mt 10:16-23",
+      "Ps 37:3-4,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T08:00:49+00:00"
   }
 }
