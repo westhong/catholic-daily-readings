@@ -3141,5 +3141,23 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T08:16:05+00:00"
+  },
+  "2023-07-16-071623.cfm": {
+    "file": "2023-07-16-071623.cfm",
+    "date": "2023-07-16",
+    "lectionary_number": 103,
+    "feast": "Reading 1",
+    "sha12": "a305565b42de",
+    "citations": [
+      "Is 55:10-11",
+      "Lk 8:8",
+      "Mt 13:1-23",
+      "Mt 13:1-9",
+      "Ps 65:10,",
+      "Rom 8:18-23"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T08:30:16+00:00"
   }
 }
