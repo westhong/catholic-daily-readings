@@ -3466,5 +3466,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T13:15:56+00:00"
+  },
+  "2023-08-05-080523.cfm": {
+    "file": "2023-08-05-080523.cfm",
+    "date": "2023-08-05",
+    "lectionary_number": 406,
+    "feast": "Reading 1",
+    "sha12": "24ab21a9431f",
+    "citations": [
+      "Lv 25:1,",
+      "Mt 14:1-12",
+      "Mt 5:10",
+      "Ps 67:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T13:30:07+00:00"
   }
 }
