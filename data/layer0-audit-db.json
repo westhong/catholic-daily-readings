@@ -2897,5 +2897,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T04:30:48+00:00"
+  },
+  "2023-07-01-070123.cfm": {
+    "file": "2023-07-01-070123.cfm",
+    "date": "2023-07-01",
+    "lectionary_number": 376,
+    "feast": "Reading 1",
+    "sha12": "385ca575e1ad",
+    "citations": [
+      "Gn 18:1-15",
+      "Luke 1:46-47,",
+      "Mt 8:17",
+      "Mt 8:5-17"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T04:45:59+00:00"
   }
 }
