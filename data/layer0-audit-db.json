@@ -2913,5 +2913,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T04:45:59+00:00"
+  },
+  "2023-07-02-070223.cfm": {
+    "file": "2023-07-02-070223.cfm",
+    "date": "2023-07-02",
+    "lectionary_number": 97,
+    "feast": "Reading 1",
+    "sha12": "2499717ebf19",
+    "citations": [
+      "Kgs 4:8-11,",
+      "Mt 10:37-42",
+      "Ps 89:2-3,",
+      "Pt 2:9",
+      "Rom 6:3-4,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T05:00:08+00:00"
   }
 }
