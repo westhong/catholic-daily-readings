@@ -2764,5 +2764,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T02:16:01+00:00"
+  },
+  "2023-06-22-062223.cfm": {
+    "file": "2023-06-22-062223.cfm",
+    "date": "2023-06-22",
+    "lectionary_number": 368,
+    "feast": "Reading 1",
+    "sha12": "ab26d59ccfa3",
+    "citations": [
+      "Cor 11:1-11",
+      "Mt 6:7-15",
+      "Ps 111:1",
+      "Rom 8:15"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T02:30:10+00:00"
   }
 }
