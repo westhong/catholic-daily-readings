@@ -3239,5 +3239,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T09:45:13+00:00"
+  },
+  "2023-07-22-072223.cfm": {
+    "file": "2023-07-22-072223.cfm",
+    "date": "2023-07-22",
+    "lectionary_number": 603,
+    "feast": "Reading 1",
+    "sha12": "a6a668b0532f",
+    "citations": [
+      "Cor 5:14-17",
+      "Jn 20:1-2,",
+      "Ps 63:2,",
+      "Sgs 3:1-4"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T10:00:25+00:00"
   }
 }
