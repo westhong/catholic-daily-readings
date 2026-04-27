@@ -3044,5 +3044,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T06:45:43+00:00"
+  },
+  "2023-07-10-071023.cfm": {
+    "file": "2023-07-10-071023.cfm",
+    "date": "2023-07-10",
+    "lectionary_number": 383,
+    "feast": "Reading 1",
+    "sha12": "54795a7b4735",
+    "citations": [
+      "Gn 28:10-22",
+      "Mt 9:18-26",
+      "Ps 91:1-2,",
+      "Tm 1:10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T07:00:57+00:00"
   }
 }
