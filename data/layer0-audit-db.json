@@ -2619,5 +2619,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T00:00:07+00:00"
+  },
+  "2023-06-13-061323.cfm": {
+    "file": "2023-06-13-061323.cfm",
+    "date": "2023-06-13",
+    "lectionary_number": 360,
+    "feast": "Reading 1",
+    "sha12": "48fa722864f7",
+    "citations": [
+      "Cor 1:18-22",
+      "Mt 5:13-16",
+      "Mt 5:16",
+      "Ps 119:129,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T00:15:19+00:00"
   }
 }
