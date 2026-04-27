@@ -3159,5 +3159,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T08:30:16+00:00"
+  },
+  "2023-07-17-071723.cfm": {
+    "file": "2023-07-17-071723.cfm",
+    "date": "2023-07-17",
+    "lectionary_number": 389,
+    "feast": "Reading 1",
+    "sha12": "0d94b437b0d1",
+    "citations": [
+      "Ex 1:8-14,",
+      "Mt 10:34",
+      "Mt 5:10",
+      "Ps 124:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T08:45:26+00:00"
   }
 }
