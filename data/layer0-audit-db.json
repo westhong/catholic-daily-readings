@@ -3767,5 +3767,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T18:00:57+00:00"
+  },
+  "2023-08-24-082423.cfm": {
+    "file": "2023-08-24-082423.cfm",
+    "date": "2023-08-24",
+    "lectionary_number": 629,
+    "feast": "Reading 1",
+    "sha12": "7fa6bc94118a",
+    "citations": [
+      "Jn 1:45-51",
+      "Jn 1:49",
+      "Ps 145:10-11,",
+      "Rv 21:9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T18:15:11+00:00"
   }
 }
