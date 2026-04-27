@@ -2795,5 +2795,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T02:45:21+00:00"
+  },
+  "2023-06-24-062423.cfm": {
+    "file": "2023-06-24-062423.cfm",
+    "date": "2023-06-24",
+    "lectionary_number": 586,
+    "feast": null,
+    "sha12": "7f12b097c077",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-27T03:00:34+00:00"
   }
 }
