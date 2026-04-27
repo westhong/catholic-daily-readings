@@ -3671,5 +3671,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-27T16:30:40+00:00"
+  },
+  "2023-08-18-081823.cfm": {
+    "file": "2023-08-18-081823.cfm",
+    "date": "2023-08-18",
+    "lectionary_number": 417,
+    "feast": "Reading 1",
+    "sha12": "240c044862c6",
+    "citations": [
+      "Jos 24:1-13",
+      "Mt 19:3-12",
+      "Ps 136:1-3,",
+      "Thes 2:13"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-27T16:45:51+00:00"
   }
 }
