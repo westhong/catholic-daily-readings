@@ -4447,5 +4447,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T04:30:16+00:00"
+  },
+  "2023-10-05-100523.cfm": {
+    "file": "2023-10-05-100523.cfm",
+    "date": "2023-10-05",
+    "lectionary_number": 458,
+    "feast": "Reading 1",
+    "sha12": "97d5d0b4ba5f",
+    "citations": [
+      "Lk 10:1-12",
+      "Mk 1:15",
+      "Neh 8:1-4",
+      "Ps 19:8,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T04:45:25+00:00"
   }
 }
