@@ -5145,5 +5145,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T15:15:17+00:00"
+  },
+  "2023-11-17-111723.cfm": {
+    "file": "2023-11-17-111723.cfm",
+    "date": "2023-11-17",
+    "lectionary_number": 495,
+    "feast": "Reading 1",
+    "sha12": "c575d3e33995",
+    "citations": [
+      "Lk 17:26-37",
+      "Lk 21:28",
+      "Ps 19:2-3,",
+      "Wis 13:1-9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T15:30:56+00:00"
   }
 }
