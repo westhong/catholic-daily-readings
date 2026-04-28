@@ -5268,5 +5268,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T17:15:19+00:00"
+  },
+  "2023-11-25-112523.cfm": {
+    "file": "2023-11-25-112523.cfm",
+    "date": "2023-11-25",
+    "lectionary_number": 502,
+    "feast": "Reading 1",
+    "sha12": "1a3a8f0d9d6f",
+    "citations": [
+      "Lk 20:27-40",
+      "Mc 6:1-13",
+      "Ps 9:2-3,",
+      "Tm 1:10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T17:30:30+00:00"
   }
 }
