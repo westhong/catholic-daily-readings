@@ -5194,5 +5194,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T16:00:13+00:00"
+  },
+  "2023-11-20-112023.cfm": {
+    "file": "2023-11-20-112023.cfm",
+    "date": "2023-11-20",
+    "lectionary_number": 497,
+    "feast": "Reading 1",
+    "sha12": "8b897dce1574",
+    "citations": [
+      "Jn 8:12",
+      "Lk 18:35-43",
+      "Mc 1:10-15,",
+      "Ps 119:53,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T16:15:23+00:00"
   }
 }
