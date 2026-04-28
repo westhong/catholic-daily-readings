@@ -5301,5 +5301,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T17:45:37+00:00"
+  },
+  "2023-11-27-112723.cfm": {
+    "file": "2023-11-27-112723.cfm",
+    "date": "2023-11-27",
+    "lectionary_number": 503,
+    "feast": "Reading 1",
+    "sha12": "652dca242376",
+    "citations": [
+      "Dn 1:1-6,",
+      "Dn 3:52,",
+      "Lk 21:1-4",
+      "Mt 24:42"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T18:00:46+00:00"
   }
 }
