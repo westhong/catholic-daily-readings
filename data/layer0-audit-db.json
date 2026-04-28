@@ -5284,5 +5284,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T17:30:30+00:00"
+  },
+  "2023-11-26-112623.cfm": {
+    "file": "2023-11-26-112623.cfm",
+    "date": "2023-11-26",
+    "lectionary_number": 160,
+    "feast": "Reading 1",
+    "sha12": "c3d209187c5a",
+    "citations": [
+      "Cor 15:20-26,",
+      "Ez 34:11-12,",
+      "Mk 11:9,",
+      "Mt 25:31-46",
+      "Ps 23:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T17:45:37+00:00"
   }
 }
