@@ -4771,5 +4771,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T09:30:49+00:00"
+  },
+  "2023-10-25-102523.cfm": {
+    "file": "2023-10-25-102523.cfm",
+    "date": "2023-10-25",
+    "lectionary_number": 475,
+    "feast": "Reading 1",
+    "sha12": "5b36a8f3940a",
+    "citations": [
+      "Lk 12:39-48",
+      "Mt 24:42",
+      "Ps 124:1",
+      "Rom 6:12-18"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T09:46:02+00:00"
   }
 }
