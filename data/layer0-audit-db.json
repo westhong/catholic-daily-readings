@@ -4722,5 +4722,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T08:45:09+00:00"
+  },
+  "2023-10-22-102223.cfm": {
+    "file": "2023-10-22-102223.cfm",
+    "date": "2023-10-22",
+    "lectionary_number": 145,
+    "feast": "Reading 1",
+    "sha12": "83b13cbad939",
+    "citations": [
+      "Is 45:1,",
+      "Mt 22:15-21",
+      "Phil 2:15",
+      "Ps 96:1,",
+      "Thes 1:1-5"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T09:00:22+00:00"
   }
 }
