@@ -5333,5 +5333,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T18:15:55+00:00"
+  },
+  "2023-11-29-112923.cfm": {
+    "file": "2023-11-29-112923.cfm",
+    "date": "2023-11-29",
+    "lectionary_number": 505,
+    "feast": "Reading 1",
+    "sha12": "3c879d290d7d",
+    "citations": [
+      "Dn 3:62,",
+      "Dn 5:1-6,",
+      "Lk 21:12-19",
+      "Rev 2:10"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T18:30:05+00:00"
   }
 }
