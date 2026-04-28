@@ -2368,3 +2368,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 507
 - **Citations** (4): Dn 3:75,, Dn 7:2-14, Lk 21:28, Lk 21:29-33
 - **SHA**: `841de2c293b0`
+
+### ✅ 2023-12-02-120223.cfm — 2023-12-02
+- **Checked**: 2026-04-28 19:15 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 508
+- **Citations** (4): Dn 3:82,, Dn 7:15-27, Lk 21:34-36, Lk 21:36
+- **SHA**: `8064cef3f6c0`
