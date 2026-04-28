@@ -5544,5 +5544,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T21:45:08+00:00"
+  },
+  "2023-12-13-121323.cfm": {
+    "file": "2023-12-13-121323.cfm",
+    "date": "2023-12-13",
+    "lectionary_number": 183,
+    "feast": "Reading 1",
+    "sha12": "69993eb24358",
+    "citations": [
+      "Is 40:25-31",
+      "Mt 11:28-30",
+      "Ps 103:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T22:00:20+00:00"
   }
 }
