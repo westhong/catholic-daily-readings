@@ -5252,5 +5252,21 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-28T17:00:51+00:00"
+  },
+  "2023-11-24-112423.cfm": {
+    "file": "2023-11-24-112423.cfm",
+    "date": "2023-11-24",
+    "lectionary_number": 501,
+    "feast": "Reading 1",
+    "sha12": "45aa9c44a9e8",
+    "citations": [
+      "Chr 29:10",
+      "Jn 10:27",
+      "Lk 19:45-48",
+      "Mc 4:36-37,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T17:15:19+00:00"
   }
 }
