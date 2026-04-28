@@ -5503,5 +5503,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T21:00:34+00:00"
+  },
+  "2023-12-10-121023.cfm": {
+    "file": "2023-12-10-121023.cfm",
+    "date": "2023-12-10",
+    "lectionary_number": 5,
+    "feast": "Reading 1",
+    "sha12": "032c3a86923c",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-28T21:15:43+00:00"
   }
 }
