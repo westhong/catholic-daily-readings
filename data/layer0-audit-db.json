@@ -5408,5 +5408,21 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-28T19:30:40+00:00"
+  },
+  "2023-12-04-120423.cfm": {
+    "file": "2023-12-04-120423.cfm",
+    "date": "2023-12-04",
+    "lectionary_number": 175,
+    "feast": "Reading 1",
+    "sha12": "1c77681d5c1d",
+    "citations": [
+      "Is 2:1-5",
+      "Mt 8:5-11",
+      "Ps 122:1-2,",
+      "Ps 80:4"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T19:45:46+00:00"
   }
 }
