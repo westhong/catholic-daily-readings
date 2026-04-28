@@ -2046,3 +2046,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 467
 - **Citations** (4): Lk 11:29-32, Ps 95:8, Ps 98:1, Rom 1:1-7
 - **SHA**: `60f143749a9d`
+
+### ✅ 2023-10-17-101723.cfm — 2023-10-17
+- **Checked**: 2026-04-28 07:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 468
+- **Citations** (4): Heb 4:12, Lk 11:37-41, Ps 19:2-3,, Rom 1:16-25
+- **SHA**: `384b4efe19cc`

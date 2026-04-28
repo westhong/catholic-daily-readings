@@ -4643,5 +4643,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T07:31:01+00:00"
+  },
+  "2023-10-17-101723.cfm": {
+    "file": "2023-10-17-101723.cfm",
+    "date": "2023-10-17",
+    "lectionary_number": 468,
+    "feast": "Reading 1",
+    "sha12": "384b4efe19cc",
+    "citations": [
+      "Heb 4:12",
+      "Lk 11:37-41",
+      "Ps 19:2-3,",
+      "Rom 1:16-25"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T07:45:19+00:00"
   }
 }
