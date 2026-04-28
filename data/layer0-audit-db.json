@@ -4933,5 +4933,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T12:01:03+00:00"
+  },
+  "2023-11-04-110423.cfm": {
+    "file": "2023-11-04-110423.cfm",
+    "date": "2023-11-04",
+    "lectionary_number": 484,
+    "feast": "Reading 1",
+    "sha12": "6cfa85d1bc7b",
+    "citations": [
+      "Lk 14:1,",
+      "Mt 11:29",
+      "Ps 94:12-13",
+      "Rom 11:1-2"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T12:15:16+00:00"
   }
 }
