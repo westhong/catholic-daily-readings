@@ -2361,3 +2361,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 684
 - **Citations** (4): John 6:63, Mt 4:18-22, Mt 4:19, Rom 10:9-18
 - **SHA**: `a864d3475ee1`
+
+### ✅ 2023-12-01-120123.cfm — 2023-12-01
+- **Checked**: 2026-04-28 19:00 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 507
+- **Citations** (4): Dn 3:75,, Dn 7:2-14, Lk 21:28, Lk 21:29-33
+- **SHA**: `841de2c293b0`

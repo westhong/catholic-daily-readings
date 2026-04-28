@@ -5365,5 +5365,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T18:45:12+00:00"
+  },
+  "2023-12-01-120123.cfm": {
+    "file": "2023-12-01-120123.cfm",
+    "date": "2023-12-01",
+    "lectionary_number": 507,
+    "feast": "Reading 1",
+    "sha12": "841de2c293b0",
+    "citations": [
+      "Dn 3:75,",
+      "Dn 7:2-14",
+      "Lk 21:28",
+      "Lk 21:29-33"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T19:00:22+00:00"
   }
 }
