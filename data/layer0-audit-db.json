@@ -4578,5 +4578,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T06:30:51+00:00"
+  },
+  "2023-10-13-101323.cfm": {
+    "file": "2023-10-13-101323.cfm",
+    "date": "2023-10-13",
+    "lectionary_number": 465,
+    "feast": "Reading I",
+    "sha12": "bf689e12d479",
+    "citations": [
+      "Jl 1:13-15",
+      "Jn 12:31",
+      "Lk 11:15-26"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T06:45:10+00:00"
   }
 }
