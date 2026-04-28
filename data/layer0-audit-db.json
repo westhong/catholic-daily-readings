@@ -4414,5 +4414,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T04:00:56+00:00"
+  },
+  "2023-10-03-100323.cfm": {
+    "file": "2023-10-03-100323.cfm",
+    "date": "2023-10-03",
+    "lectionary_number": 456,
+    "feast": "Reading 1",
+    "sha12": "8e7447a88457",
+    "citations": [
+      "Lk 9:51-56",
+      "Mk 10:45",
+      "Ps 87:1",
+      "Zec 8:20-23",
+      "Zec 8:23"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T04:15:06+00:00"
   }
 }
