@@ -4479,5 +4479,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T05:00:33+00:00"
+  },
+  "2023-10-07-100723.cfm": {
+    "file": "2023-10-07-100723.cfm",
+    "date": "2023-10-07",
+    "lectionary_number": 460,
+    "feast": "Reading 1",
+    "sha12": "2fd763228314",
+    "citations": [
+      "Bar 4:5-12,",
+      "Lk 10:17-24",
+      "Mt 11:25",
+      "Ps 69:33-35,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T05:15:43+00:00"
   }
 }
