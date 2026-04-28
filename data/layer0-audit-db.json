@@ -4593,5 +4593,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T06:45:10+00:00"
+  },
+  "2023-10-14-101423.cfm": {
+    "file": "2023-10-14-101423.cfm",
+    "date": "2023-10-14",
+    "lectionary_number": 466,
+    "feast": "Reading 1",
+    "sha12": "ed13c060c901",
+    "citations": [
+      "Jl 4:12-21",
+      "Lk 11:27-28",
+      "Lk 11:28",
+      "Ps 97:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T07:00:23+00:00"
   }
 }
