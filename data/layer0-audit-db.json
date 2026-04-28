@@ -5514,5 +5514,21 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-28T21:15:43+00:00"
+  },
+  "2023-12-11-121123.cfm": {
+    "file": "2023-12-11-121123.cfm",
+    "date": "2023-12-11",
+    "lectionary_number": 181,
+    "feast": "Reading 1",
+    "sha12": "cfb3708abfa9",
+    "citations": [
+      "Is 35:1-10",
+      "Isaiah 35:4",
+      "Lk 5:17-26",
+      "Ps 85:9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T21:30:56+00:00"
   }
 }
