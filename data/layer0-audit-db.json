@@ -5397,5 +5397,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T19:15:31+00:00"
+  },
+  "2023-12-03-120323.cfm": {
+    "file": "2023-12-03-120323.cfm",
+    "date": "2023-12-03",
+    "lectionary_number": 2,
+    "feast": "Reading 1",
+    "sha12": "14599faa924c",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-28T19:30:40+00:00"
   }
 }
