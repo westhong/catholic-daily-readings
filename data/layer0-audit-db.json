@@ -5486,5 +5486,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T20:45:22+00:00"
+  },
+  "2023-12-09-120923.cfm": {
+    "file": "2023-12-09-120923.cfm",
+    "date": "2023-12-09",
+    "lectionary_number": 180,
+    "feast": "Reading 1",
+    "sha12": "9daf94f8db38",
+    "citations": [
+      "Is 30:19-21,",
+      "Is 33:22",
+      "Isaiah 30:18",
+      "Mt 9:35–10",
+      "Ps 147:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T21:00:34+00:00"
   }
 }
