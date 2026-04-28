@@ -5424,5 +5424,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T19:45:46+00:00"
+  },
+  "2023-12-05-120523.cfm": {
+    "file": "2023-12-05-120523.cfm",
+    "date": "2023-12-05",
+    "lectionary_number": 176,
+    "feast": "Reading 1",
+    "sha12": "ceeed82403fe",
+    "citations": [
+      "Is 11:1-10",
+      "Lk 10:21-24",
+      "Ps 72:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T20:00:55+00:00"
   }
 }
