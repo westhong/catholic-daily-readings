@@ -5626,5 +5626,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T23:01:00+00:00"
+  },
+  "2023-12-18-121823.cfm": {
+    "file": "2023-12-18-121823.cfm",
+    "date": "2023-12-18",
+    "lectionary_number": 194,
+    "feast": "Reading 1",
+    "sha12": "4266eb4171c1",
+    "citations": [
+      "Jer 23:5-8",
+      "Mt 1:18-25",
+      "Ps 72:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T23:15:09+00:00"
   }
 }
