@@ -5454,5 +5454,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T20:15:07+00:00"
+  },
+  "2023-12-07-120723.cfm": {
+    "file": "2023-12-07-120723.cfm",
+    "date": "2023-12-07",
+    "lectionary_number": 178,
+    "feast": "Reading 1",
+    "sha12": "e9ca740db175",
+    "citations": [
+      "Is 26:1-6",
+      "Is 55:6",
+      "Mt 7:21,",
+      "Ps 118:1"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T20:30:15+00:00"
   }
 }
