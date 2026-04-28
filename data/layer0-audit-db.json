@@ -5349,5 +5349,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T18:30:05+00:00"
+  },
+  "2023-11-30-113023.cfm": {
+    "file": "2023-11-30-113023.cfm",
+    "date": "2023-11-30",
+    "lectionary_number": 684,
+    "feast": "Reading 1",
+    "sha12": "a864d3475ee1",
+    "citations": [
+      "John 6:63",
+      "Mt 4:18-22",
+      "Mt 4:19",
+      "Rom 10:9-18"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-28T18:45:12+00:00"
   }
 }
