@@ -6774,5 +6774,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T17:30:54+00:00"
+  },
+  "2024-03-01-030124.cfm": {
+    "file": "2024-03-01-030124.cfm",
+    "date": "2024-03-01",
+    "lectionary_number": 234,
+    "feast": "Reading 1",
+    "sha12": "ceacffdb3196",
+    "citations": [
+      "Gn 37:3-4,",
+      "Jn 3:16",
+      "Mt 21:33-43,",
+      "Ps 105:16-17,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T17:46:03+00:00"
   }
 }
