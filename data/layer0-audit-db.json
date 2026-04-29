@@ -6032,5 +6032,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T05:31:03+00:00"
+  },
+  "2024-01-13-011324.cfm": {
+    "file": "2024-01-13-011324.cfm",
+    "date": "2024-01-13",
+    "lectionary_number": 310,
+    "feast": "Reading I",
+    "sha12": "a5d6caa4fb7b",
+    "citations": [
+      "Lk 4:18",
+      "Mk 2:13-17",
+      "Sm 9:1-4,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T05:45:17+00:00"
   }
 }
