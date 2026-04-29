@@ -6307,5 +6307,18 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T10:00:31+00:00"
+  },
+  "2024-01-31-013124.cfm": {
+    "file": "2024-01-31-013124.cfm",
+    "date": "2024-01-31",
+    "lectionary_number": 325,
+    "feast": "Reading 1",
+    "sha12": "9bc63d791297",
+    "citations": [
+      "Sm 24:2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T10:15:40+00:00"
   }
 }
