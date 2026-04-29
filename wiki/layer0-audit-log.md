@@ -2718,3 +2718,11 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 316
 - **Citations** (3): Acts 16:14, Mk 3:20-21, Sm 1:1-4,
 - **SHA**: `e8d9c3a8fb16`
+
+### ⚠️ 2024-01-21-012124.cfm — 2024-01-21
+- **Checked**: 2026-04-29 07:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 68
+- **Citations** (5): Cor 7:29-31, Jon 3:1-5,, Mk 1:14-20, Mk 1:15, Ps 25:4-5,
+- **Warnings**: bible_translation_copyright: ['nab', 'nab', 'nab']
+- **SHA**: `53b38061a0fe`

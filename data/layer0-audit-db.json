@@ -6155,5 +6155,24 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T07:30:58+00:00"
+  },
+  "2024-01-21-012124.cfm": {
+    "file": "2024-01-21-012124.cfm",
+    "date": "2024-01-21",
+    "lectionary_number": 68,
+    "feast": "Reading 1",
+    "sha12": "53b38061a0fe",
+    "citations": [
+      "Cor 7:29-31",
+      "Jon 3:1-5,",
+      "Mk 1:14-20",
+      "Mk 1:15",
+      "Ps 25:4-5,"
+    ],
+    "warnings": [
+      "bible_translation_copyright: ['nab', 'nab', 'nab']"
+    ],
+    "status": "suspect",
+    "checked_at": "2026-04-29T07:45:07+00:00"
   }
 }
