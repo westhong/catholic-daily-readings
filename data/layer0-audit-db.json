@@ -6367,5 +6367,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T11:00:12+00:00"
+  },
+  "2024-02-04-020424.cfm": {
+    "file": "2024-02-04-020424.cfm",
+    "date": "2024-02-04",
+    "lectionary_number": 74,
+    "feast": "Reading 1",
+    "sha12": "912d3266f61f",
+    "citations": [
+      "Cor 9:16-19,",
+      "Jb 7:1-4,",
+      "Mk 1:29-39",
+      "Mt 8:17",
+      "Ps 147:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T11:15:20+00:00"
   }
 }
