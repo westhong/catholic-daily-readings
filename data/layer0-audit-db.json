@@ -5917,5 +5917,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T03:46:01+00:00"
+  },
+  "2024-01-06-010624.cfm": {
+    "file": "2024-01-06-010624.cfm",
+    "date": "2024-01-06",
+    "lectionary_number": 209,
+    "feast": "Reading 1",
+    "sha12": "6e8d53ffb07b",
+    "citations": [
+      "Jn 5:5-13",
+      "Lk 3:23,",
+      "Lk 3:23-38",
+      "Mk 1:7-11",
+      "Mk 9:6"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T04:00:15+00:00"
   }
 }
