@@ -7104,5 +7104,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T23:00:32+00:00"
+  },
+  "2024-03-23-032324.cfm": {
+    "file": "2024-03-23-032324.cfm",
+    "date": "2024-03-23",
+    "lectionary_number": 256,
+    "feast": "Reading 1",
+    "sha12": "6535530169a7",
+    "citations": [
+      "Ez 18:31",
+      "Ez 37:21-28",
+      "Jeremiah 31:10,",
+      "Jn 11:45-56"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T23:15:42+00:00"
   }
 }
