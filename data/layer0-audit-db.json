@@ -6693,5 +6693,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T16:15:37+00:00"
+  },
+  "2024-02-25-022524.cfm": {
+    "file": "2024-02-25-022524.cfm",
+    "date": "2024-02-25",
+    "lectionary_number": 26,
+    "feast": "Reading 1",
+    "sha12": "6d799e84fed1",
+    "citations": [
+      "Gn 22:1-2,",
+      "Mk 9:2-10",
+      "Mt 17:5",
+      "Ps 116:10,",
+      "Rom 8:31"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T16:30:45+00:00"
   }
 }
