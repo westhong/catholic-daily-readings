@@ -5792,5 +5792,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T01:45:40+00:00"
+  },
+  "2023-12-29-122923.cfm": {
+    "file": "2023-12-29-122923.cfm",
+    "date": "2023-12-29",
+    "lectionary_number": 202,
+    "feast": "Reading 1",
+    "sha12": "a1d230ffe126",
+    "citations": [
+      "Jn 2:3-11",
+      "Lk 2:22-35",
+      "Lk 2:32",
+      "Ps 96:1-2"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T02:00:50+00:00"
   }
 }
