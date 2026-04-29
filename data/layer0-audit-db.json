@@ -6279,5 +6279,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T09:30:12+00:00"
+  },
+  "2024-01-29-012924.cfm": {
+    "file": "2024-01-29-012924.cfm",
+    "date": "2024-01-29",
+    "lectionary_number": 323,
+    "feast": "Reading 1",
+    "sha12": "8cef1949f0ca",
+    "citations": [
+      "Lk 7:16",
+      "Mk 5:1-20",
+      "Sm 15:13-14,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T09:45:21+00:00"
   }
 }
