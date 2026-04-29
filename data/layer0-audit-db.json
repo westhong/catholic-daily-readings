@@ -5702,5 +5702,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T00:15:49+00:00"
+  },
+  "2023-12-23-122323.cfm": {
+    "file": "2023-12-23-122323.cfm",
+    "date": "2023-12-23",
+    "lectionary_number": 199,
+    "feast": "Reading 1",
+    "sha12": "152f9cb08947",
+    "citations": [
+      "Lk 1:57-66",
+      "Luke 21:28",
+      "Mal 3:1-4,",
+      "Ps 25:4-5"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T00:30:08+00:00"
   }
 }
