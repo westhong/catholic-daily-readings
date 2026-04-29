@@ -6002,5 +6002,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T05:00:34+00:00"
+  },
+  "2024-01-11-011124.cfm": {
+    "file": "2024-01-11-011124.cfm",
+    "date": "2024-01-11",
+    "lectionary_number": 308,
+    "feast": "Reading I",
+    "sha12": "1e29a08e2015",
+    "citations": [
+      "Mk 1:40-45",
+      "Mt 4:23",
+      "Sm 4:1-11"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T05:15:50+00:00"
   }
 }
