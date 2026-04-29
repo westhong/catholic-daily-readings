@@ -5887,5 +5887,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T03:15:41+00:00"
+  },
+  "2024-01-04-010424.cfm": {
+    "file": "2024-01-04-010424.cfm",
+    "date": "2024-01-04",
+    "lectionary_number": 207,
+    "feast": "Reading 1",
+    "sha12": "e3513d70d7cb",
+    "citations": [
+      "Jn 1:35-42",
+      "Jn 3:7-10",
+      "Ps 98:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T03:30:50+00:00"
   }
 }
