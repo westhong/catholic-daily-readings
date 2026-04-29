@@ -6262,5 +6262,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T09:16:00+00:00"
+  },
+  "2024-01-28-012824.cfm": {
+    "file": "2024-01-28-012824.cfm",
+    "date": "2024-01-28",
+    "lectionary_number": 71,
+    "feast": "Reading 1",
+    "sha12": "3f1e8298d4d7",
+    "citations": [
+      "Cor 7:32-35",
+      "Dt 18:15-20",
+      "Mk 1:21-28",
+      "Mt 4:16",
+      "Ps 95:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T09:30:12+00:00"
   }
 }
