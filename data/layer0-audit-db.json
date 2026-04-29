@@ -6521,5 +6521,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T13:30:52+00:00"
+  },
+  "2024-02-14-021424.cfm": {
+    "file": "2024-02-14-021424.cfm",
+    "date": "2024-02-14",
+    "lectionary_number": 219,
+    "feast": "Reading 1",
+    "sha12": "f6fb2bc1e726",
+    "citations": [
+      "Cor 5:20",
+      "Jl 2:12-18",
+      "Mt 6:1-6,",
+      "Ps 51:3-4,",
+      "Ps 95:8"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T13:46:00+00:00"
   }
 }
