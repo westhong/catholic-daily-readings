@@ -6616,5 +6616,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T15:00:37+00:00"
+  },
+  "2024-02-20-022024.cfm": {
+    "file": "2024-02-20-022024.cfm",
+    "date": "2024-02-20",
+    "lectionary_number": 225,
+    "feast": "Reading 1",
+    "sha12": "e9dbf01956a0",
+    "citations": [
+      "Is 55:10-11",
+      "Mt 4:4",
+      "Mt 6:7-15"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T15:15:46+00:00"
   }
 }
