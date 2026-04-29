@@ -5671,5 +5671,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-28T23:45:28+00:00"
+  },
+  "2023-12-21-122123.cfm": {
+    "file": "2023-12-21-122123.cfm",
+    "date": "2023-12-21",
+    "lectionary_number": 197,
+    "feast": "Reading 1",
+    "sha12": "597a200f9d67",
+    "citations": [
+      "Lk 1:39-45",
+      "Ps 33:2-3,",
+      "Sg 2:8-14",
+      "Zep 3:14-18"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T00:00:37+00:00"
   }
 }
