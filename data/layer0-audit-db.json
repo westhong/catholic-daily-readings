@@ -6568,5 +6568,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T14:15:08+00:00"
+  },
+  "2024-02-17-021724.cfm": {
+    "file": "2024-02-17-021724.cfm",
+    "date": "2024-02-17",
+    "lectionary_number": 222,
+    "feast": "Reading 1",
+    "sha12": "13e114282833",
+    "citations": [
+      "Ez 33:11",
+      "Is 58:9",
+      "Lk 5:27-32"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T14:30:18+00:00"
   }
 }
