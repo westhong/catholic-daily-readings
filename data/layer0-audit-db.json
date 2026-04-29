@@ -5762,5 +5762,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T01:15:17+00:00"
+  },
+  "2023-12-27-122723.cfm": {
+    "file": "2023-12-27-122723.cfm",
+    "date": "2023-12-27",
+    "lectionary_number": 697,
+    "feast": "Reading 1",
+    "sha12": "9073f2d3221e",
+    "citations": [
+      "Jn 1:1-4",
+      "Jn 20:1",
+      "Ps 97:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T01:30:27+00:00"
   }
 }
