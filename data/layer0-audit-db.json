@@ -6967,5 +6967,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T20:45:11+00:00"
+  },
+  "2024-03-14-031424.cfm": {
+    "file": "2024-03-14-031424.cfm",
+    "date": "2024-03-14",
+    "lectionary_number": 247,
+    "feast": "Reading 1",
+    "sha12": "fafd13564b9a",
+    "citations": [
+      "Ex 32:7-14",
+      "Jn 3:16",
+      "Jn 5:31-47",
+      "Ps 106:19-20,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T21:00:20+00:00"
   }
 }
