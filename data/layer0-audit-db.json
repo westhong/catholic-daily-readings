@@ -5808,5 +5808,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T02:00:50+00:00"
+  },
+  "2023-12-30-123023.cfm": {
+    "file": "2023-12-30-123023.cfm",
+    "date": "2023-12-30",
+    "lectionary_number": 203,
+    "feast": "Reading 1",
+    "sha12": "76b40f4bb1c5",
+    "citations": [
+      "Jn 2:12-17",
+      "Lk 2:36-40",
+      "Ps 96:7-8"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T02:16:00+00:00"
   }
 }
