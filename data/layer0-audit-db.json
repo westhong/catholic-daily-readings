@@ -7058,5 +7058,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T22:15:07+00:00"
+  },
+  "2024-03-20-032024.cfm": {
+    "file": "2024-03-20-032024.cfm",
+    "date": "2024-03-20",
+    "lectionary_number": 253,
+    "feast": "Reading 1",
+    "sha12": "f9b3d97b6add",
+    "citations": [
+      "Dn 3:14-20,",
+      "Dn 3:52,",
+      "Jn 8:31-42",
+      "Lk 8:15"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T22:30:16+00:00"
   }
 }
