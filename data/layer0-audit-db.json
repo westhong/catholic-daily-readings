@@ -6877,5 +6877,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T19:15:20+00:00"
+  },
+  "2024-03-08-030824.cfm": {
+    "file": "2024-03-08-030824.cfm",
+    "date": "2024-03-08",
+    "lectionary_number": 241,
+    "feast": "Reading 1",
+    "sha12": "49e653e85afb",
+    "citations": [
+      "Hos 14:2-10",
+      "Mk 12:28-34",
+      "Mt 4:17",
+      "Ps 81:6"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T19:30:29+00:00"
   }
 }
