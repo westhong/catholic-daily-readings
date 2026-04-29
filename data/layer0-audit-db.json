@@ -5718,5 +5718,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T00:30:08+00:00"
+  },
+  "2023-12-24-122423.cfm": {
+    "file": "2023-12-24-122423.cfm",
+    "date": "2023-12-24",
+    "lectionary_number": 11,
+    "feast": "Reading 1",
+    "sha12": "96391f0fde30",
+    "citations": [
+      "Lk 1:26-38",
+      "Lk 1:38",
+      "Ps 89:2-3,",
+      "Rom 16:25-27",
+      "Sm 7:1-5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T00:45:16+00:00"
   }
 }
