@@ -6726,5 +6726,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T16:45:54+00:00"
+  },
+  "2024-02-27-022724.cfm": {
+    "file": "2024-02-27-022724.cfm",
+    "date": "2024-02-27",
+    "lectionary_number": 231,
+    "feast": "Reading 1",
+    "sha12": "8ea5486e36ce",
+    "citations": [
+      "Ez 18:31",
+      "Is 1:10,",
+      "Mt 23:1-12",
+      "Ps 50:8-9,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T17:01:03+00:00"
   }
 }
