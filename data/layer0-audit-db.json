@@ -7139,5 +7139,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T23:30:51+00:00"
+  },
+  "2024-03-25-032524.cfm": {
+    "file": "2024-03-25-032524.cfm",
+    "date": "2024-03-25",
+    "lectionary_number": 257,
+    "feast": "Reading 1",
+    "sha12": "c359a51a721d",
+    "citations": [
+      "Is 42:1-7",
+      "Jn 12:1-11",
+      "Ps 27:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T23:46:01+00:00"
   }
 }
