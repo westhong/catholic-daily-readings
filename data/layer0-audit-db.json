@@ -5844,5 +5844,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T02:30:09+00:00"
+  },
+  "2024-01-01-010124.cfm": {
+    "file": "2024-01-01-010124.cfm",
+    "date": "2024-01-01",
+    "lectionary_number": 18,
+    "feast": "Reading I",
+    "sha12": "bc920090d40c",
+    "citations": [
+      "Gal 4:4-7",
+      "Heb 1:1-2",
+      "Lk 2:16-21",
+      "Nm 6:22-27",
+      "Ps 67:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T02:45:18+00:00"
   }
 }
