@@ -2627,3 +2627,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 20
 - **Citations** (5): Eph 3:2-3, Is 60:1-6, Mt 2:1-12, Mt 2:2, Ps 72:1-2,
 - **SHA**: `e5de4f7628c5`
+
+### ✅ 2024-01-08-010824.cfm — 2024-01-08
+- **Checked**: 2026-04-29 04:30 UTC
+- **Feast**: Reading I
+- **Lectionary**: 21
+- **Citations** (8): Acts 10:34-38, Is 12:2-3,, Is 42:1-4,, Is 55:1-11, Jn 1:29, Jn 5:1-9, Mk 1:7-11, Ps 29:1-2,
+- **SHA**: `9bcfe9affa77`

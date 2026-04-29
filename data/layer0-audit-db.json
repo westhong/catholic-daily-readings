@@ -5951,5 +5951,25 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T04:15:24+00:00"
+  },
+  "2024-01-08-010824.cfm": {
+    "file": "2024-01-08-010824.cfm",
+    "date": "2024-01-08",
+    "lectionary_number": 21,
+    "feast": "Reading I",
+    "sha12": "9bcfe9affa77",
+    "citations": [
+      "Acts 10:34-38",
+      "Is 12:2-3,",
+      "Is 42:1-4,",
+      "Is 55:1-11",
+      "Jn 1:29",
+      "Jn 5:1-9",
+      "Mk 1:7-11",
+      "Ps 29:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T04:30:36+00:00"
   }
 }
