@@ -6742,5 +6742,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T17:01:03+00:00"
+  },
+  "2024-02-28-022824.cfm": {
+    "file": "2024-02-28-022824.cfm",
+    "date": "2024-02-28",
+    "lectionary_number": 232,
+    "feast": "Reading 1",
+    "sha12": "13377585aa3d",
+    "citations": [
+      "Jer 18:18-20",
+      "Jn 8:12",
+      "Mt 20:17-28",
+      "Ps 31:5-6,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T17:15:45+00:00"
   }
 }
