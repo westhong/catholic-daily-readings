@@ -5687,5 +5687,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T00:00:37+00:00"
+  },
+  "2023-12-22-122223.cfm": {
+    "file": "2023-12-22-122223.cfm",
+    "date": "2023-12-22",
+    "lectionary_number": 198,
+    "feast": "Reading 1",
+    "sha12": "a0bd06522659",
+    "citations": [
+      "Lk 1:46-56",
+      "Samuel 2:1,",
+      "Sm 1:24-28"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T00:15:49+00:00"
   }
 }
