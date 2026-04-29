@@ -2690,3 +2690,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 312
 - **Citations** (3): Eph 1:17-18, Mk 2:23-28, Sm 16:1-13
 - **SHA**: `d038a20632ed`
+
+### ✅ 2024-01-17-011724.cfm — 2024-01-17
+- **Checked**: 2026-04-29 06:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 313
+- **Citations** (4): Mk 3:1-6, Mt 4:23, Ps 144:1, Sm 17:32-33,
+- **SHA**: `e044aa0f5887`

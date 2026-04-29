@@ -6094,5 +6094,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T06:30:15+00:00"
+  },
+  "2024-01-17-011724.cfm": {
+    "file": "2024-01-17-011724.cfm",
+    "date": "2024-01-17",
+    "lectionary_number": 313,
+    "feast": "Reading 1",
+    "sha12": "e044aa0f5887",
+    "citations": [
+      "Mk 3:1-6",
+      "Mt 4:23",
+      "Ps 144:1",
+      "Sm 17:32-33,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T06:45:28+00:00"
   }
 }
