@@ -6017,5 +6017,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T05:15:50+00:00"
+  },
+  "2024-01-12-011224.cfm": {
+    "file": "2024-01-12-011224.cfm",
+    "date": "2024-01-12",
+    "lectionary_number": 309,
+    "feast": "Reading I",
+    "sha12": "2e939536d62c",
+    "citations": [
+      "Lk 7:16",
+      "Mk 2:1-12",
+      "Sm 8:4-7,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T05:31:03+00:00"
   }
 }
