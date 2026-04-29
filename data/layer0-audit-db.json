@@ -5777,5 +5777,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T01:30:27+00:00"
+  },
+  "2023-12-28-122823.cfm": {
+    "file": "2023-12-28-122823.cfm",
+    "date": "2023-12-28",
+    "lectionary_number": 698,
+    "feast": "Reading 1",
+    "sha12": "cfdc6aaa13aa",
+    "citations": [
+      "Jn 1:5",
+      "Mt 2:13-18",
+      "Ps 124:2-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T01:45:40+00:00"
   }
 }
