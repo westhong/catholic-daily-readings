@@ -2641,3 +2641,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 306
 - **Citations** (4): Mk 1:21-28, Samuel 2:1,, Sm 1:9-20, Thes 2:13
 - **SHA**: `ffe8f5c2914f`
+
+### ✅ 2024-01-10-011024.cfm — 2024-01-10
+- **Checked**: 2026-04-29 05:00 UTC
+- **Feast**: Reading I
+- **Lectionary**: 307
+- **Citations** (3): Jn 10:27, Mk 1:29-39, Sm 3:1-10,
+- **SHA**: `e240bdb89e23`

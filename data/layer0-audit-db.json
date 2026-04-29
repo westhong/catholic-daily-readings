@@ -5987,5 +5987,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T04:45:46+00:00"
+  },
+  "2024-01-10-011024.cfm": {
+    "file": "2024-01-10-011024.cfm",
+    "date": "2024-01-10",
+    "lectionary_number": 307,
+    "feast": "Reading I",
+    "sha12": "e240bdb89e23",
+    "citations": [
+      "Jn 10:27",
+      "Mk 1:29-39",
+      "Sm 3:1-10,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T05:00:34+00:00"
   }
 }
