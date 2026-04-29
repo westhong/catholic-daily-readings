@@ -7120,5 +7120,24 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T23:15:42+00:00"
+  },
+  "2024-03-24-032424.cfm": {
+    "file": "2024-03-24-032424.cfm",
+    "date": "2024-03-24",
+    "lectionary_number": 37,
+    "feast": "At the Procession with Palms - Gospel",
+    "sha12": "40c4d51d14f7",
+    "citations": [
+      "Is 50:4-7",
+      "Jn 12:12-16",
+      "Mk 11:1-10",
+      "Mk 14:1",
+      "Mk 15:1-39",
+      "Phil 2:6-11",
+      "Phil 2:8-9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T23:30:51+00:00"
   }
 }
