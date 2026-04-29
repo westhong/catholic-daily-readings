@@ -5934,5 +5934,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T04:00:15+00:00"
+  },
+  "2024-01-07-010724.cfm": {
+    "file": "2024-01-07-010724.cfm",
+    "date": "2024-01-07",
+    "lectionary_number": 20,
+    "feast": "Reading I",
+    "sha12": "e5de4f7628c5",
+    "citations": [
+      "Eph 3:2-3",
+      "Is 60:1-6",
+      "Mt 2:1-12",
+      "Mt 2:2",
+      "Ps 72:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T04:15:24+00:00"
   }
 }
