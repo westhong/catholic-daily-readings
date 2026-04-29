@@ -6047,5 +6047,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-29T05:45:17+00:00"
+  },
+  "2024-01-14-011424.cfm": {
+    "file": "2024-01-14-011424.cfm",
+    "date": "2024-01-14",
+    "lectionary_number": 65,
+    "feast": "Reading 1",
+    "sha12": "62758d0494c1",
+    "citations": [
+      "Cor 6:13",
+      "Jn 1:35-42",
+      "Jn 1:41,",
+      "Ps 40:2,",
+      "Sm 3:3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T06:00:29+00:00"
   }
 }
