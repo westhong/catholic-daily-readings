@@ -5746,5 +5746,21 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-29T01:00:26+00:00"
+  },
+  "2023-12-26-122623.cfm": {
+    "file": "2023-12-26-122623.cfm",
+    "date": "2023-12-26",
+    "lectionary_number": 696,
+    "feast": "Reading 1",
+    "sha12": "2d2a7ee5f5e9",
+    "citations": [
+      "Acts 6:8-10",
+      "Mt 10:17-22",
+      "Ps 118:26",
+      "Ps 31:3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T01:15:17+00:00"
   }
 }
