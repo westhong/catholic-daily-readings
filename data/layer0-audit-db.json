@@ -6174,5 +6174,19 @@
     ],
     "status": "suspect",
     "checked_at": "2026-04-29T07:45:07+00:00"
+  },
+  "2024-01-22-012224.cfm": {
+    "file": "2024-01-22-012224.cfm",
+    "date": "2024-01-22",
+    "lectionary_number": 317,
+    "feast": "Reading 1",
+    "sha12": "f5759d7b09e1",
+    "citations": [
+      "Mk 3:22-30",
+      "Sm 5:1-7,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-29T08:00:16+00:00"
   }
 }
