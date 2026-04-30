@@ -8004,5 +8004,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T13:15:29+00:00"
+  },
+  "2024-05-19-051924.cfm": {
+    "file": "2024-05-19-051924.cfm",
+    "date": "2024-05-19",
+    "lectionary_number": 62,
+    "feast": null,
+    "sha12": "cc6562aa874c",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-30T13:30:37+00:00"
   }
 }
