@@ -8537,5 +8537,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T21:45:08+00:00"
+  },
+  "2024-06-22-062224.cfm": {
+    "file": "2024-06-22-062224.cfm",
+    "date": "2024-06-22",
+    "lectionary_number": 370,
+    "feast": "Reading 1",
+    "sha12": "ea543d1cc639",
+    "citations": [
+      "Chr 24:17-25",
+      "Cor 8:9",
+      "Mt 6:24-34",
+      "Ps 89:4-5,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T22:00:17+00:00"
   }
 }
