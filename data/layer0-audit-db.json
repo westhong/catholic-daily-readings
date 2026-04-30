@@ -7264,5 +7264,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T01:15:59+00:00"
+  },
+  "2024-04-01-040124.cfm": {
+    "file": "2024-04-01-040124.cfm",
+    "date": "2024-04-01",
+    "lectionary_number": 261,
+    "feast": "Reading 1",
+    "sha12": "bc492b821d98",
+    "citations": [
+      "Acts 2:14,",
+      "Mt 28:8-15",
+      "Ps 118:24"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T01:30:08+00:00"
   }
 }
