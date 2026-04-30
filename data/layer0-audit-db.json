@@ -8270,5 +8270,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T17:30:55+00:00"
+  },
+  "2024-06-05-060524.cfm": {
+    "file": "2024-06-05-060524.cfm",
+    "date": "2024-06-05",
+    "lectionary_number": 355,
+    "feast": "Reading 1",
+    "sha12": "297a899f57cf",
+    "citations": [
+      "Jn 11:25",
+      "Mk 12:18-27",
+      "Ps 123:1",
+      "Tm 1:1-3,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T17:46:03+00:00"
   }
 }
