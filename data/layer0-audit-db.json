@@ -7575,5 +7575,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T06:16:03+00:00"
+  },
+  "2024-04-21-042124.cfm": {
+    "file": "2024-04-21-042124.cfm",
+    "date": "2024-04-21",
+    "lectionary_number": 50,
+    "feast": "Reading 1",
+    "sha12": "e94967eb8305",
+    "citations": [
+      "Acts 4:8-12",
+      "Jn 10:11-18",
+      "Jn 10:14",
+      "Jn 3:1-2",
+      "Ps 118:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T06:30:12+00:00"
   }
 }
