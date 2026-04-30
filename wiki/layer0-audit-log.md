@@ -3811,3 +3811,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 587
 - **Citations** (4): Acts 13:22-26, Is 49:1-6, Lk 1:57-66,, Lk 1:76
 - **SHA**: `60cb4fbf8585`
+
+### ❌ 2024-06-25-062524.cfm — 2024-06-25
+- **Checked**: 2026-04-30 22:45 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 372
+- **Citations** (0): 
+- **SHA**: `411abc094f7f`
