@@ -8095,5 +8095,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T14:45:18+00:00"
+  },
+  "2024-05-25-052524.cfm": {
+    "file": "2024-05-25-052524.cfm",
+    "date": "2024-05-25",
+    "lectionary_number": 346,
+    "feast": "Reading 1",
+    "sha12": "3f3bf824bb18",
+    "citations": [
+      "Jas 5:13-20",
+      "Mk 10:13-16",
+      "Mt 11:25"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T15:00:27+00:00"
   }
 }
