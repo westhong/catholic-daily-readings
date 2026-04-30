@@ -8462,5 +8462,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T20:30:26+00:00"
+  },
+  "2024-06-17-061724.cfm": {
+    "file": "2024-06-17-061724.cfm",
+    "date": "2024-06-17",
+    "lectionary_number": 365,
+    "feast": "Reading 1",
+    "sha12": "448d3361cb1d",
+    "citations": [
+      "Kgs 21:1-16",
+      "Mt 5:38-42",
+      "Ps 119:105",
+      "Ps 5:2-3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T20:45:33+00:00"
   }
 }
