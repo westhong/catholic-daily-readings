@@ -8127,5 +8127,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T15:15:36+00:00"
+  },
+  "2024-05-27-052724.cfm": {
+    "file": "2024-05-27-052724.cfm",
+    "date": "2024-05-27",
+    "lectionary_number": 347,
+    "feast": "Reading 1",
+    "sha12": "f1312e189374",
+    "citations": [
+      "Cor 8:9",
+      "Mk 10:17-27",
+      "Ps 111:1-2,",
+      "Pt 1:3-9"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T15:30:44+00:00"
   }
 }
