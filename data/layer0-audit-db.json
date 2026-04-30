@@ -8015,5 +8015,20 @@
     "warnings": [],
     "status": "fail",
     "checked_at": "2026-04-30T13:30:37+00:00"
+  },
+  "2024-05-20-052024.cfm": {
+    "file": "2024-05-20-052024.cfm",
+    "date": "2024-05-20",
+    "lectionary_number": 572,
+    "feast": "Reading I",
+    "sha12": "c07c580d7ad0",
+    "citations": [
+      "Acts 1:12-14",
+      "Gn 3:9-15,",
+      "Jn 19:25-34"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T13:45:46+00:00"
   }
 }
