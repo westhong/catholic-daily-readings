@@ -7653,5 +7653,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T07:30:49+00:00"
+  },
+  "2024-04-26-042624.cfm": {
+    "file": "2024-04-26-042624.cfm",
+    "date": "2024-04-26",
+    "lectionary_number": 283,
+    "feast": "Reading I",
+    "sha12": "d3015d7643e7",
+    "citations": [
+      "Acts 13:26-33",
+      "Jn 14:1-6",
+      "Jn 14:6"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T07:45:59+00:00"
   }
 }
