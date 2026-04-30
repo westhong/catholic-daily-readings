@@ -8398,5 +8398,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T19:30:54+00:00"
+  },
+  "2024-06-13-061324.cfm": {
+    "file": "2024-06-13-061324.cfm",
+    "date": "2024-06-13",
+    "lectionary_number": 362,
+    "feast": "Reading 1",
+    "sha12": "14267c29cc4c",
+    "citations": [
+      "Jn 13:34",
+      "Kgs 18:41-46",
+      "Mt 5:20-26",
+      "Ps 65:10,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T19:46:03+00:00"
   }
 }
