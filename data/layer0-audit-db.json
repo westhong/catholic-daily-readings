@@ -7510,5 +7510,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T05:15:25+00:00"
+  },
+  "2024-04-17-041724.cfm": {
+    "file": "2024-04-17-041724.cfm",
+    "date": "2024-04-17",
+    "lectionary_number": 275,
+    "feast": "Reading 1",
+    "sha12": "698e6af599cc",
+    "citations": [
+      "Acts 8:1",
+      "Jn 6:35-40",
+      "Jn 6:40",
+      "Ps 66:1-3"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T05:30:36+00:00"
   }
 }
