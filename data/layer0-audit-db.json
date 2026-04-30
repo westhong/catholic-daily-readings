@@ -7900,5 +7900,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T11:30:30+00:00"
+  },
+  "2024-05-12-051224.cfm": {
+    "file": "2024-05-12-051224.cfm",
+    "date": "2024-05-12",
+    "lectionary_number": 58,
+    "feast": null,
+    "sha12": "df0619d948b1",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-30T11:45:38+00:00"
   }
 }
