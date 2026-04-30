@@ -7432,5 +7432,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T04:00:41+00:00"
+  },
+  "2024-04-12-041224.cfm": {
+    "file": "2024-04-12-041224.cfm",
+    "date": "2024-04-12",
+    "lectionary_number": 271,
+    "feast": "Reading 1",
+    "sha12": "101a8843ec19",
+    "citations": [
+      "Acts 5:34-42",
+      "Jn 6:1-15",
+      "Mt 4:4",
+      "Ps 27:1,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T04:15:49+00:00"
   }
 }
