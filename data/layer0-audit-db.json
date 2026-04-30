@@ -8159,5 +8159,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T15:45:52+00:00"
+  },
+  "2024-05-29-052924.cfm": {
+    "file": "2024-05-29-052924.cfm",
+    "date": "2024-05-29",
+    "lectionary_number": 349,
+    "feast": "Reading 1",
+    "sha12": "34e7b8eaa712",
+    "citations": [
+      "Mk 10:32-45",
+      "Mk 10:45",
+      "Ps 147:12-13,",
+      "Pt 1:18-25"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T16:01:01+00:00"
   }
 }
