@@ -3832,3 +3832,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 374
 - **Citations** (4): Jn 14:23, Kgs 24:8-17, Mt 7:21-29, Ps 79:1
 - **SHA**: `0cadc00ba2e0`
+
+### ❌ 2024-06-28-062824.cfm — 2024-06-28
+- **Checked**: 2026-04-30 23:30 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 375
+- **Citations** (0): 
+- **SHA**: `bb9b79a859d9`
