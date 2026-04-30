@@ -7183,5 +7183,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T00:15:22+00:00"
+  },
+  "2024-03-28-032824.cfm": {
+    "file": "2024-03-28-032824.cfm",
+    "date": "2024-03-28",
+    "lectionary_number": 260,
+    "feast": null,
+    "sha12": "d9f0c74fae1d",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-30T00:30:31+00:00"
   }
 }
