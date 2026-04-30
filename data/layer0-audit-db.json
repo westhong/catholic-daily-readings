@@ -8569,5 +8569,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T22:15:24+00:00"
+  },
+  "2024-06-24-062424.cfm": {
+    "file": "2024-06-24-062424.cfm",
+    "date": "2024-06-24",
+    "lectionary_number": 587,
+    "feast": "Reading I",
+    "sha12": "60cb4fbf8585",
+    "citations": [
+      "Acts 13:22-26",
+      "Is 49:1-6",
+      "Lk 1:57-66,",
+      "Lk 1:76"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T22:30:32+00:00"
   }
 }
