@@ -8510,5 +8510,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T21:15:50+00:00"
+  },
+  "2024-06-20-062024.cfm": {
+    "file": "2024-06-20-062024.cfm",
+    "date": "2024-06-20",
+    "lectionary_number": 368,
+    "feast": "Reading 1",
+    "sha12": "a114d79b0f14",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-04-30T21:30:58+00:00"
   }
 }
