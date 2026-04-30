@@ -7747,5 +7747,20 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T09:00:47+00:00"
+  },
+  "2024-05-02-050224.cfm": {
+    "file": "2024-05-02-050224.cfm",
+    "date": "2024-05-02",
+    "lectionary_number": 288,
+    "feast": "Reading 1",
+    "sha12": "25dd9883d05e",
+    "citations": [
+      "Acts 15:7-21",
+      "Jn 10:27",
+      "Jn 15:9-11"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T09:16:00+00:00"
   }
 }
