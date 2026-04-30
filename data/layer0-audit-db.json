@@ -7842,5 +7842,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T10:30:57+00:00"
+  },
+  "2024-05-08-050824.cfm": {
+    "file": "2024-05-08-050824.cfm",
+    "date": "2024-05-08",
+    "lectionary_number": 293,
+    "feast": "Reading 1",
+    "sha12": "3c8389911cc3",
+    "citations": [
+      "Acts 17:15,",
+      "Jn 14:16",
+      "Jn 16:12-15",
+      "Ps 148:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T10:45:06+00:00"
   }
 }
