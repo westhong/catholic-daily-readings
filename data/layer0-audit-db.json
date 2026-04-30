@@ -7972,5 +7972,21 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T12:45:14+00:00"
+  },
+  "2024-05-17-051724.cfm": {
+    "file": "2024-05-17-051724.cfm",
+    "date": "2024-05-17",
+    "lectionary_number": 301,
+    "feast": "Reading 1",
+    "sha12": "550138653e91",
+    "citations": [
+      "Acts 25:13",
+      "Jn 14:26",
+      "Jn 21:15-19",
+      "Ps 103:1-2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T13:00:21+00:00"
   }
 }
