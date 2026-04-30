@@ -8222,5 +8222,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T16:45:26+00:00"
+  },
+  "2024-06-02-060224.cfm": {
+    "file": "2024-06-02-060224.cfm",
+    "date": "2024-06-02",
+    "lectionary_number": 168,
+    "feast": "Reading 1",
+    "sha12": "c58e73e2b5e5",
+    "citations": [
+      "Ex 24:3-8",
+      "Heb 9:11-15",
+      "Jn 6:51",
+      "Mk 14:12-16,",
+      "Ps 116:12-13,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T17:00:34+00:00"
   }
 }

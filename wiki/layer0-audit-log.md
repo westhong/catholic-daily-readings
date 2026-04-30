@@ -3650,3 +3650,10 @@ _自動審計：每 15 分鐘一個 .cfm 檔_
 - **Lectionary**: 352
 - **Citations** (3): Col 3:16, Mk 11:27-33, Ps 63:2,
 - **SHA**: `a2ff8ce0814b`
+
+### ✅ 2024-06-02-060224.cfm — 2024-06-02
+- **Checked**: 2026-04-30 17:00 UTC
+- **Feast**: Reading 1
+- **Lectionary**: 168
+- **Citations** (5): Ex 24:3-8, Heb 9:11-15, Jn 6:51, Mk 14:12-16,, Ps 116:12-13,
+- **SHA**: `c58e73e2b5e5`
