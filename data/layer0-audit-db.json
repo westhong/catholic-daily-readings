@@ -8110,5 +8110,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-04-30T15:00:27+00:00"
+  },
+  "2024-05-26-052624.cfm": {
+    "file": "2024-05-26-052624.cfm",
+    "date": "2024-05-26",
+    "lectionary_number": 165,
+    "feast": "Reading 1",
+    "sha12": "5cba43770b47",
+    "citations": [
+      "Dt 4:32-34,",
+      "Mt 28:16-20",
+      "Ps 33:4-5,",
+      "Rom 8:14-17",
+      "Rv 1:8"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-04-30T15:15:36+00:00"
   }
 }
