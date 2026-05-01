@@ -52176,28 +52176,20 @@
       "readings": {
         "gospel": [
           {
-            "citation": "Mk 14:1—15",
+            "citation": "Mk 14:1",
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "first_reading": [
+          },
           {
-            "citation": "Is 50:4-7",
+            "citation": "Mk 15:1-39",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "22:8-9, 17-18, 19-20, 23-24",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Phil 2:6-11",
@@ -52206,15 +52198,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Phil 2:8-9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-25": [
