@@ -1217,3 +1217,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 496
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261114.cfm`, live=fetch failed
+
+### ❌ 2024-07-25 — Feast of Saint James, Apostle
+- **Checked**: 2026-05-01 13:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072524.cfm
+- **Status**: mismatch
+- **Lectionary**: 605
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1e98cc2
