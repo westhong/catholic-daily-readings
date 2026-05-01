@@ -67531,7 +67531,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Jeremiah 31:10, 11-12",
+            "citation": "Jeremiah 31:10",
             "sources": [
               "USCCB"
             ]
@@ -67545,15 +67545,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ez 18:31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-02": [

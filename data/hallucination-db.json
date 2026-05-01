@@ -10419,5 +10419,60 @@
       ]
     },
     "checked_at": "2026-05-01T22:05:19+00:00"
+  },
+  "2023-07-12:0": {
+    "date": "2023-07-12",
+    "url": "https://bible.usccb.org/bible/readings/071223.cfm",
+    "lectionary_number": 385,
+    "feast": "Wednesday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:2-3, 10-11, 18-19"
+        ],
+        "live": [
+          "Ps 33:2-3"
+        ],
+        "fix": [
+          "Ps 33:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 41:55-57"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Mt 10:1-7"
+      ]
+    },
+    "checked_at": "2026-05-01T22:10:30+00:00"
   }
 }
