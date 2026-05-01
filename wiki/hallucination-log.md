@@ -1989,3 +1989,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['PS 89:4-5, 27-28, 29-30']`, live=`['PS 89:4-5']`, fix=`['PS 89:4-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca5bac8
+
+### ❌ 2024-12-13 — Memorial of Saint Lucy, Virgin and Martyr
+- **Checked**: 2026-05-01 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121324.cfm
+- **Status**: mismatch
+- **Lectionary**: 185
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc3dc07

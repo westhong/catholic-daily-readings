@@ -10057,5 +10057,44 @@
       ]
     },
     "checked_at": "2026-05-01T21:35:30+00:00"
+  },
+  "2024-12-13:0": {
+    "date": "2024-12-13",
+    "url": "https://bible.usccb.org/bible/readings/121324.cfm",
+    "lectionary_number": 185,
+    "feast": "Memorial of Saint Lucy, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Ps 1:1-2"
+        ],
+        "fix": [
+          "Ps 1:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 48:17-19"
+      ],
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ],
+      "gospel": [
+        "Mt 11:16-19"
+      ]
+    },
+    "checked_at": "2026-05-01T21:40:41+00:00"
   }
 }
