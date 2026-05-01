@@ -5364,5 +5364,44 @@
       ]
     },
     "checked_at": "2026-05-01T12:00:57+00:00"
+  },
+  "2023-12-13:0": {
+    "date": "2023-12-13",
+    "url": "https://bible.usccb.org/bible/readings/121323.cfm",
+    "lectionary_number": 183,
+    "feast": "Memorial of Saint Lucy, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 3-4, 8"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 40:25-31"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "gospel": [
+        "Mt 11:28-30"
+      ]
+    },
+    "checked_at": "2026-05-01T12:05:13+00:00"
   }
 }
