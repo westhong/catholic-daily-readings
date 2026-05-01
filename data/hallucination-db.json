@@ -9731,5 +9731,45 @@
       ]
     },
     "checked_at": "2026-05-01T21:00:32+00:00"
+  },
+  "2027-04-16:0": {
+    "date": "2027-04-16",
+    "url": "https://bible.usccb.org/bible/readings/041627.cfm",
+    "lectionary_number": 277,
+    "feast": "Friday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:56"
+        ],
+        "fix": [
+          "John 6:56"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 6:56"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:1-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 117:1"
+      ],
+      "alleluia_verse": [
+        "John 6:56"
+      ],
+      "gospel": [
+        "John 6:52-59"
+      ]
+    },
+    "checked_at": "2026-05-01T21:05:43+00:00"
   }
 }

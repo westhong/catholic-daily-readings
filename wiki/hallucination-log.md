@@ -1922,3 +1922,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 145:17-18, 19-20, 21']`, live=`['PS 145:17-18']`, fix=`['PS 145:17-18']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JOHN 14:6']`, fix=`['JOHN 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96a5745
+
+### ❌ 2027-04-16 — Friday of the Third Week of Easter
+- **Checked**: 2026-05-01 21:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041627.cfm
+- **Status**: mismatch
+- **Lectionary**: 277
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:56']`, fix=`['John 6:56']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2023f37
