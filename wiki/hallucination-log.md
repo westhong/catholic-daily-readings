@@ -1328,3 +1328,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 267
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/230417.cfm`, live=fetch failed
+
+### ❌ 2027-05-05 — Wednesday of the Sixth Week of Easter
+- **Checked**: 2026-05-01 14:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050527.cfm
+- **Status**: mismatch
+- **Lectionary**: 293
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 17:15, 22—18']`, live=`['Acts 17:15']`, fix=`['Acts 17:15']`
+  - **responsorial_psalm**: stored=`['Psalm 148:1-2, 11-12, 13, 14']`, live=`['Psalm 148:1-2']`, fix=`['Psalm 148:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d12c61

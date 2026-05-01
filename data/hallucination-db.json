@@ -6635,5 +6635,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T14:25:23+00:00"
+  },
+  "2027-05-05:0": {
+    "date": "2027-05-05",
+    "url": "https://bible.usccb.org/bible/readings/050527.cfm",
+    "lectionary_number": 293,
+    "feast": "Wednesday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 17:15, 22—18"
+        ],
+        "live": [
+          "Acts 17:15"
+        ],
+        "fix": [
+          "Acts 17:15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 148:1-2, 11-12, 13, 14"
+        ],
+        "live": [
+          "Psalm 148:1-2"
+        ],
+        "fix": [
+          "Psalm 148:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:16"
+        ],
+        "fix": [
+          "John 14:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 17:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 148:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 17:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 148:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:16"
+      ],
+      "gospel": [
+        "John 16:12-15"
+      ]
+    },
+    "checked_at": "2026-05-01T14:30:35+00:00"
   }
 }
