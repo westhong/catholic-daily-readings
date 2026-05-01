@@ -3730,5 +3730,75 @@
       ]
     },
     "checked_at": "2026-05-01T09:10:47+00:00"
+  },
+  "2027-06-05:0": {
+    "date": "2027-06-05",
+    "url": "https://bible.usccb.org/bible/readings/060527.cfm",
+    "lectionary_number": 358,
+    "feast": "Saturday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Tobit 12:1, 5-15, 20"
+        ],
+        "live": [
+          "Tobit 12:1"
+        ],
+        "fix": [
+          "Tobit 12:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Tobit 13:2, 6"
+        ],
+        "live": [
+          "Tobit 13:2"
+        ],
+        "fix": [
+          "Tobit 13:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Tobit 12:1"
+      ],
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Tobit 12:1"
+      ],
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Mark 12:38-44"
+      ]
+    },
+    "checked_at": "2026-05-01T09:16:00+00:00"
   }
 }

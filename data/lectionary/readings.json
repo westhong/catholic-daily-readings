@@ -66247,7 +66247,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 42:2, 3",
+            "citation": "PS 42:2",
             "sources": [
               "USCCB"
             ]
@@ -66261,15 +66261,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Psalm 130:5, 7",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-14": [

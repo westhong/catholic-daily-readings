@@ -733,3 +733,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['24:7, 8, 9, 10']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:32']`, fix=`['Lk 2:32']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b25de5
+
+### ❌ 2027-06-05 — Saturday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-01 09:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060527.cfm
+- **Status**: mismatch
+- **Lectionary**: 358
+- **Mismatches**:
+  - **first_reading**: stored=`['Tobit 12:1, 5-15, 20']`, live=`['Tobit 12:1']`, fix=`['Tobit 12:1']`
+  - **responsorial_psalm**: stored=`['Tobit 13:2, 6']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9397e27
