@@ -73388,7 +73388,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Thes 5:1-6, 9-11",
+            "citation": "1 Thes 5:1-6",
             "sources": [
               "USCCB"
             ]
@@ -73396,7 +73396,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 27:1, 4, 13-14",
+            "citation": "Ps 27:1",
             "sources": [
               "USCCB"
             ]
@@ -73417,8 +73417,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-06": [

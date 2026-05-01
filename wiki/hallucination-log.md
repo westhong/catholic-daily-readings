@@ -92,3 +92,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
   - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ce3e812
+
+### ❌ 2024-05-16 — Thursday of the Seventh Week of Easter
+- **Checked**: 2026-05-01 03:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051624.cfm
+- **Status**: mismatch
+- **Lectionary**: 300
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 17:21']`, fix=`['Jn 17:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7a6600
