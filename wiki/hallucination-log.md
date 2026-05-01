@@ -1701,3 +1701,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 91:1-2, 3-4, 14-15']`, live=`['Ps 91:1-2']`, fix=`['Ps 91:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1396672
+
+### ❌ 2025-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary Vigil
+- **Checked**: 2026-05-01 18:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081525-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 621
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Chronicles 15:3-4, 15-16']`, live=`['1 Chronicles 15:3-4']`, fix=`['1 Chronicles 15:3-4']`
+  - **responsorial_psalm**: stored=`['Psalm 132:6-7, 9-10, 13-14']`, live=`['Psalm 132:6-7']`, fix=`['Psalm 132:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6dedc59
