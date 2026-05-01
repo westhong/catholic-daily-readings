@@ -778,5 +778,53 @@
       ]
     },
     "checked_at": "2026-05-01T04:25:33+00:00"
+  },
+  "2024-03-13:0": {
+    "date": "2024-03-13",
+    "url": "https://bible.usccb.org/bible/readings/031324.cfm",
+    "lectionary_number": 246,
+    "feast": "Wednesday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:8-9, 13"
+        ],
+        "live": [
+          "Ps 145:8-9"
+        ],
+        "fix": [
+          "Ps 145:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jn 11:25a, 26"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:8-9"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 49:8-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:8-9"
+      ],
+      "gospel": [
+        "Jn 5:17-30"
+      ]
+    },
+    "checked_at": "2026-05-01T04:30:46+00:00"
   }
 }

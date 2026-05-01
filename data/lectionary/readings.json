@@ -61852,7 +61852,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 105:2-3, 4-5, 6-7",
+            "citation": "PS 105:2-3",
             "sources": [
               "USCCB"
             ]
@@ -61873,8 +61873,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "MT 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-08": [
