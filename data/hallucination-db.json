@@ -5288,5 +5288,81 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T11:55:42+00:00"
+  },
+  "2024-12-25:0": {
+    "date": "2024-12-25",
+    "url": "https://bible.usccb.org/bible/readings/122524-Vigil.cfm",
+    "lectionary_number": 13,
+    "feast": "The Nativity of the Lord (Christmas) Vigil Mass",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 89:4-5, 16-17, 27, 29"
+        ],
+        "live": [
+          "Ps 89:4-5"
+        ],
+        "fix": [
+          "Ps 89:4-5"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Acts 13:16-17, 22-25"
+        ],
+        "live": [
+          "Acts 13:16-17"
+        ],
+        "fix": [
+          "Acts 13:16-17"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 1:1-25"
+        ],
+        "live": [
+          "Mt 1:1-25",
+          "Mt 1:18-25"
+        ],
+        "fix": [
+          "Mt 1:1-25",
+          "Mt 1:18-25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 89:4-5"
+      ],
+      "second_reading": [
+        "Acts 13:16-17"
+      ],
+      "gospel": [
+        "Mt 1:1-25",
+        "Mt 1:18-25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 62:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:4-5"
+      ],
+      "second_reading": [
+        "Acts 13:16-17"
+      ],
+      "gospel": [
+        "Mt 1:1-25",
+        "Mt 1:18-25"
+      ]
+    },
+    "checked_at": "2026-05-01T12:00:57+00:00"
   }
 }
