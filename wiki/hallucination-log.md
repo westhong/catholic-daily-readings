@@ -1815,3 +1815,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 494
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261112.cfm`, live=fetch failed
+
+### ❌ 2027-10-11 — Monday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-01 19:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101127.cfm
+- **Status**: mismatch
+- **Lectionary**: 467
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0660e3f

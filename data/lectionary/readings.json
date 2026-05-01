@@ -58144,7 +58144,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jer 26:11-16, 24",
+            "citation": "Jer 26:11-16",
             "sources": [
               "USCCB"
             ]
@@ -58152,7 +58152,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 69:15-16, 30-31, 33-34",
+            "citation": "PS 69:15-16",
             "sources": [
               "USCCB"
             ]
@@ -58173,8 +58173,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-04": [
