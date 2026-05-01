@@ -11440,5 +11440,24 @@
       ]
     },
     "checked_at": "2026-05-01T23:45:31+00:00"
+  },
+  "2026-07-15:0": {
+    "date": "2026-07-15",
+    "url": "https://bible.usccb.org/bible/readings/715.cfm",
+    "lectionary_number": 391,
+    "feast": "Memorial of Saint Bonaventure, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/715.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T23:50:43+00:00"
   }
 }

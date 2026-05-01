@@ -2249,3 +2249,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81ce225
+
+### 🚫 2026-07-15 — Memorial of Saint Bonaventure, Bishop and Doctor of the Church
+- **Checked**: 2026-05-01 23:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/715.cfm
+- **Status**: url_dead
+- **Lectionary**: 391
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/715.cfm`, live=fetch failed
