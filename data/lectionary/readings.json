@@ -40973,7 +40973,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 37:3-4, 18-19, 27-28, 39-40",
+            "citation": "Psalm 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -40994,8 +40994,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Galatians 6:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-19": [

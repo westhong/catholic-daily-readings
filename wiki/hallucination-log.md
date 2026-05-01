@@ -684,3 +684,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/56c26f0
+
+### ❌ 2027-09-22 — Wednesday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-01 08:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092227.cfm
+- **Status**: mismatch
+- **Lectionary**: 451
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dfd0d91

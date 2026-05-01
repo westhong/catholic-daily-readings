@@ -3473,5 +3473,60 @@
       ]
     },
     "checked_at": "2026-05-01T08:45:36+00:00"
+  },
+  "2027-09-22:0": {
+    "date": "2027-09-22",
+    "url": "https://bible.usccb.org/bible/readings/092227.cfm",
+    "lectionary_number": 451,
+    "feast": "Wednesday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Tobit 13:2, 3-4"
+        ],
+        "live": [
+          "Tobit 13:2"
+        ],
+        "fix": [
+          "Tobit 13:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 1:15"
+        ],
+        "fix": [
+          "Mark 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ezra 9:5-9"
+      ],
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Luke 9:1-6"
+      ]
+    },
+    "checked_at": "2026-05-01T08:50:50+00:00"
   }
 }
