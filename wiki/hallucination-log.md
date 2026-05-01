@@ -2169,3 +2169,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 444
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/915.cfm`, live=fetch failed
+
+### ❌ 2025-12-17 — Wednesday of the Third Week of Advent
+- **Checked**: 2026-05-01 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121725.cfm
+- **Status**: mismatch
+- **Lectionary**: 193
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 49:2, 8-10']`, live=`['Genesis 49:2']`, fix=`['Genesis 49:2']`
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 3-4']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cc7587
