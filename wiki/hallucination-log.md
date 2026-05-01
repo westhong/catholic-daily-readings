@@ -1209,3 +1209,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Ps 84:5']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 1:16, 18-21, 24']`, live=`['Mt 1:16', 'Lk 2:41-51']`, fix=`['Mt 1:16', 'Lk 2:41-51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8944391
+
+### 🚫 2026-11-14 — 
+- **Checked**: 2026-05-01 13:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261114.cfm
+- **Status**: url_dead
+- **Lectionary**: 496
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261114.cfm`, live=fetch failed
