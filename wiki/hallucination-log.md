@@ -2061,3 +2061,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:2-3, 10-11, 18-19']`, live=`['Ps 33:2-3']`, fix=`['Ps 33:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e5c31d4
+
+### ❌ 2023-04-01 — Saturday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 22:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040123.cfm
+- **Status**: mismatch
+- **Lectionary**: 256
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abec4a9

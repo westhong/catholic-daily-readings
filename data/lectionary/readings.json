@@ -49902,7 +49902,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 5:1-7, 10",
+            "citation": "2 Sm 5:1-7",
             "sources": [
               "USCCB"
             ]
@@ -49910,7 +49910,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 89:20, 21-22, 25-26",
+            "citation": "PS 89:20",
             "sources": [
               "USCCB"
             ]
@@ -49931,8 +49931,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "SEE 2 TM 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-23": [
