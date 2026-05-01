@@ -2565,7 +2565,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 9:15, 24-28",
+            "citation": "Hebrews 9:15",
             "sources": [
               "USCCB"
             ]
@@ -2573,7 +2573,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3",
+            "citation": "Psalm 98:1",
             "sources": [
               "USCCB"
             ]
@@ -2594,8 +2594,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Timothy 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-28": [

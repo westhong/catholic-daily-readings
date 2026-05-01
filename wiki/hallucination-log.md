@@ -664,3 +664,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b246ab3
+
+### ❌ 2027-10-14 — Thursday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-01 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101427.cfm
+- **Status**: mismatch
+- **Lectionary**: 470
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/841f9a5
