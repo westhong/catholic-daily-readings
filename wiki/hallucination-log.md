@@ -1473,3 +1473,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 21:2-3, 4-5, 6-7']`, live=`['Psalm 21:2-3']`, fix=`['Psalm 21:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeec6ce
+
+### ❌ 2025-03-06 — Thursday after Ash Wednesday
+- **Checked**: 2026-05-01 16:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030625.cfm
+- **Status**: mismatch
+- **Lectionary**: 220
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17848b9

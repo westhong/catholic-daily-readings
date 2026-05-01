@@ -7419,5 +7419,53 @@
       ]
     },
     "checked_at": "2026-05-01T16:20:11+00:00"
+  },
+  "2025-03-06:0": {
+    "date": "2025-03-06",
+    "url": "https://bible.usccb.org/bible/readings/030625.cfm",
+    "lectionary_number": 220,
+    "feast": "Thursday after Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Psalm 1:1-2"
+        ],
+        "fix": [
+          "Psalm 1:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Matthew 4:17"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 30:15-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "gospel": [
+        "Luke 9:22-25"
+      ]
+    },
+    "checked_at": "2026-05-01T16:25:23+00:00"
   }
 }

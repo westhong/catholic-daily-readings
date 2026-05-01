@@ -44525,7 +44525,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Chronicles 15:3-4, 15-16",
+            "citation": "1 Chronicles 15:3-4",
             "sources": [
               "USCCB"
             ]
@@ -44533,7 +44533,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 132:6-7, 9-10, 13-14",
+            "citation": "Psalm 132:6-7",
             "sources": [
               "USCCB"
             ]
@@ -44554,11 +44554,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/081527-Vigil.cfm",
       "date": "2027-08-15",
-      "mass": "Vigil"
+      "mass": "Vigil",
+      "mass_idx": 0
     }
   ],
   "2027-08-16": [
