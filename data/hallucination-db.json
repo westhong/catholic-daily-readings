@@ -8770,5 +8770,50 @@
       ]
     },
     "checked_at": "2026-05-01T18:45:19+00:00"
+  },
+  "2024-12-24:0": {
+    "date": "2024-12-24",
+    "url": "https://bible.usccb.org/bible/readings/122424.cfm",
+    "lectionary_number": 200,
+    "feast": "Tuesday of the Fourth Week of Advent Mass in the Morning",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Sm 7:1-5, 8"
+        ],
+        "live": [
+          "2 Sm 7:1-5"
+        ],
+        "fix": [
+          "2 Sm 7:1-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "89:2-3, 4-5, 27"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Sm 7:1-5"
+      ],
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 7:1-5"
+      ],
+      "gospel": [
+        "Lk 1:67-79"
+      ]
+    },
+    "checked_at": "2026-05-01T18:50:30+00:00"
   }
 }

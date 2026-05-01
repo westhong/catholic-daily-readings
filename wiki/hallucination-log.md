@@ -1722,3 +1722,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e6bcb44
+
+### ❌ 2024-12-24 — Tuesday of the Fourth Week of Advent Mass in the Morning
+- **Checked**: 2026-05-01 18:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122424.cfm
+- **Status**: mismatch
+- **Lectionary**: 200
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 7:1-5, 8']`, live=`['2 Sm 7:1-5']`, fix=`['2 Sm 7:1-5']`
+  - **responsorial_psalm**: stored=`['89:2-3, 4-5, 27']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6155352
