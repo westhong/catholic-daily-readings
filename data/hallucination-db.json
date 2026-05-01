@@ -2406,5 +2406,60 @@
       ]
     },
     "checked_at": "2026-05-01T07:06:01+00:00"
+  },
+  "2026-01-19:0": {
+    "date": "2026-01-19",
+    "url": "https://bible.usccb.org/bible/readings/011926.cfm",
+    "lectionary_number": 311,
+    "feast": "Monday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 50:8-9, 16"
+        ],
+        "live": [
+          "Psalm 50:8-9"
+        ],
+        "fix": [
+          "Psalm 50:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Hebrews 4:12"
+        ],
+        "fix": [
+          "Hebrews 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "alleluia_verse": [
+        "Hebrews 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 15:16-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "alleluia_verse": [
+        "Hebrews 4:12"
+      ],
+      "gospel": [
+        "Mark 2:18-22"
+      ]
+    },
+    "checked_at": "2026-05-01T07:10:14+00:00"
   }
 }

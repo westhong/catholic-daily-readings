@@ -485,3 +485,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c73ecc5
+
+### ❌ 2026-01-19 — Monday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-01 07:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011926.cfm
+- **Status**: mismatch
+- **Lectionary**: 311
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0806ddd
