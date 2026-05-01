@@ -979,5 +979,45 @@
       ]
     },
     "checked_at": "2026-05-01T04:45:27+00:00"
+  },
+  "2024-06-12:0": {
+    "date": "2024-06-12",
+    "url": "https://bible.usccb.org/bible/readings/061224.cfm",
+    "lectionary_number": 361,
+    "feast": "Wednesday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 25:4"
+        ],
+        "fix": [
+          "Ps 25:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 25:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 18:20-39"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:1"
+      ],
+      "alleluia_verse": [
+        "Ps 25:4"
+      ],
+      "gospel": [
+        "Mt 5:17-19"
+      ]
+    },
+    "checked_at": "2026-05-01T04:50:41+00:00"
   }
 }
