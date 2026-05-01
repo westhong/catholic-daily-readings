@@ -1752,3 +1752,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Sir 48:1-4, 9-11']`, live=`['Sir 48:1-4']`, fix=`['Sir 48:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c494d7
+
+### ❌ 2023-01-15 — Second Sunday in Ordinary Time
+- **Checked**: 2026-05-01 19:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011523.cfm
+- **Status**: mismatch
+- **Lectionary**: 64
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 49:3, 5-6']`, live=`['Is 49:3']`, fix=`['Is 49:3']`
+  - **responsorial_psalm**: stored=`['Ps 40:2, 4, 7-8, 8-9, 10']`, live=`['Ps 40:2']`, fix=`['Ps 40:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:14']`, fix=`['Jn 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3491a7

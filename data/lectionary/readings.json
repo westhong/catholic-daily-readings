@@ -39269,15 +39269,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "John 1:14ab",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-06": [
