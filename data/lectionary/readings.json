@@ -25198,7 +25198,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 34:4b-6, 8-9",
+            "citation": "Exodus 34:4",
             "sources": [
               "USCCB"
             ]
@@ -25206,7 +25206,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "citation": "Daniel 3:52",
             "sources": [
               "USCCB"
             ]
@@ -25236,7 +25236,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-01": [

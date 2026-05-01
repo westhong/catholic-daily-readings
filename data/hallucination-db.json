@@ -7665,5 +7665,60 @@
       ]
     },
     "checked_at": "2026-05-01T16:40:34+00:00"
+  },
+  "2023-10-04:0": {
+    "date": "2023-10-04",
+    "url": "https://bible.usccb.org/bible/readings/100423.cfm",
+    "lectionary_number": 457,
+    "feast": "Memorial of Saint Francis of Assisi",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 137:1-2, 3, 4-5, 6"
+        ],
+        "live": [
+          "Ps 137:1-2"
+        ],
+        "fix": [
+          "Ps 137:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Phil 3:8-9"
+        ],
+        "fix": [
+          "Phil 3:8-9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 137:1-2"
+      ],
+      "alleluia_verse": [
+        "Phil 3:8-9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Neh 2:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 137:1-2"
+      ],
+      "alleluia_verse": [
+        "Phil 3:8-9"
+      ],
+      "gospel": [
+        "Lk 9:57-62"
+      ]
+    },
+    "checked_at": "2026-05-01T16:45:45+00:00"
   }
 }
