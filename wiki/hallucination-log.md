@@ -644,3 +644,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6, 8-9']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
   - **gospel**: stored=`['John 20:1-2, 11-18']`, live=`['John 20:1-2']`, fix=`['John 20:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/855a98a
+
+### ❌ 2027-01-25 — Feast of the Conversion of Saint Paul, Apostle
+- **Checked**: 2026-05-01 08:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012527.cfm
+- **Status**: mismatch
+- **Lectionary**: 519
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 22:3-16']`, live=`['Acts 22:3-16', 'Acts 9:1-22']`, fix=`['Acts 22:3-16', 'Acts 9:1-22']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:16']`, fix=`['John 15:16']`
+  - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mark 16:15-18']`, fix=`['Mark 16:15-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d39b40f
