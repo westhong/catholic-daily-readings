@@ -4753,7 +4753,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 1:10, 16-20",
+            "citation": "Isaiah 1:10",
             "sources": [
               "USCCB"
             ]
@@ -4761,7 +4761,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:8-9, 16",
+            "citation": "Psalm 50:8-9",
             "sources": [
               "USCCB"
             ]
@@ -4775,15 +4775,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ezekiel 18:31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-19": [

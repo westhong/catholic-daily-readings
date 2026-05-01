@@ -59,3 +59,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Ephesians 4:17, 20-24']`, live=`['Ephesians 4:17']`, fix=`['Ephesians 4:17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e147116
+
+### ❌ 2025-09-29 — Feast of Saints Michael, Gabriel, and Raphael, Archangels
+- **Checked**: 2026-05-01 03:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092925.cfm
+- **Status**: mismatch
+- **Lectionary**: 647
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 7:9-10, 13-14']`, live=`['Daniel 7:9-10']`, fix=`['Daniel 7:9-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 103:21']`, fix=`['Psalm 103:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4f6a632
