@@ -54802,7 +54802,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 141:1-2, 3",
+            "citation": "PS 141:1-2",
             "sources": [
               "USCCB"
             ]
@@ -54823,8 +54823,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-26": [

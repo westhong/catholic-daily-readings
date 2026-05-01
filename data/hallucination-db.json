@@ -4153,5 +4153,86 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T10:01:01+00:00"
+  },
+  "2027-03-19:0": {
+    "date": "2027-03-19",
+    "url": "https://bible.usccb.org/bible/readings/031927.cfm",
+    "lectionary_number": 543,
+    "feast": "Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 89:2-3, 4-5, 27"
+        ],
+        "live": [
+          "Psalm 89:2-3"
+        ],
+        "fix": [
+          "Psalm 89:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Romans 4:13, 16-18, 22"
+        ],
+        "live": [
+          "Romans 4:13"
+        ],
+        "fix": [
+          "Romans 4:13"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Psalm 84:5"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 1:16, 18-21, 24"
+        ],
+        "live": [
+          "Matthew 1:16"
+        ],
+        "fix": [
+          "Matthew 1:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 89:2-3"
+      ],
+      "second_reading": [
+        "Romans 4:13"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Matthew 1:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 7:4-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 89:2-3"
+      ],
+      "second_reading": [
+        "Romans 4:13"
+      ],
+      "gospel": [
+        "Matthew 1:16"
+      ]
+    },
+    "checked_at": "2026-05-01T10:05:20+00:00"
   }
 }
