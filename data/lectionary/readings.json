@@ -75068,7 +75068,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 49:6-7, 8-10, 17-18, 19-20",
+            "citation": "Ps 49:6-7",
             "sources": [
               "USCCB"
             ]
@@ -75089,8 +75089,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-23": [

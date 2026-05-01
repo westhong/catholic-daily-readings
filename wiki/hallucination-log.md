@@ -2218,3 +2218,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Cor 1:23']`, fix=`['1 Cor 1:23']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-20']`, fix=`['Mk 16:15-20']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2a69cb
+
+### ❌ 2025-10-04 — Memorial of Saint Francis of Assisi
+- **Checked**: 2026-05-01 23:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100425.cfm
+- **Status**: mismatch
+- **Lectionary**: 460
+- **Mismatches**:
+  - **first_reading**: stored=`['Baruch 4:5-12, 27-29']`, live=`['Baruch 4:5-12']`, fix=`['Baruch 4:5-12']`
+  - **responsorial_psalm**: stored=`['Psalm 69:33-35, 36-37']`, live=`['Psalm 69:33-35']`, fix=`['Psalm 69:33-35']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/47ec8bb
