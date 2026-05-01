@@ -335,3 +335,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 698
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261228.cfm`, live=fetch failed
+
+### ❌ 2025-04-18 — Good Friday of the Lord’s Passion
+- **Checked**: 2026-05-01 05:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041825.cfm
+- **Status**: mismatch
+- **Lectionary**: 40
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 52:13—53']`, live=`['Isaiah 52:13']`, fix=`['Isaiah 52:13']`
+  - **responsorial_psalm**: stored=`['Psalm 31:2, 6, 12-13, 15-16, 17, 25']`, live=`['Psalm 31:2']`, fix=`['Psalm 31:2']`
+  - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 18:1—19']`, live=`['John 18:1']`, fix=`['John 18:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9558239

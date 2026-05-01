@@ -16427,7 +16427,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:75, 76, 77, 78, 79, 80, 81",
+            "citation": "Daniel 3:75",
             "sources": [
               "USCCB"
             ]
@@ -16448,8 +16448,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-29": [
