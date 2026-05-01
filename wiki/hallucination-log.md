@@ -704,3 +704,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Galatians 6:14']`, fix=`['Galatians 6:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ad776d
+
+### ❌ 2023-12-03 — First Sunday of Advent
+- **Checked**: 2026-05-01 09:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120323.cfm
+- **Status**: mismatch
+- **Lectionary**: 2
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 80:2-3, 15-16, 18-19']`, live=`['PS 80:2-3']`, fix=`['PS 80:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['PS 85:8']`, fix=`['PS 85:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e166146
