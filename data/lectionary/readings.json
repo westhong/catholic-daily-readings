@@ -50830,20 +50830,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 19:1-2, 11-18",
+            "citation": "Lv 19:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "19:8, 9, 10, 15",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 25:31-46",
@@ -50852,15 +50845,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "2 Cor 6:2b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-20": [

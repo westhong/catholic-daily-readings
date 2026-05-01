@@ -4438,5 +4438,75 @@
       ]
     },
     "checked_at": "2026-05-01T10:25:18+00:00"
+  },
+  "2024-07-23:0": {
+    "date": "2024-07-23",
+    "url": "https://bible.usccb.org/bible/readings/072324.cfm",
+    "lectionary_number": 396,
+    "feast": "Tuesday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "MI 7:14-15, 18-20"
+        ],
+        "live": [
+          "MI 7:14-15"
+        ],
+        "fix": [
+          "MI 7:14-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 85:2-4, 5-6, 7-8"
+        ],
+        "live": [
+          "PS 85:2-4"
+        ],
+        "fix": [
+          "PS 85:2-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 14:23"
+        ],
+        "fix": [
+          "JN 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "MI 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "PS 85:2-4"
+      ],
+      "alleluia_verse": [
+        "JN 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "MI 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "PS 85:2-4"
+      ],
+      "alleluia_verse": [
+        "JN 14:23"
+      ],
+      "gospel": [
+        "MT 12:46-50"
+      ]
+    },
+    "checked_at": "2026-05-01T10:30:30+00:00"
   }
 }

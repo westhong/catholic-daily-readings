@@ -875,3 +875,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81cb863
+
+### ❌ 2024-07-23 — Tuesday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 10:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072324.cfm
+- **Status**: mismatch
+- **Lectionary**: 396
+- **Mismatches**:
+  - **first_reading**: stored=`['MI 7:14-15, 18-20']`, live=`['MI 7:14-15']`, fix=`['MI 7:14-15']`
+  - **responsorial_psalm**: stored=`['PS 85:2-4, 5-6, 7-8']`, live=`['PS 85:2-4']`, fix=`['PS 85:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 14:23']`, fix=`['JN 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d6ea557
