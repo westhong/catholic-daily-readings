@@ -59499,7 +59499,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dt 4:1-2, 6-8",
+            "citation": "Dt 4:1-2",
             "sources": [
               "USCCB"
             ]
@@ -59507,7 +59507,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 15:2-3, 3-4, 4-5",
+            "citation": "Ps 15:2-3",
             "sources": [
               "USCCB"
             ]
@@ -59515,7 +59515,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Jas 1:17-18, 21",
+            "citation": "Jas 1:17-18",
             "sources": [
               "USCCB"
             ]
@@ -59523,7 +59523,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mk 7:1-8, 14-15, 21-23",
+            "citation": "Mk 7:1-8",
             "sources": [
               "USCCB"
             ]
@@ -59536,8 +59536,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jas 1:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-02": [

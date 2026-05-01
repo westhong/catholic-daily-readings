@@ -2028,3 +2028,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 8:4-5, 6-7, 8-9']`, live=`['Psalm 8:4-5']`, fix=`['Psalm 8:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalms 119:36']`, fix=`['Psalms 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/47ff833
+
+### ❌ 2026-05-04 — Monday of the Fifth Week of Easter
+- **Checked**: 2026-05-01 22:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050426.cfm
+- **Status**: mismatch
+- **Lectionary**: 285
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 115:1-2, 3-4, 15-16']`, live=`['Psalm 115:1-2']`, fix=`['Psalm 115:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/231ca87
