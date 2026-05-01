@@ -1339,3 +1339,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 148:1-2, 11-12, 13, 14']`, live=`['Psalm 148:1-2']`, fix=`['Psalm 148:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d12c61
+
+### ❌ 2027-06-23 — Wednesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-01 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062327.cfm
+- **Status**: mismatch
+- **Lectionary**: 373
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 15:1-12, 17-18']`, live=`['Genesis 15:1-12']`, fix=`['Genesis 15:1-12']`
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/784140b
