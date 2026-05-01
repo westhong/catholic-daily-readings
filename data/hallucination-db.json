@@ -3860,5 +3860,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T09:25:26+00:00"
+  },
+  "2023-10-20:0": {
+    "date": "2023-10-20",
+    "url": "https://bible.usccb.org/bible/readings/102023.cfm",
+    "lectionary_number": 471,
+    "feast": "Friday of the Twenty-eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 33:22"
+        ],
+        "fix": [
+          "Ps 33:22"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 33:22"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 32:1"
+      ],
+      "alleluia_verse": [
+        "Ps 33:22"
+      ],
+      "gospel": [
+        "Lk 12:1-7"
+      ]
+    },
+    "checked_at": "2026-05-01T09:30:36+00:00"
   }
 }

@@ -760,3 +760,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/050924.cfm
 - **Status**: ok
 - **Lectionary**: 58
+
+### ❌ 2023-10-20 — Friday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-01 09:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102023.cfm
+- **Status**: mismatch
+- **Lectionary**: 471
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 33:22']`, fix=`['Ps 33:22']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d373b66
