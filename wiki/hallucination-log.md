@@ -788,3 +788,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **gospel**: stored=`['Mt 1:1-16, 18-23']`, live=`['Mt 1:1-16']`, fix=`['Mt 1:1-16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e93b3e0
+
+### ❌ 2027-07-19 — Monday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 09:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071927.cfm
+- **Status**: mismatch
+- **Lectionary**: 395
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17943ee

@@ -5402,7 +5402,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2-3, 4-5, 6-7",
+            "citation": "Psalm 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -5418,7 +5418,7 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 15:1-3, 11-32",
+            "citation": "Luke 15:1-3",
             "sources": [
               "USCCB"
             ]
@@ -5427,7 +5427,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/033025-YearC.cfm",
       "date": "2025-03-30",
-      "mass": "YearC"
+      "mass": "YearC",
+      "mass_idx": 1
     }
   ],
   "2025-03-31": [

@@ -3997,5 +3997,45 @@
       ]
     },
     "checked_at": "2026-05-01T09:41:04+00:00"
+  },
+  "2027-07-19:0": {
+    "date": "2027-07-19",
+    "url": "https://bible.usccb.org/bible/readings/071927.cfm",
+    "lectionary_number": 395,
+    "feast": "Monday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 95:8"
+        ],
+        "fix": [
+          "Psalm 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 14:5-18"
+      ],
+      "responsorial_psalm": [
+        "Exodus 15:1"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ],
+      "gospel": [
+        "Matthew 12:38-42"
+      ]
+    },
+    "checked_at": "2026-05-01T09:45:18+00:00"
   }
 }
