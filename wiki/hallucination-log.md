@@ -1651,3 +1651,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/031024.cfm
 - **Status**: ok
 - **Lectionary**: 31
+
+### ❌ 2025-04-23 — Wednesday in the Octave of Easter
+- **Checked**: 2026-05-01 18:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042325.cfm
+- **Status**: mismatch
+- **Lectionary**: 263
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/27d5b3f
