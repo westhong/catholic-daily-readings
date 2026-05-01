@@ -2189,3 +2189,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 51:3-4, 8-9, 12-13, 14']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 16:13']`, fix=`['JN 16:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3b18342
+
+### 🚫 2024-11-10 — Thirty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-01 23:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111024.cfm
+- **Status**: url_dead
+- **Lectionary**: 155
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/111024.cfm`, live=fetch failed

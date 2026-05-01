@@ -11132,5 +11132,24 @@
       ]
     },
     "checked_at": "2026-05-01T23:15:21+00:00"
+  },
+  "2024-11-10:0": {
+    "date": "2024-11-10",
+    "url": "https://bible.usccb.org/bible/readings/111024.cfm",
+    "lectionary_number": 155,
+    "feast": "Thirty-second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/111024.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T23:20:33+00:00"
   }
 }
