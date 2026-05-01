@@ -503,3 +503,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 435
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/904.cfm`, live=fetch failed
+
+### ❌ 2024-11-27 — Wednesday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-01 07:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112724.cfm
+- **Status**: mismatch
+- **Lectionary**: 505
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['RV 2:10']`, fix=`['RV 2:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5200874
