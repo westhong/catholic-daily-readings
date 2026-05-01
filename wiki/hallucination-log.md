@@ -309,3 +309,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Revelation 21:10-14, 22-23']`, live=`['Revelation 21:10-14']`, fix=`['Revelation 21:10-14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0d4f51d
+
+### ❌ 2023-01-02 — Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church
+- **Checked**: 2026-05-01 05:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010223.cfm
+- **Status**: mismatch
+- **Lectionary**: 205
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['98:1, 2-3']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 1:1-2']`, fix=`['Heb 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b32638
