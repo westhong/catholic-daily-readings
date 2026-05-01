@@ -22405,30 +22405,21 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 2:14, 22-33",
-            "sources": [
-              "USCCB",
-              "CatholicGallery"
-            ]
-          }
-        ],
-        "responsorial_psalm": [
-          {
-            "citation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
-            "sources": [
-              "USCCB",
-              "CatholicGallery"
-            ]
-          }
-        ],
-        "sequence": [
-          {
-            "citation": "Victimae paschali laudes (optional, liturgical text)",
+            "citation": "Acts 2:14",
             "sources": [
               "USCCB"
             ]
           }
         ],
+        "responsorial_psalm": [
+          {
+            "citation": "Psalm 16:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "sequence": [],
         "alleluia": [
           {
             "citation": "Psalm 118:24",
@@ -22446,8 +22437,17 @@
               "CatholicGallery"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-07": [

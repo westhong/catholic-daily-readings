@@ -322,5 +322,68 @@
       ]
     },
     "checked_at": "2026-05-01T03:40:41+00:00"
+  },
+  "2025-03-18:0": {
+    "date": "2025-03-18",
+    "url": "https://bible.usccb.org/bible/readings/031825.cfm",
+    "lectionary_number": 231,
+    "feast": "Tuesday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 1:10, 16-20"
+        ],
+        "live": [
+          "Isaiah 1:10"
+        ],
+        "fix": [
+          "Isaiah 1:10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 50:8-9, 16"
+        ],
+        "live": [
+          "Psalm 50:8-9"
+        ],
+        "fix": [
+          "Psalm 50:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ezekiel 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Isaiah 1:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 1:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "gospel": [
+        "Matthew 23:1-12"
+      ]
+    },
+    "checked_at": "2026-05-01T03:45:54+00:00"
   }
 }

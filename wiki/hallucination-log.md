@@ -69,3 +69,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Daniel 7:9-10, 13-14']`, live=`['Daniel 7:9-10']`, fix=`['Daniel 7:9-10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 103:21']`, fix=`['Psalm 103:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4f6a632
+
+### ❌ 2025-03-18 — Tuesday of the Second Week of Lent
+- **Checked**: 2026-05-01 03:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031825.cfm
+- **Status**: mismatch
+- **Lectionary**: 231
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 1:10, 16-20']`, live=`['Isaiah 1:10']`, fix=`['Isaiah 1:10']`
+  - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4c33d6a
