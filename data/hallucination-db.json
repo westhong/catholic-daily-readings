@@ -6616,5 +6616,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T14:15:32+00:00"
+  },
+  "2023-04-17:0": {
+    "date": "2023-04-17",
+    "url": "https://bible.usccb.org/bible/readings/230417.cfm",
+    "lectionary_number": 267,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/230417.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T14:25:23+00:00"
   }
 }

@@ -40479,7 +40479,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 17:15, 22—18",
+            "citation": "Acts 17:15",
             "sources": [
               "USCCB"
             ]
@@ -40487,7 +40487,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 148:1-2, 11-12, 13, 14",
+            "citation": "Psalm 148:1-2",
             "sources": [
               "USCCB"
             ]
@@ -40508,8 +40508,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-06": [
