@@ -655,3 +655,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:16']`, fix=`['John 15:16']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mark 16:15-18']`, fix=`['Mark 16:15-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d39b40f
+
+### ❌ 2023-02-08 — Wednesday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-01 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020823.cfm
+- **Status**: mismatch
+- **Lectionary**: 331
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b246ab3
