@@ -1483,3 +1483,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17848b9
+
+### ❌ 2027-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary Vigil
+- **Checked**: 2026-05-01 16:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081527-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 621
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Chronicles 15:3-4, 15-16']`, live=`['1 Chronicles 15:3-4']`, fix=`['1 Chronicles 15:3-4']`
+  - **responsorial_psalm**: stored=`['Psalm 132:6-7, 9-10, 13-14']`, live=`['Psalm 132:6-7']`, fix=`['Psalm 132:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8419346

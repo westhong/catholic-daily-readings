@@ -43313,7 +43313,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 3:1-6, 9-12",
+            "citation": "Exodus 3:1-6",
             "sources": [
               "USCCB"
             ]
@@ -43334,8 +43334,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-15": [

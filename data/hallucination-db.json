@@ -7467,5 +7467,78 @@
       ]
     },
     "checked_at": "2026-05-01T16:25:23+00:00"
+  },
+  "2027-08-15:0": {
+    "date": "2027-08-15",
+    "url": "https://bible.usccb.org/bible/readings/081527-Vigil.cfm",
+    "lectionary_number": 621,
+    "feast": "Solemnity of the Assumption of the Blessed Virgin Mary Vigil",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Chronicles 15:3-4, 15-16"
+        ],
+        "live": [
+          "1 Chronicles 15:3-4"
+        ],
+        "fix": [
+          "1 Chronicles 15:3-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 132:6-7, 9-10, 13-14"
+        ],
+        "live": [
+          "Psalm 132:6-7"
+        ],
+        "fix": [
+          "Psalm 132:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 11:28"
+        ],
+        "fix": [
+          "Luke 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Chronicles 15:3-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 132:6-7"
+      ],
+      "alleluia_verse": [
+        "Luke 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Chronicles 15:3-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 132:6-7"
+      ],
+      "second_reading": [
+        "1 Corinthians 15:54"
+      ],
+      "alleluia_verse": [
+        "Luke 11:28"
+      ],
+      "gospel": [
+        "Luke 11:27-28"
+      ]
+    },
+    "checked_at": "2026-05-01T16:30:34+00:00"
   }
 }
