@@ -2082,3 +2082,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 89:20, 21-22, 25-26']`, live=`['PS 89:20']`, fix=`['PS 89:20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['SEE 2 TM 1:10']`, fix=`['SEE 2 TM 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/44ee451
+
+### 🚫 2026-08-10 — 
+- **Checked**: 2026-05-01 22:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/810.cfm
+- **Status**: url_dead
+- **Lectionary**: 618
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/810.cfm`, live=fetch failed
