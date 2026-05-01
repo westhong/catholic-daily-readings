@@ -10706,5 +10706,60 @@
       ]
     },
     "checked_at": "2026-05-01T22:35:38+00:00"
+  },
+  "2023-05-31:0": {
+    "date": "2023-05-31",
+    "url": "https://bible.usccb.org/bible/readings/053123.cfm",
+    "lectionary_number": 572,
+    "feast": "Feast of the Visitation of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Isaiah 12:2-3, 4"
+        ],
+        "live": [
+          "Isaiah 12:2-3"
+        ],
+        "fix": [
+          "Isaiah 12:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Lk 1:45"
+        ],
+        "fix": [
+          "See Lk 1:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Isaiah 12:2-3"
+      ],
+      "alleluia_verse": [
+        "See Lk 1:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zep 3:14-18"
+      ],
+      "responsorial_psalm": [
+        "Isaiah 12:2-3"
+      ],
+      "alleluia_verse": [
+        "See Lk 1:45"
+      ],
+      "gospel": [
+        "Lk 1:39-56"
+      ]
+    },
+    "checked_at": "2026-05-01T22:40:50+00:00"
   }
 }

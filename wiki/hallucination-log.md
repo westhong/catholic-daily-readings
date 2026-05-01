@@ -2109,3 +2109,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 115:1-2, 3-4, 15-16']`, live=`['Psalm 115:1-2']`, fix=`['Psalm 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2d9e9fa
+
+### ❌ 2023-05-31 — Feast of the Visitation of the Blessed Virgin Mary
+- **Checked**: 2026-05-01 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053123.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:45']`, fix=`['See Lk 1:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d20161
