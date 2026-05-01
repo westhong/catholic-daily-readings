@@ -504,5 +504,97 @@
       ]
     },
     "checked_at": "2026-05-01T03:55:19+00:00"
+  },
+  "2023-09-05:0": {
+    "date": "2023-09-05",
+    "url": "https://bible.usccb.org/bible/readings/090523.cfm",
+    "lectionary_number": 432,
+    "feast": "Tuesday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Thes 5:1-6, 9-11"
+        ],
+        "live": [
+          "1 Thes 5:1-6"
+        ],
+        "fix": [
+          "1 Thes 5:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 27:1, 4, 13-14"
+        ],
+        "live": [
+          "Ps 27:1"
+        ],
+        "fix": [
+          "Ps 27:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Thes 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thes 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Lk 4:31-37"
+      ]
+    },
+    "checked_at": "2026-05-01T04:00:31+00:00"
+  },
+  "2024-01-05:0": {
+    "date": "2024-01-05",
+    "url": "https://bible.usccb.org/bible/readings/010524.cfm",
+    "lectionary_number": 208,
+    "feast": "Memorial of Saint John Neumann, Bishop",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {
+      "first_reading": [
+        "1 John 3:11-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1"
+      ],
+      "gospel": [
+        "John 1:43-51"
+      ]
+    },
+    "checked_at": "2026-05-01T04:05:46+00:00"
   }
 }
