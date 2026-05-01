@@ -12225,7 +12225,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 117:1, 2",
+            "citation": "Psalm 117:1",
             "sources": [
               "USCCB"
             ]
@@ -12233,7 +12233,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Hebrews 12:5-7, 11-13",
+            "citation": "Hebrews 12:5-7",
             "sources": [
               "USCCB"
             ]
@@ -12254,8 +12254,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-25": [

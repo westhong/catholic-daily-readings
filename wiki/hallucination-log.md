@@ -1137,3 +1137,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 389
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/713.cfm`, live=fetch failed
+
+### ❌ 2025-04-09 — Wednesday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 12:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040925.cfm
+- **Status**: mismatch
+- **Lectionary**: 253
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 3:14-20, 91-92, 95']`, live=`['Daniel 3:14-20']`, fix=`['Daniel 3:14-20']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/472e292
