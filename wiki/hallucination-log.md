@@ -614,3 +614,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 27:1, 2, 3, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3daac06
+
+### ❌ 2027-09-03 — Memorial of Saint Gregory the Great, Pope and Doctor of the Church
+- **Checked**: 2026-05-01 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090327.cfm
+- **Status**: mismatch
+- **Lectionary**: 435
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d7f196d
