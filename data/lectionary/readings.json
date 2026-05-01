@@ -43720,7 +43720,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 16:2-4, 12-15",
+            "citation": "Exodus 16:2-4",
             "sources": [
               "USCCB"
             ]
@@ -43728,7 +43728,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 78:3-4, 23-24, 25, 54",
+            "citation": "Psalm 78:3-4",
             "sources": [
               "USCCB"
             ]
@@ -43736,7 +43736,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Ephesians 4:17, 20-24",
+            "citation": "Ephesians 4:17",
             "sources": [
               "USCCB"
             ]
@@ -43749,8 +43749,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-02": [

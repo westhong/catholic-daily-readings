@@ -37,3 +37,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 4:14']`, fix=`['1 Pt 4:14']`
   - **gospel**: stored=`['Lk 14:25-33']`, live=`['Lk 14:25-33', 'November 7', 'November 9']`, fix=`['Lk 14:25-33', 'November 7', 'November 9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7bfdb6
+
+### ❌ 2027-02-13 — Saturday after Ash Wednesday
+- **Checked**: 2026-05-01 03:33 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021327.cfm
+- **Status**: mismatch
+- **Lectionary**: 222
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
+  - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fb018e3

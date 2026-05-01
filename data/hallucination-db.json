@@ -131,5 +131,53 @@
       ]
     },
     "checked_at": "2026-05-01T03:33:09+00:00"
+  },
+  "2027-02-13:0": {
+    "date": "2027-02-13",
+    "url": "https://bible.usccb.org/bible/readings/021327.cfm",
+    "lectionary_number": 222,
+    "feast": "Saturday after Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 86:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 86:1-2"
+        ],
+        "fix": [
+          "Psalm 86:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ezekiel 33:11"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 86:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 58:9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 86:1-2"
+      ],
+      "gospel": [
+        "Luke 5:27-32"
+      ]
+    },
+    "checked_at": "2026-05-01T03:33:40+00:00"
   }
 }
