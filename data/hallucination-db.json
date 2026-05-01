@@ -5605,5 +5605,75 @@
       ]
     },
     "checked_at": "2026-05-01T12:25:09+00:00"
+  },
+  "2026-05-11:0": {
+    "date": "2026-05-11",
+    "url": "https://bible.usccb.org/bible/readings/051126.cfm",
+    "lectionary_number": 291,
+    "feast": "Monday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 149:1b-2, 3-4, 5-6a and 9b"
+        ],
+        "live": [
+          "Psalm 149:1"
+        ],
+        "fix": [
+          "Psalm 149:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:26"
+        ],
+        "fix": [
+          "John 15:26"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 15:26-16:4a"
+        ],
+        "live": [
+          "John 15:26"
+        ],
+        "fix": [
+          "John 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 149:1"
+      ],
+      "alleluia_verse": [
+        "John 15:26"
+      ],
+      "gospel": [
+        "John 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:11-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 149:1"
+      ],
+      "alleluia_verse": [
+        "John 15:26"
+      ],
+      "gospel": [
+        "John 15:26"
+      ]
+    },
+    "checked_at": "2026-05-01T12:30:23+00:00"
   }
 }

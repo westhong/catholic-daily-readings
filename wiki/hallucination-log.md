@@ -1110,3 +1110,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 9-10, 11-12']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/71ffc0c
+
+### ❌ 2026-05-11 — Monday of the Sixth Week of Easter
+- **Checked**: 2026-05-01 12:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051126.cfm
+- **Status**: mismatch
+- **Lectionary**: 291
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 149:1b-2, 3-4, 5-6a and 9b']`, live=`['Psalm 149:1']`, fix=`['Psalm 149:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
+  - **gospel**: stored=`['John 15:26-16:4a']`, live=`['John 15:26']`, fix=`['John 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7fdfc51
