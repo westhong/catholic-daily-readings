@@ -49960,6 +49960,12 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Ti 1:1-5",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "gospel": [
@@ -49985,8 +49991,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "SEE MT 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-27": [

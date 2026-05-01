@@ -1670,3 +1670,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1118af2
+
+### ❌ 2026-01-18 — Second Sunday in Ordinary Time
+- **Checked**: 2026-05-01 18:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011826.cfm
+- **Status**: mismatch
+- **Lectionary**: 64
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 49:3, 5-6']`, live=`['Isaiah 49:3']`, fix=`['Isaiah 49:3']`
+  - **responsorial_psalm**: stored=`['Psalm 40:2, 4, 7-8, 8-9, 10']`, live=`['Psalm 40:2']`, fix=`['Psalm 40:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/be8afb1
