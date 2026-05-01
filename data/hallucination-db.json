@@ -9676,5 +9676,60 @@
       ]
     },
     "checked_at": "2026-05-01T20:55:20+00:00"
+  },
+  "2024-09-07:0": {
+    "date": "2024-09-07",
+    "url": "https://bible.usccb.org/bible/readings/090724.cfm",
+    "lectionary_number": 436,
+    "feast": "Saturday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 145:17-18, 19-20, 21"
+        ],
+        "live": [
+          "PS 145:17-18"
+        ],
+        "fix": [
+          "PS 145:17-18"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JOHN 14:6"
+        ],
+        "fix": [
+          "JOHN 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 145:17-18"
+      ],
+      "alleluia_verse": [
+        "JOHN 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 4:6"
+      ],
+      "responsorial_psalm": [
+        "PS 145:17-18"
+      ],
+      "alleluia_verse": [
+        "JOHN 14:6"
+      ],
+      "gospel": [
+        "LK 6:1-5"
+      ]
+    },
+    "checked_at": "2026-05-01T21:00:32+00:00"
   }
 }

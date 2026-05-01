@@ -1912,3 +1912,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc5fccb
+
+### ❌ 2024-09-07 — Saturday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-01 21:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090724.cfm
+- **Status**: mismatch
+- **Lectionary**: 436
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 145:17-18, 19-20, 21']`, live=`['PS 145:17-18']`, fix=`['PS 145:17-18']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JOHN 14:6']`, fix=`['JOHN 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96a5745
