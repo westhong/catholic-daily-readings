@@ -1129,3 +1129,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 441
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/911.cfm`, live=fetch failed
+
+### 🚫 2026-07-13 — Monday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 12:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/713.cfm
+- **Status**: url_dead
+- **Lectionary**: 389
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/713.cfm`, live=fetch failed

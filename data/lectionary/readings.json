@@ -5868,7 +5868,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 3:14-20, 91-92, 95",
+            "citation": "Daniel 3:14-20",
             "sources": [
               "USCCB"
             ]
@@ -5876,7 +5876,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "citation": "Daniel 3:52",
             "sources": [
               "USCCB"
             ]
@@ -5890,15 +5890,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Luke 8:15",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-04-10": [
