@@ -635,5 +635,68 @@
       ]
     },
     "checked_at": "2026-05-01T04:10:55+00:00"
+  },
+  "2023-03-24:0": {
+    "date": "2023-03-24",
+    "url": "https://bible.usccb.org/bible/readings/032423.cfm",
+    "lectionary_number": 248,
+    "feast": "Friday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:17-18, 19-20, 21"
+        ],
+        "live": [
+          "Ps 34:17-18"
+        ],
+        "fix": [
+          "Ps 34:17-18"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Mt 4:4b"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 7:1-2, 10, 25-30"
+        ],
+        "live": [
+          "Jn 7:1-2"
+        ],
+        "fix": [
+          "Jn 7:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:17-18"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Jn 7:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 2:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:17-18"
+      ],
+      "gospel": [
+        "Jn 7:1-2"
+      ]
+    },
+    "checked_at": "2026-05-01T04:15:08+00:00"
   }
 }

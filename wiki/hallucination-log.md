@@ -127,3 +127,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 11-12']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ffb418
+
+### ❌ 2023-03-24 — Friday of the Fourth Week of Lent
+- **Checked**: 2026-05-01 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032423.cfm
+- **Status**: mismatch
+- **Lectionary**: 248
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:17-18, 19-20, 21']`, live=`['Ps 34:17-18']`, fix=`['Ps 34:17-18']`
+  - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 7:1-2, 10, 25-30']`, live=`['Jn 7:1-2']`, fix=`['Jn 7:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f919419
