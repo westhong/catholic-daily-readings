@@ -74865,7 +74865,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 28:2, 7, 8-9",
+            "citation": "Ps 28:2",
             "sources": [
               "USCCB"
             ]
@@ -74886,8 +74886,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-19": [

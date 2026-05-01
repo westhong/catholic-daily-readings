@@ -2139,3 +2139,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ruth 2:1-3, 8-11']`, live=`['Ruth 2:1-3']`, fix=`['Ruth 2:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 23:9']`, fix=`['Matthew 23:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b32b9c5
+
+### ❌ 2024-03-02 — Saturday of the Second Week of Lent
+- **Checked**: 2026-05-01 22:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030224.cfm
+- **Status**: mismatch
+- **Lectionary**: 235
+- **Mismatches**:
+  - **first_reading**: stored=`['Mi 7:14-15, 18-20']`, live=`['Mi 7:14-15']`, fix=`['Mi 7:14-15']`
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 9-10, 11-12']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **verse_before_gospel**: stored=`['Lk 15:18']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Lk 15:1-3, 11-32']`, live=`['Lk 15:1-3']`, fix=`['Lk 15:1-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/109dcd5
