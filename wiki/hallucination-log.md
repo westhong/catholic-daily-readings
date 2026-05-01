@@ -1782,3 +1782,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 10, 12-13, 14']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **gospel**: stored=`['Mark 9:38-43, 45, 47-48']`, live=`['Mark 9:38-43']`, fix=`['Mark 9:38-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2efcdc
+
+### 🚫 2026-11-19 — 
+- **Checked**: 2026-05-01 19:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261119.cfm
+- **Status**: url_dead
+- **Lectionary**: 500
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261119.cfm`, live=fetch failed
