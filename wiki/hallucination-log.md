@@ -1380,3 +1380,18 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
   - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ea1b72c
+
+### ❌ 2025-05-24 — Saturday of the Fifth Week of Easter
+- **Checked**: 2026-05-01 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052425.cfm
+- **Status**: mismatch
+- **Lectionary**: 290
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c5717a
+
+### ✅ 2023-09-14 — Feast of the Exaltation of the Holy Cross
+- **Checked**: 2026-05-01 15:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091423.cfm
+- **Status**: ok
+- **Lectionary**: 638
