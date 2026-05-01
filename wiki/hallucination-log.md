@@ -204,3 +204,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1637ffe
+
+### ❌ 2024-06-02 — The Solemnity of the Most Holy Body and Blood of Christ Corpus Christi
+- **Checked**: 2026-05-01 04:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060224.cfm
+- **Status**: mismatch
+- **Lectionary**: 168
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 116:12-13, 15-16, 17-18']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
+  - **gospel**: stored=`['Mk 14:12-16, 22-26']`, live=`['Mk 14:12-16']`, fix=`['Mk 14:12-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/596425d
