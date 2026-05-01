@@ -553,3 +553,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 139:7-8, 9-10, 11-12']`, live=`['Psalm 139:7-8']`, fix=`['Psalm 139:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9071f95
+
+### ❌ 2025-01-09 — Thursday after Epiphany
+- **Checked**: 2026-05-01 07:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010925.cfm
+- **Status**: mismatch
+- **Lectionary**: 215
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 14']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65ebd44
