@@ -65644,7 +65644,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 19:1-2, 11-18",
+            "citation": "Lv 19:1-2",
             "sources": [
               "USCCB"
             ]
@@ -65652,7 +65652,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 19:8, 9, 10, 15",
+            "citation": "Ps 19:8",
             "sources": [
               "USCCB"
             ]
@@ -65666,15 +65666,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "2 Cor 6:2b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-28": [

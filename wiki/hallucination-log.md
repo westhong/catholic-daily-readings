@@ -919,3 +919,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mk 14:1—15']`, live=`['Mk 14:1', 'Mk 15:1-39']`, fix=`['Mk 14:1', 'Mk 15:1-39']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17254cf
+
+### ❌ 2027-05-10 — Monday of the Seventh Week of Easter
+- **Checked**: 2026-05-01 10:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051027.cfm
+- **Status**: mismatch
+- **Lectionary**: 297
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e92182
