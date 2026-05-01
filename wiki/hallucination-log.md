@@ -1798,3 +1798,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 408
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/804.cfm`, live=fetch failed
+
+### ❌ 2024-10-22 — Tuesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-01 19:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102224.cfm
+- **Status**: mismatch
+- **Lectionary**: 474
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 21:36']`, fix=`['LK 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/070def6

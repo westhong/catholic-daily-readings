@@ -9129,5 +9129,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T19:35:22+00:00"
+  },
+  "2024-10-22:0": {
+    "date": "2024-10-22",
+    "url": "https://bible.usccb.org/bible/readings/102224.cfm",
+    "lectionary_number": 474,
+    "feast": "Tuesday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 21:36"
+        ],
+        "fix": [
+          "LK 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "LK 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EPH 2:12-22"
+      ],
+      "responsorial_psalm": [
+        "PS 85:9"
+      ],
+      "alleluia_verse": [
+        "LK 21:36"
+      ],
+      "gospel": [
+        "LK 12:35-38"
+      ]
+    },
+    "checked_at": "2026-05-01T19:40:44+00:00"
   }
 }
