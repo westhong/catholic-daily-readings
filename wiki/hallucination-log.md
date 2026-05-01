@@ -1579,3 +1579,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 89:21-22, 25 and 27']`, live=`['Psalm 89:21-22']`, fix=`['Psalm 89:21-22']`
   - **verse_before_gospel**: stored=`['Isaiah 61:1']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0b8fbf2
+
+### ❌ 2023-05-13 — Saturday of the Fifth Week of Easter
+- **Checked**: 2026-05-01 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051323.cfm
+- **Status**: mismatch
+- **Lectionary**: 290
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbf2681
