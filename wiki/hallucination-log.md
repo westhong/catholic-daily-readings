@@ -543,3 +543,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/50fb3b3
+
+### ❌ 2025-08-27 — Memorial of Saint Monica
+- **Checked**: 2026-05-01 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082725.cfm
+- **Status**: mismatch
+- **Lectionary**: 427
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 139:7-8, 9-10, 11-12']`, live=`['Psalm 139:7-8']`, fix=`['Psalm 139:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9071f95

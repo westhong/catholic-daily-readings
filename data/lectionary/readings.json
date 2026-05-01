@@ -1751,7 +1751,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 72:1-2, 14",
+            "citation": "Psalm 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -1772,8 +1772,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 4:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-10": [
