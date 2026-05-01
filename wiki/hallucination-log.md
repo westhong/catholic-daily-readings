@@ -1189,3 +1189,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/653c284
+
+### 🚫 2026-08-03 — 
+- **Checked**: 2026-05-01 13:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/803.cfm
+- **Status**: url_dead
+- **Lectionary**: 407
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/803.cfm`, live=fetch failed

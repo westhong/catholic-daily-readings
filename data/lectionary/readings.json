@@ -52012,17 +52012,10 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "89:2-3, 4-5, 27",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
-            "citation": "Rom 4:13, 16-18, 22",
+            "citation": "Rom 4:13",
             "sources": [
               "USCCB"
             ]
@@ -52030,21 +52023,21 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 1:16, 18-21, 24",
+            "citation": "Mt 1:16",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Lk 2:41-51",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ps 84:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-20": [

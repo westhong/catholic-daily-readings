@@ -6014,5 +6014,24 @@
       ]
     },
     "checked_at": "2026-05-01T13:05:10+00:00"
+  },
+  "2026-08-03:0": {
+    "date": "2026-08-03",
+    "url": "https://bible.usccb.org/bible/readings/803.cfm",
+    "lectionary_number": 407,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/803.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T13:10:24+00:00"
   }
 }
