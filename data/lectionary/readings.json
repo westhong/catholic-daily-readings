@@ -7935,7 +7935,7 @@
         ],
         "first_reading": [
           {
-            "citation": "Acts 15:1-2, 22-29",
+            "citation": "Acts 15:1-2",
             "sources": [
               "USCCB"
             ]
@@ -7943,7 +7943,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 67:2-3, 5, 6, 8",
+            "citation": "Psalm 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -7951,7 +7951,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Revelation 21:10-14, 22-23",
+            "citation": "Revelation 21:10-14",
             "sources": [
               "USCCB"
             ]
@@ -7964,8 +7964,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-26": [

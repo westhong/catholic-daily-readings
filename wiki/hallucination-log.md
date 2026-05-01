@@ -286,3 +286,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f8e4b1
+
+### ❌ 2027-06-18 — Friday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-01 05:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061827.cfm
+- **Status**: mismatch
+- **Lectionary**: 369
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Corinthians 11:18, 21-30']`, live=`['2 Corinthians 11:18']`, fix=`['2 Corinthians 11:18']`
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bcddb68
