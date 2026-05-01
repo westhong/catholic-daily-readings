@@ -1249,5 +1249,47 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T05:20:09+00:00"
+  },
+  "2024-07-07:0": {
+    "date": "2024-07-07",
+    "url": "https://bible.usccb.org/bible/readings/070724.cfm",
+    "lectionary_number": 101,
+    "feast": "Fourteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 123:1-2, 2, 3-4"
+        ],
+        "live": [
+          "Ps 123:1-2"
+        ],
+        "fix": [
+          "Ps 123:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 123:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 2:2-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 123:1-2"
+      ],
+      "second_reading": [
+        "2 Cor 12:7-10"
+      ],
+      "gospel": [
+        "Mk 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-01T05:25:23+00:00"
   }
 }
