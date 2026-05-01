@@ -5000,5 +5000,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T11:20:54+00:00"
+  },
+  "2027-05-09:0": {
+    "date": "2027-05-09",
+    "url": "https://bible.usccb.org/bible/readings/050927-Sunday.cfm",
+    "lectionary_number": 60,
+    "feast": "2027-05-09",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 1:15-17, 20"
+        ],
+        "live": [
+          "Acts 1:15-17"
+        ],
+        "fix": [
+          "Acts 1:15-17"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:1-2, 11-12, 19-20"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 1:15-17"
+      ],
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 1:15-17"
+      ],
+      "second_reading": [
+        "1 John 4:11-16"
+      ],
+      "gospel": [
+        "John 17:11"
+      ]
+    },
+    "checked_at": "2026-05-01T11:25:10+00:00"
   }
 }

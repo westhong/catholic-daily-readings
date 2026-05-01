@@ -986,3 +986,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 410
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/806.cfm`, live=fetch failed
+
+### ❌ 2027-05-09 — 2027-05-09
+- **Checked**: 2026-05-01 11:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050927-Sunday.cfm
+- **Status**: mismatch
+- **Lectionary**: 60
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 1:15-17, 20']`, live=`['Acts 1:15-17']`, fix=`['Acts 1:15-17']`
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79b1d6f
