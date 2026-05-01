@@ -1197,3 +1197,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 407
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/803.cfm`, live=fetch failed
+
+### ❌ 2024-03-19 — Solemnity of Saint Joseph, husband of the Blessed Virgin Mary
+- **Checked**: 2026-05-01 13:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031924.cfm
+- **Status**: mismatch
+- **Lectionary**: 543
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['89:2-3, 4-5, 27']`, live=`（空白）`, fix=`[]`
+  - **second_reading**: stored=`['Rom 4:13, 16-18, 22']`, live=`['Rom 4:13']`, fix=`['Rom 4:13']`
+  - **verse_before_gospel**: stored=`['Ps 84:5']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mt 1:16, 18-21, 24']`, live=`['Mt 1:16', 'Lk 2:41-51']`, fix=`['Mt 1:16', 'Lk 2:41-51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8944391

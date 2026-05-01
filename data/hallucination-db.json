@@ -6033,5 +6033,81 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T13:10:24+00:00"
+  },
+  "2024-03-19:0": {
+    "date": "2024-03-19",
+    "url": "https://bible.usccb.org/bible/readings/031924.cfm",
+    "lectionary_number": 543,
+    "feast": "Solemnity of Saint Joseph, husband of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "89:2-3, 4-5, 27"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Rom 4:13, 16-18, 22"
+        ],
+        "live": [
+          "Rom 4:13"
+        ],
+        "fix": [
+          "Rom 4:13"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ps 84:5"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 1:16, 18-21, 24"
+        ],
+        "live": [
+          "Mt 1:16",
+          "Lk 2:41-51"
+        ],
+        "fix": [
+          "Mt 1:16",
+          "Lk 2:41-51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "second_reading": [
+        "Rom 4:13"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mt 1:16",
+        "Lk 2:41-51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 7:4-5"
+      ],
+      "second_reading": [
+        "Rom 4:13"
+      ],
+      "gospel": [
+        "Mt 1:16",
+        "Lk 2:41-51"
+      ]
+    },
+    "checked_at": "2026-05-01T13:15:38+00:00"
   }
 }
