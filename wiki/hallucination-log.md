@@ -138,3 +138,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Jn 7:1-2, 10, 25-30']`, live=`['Jn 7:1-2']`, fix=`['Jn 7:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f919419
+
+### ❌ 2023-07-29 — Memorial of Saints Martha, Mary and Lazarus
+- **Checked**: 2026-05-01 04:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072923.cfm
+- **Status**: mismatch
+- **Lectionary**: 400
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23750f8
