@@ -1370,3 +1370,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Sir 44:1, 9-13']`, live=`['Sir 44:1']`, fix=`['Sir 44:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/135dfd9
+
+### ❌ 2025-03-08 — Saturday after Ash Wednesday
+- **Checked**: 2026-05-01 14:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030825.cfm
+- **Status**: mismatch
+- **Lectionary**: 222
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
+  - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ea1b72c
