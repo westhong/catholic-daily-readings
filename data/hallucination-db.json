@@ -2147,5 +2147,60 @@
       ]
     },
     "checked_at": "2026-05-01T06:35:37+00:00"
+  },
+  "2025-08-04:0": {
+    "date": "2025-08-04",
+    "url": "https://bible.usccb.org/bible/readings/080425.cfm",
+    "lectionary_number": 407,
+    "feast": "Memorial of Saint John Vianney, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 81:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Psalm 81:12-13"
+        ],
+        "fix": [
+          "Psalm 81:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:4"
+        ],
+        "fix": [
+          "Matthew 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 81:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Numbers 11:4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 81:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ],
+      "gospel": [
+        "Matthew 14:13-21"
+      ]
+    },
+    "checked_at": "2026-05-01T06:40:49+00:00"
   }
 }

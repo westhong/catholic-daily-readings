@@ -428,3 +428,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 1:7']`, fix=`['See John 1:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03301a0
+
+### ❌ 2025-08-04 — Memorial of Saint John Vianney, Priest
+- **Checked**: 2026-05-01 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080425.cfm
+- **Status**: mismatch
+- **Lectionary**: 407
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 81:12-13, 14-15, 16-17']`, live=`['Psalm 81:12-13']`, fix=`['Psalm 81:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/355f2a6
