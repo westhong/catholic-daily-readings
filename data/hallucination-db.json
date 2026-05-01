@@ -8998,5 +8998,41 @@
       ]
     },
     "checked_at": "2026-05-01T19:15:59+00:00"
+  },
+  "2027-04-05:0": {
+    "date": "2027-04-05",
+    "url": "https://bible.usccb.org/bible/readings/040527.cfm",
+    "lectionary_number": 545,
+    "feast": "Solemnity of the Annunciation of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 1:14ab"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 7:10-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:7-8"
+      ],
+      "second_reading": [
+        "Hebrews 10:4-10"
+      ],
+      "gospel": [
+        "Luke 1:26-38"
+      ]
+    },
+    "checked_at": "2026-05-01T19:20:10+00:00"
   }
 }

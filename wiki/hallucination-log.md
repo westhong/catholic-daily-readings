@@ -1763,3 +1763,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 40:2, 4, 7-8, 8-9, 10']`, live=`['Ps 40:2']`, fix=`['Ps 40:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:14']`, fix=`['Jn 1:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3491a7
+
+### ❌ 2027-04-05 — Solemnity of the Annunciation of the Lord
+- **Checked**: 2026-05-01 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040527.cfm
+- **Status**: mismatch
+- **Lectionary**: 545
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['John 1:14ab']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39321f0
