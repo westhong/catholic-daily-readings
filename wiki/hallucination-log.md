@@ -2119,3 +2119,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:45']`, fix=`['See Lk 1:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d20161
+
+### ❌ 2023-08-10 — Feast of Saint Lawrence, deacon and martyr
+- **Checked**: 2026-05-01 22:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081023.cfm
+- **Status**: mismatch
+- **Lectionary**: 618
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 112:1-2, 5-6, 7-8, 9']`, live=`['Ps 112:1-2']`, fix=`['Ps 112:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b0fa930
