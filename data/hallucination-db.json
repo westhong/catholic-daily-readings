@@ -179,5 +179,93 @@
       ]
     },
     "checked_at": "2026-05-01T03:33:40+00:00"
+  },
+  "2027-08-01:0": {
+    "date": "2027-08-01",
+    "url": "https://bible.usccb.org/bible/readings/080127.cfm",
+    "lectionary_number": 113,
+    "feast": "Eighteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 16:2-4, 12-15"
+        ],
+        "live": [
+          "Exodus 16:2-4"
+        ],
+        "fix": [
+          "Exodus 16:2-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 78:3-4, 23-24, 25, 54"
+        ],
+        "live": [
+          "Psalm 78:3-4"
+        ],
+        "fix": [
+          "Psalm 78:3-4"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Ephesians 4:17, 20-24"
+        ],
+        "live": [
+          "Ephesians 4:17"
+        ],
+        "fix": [
+          "Ephesians 4:17"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:4"
+        ],
+        "fix": [
+          "Matthew 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 16:2-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 78:3-4"
+      ],
+      "second_reading": [
+        "Ephesians 4:17"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 16:2-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 78:3-4"
+      ],
+      "second_reading": [
+        "Ephesians 4:17"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ],
+      "gospel": [
+        "John 6:24-35"
+      ]
+    },
+    "checked_at": "2026-05-01T03:35:27+00:00"
   }
 }
