@@ -464,3 +464,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 399
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/724.cfm`, live=fetch failed
+
+### ❌ 2026-02-23 — Monday of the First Week of Lent
+- **Checked**: 2026-05-01 07:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022326.cfm
+- **Status**: mismatch
+- **Lectionary**: 224
+- **Mismatches**:
+  - **first_reading**: stored=`['Leviticus 19:1-2, 11-18']`, live=`['Leviticus 19:1-2']`, fix=`['Leviticus 19:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+  - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eadfe03
