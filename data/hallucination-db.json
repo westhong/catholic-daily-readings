@@ -6227,5 +6227,62 @@
       ]
     },
     "checked_at": "2026-05-01T13:35:39+00:00"
+  },
+  "2025-04-17:1": {
+    "date": "2025-04-17",
+    "url": "https://bible.usccb.org/bible/readings/041725-Supper.cfm",
+    "lectionary_number": 39,
+    "feast": "Holy Thursday -Evening Mass of the Lord’s Supper",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 12:1-8, 11-14"
+        ],
+        "live": [
+          "Exodus 12:1-8"
+        ],
+        "fix": [
+          "Exodus 12:1-8"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 116:12-13, 15-16"
+        ],
+        "live": [
+          "Psalm 116:12-13"
+        ],
+        "fix": [
+          "Psalm 116:12-13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 12:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 12:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ],
+      "second_reading": [
+        "1 Corinthians 11:23-26"
+      ],
+      "gospel": [
+        "John 13:1-15"
+      ]
+    },
+    "checked_at": "2026-05-01T13:40:52+00:00"
   }
 }

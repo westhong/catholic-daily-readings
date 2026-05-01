@@ -1243,3 +1243,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ff29712
+
+### ❌ 2025-04-17 — Holy Thursday -Evening Mass of the Lord’s Supper
+- **Checked**: 2026-05-01 13:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041725-Supper.cfm
+- **Status**: mismatch
+- **Lectionary**: 39
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 12:1-8, 11-14']`, live=`['Exodus 12:1-8']`, fix=`['Exodus 12:1-8']`
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/14f9d0a
