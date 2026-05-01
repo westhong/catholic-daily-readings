@@ -232,3 +232,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 17
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261227.cfm`, live=fetch failed
+
+### ❌ 2024-09-20 — Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs
+- **Checked**: 2026-05-01 05:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092024.cfm
+- **Status**: mismatch
+- **Lectionary**: 447
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c00db09
