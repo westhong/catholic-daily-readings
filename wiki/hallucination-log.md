@@ -166,3 +166,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:8-9, 13']`, live=`['Ps 145:8-9']`, fix=`['Ps 145:8-9']`
   - **verse_before_gospel**: stored=`['Jn 11:25a, 26']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1f664f
+
+### ❌ 2024-11-07 — Thursday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-01 04:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110724.cfm
+- **Status**: mismatch
+- **Lectionary**: 488
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 105:2-3, 4-5, 6-7']`, live=`['PS 105:2-3']`, fix=`['PS 105:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 11:28']`, fix=`['MT 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/261fa79

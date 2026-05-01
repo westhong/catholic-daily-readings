@@ -826,5 +826,60 @@
       ]
     },
     "checked_at": "2026-05-01T04:30:46+00:00"
+  },
+  "2024-11-07:0": {
+    "date": "2024-11-07",
+    "url": "https://bible.usccb.org/bible/readings/110724.cfm",
+    "lectionary_number": 488,
+    "feast": "Thursday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 105:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "PS 105:2-3"
+        ],
+        "fix": [
+          "PS 105:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 11:28"
+        ],
+        "fix": [
+          "MT 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 105:2-3"
+      ],
+      "alleluia_verse": [
+        "MT 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "PHIL 3:3-8"
+      ],
+      "responsorial_psalm": [
+        "PS 105:2-3"
+      ],
+      "alleluia_verse": [
+        "MT 11:28"
+      ],
+      "gospel": [
+        "LK 15:1-10"
+      ]
+    },
+    "checked_at": "2026-05-01T04:36:00+00:00"
   }
 }
