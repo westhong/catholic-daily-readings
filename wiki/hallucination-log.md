@@ -1395,3 +1395,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/091423.cfm
 - **Status**: ok
 - **Lectionary**: 638
+
+### ❌ 2027-07-03 — Feast of Saint Thomas, Apostle
+- **Checked**: 2026-05-01 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070327.cfm
+- **Status**: mismatch
+- **Lectionary**: 593
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94a43bf

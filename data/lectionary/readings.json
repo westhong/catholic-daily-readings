@@ -56200,20 +56200,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jb 38:1, 8-11",
+            "citation": "Jb 38:1",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "107:23-24, 25-26, 28-29, 30-31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "2 Cor 5:14-17",
@@ -56237,8 +56230,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-24": [

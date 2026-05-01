@@ -6998,5 +6998,45 @@
       ]
     },
     "checked_at": "2026-05-01T15:26:04+00:00"
+  },
+  "2027-07-03:0": {
+    "date": "2027-07-03",
+    "url": "https://bible.usccb.org/bible/readings/070327.cfm",
+    "lectionary_number": 593,
+    "feast": "Feast of Saint Thomas, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 20:29"
+        ],
+        "fix": [
+          "John 20:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 20:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ephesians 2:19-22"
+      ],
+      "responsorial_psalm": [
+        "Psalm 117:1"
+      ],
+      "alleluia_verse": [
+        "John 20:29"
+      ],
+      "gospel": [
+        "John 20:24-29"
+      ]
+    },
+    "checked_at": "2026-05-01T15:30:15+00:00"
   }
 }
