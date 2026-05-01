@@ -1453,3 +1453,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
   - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c6aba1c
+
+### ❌ 2024-07-03 — Feast of Saint Thomas, Apostle
+- **Checked**: 2026-05-01 16:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070324.cfm
+- **Status**: mismatch
+- **Lectionary**: 593
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 20:29']`, fix=`['JN 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9d3dff5
