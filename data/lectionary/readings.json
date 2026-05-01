@@ -58633,7 +58633,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ez 16:1-15, 60, 63",
+            "citation": "Ez 16:1-15",
             "sources": [
               "USCCB"
             ]
@@ -58641,7 +58641,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Isaiah 12:2-3, 4",
+            "citation": "Isaiah 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -58662,8 +58662,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 1 Thes 2:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-17": [

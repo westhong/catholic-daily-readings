@@ -1615,3 +1615,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 118:2-4, 13-15, 22-24']`, live=`['Psalm 118:2-4']`, fix=`['Psalm 118:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/574673f
+
+### ❌ 2023-03-23 — Thursday of the Fourth Week of Lent
+- **Checked**: 2026-05-01 17:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032323.cfm
+- **Status**: mismatch
+- **Lectionary**: 247
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
+  - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4ae142c
