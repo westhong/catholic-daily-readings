@@ -8415,5 +8415,45 @@
       ]
     },
     "checked_at": "2026-05-01T18:15:45+00:00"
+  },
+  "2025-05-01:0": {
+    "date": "2025-05-01",
+    "url": "https://bible.usccb.org/bible/readings/050125.cfm",
+    "lectionary_number": 270,
+    "feast": "Thursday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 20:29"
+        ],
+        "fix": [
+          "John 20:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 20:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:27-33"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2"
+      ],
+      "alleluia_verse": [
+        "John 20:29"
+      ],
+      "gospel": [
+        "John 3:31-36"
+      ]
+    },
+    "checked_at": "2026-05-01T18:20:56+00:00"
   }
 }

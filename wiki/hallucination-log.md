@@ -1661,3 +1661,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/27d5b3f
+
+### ❌ 2025-05-01 — Thursday of the Second Week of Easter
+- **Checked**: 2026-05-01 18:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050125.cfm
+- **Status**: mismatch
+- **Lectionary**: 270
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1118af2
