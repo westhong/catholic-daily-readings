@@ -807,3 +807,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **gospel**: stored=`['Luke 15:1-3, 11-32']`, live=`['Luke 15:1-3']`, fix=`['Luke 15:1-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31b6b0c
+
+### ❌ 2027-07-17 — Saturday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 09:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071727.cfm
+- **Status**: mismatch
+- **Lectionary**: 394
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87365aa
