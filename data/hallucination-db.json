@@ -68,5 +68,68 @@
     "url_status": null,
     "checked_at": "2026-05-01T03:30:17+00:00",
     "mass_idx": 0
+  },
+  "2023-11-08:0": {
+    "date": "2023-11-08",
+    "url": "https://bible.usccb.org/bible/readings/110823.cfm",
+    "lectionary_number": 487,
+    "feast": "Wednesday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Pt 4:14"
+        ],
+        "fix": [
+          "1 Pt 4:14"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Lk 14:25-33"
+        ],
+        "live": [
+          "Lk 14:25-33",
+          "November 7",
+          "November 9"
+        ],
+        "fix": [
+          "Lk 14:25-33",
+          "November 7",
+          "November 9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ],
+      "gospel": [
+        "Lk 14:25-33",
+        "November 7",
+        "November 9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 13:8-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 112:1"
+      ],
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ],
+      "gospel": [
+        "Lk 14:25-33",
+        "November 7",
+        "November 9"
+      ]
+    },
+    "checked_at": "2026-05-01T03:33:09+00:00"
   }
 }
