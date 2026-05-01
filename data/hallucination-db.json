@@ -10018,5 +10018,44 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T21:30:14+00:00"
+  },
+  "2024-01-24:0": {
+    "date": "2024-01-24",
+    "url": "https://bible.usccb.org/bible/readings/012424.cfm",
+    "lectionary_number": 319,
+    "feast": "Memorial of Saint Francis de Sales, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 89:4-5, 27-28, 29-30"
+        ],
+        "live": [
+          "PS 89:4-5"
+        ],
+        "fix": [
+          "PS 89:4-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 89:4-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 7:4-17"
+      ],
+      "responsorial_psalm": [
+        "PS 89:4-5"
+      ],
+      "gospel": [
+        "Mk 4:1-20"
+      ]
+    },
+    "checked_at": "2026-05-01T21:35:30+00:00"
   }
 }

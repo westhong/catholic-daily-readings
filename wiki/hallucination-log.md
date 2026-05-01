@@ -1980,3 +1980,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 426
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/825.cfm`, live=fetch failed
+
+### ❌ 2024-01-24 — Memorial of Saint Francis de Sales, Bishop and Doctor of the Church
+- **Checked**: 2026-05-01 21:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012424.cfm
+- **Status**: mismatch
+- **Lectionary**: 319
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 89:4-5, 27-28, 29-30']`, live=`['PS 89:4-5']`, fix=`['PS 89:4-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca5bac8
