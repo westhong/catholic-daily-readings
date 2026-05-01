@@ -367,3 +367,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 34:4-5, 6-7, 16-17, 18-19']`, live=`['PS 34:4-5']`, fix=`['PS 34:4-5']`
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/868a78e
+
+### ❌ 2025-06-24 — Solemnity of the Nativity of Saint John the Baptist Vigil
+- **Checked**: 2026-05-01 06:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062425-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 586
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 1:7']`, fix=`['See John 1:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f112757
