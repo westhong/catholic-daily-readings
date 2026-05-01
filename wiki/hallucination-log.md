@@ -456,3 +456,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:165, 168, 171, 172, 174, 175']`, live=`['Psalm 119:165']`, fix=`['Psalm 119:165']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7503df0
+
+### 🚫 2026-07-24 — 
+- **Checked**: 2026-05-01 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/724.cfm
+- **Status**: url_dead
+- **Lectionary**: 399
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/724.cfm`, live=fetch failed

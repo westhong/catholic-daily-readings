@@ -20329,7 +20329,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Leviticus 19:1-2, 11-18",
+            "citation": "Leviticus 19:1-2",
             "sources": [
               "USCCB"
             ]
@@ -20337,7 +20337,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:8, 9, 10, 15",
+            "citation": "Psalm 19:8",
             "sources": [
               "USCCB"
             ]
@@ -20351,15 +20351,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "2 Corinthians 6:2b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-24": [
