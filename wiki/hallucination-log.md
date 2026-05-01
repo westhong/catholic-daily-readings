@@ -1998,3 +1998,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc3dc07
+
+### ❌ 2025-08-16 — Saturday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 21:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081625.cfm
+- **Status**: mismatch
+- **Lectionary**: 418
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c6b517e

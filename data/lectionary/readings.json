@@ -23600,7 +23600,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 42:2-3; 43:3, 4",
+            "citation": "Psalm 42:2-3",
             "sources": [
               "USCCB"
             ]
@@ -23621,8 +23621,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-28": [
