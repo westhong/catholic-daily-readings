@@ -4383,5 +4383,60 @@
       ]
     },
     "checked_at": "2026-05-01T10:21:04+00:00"
+  },
+  "2023-04-19:0": {
+    "date": "2023-04-19",
+    "url": "https://bible.usccb.org/bible/readings/041923.cfm",
+    "lectionary_number": 269,
+    "feast": "Wednesday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 3:16"
+        ],
+        "fix": [
+          "Jn 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:17-26"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ],
+      "gospel": [
+        "Jn 3:16-21"
+      ]
+    },
+    "checked_at": "2026-05-01T10:25:18+00:00"
   }
 }

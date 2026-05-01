@@ -865,3 +865,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/def6f78
+
+### ❌ 2023-04-19 — Wednesday of the Second Week of Easter
+- **Checked**: 2026-05-01 10:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041923.cfm
+- **Status**: mismatch
+- **Lectionary**: 269
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81cb863
