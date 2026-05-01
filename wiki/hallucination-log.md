@@ -949,3 +949,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/69be57f
+
+### ❌ 2024-09-09 — Memorial of Saint Peter Claver, Priest
+- **Checked**: 2026-05-01 11:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090924.cfm
+- **Status**: mismatch
+- **Lectionary**: 437
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 5:5-6, 7, 12']`, live=`['PS 5:5-6']`, fix=`['PS 5:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a9b970

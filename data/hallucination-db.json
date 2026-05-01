@@ -4828,5 +4828,60 @@
       ]
     },
     "checked_at": "2026-05-01T11:00:54+00:00"
+  },
+  "2024-09-09:0": {
+    "date": "2024-09-09",
+    "url": "https://bible.usccb.org/bible/readings/090924.cfm",
+    "lectionary_number": 437,
+    "feast": "Memorial of Saint Peter Claver, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 5:5-6, 7, 12"
+        ],
+        "live": [
+          "PS 5:5-6"
+        ],
+        "fix": [
+          "PS 5:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 5:5-6"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 5:1-8"
+      ],
+      "responsorial_psalm": [
+        "PS 5:5-6"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Lk 6:6-11"
+      ]
+    },
+    "checked_at": "2026-05-01T11:05:08+00:00"
   }
 }
