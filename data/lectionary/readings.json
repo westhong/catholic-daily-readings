@@ -27496,13 +27496,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Song of Songs 3:1-4b",
-            "sources": [
-              "USCCB"
-            ]
-          },
-          {
-            "citation": "2 Corinthians 5:14-17",
+            "citation": "Song of Songs 3:1-4",
             "sources": [
               "USCCB"
             ]
@@ -27510,7 +27504,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 63:2, 3-4, 5-6, 8-9",
+            "citation": "Psalm 63:2",
             "sources": [
               "USCCB"
             ]
@@ -27519,13 +27513,14 @@
         "alleluia": [],
         "gospel": [
           {
-            "citation": "John 20:1-2, 11-18",
+            "citation": "John 20:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-07-23": [
