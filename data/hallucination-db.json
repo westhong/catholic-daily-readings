@@ -6378,5 +6378,60 @@
       ]
     },
     "checked_at": "2026-05-01T13:50:18+00:00"
+  },
+  "2023-06-03:0": {
+    "date": "2023-06-03",
+    "url": "https://bible.usccb.org/bible/readings/060323.cfm",
+    "lectionary_number": 352,
+    "feast": "Saint Charles Lwanga and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "PS 19:8"
+        ],
+        "fix": [
+          "PS 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Col 3:16"
+        ],
+        "fix": [
+          "See Col 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 19:8"
+      ],
+      "alleluia_verse": [
+        "See Col 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 51:12"
+      ],
+      "responsorial_psalm": [
+        "PS 19:8"
+      ],
+      "alleluia_verse": [
+        "See Col 3:16"
+      ],
+      "gospel": [
+        "Mk 11:27-33"
+      ]
+    },
+    "checked_at": "2026-05-01T13:55:31+00:00"
   }
 }

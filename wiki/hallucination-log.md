@@ -1272,3 +1272,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ephesians 4:1-7, 11-13']`, live=`['Ephesians 4:1-7']`, fix=`['Ephesians 4:1-7']`
   - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f27dd2
+
+### ❌ 2023-06-03 — Saint Charles Lwanga and Companions, Martyrs
+- **Checked**: 2026-05-01 13:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060323.cfm
+- **Status**: mismatch
+- **Lectionary**: 352
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 19:8, 9, 10, 11']`, live=`['PS 19:8']`, fix=`['PS 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Col 3:16']`, fix=`['See Col 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84330d8
