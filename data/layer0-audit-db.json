@@ -8723,5 +8723,22 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-05-01T01:00:48+00:00"
+  },
+  "2024-07-05-070524.cfm": {
+    "file": "2024-07-05-070524.cfm",
+    "date": "2024-07-05",
+    "lectionary_number": 381,
+    "feast": "Reading 1",
+    "sha12": "e3c034118466",
+    "citations": [
+      "Am 8:4-6,",
+      "Matthew 4:4",
+      "Mt 11:28",
+      "Mt 9:9-13",
+      "Ps 119:2,"
+    ],
+    "warnings": [],
+    "status": "pass",
+    "checked_at": "2026-05-01T01:15:58+00:00"
   }
 }
