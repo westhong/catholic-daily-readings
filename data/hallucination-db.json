@@ -1,0 +1,46 @@
+{
+  "2023-04-06:0": {
+    "date": "2023-04-06",
+    "url": "https://bible.usccb.org/bible/readings/040623.cfm",
+    "lectionary_number": 260,
+    "feast": "Thursday of Holy Week",
+    "status": "ok",
+    "mismatches": [],
+    "url_status": null,
+    "checked_at": "2026-05-01T03:29:09+00:00",
+    "mass_idx": 0
+  },
+  "2023-09-04:0": {
+    "date": "2023-09-04",
+    "url": "https://bible.usccb.org/bible/readings/090423.cfm",
+    "lectionary_number": 431,
+    "feast": "Monday of the Twenty-second Week in Ordinary Time",
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Thes 4:13-18"
+        ],
+        "live": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 96:1"
+        ],
+        "live": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Lk 4:16-30"
+        ],
+        "live": []
+      }
+    ],
+    "url_status": null,
+    "checked_at": "2026-05-01T03:29:27+00:00",
+    "mass_idx": 0
+  }
+}
