@@ -3958,5 +3958,44 @@
       ]
     },
     "checked_at": "2026-05-01T09:35:49+00:00"
+  },
+  "2023-09-08:0": {
+    "date": "2023-09-08",
+    "url": "https://bible.usccb.org/bible/readings/090823.cfm",
+    "lectionary_number": 636,
+    "feast": "Feast of the Nativity of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 1:1-16, 18-23"
+        ],
+        "live": [
+          "Mt 1:1-16"
+        ],
+        "fix": [
+          "Mt 1:1-16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "gospel": [
+        "Mt 1:1-16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mi 5:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 13:6"
+      ],
+      "gospel": [
+        "Mt 1:1-16"
+      ]
+    },
+    "checked_at": "2026-05-01T09:41:04+00:00"
   }
 }

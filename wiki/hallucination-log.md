@@ -779,3 +779,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 23: 1-3']`, live=`['Ps 23: 1']`, fix=`['Ps 23: 1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/64bae07
+
+### ❌ 2023-09-08 — Feast of the Nativity of the Blessed Virgin Mary
+- **Checked**: 2026-05-01 09:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090823.cfm
+- **Status**: mismatch
+- **Lectionary**: 636
+- **Mismatches**:
+  - **gospel**: stored=`['Mt 1:1-16, 18-23']`, live=`['Mt 1:1-16']`, fix=`['Mt 1:1-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e93b3e0
