@@ -9110,5 +9110,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T19:30:33+00:00"
+  },
+  "2026-08-04:0": {
+    "date": "2026-08-04",
+    "url": "https://bible.usccb.org/bible/readings/804.cfm",
+    "lectionary_number": 408,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/804.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T19:35:22+00:00"
   }
 }
