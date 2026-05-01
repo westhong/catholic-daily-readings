@@ -43451,7 +43451,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "of Songs 3:1-4",
+            "citation": "Song of Songs 3:1-4",
             "sources": [
               "USCCB"
             ]
@@ -43459,7 +43459,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 63:2, 3-4, 5-6, 8-9",
+            "citation": "Psalm 63:2",
             "sources": [
               "USCCB"
             ]
@@ -43467,13 +43467,14 @@
         ],
         "gospel": [
           {
-            "citation": "John 20:1-2, 11-18",
+            "citation": "John 20:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-23": [

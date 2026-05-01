@@ -3125,5 +3125,60 @@
       ]
     },
     "checked_at": "2026-05-01T08:15:18+00:00"
+  },
+  "2024-01-19:0": {
+    "date": "2024-01-19",
+    "url": "https://bible.usccb.org/bible/readings/011924.cfm",
+    "lectionary_number": 315,
+    "feast": "Friday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 57:2, 3-4, 6"
+        ],
+        "live": [
+          "PS 57:2"
+        ],
+        "fix": [
+          "PS 57:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 5:19"
+        ],
+        "fix": [
+          "2 Cor 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 57:2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 24:3-21"
+      ],
+      "responsorial_psalm": [
+        "PS 57:2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ],
+      "gospel": [
+        "Mk 3:13-19"
+      ]
+    },
+    "checked_at": "2026-05-01T08:20:30+00:00"
   }
 }
