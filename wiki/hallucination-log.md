@@ -513,3 +513,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['RV 2:10']`, fix=`['RV 2:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5200874
+
+### ❌ 2025-10-20 — Monday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-01 07:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102025.cfm
+- **Status**: mismatch
+- **Lectionary**: 473
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a81f4cf

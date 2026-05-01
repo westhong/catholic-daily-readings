@@ -2535,5 +2535,60 @@
       ]
     },
     "checked_at": "2026-05-01T07:20:43+00:00"
+  },
+  "2025-10-20:0": {
+    "date": "2025-10-20",
+    "url": "https://bible.usccb.org/bible/readings/102025.cfm",
+    "lectionary_number": 473,
+    "feast": "Monday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Luke 1:69-70, 71-72, 73-75"
+        ],
+        "live": [
+          "Luke 1:69-70"
+        ],
+        "fix": [
+          "Luke 1:69-70"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Luke 1:69-70"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 4:20-25"
+      ],
+      "responsorial_psalm": [
+        "Luke 1:69-70"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Luke 12:13-21"
+      ]
+    },
+    "checked_at": "2026-05-01T07:25:56+00:00"
   }
 }
