@@ -1091,3 +1091,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 38:10, 11, 12']`, live=`['Isaiah 38:10']`, fix=`['Isaiah 38:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1ae3c6
+
+### 🚫 2026-08-30 — 
+- **Checked**: 2026-05-01 12:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/830.cfm
+- **Status**: url_dead
+- **Lectionary**: 124
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/830.cfm`, live=fetch failed

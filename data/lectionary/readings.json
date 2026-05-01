@@ -74295,7 +74295,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sir 27:30—28",
+            "citation": "Sir 27:30",
             "sources": [
               "USCCB"
             ]
@@ -74303,7 +74303,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 103:1-2, 3-4, 9-10, 11-12",
+            "citation": "Ps 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -74332,8 +74332,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-18": [
