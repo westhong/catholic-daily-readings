@@ -978,3 +978,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 7-8, 10-11, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 2:2']`, fix=`['Matthew 2:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c30b3a1
+
+### 🚫 2026-08-06 — 
+- **Checked**: 2026-05-01 11:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/806.cfm
+- **Status**: url_dead
+- **Lectionary**: 410
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/806.cfm`, live=fetch failed
