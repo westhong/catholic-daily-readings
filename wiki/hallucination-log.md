@@ -1415,3 +1415,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['107:23-24, 25-26, 28-29, 30-31']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a0a05d
+
+### ❌ 2027-08-25 — Wednesday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-01 15:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082527.cfm
+- **Status**: mismatch
+- **Lectionary**: 427
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 139:7-8, 9-10, 11-12']`, live=`['Psalm 139:7-8']`, fix=`['Psalm 139:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98ab6e6

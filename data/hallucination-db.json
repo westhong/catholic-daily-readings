@@ -7102,5 +7102,60 @@
       ]
     },
     "checked_at": "2026-05-01T15:35:28+00:00"
+  },
+  "2027-08-25:0": {
+    "date": "2027-08-25",
+    "url": "https://bible.usccb.org/bible/readings/082527.cfm",
+    "lectionary_number": 427,
+    "feast": "Wednesday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 139:7-8, 9-10, 11-12"
+        ],
+        "live": [
+          "Psalm 139:7-8"
+        ],
+        "fix": [
+          "Psalm 139:7-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 John 2:5"
+        ],
+        "fix": [
+          "1 John 2:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 139:7-8"
+      ],
+      "alleluia_verse": [
+        "1 John 2:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thessalonians 2:9-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 139:7-8"
+      ],
+      "alleluia_verse": [
+        "1 John 2:5"
+      ],
+      "gospel": [
+        "Matthew 23:27-32"
+      ]
+    },
+    "checked_at": "2026-05-01T15:40:42+00:00"
   }
 }
