@@ -846,3 +846,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 141:1-2, 3']`, live=`['PS 141:1-2']`, fix=`['PS 141:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0265a4c
+
+### ❌ 2026-04-30 — Thursday of the Fourth Week of Easter
+- **Checked**: 2026-05-01 10:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/043026.cfm
+- **Status**: mismatch
+- **Lectionary**: 283
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:2-3, 21-22, 25 and 27']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Revelation 1:5']`, fix=`['See Revelation 1:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92e0880
