@@ -4780,5 +4780,53 @@
       ]
     },
     "checked_at": "2026-05-01T10:55:39+00:00"
+  },
+  "2026-03-05:0": {
+    "date": "2026-03-05",
+    "url": "https://bible.usccb.org/bible/readings/030526.cfm",
+    "lectionary_number": 233,
+    "feast": "Thursday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Psalm 1:1-2"
+        ],
+        "fix": [
+          "Psalm 1:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Luke 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 17:5-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "gospel": [
+        "Luke 16:19-31"
+      ]
+    },
+    "checked_at": "2026-05-01T11:00:54+00:00"
   }
 }

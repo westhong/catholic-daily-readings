@@ -939,3 +939,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:8, 9, 10, 15']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
   - **verse_before_gospel**: stored=`['2 Cor 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8dce823
+
+### ❌ 2026-03-05 — Thursday of the Second Week of Lent
+- **Checked**: 2026-05-01 11:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030526.cfm
+- **Status**: mismatch
+- **Lectionary**: 233
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/69be57f
