@@ -7777,5 +7777,66 @@
       ]
     },
     "checked_at": "2026-05-01T16:50:58+00:00"
+  },
+  "2023-06-30:0": {
+    "date": "2023-06-30",
+    "url": "https://bible.usccb.org/bible/readings/063023.cfm",
+    "lectionary_number": 375,
+    "feast": "Friday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 17:1, 9-10, 15-22"
+        ],
+        "live": [
+          "Gn 17:1"
+        ],
+        "fix": [
+          "Gn 17:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "128:1-2, 3, 4-5"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 8:17"
+        ],
+        "fix": [
+          "Mt 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 17:1"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 17:1"
+      ],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ],
+      "gospel": [
+        "Mt 8:1-4"
+      ]
+    },
+    "checked_at": "2026-05-01T16:55:10+00:00"
   }
 }

@@ -1535,3 +1535,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 34:4b-6, 8-9']`, live=`['Exodus 34:4']`, fix=`['Exodus 34:4']`
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e95a4aa
+
+### ❌ 2023-06-30 — Friday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-01 16:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/063023.cfm
+- **Status**: mismatch
+- **Lectionary**: 375
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 17:1, 9-10, 15-22']`, live=`['Gn 17:1']`, fix=`['Gn 17:1']`
+  - **responsorial_psalm**: stored=`['128:1-2, 3, 4-5']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78a2a20

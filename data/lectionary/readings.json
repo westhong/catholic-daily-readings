@@ -50641,7 +50641,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 13:1-2, 44-46",
+            "citation": "Lv 13:1-2",
             "sources": [
               "USCCB"
             ]
@@ -50649,7 +50649,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 32:1-2, 5, 11",
+            "citation": "Ps 32:1-2",
             "sources": [
               "USCCB"
             ]
@@ -50657,7 +50657,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Cor 10:31—11",
+            "citation": "1 Cor 10:31",
             "sources": [
               "USCCB"
             ]
@@ -50678,8 +50678,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-12": [
