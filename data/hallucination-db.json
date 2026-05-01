@@ -1331,5 +1331,53 @@
       ]
     },
     "checked_at": "2026-05-01T05:30:35+00:00"
+  },
+  "2025-04-12:0": {
+    "date": "2025-04-12",
+    "url": "https://bible.usccb.org/bible/readings/041225.cfm",
+    "lectionary_number": 256,
+    "feast": "Saturday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Jeremiah 31:10, 11-12"
+        ],
+        "live": [
+          "Jeremiah 31:10"
+        ],
+        "fix": [
+          "Jeremiah 31:10"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ezekiel 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ezekiel 37:21-28"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "gospel": [
+        "John 11:45-56"
+      ]
+    },
+    "checked_at": "2026-05-01T05:35:48+00:00"
   }
 }

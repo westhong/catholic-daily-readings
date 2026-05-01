@@ -276,3 +276,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 10:27']`, fix=`['JN 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a885681
+
+### ❌ 2025-04-12 — Saturday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041225.cfm
+- **Status**: mismatch
+- **Lectionary**: 256
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f8e4b1
