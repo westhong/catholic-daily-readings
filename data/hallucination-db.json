@@ -4234,5 +4234,60 @@
       ]
     },
     "checked_at": "2026-05-01T10:05:20+00:00"
+  },
+  "2024-05-25:0": {
+    "date": "2024-05-25",
+    "url": "https://bible.usccb.org/bible/readings/052524.cfm",
+    "lectionary_number": 346,
+    "feast": "Saturday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 141:1-2, 3"
+        ],
+        "live": [
+          "PS 141:1-2"
+        ],
+        "fix": [
+          "PS 141:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 141:1-2"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 5:13-20"
+      ],
+      "responsorial_psalm": [
+        "PS 141:1-2"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mk 10:13-16"
+      ]
+    },
+    "checked_at": "2026-05-01T10:10:36+00:00"
   }
 }

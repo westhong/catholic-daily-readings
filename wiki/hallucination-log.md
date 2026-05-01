@@ -836,3 +836,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 84:5']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 1:16, 18-21, 24']`, live=`['Matthew 1:16']`, fix=`['Matthew 1:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d755eb
+
+### ❌ 2024-05-25 — Saturday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-01 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052524.cfm
+- **Status**: mismatch
+- **Lectionary**: 346
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 141:1-2, 3']`, live=`['PS 141:1-2']`, fix=`['PS 141:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0265a4c
