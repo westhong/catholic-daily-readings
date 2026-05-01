@@ -36713,7 +36713,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 1:20—2",
+            "citation": "Genesis 1:20",
             "sources": [
               "USCCB"
             ]
@@ -36721,7 +36721,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 8:4-5, 6-7, 8-9",
+            "citation": "Psalm 8:4-5",
             "sources": [
               "USCCB"
             ]
@@ -36742,8 +36742,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalms 119:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-10": [
