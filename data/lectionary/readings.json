@@ -35835,6 +35835,12 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Acts 9:1-22",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "responsorial_psalm": [
@@ -35847,7 +35853,7 @@
         ],
         "gospel": [
           {
-            "citation": "to every creature. Whoever believes and",
+            "citation": "Mark 16:15-18",
             "sources": [
               "USCCB"
             ]
@@ -35860,8 +35866,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-26": [

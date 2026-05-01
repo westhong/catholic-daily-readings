@@ -3180,5 +3180,74 @@
       ]
     },
     "checked_at": "2026-05-01T08:20:30+00:00"
+  },
+  "2027-07-22:0": {
+    "date": "2027-07-22",
+    "url": "https://bible.usccb.org/bible/readings/072227.cfm",
+    "lectionary_number": 603,
+    "feast": "Feast of Saint Mary Magdalene",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "of Songs 3:1-4"
+        ],
+        "live": [
+          "Song of Songs 3:1-4"
+        ],
+        "fix": [
+          "Song of Songs 3:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 63:2, 3-4, 5-6, 8-9"
+        ],
+        "live": [
+          "Psalm 63:2"
+        ],
+        "fix": [
+          "Psalm 63:2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 20:1-2, 11-18"
+        ],
+        "live": [
+          "John 20:1-2"
+        ],
+        "fix": [
+          "John 20:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Song of Songs 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 63:2"
+      ],
+      "gospel": [
+        "John 20:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Song of Songs 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 63:2"
+      ],
+      "gospel": [
+        "John 20:1-2"
+      ]
+    },
+    "checked_at": "2026-05-01T08:25:43+00:00"
   }
 }

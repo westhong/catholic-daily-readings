@@ -633,3 +633,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 57:2, 3-4, 6']`, live=`['PS 57:2']`, fix=`['PS 57:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/55c4b6d
+
+### ❌ 2027-07-22 — Feast of Saint Mary Magdalene
+- **Checked**: 2026-05-01 08:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072227.cfm
+- **Status**: mismatch
+- **Lectionary**: 603
+- **Mismatches**:
+  - **first_reading**: stored=`['of Songs 3:1-4']`, live=`['Song of Songs 3:1-4']`, fix=`['Song of Songs 3:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6, 8-9']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
+  - **gospel**: stored=`['John 20:1-2, 11-18']`, live=`['John 20:1-2']`, fix=`['John 20:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/855a98a
