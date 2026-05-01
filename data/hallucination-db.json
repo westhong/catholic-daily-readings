@@ -8870,5 +8870,60 @@
       ]
     },
     "checked_at": "2026-05-01T19:05:36+00:00"
+  },
+  "2024-12-14:0": {
+    "date": "2024-12-14",
+    "url": "https://bible.usccb.org/bible/readings/121424.cfm",
+    "lectionary_number": 186,
+    "feast": "Memorial of Saint John of the Cross, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sir 48:1-4, 9-11"
+        ],
+        "live": [
+          "Sir 48:1-4"
+        ],
+        "fix": [
+          "Sir 48:1-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 3:4"
+        ],
+        "fix": [
+          "Lk 3:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sir 48:1-4"
+      ],
+      "alleluia_verse": [
+        "Lk 3:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 48:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 80:2"
+      ],
+      "alleluia_verse": [
+        "Lk 3:4"
+      ],
+      "gospel": [
+        "Mt 17:9"
+      ]
+    },
+    "checked_at": "2026-05-01T19:10:48+00:00"
   }
 }

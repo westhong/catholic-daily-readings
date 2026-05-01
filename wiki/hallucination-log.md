@@ -1742,3 +1742,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644b989
+
+### ❌ 2024-12-14 — Memorial of Saint John of the Cross, Priest and Doctor of the Church
+- **Checked**: 2026-05-01 19:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121424.cfm
+- **Status**: mismatch
+- **Lectionary**: 186
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 48:1-4, 9-11']`, live=`['Sir 48:1-4']`, fix=`['Sir 48:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c494d7
