@@ -1835,3 +1835,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 69:15-16, 30-31, 33-34']`, live=`['PS 69:15-16']`, fix=`['PS 69:15-16']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8523ba5
+
+### ❌ 2024-02-26 — Monday of the Second Week in Lent
+- **Checked**: 2026-05-01 20:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022624.cfm
+- **Status**: mismatch
+- **Lectionary**: 230
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
+  - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6111b5b

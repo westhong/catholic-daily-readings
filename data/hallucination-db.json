@@ -9298,5 +9298,53 @@
       ]
     },
     "checked_at": "2026-05-01T19:55:21+00:00"
+  },
+  "2024-02-26:0": {
+    "date": "2024-02-26",
+    "url": "https://bible.usccb.org/bible/readings/022624.cfm",
+    "lectionary_number": 230,
+    "feast": "Monday of the Second Week in Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 79:8, 9, 11"
+        ],
+        "live": [
+          "Ps 79:8"
+        ],
+        "fix": [
+          "Ps 79:8"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Jn 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 79:8"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 9:4"
+      ],
+      "responsorial_psalm": [
+        "Ps 79:8"
+      ],
+      "gospel": [
+        "Lk 6:36-38"
+      ]
+    },
+    "checked_at": "2026-05-01T20:00:33+00:00"
   }
 }
