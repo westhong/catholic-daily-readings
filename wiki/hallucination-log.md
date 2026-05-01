@@ -147,3 +147,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23750f8
+
+### ❌ 2024-04-19 — Friday of the Third Week of Easter
+- **Checked**: 2026-05-01 04:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041924.cfm
+- **Status**: mismatch
+- **Lectionary**: 277
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:56']`, fix=`['Jn 6:56']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2e378b3

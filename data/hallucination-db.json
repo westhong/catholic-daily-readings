@@ -738,5 +738,45 @@
       ]
     },
     "checked_at": "2026-05-01T04:20:21+00:00"
+  },
+  "2024-04-19:0": {
+    "date": "2024-04-19",
+    "url": "https://bible.usccb.org/bible/readings/041924.cfm",
+    "lectionary_number": 277,
+    "feast": "Friday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:56"
+        ],
+        "fix": [
+          "Jn 6:56"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 6:56"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:1-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 117:1"
+      ],
+      "alleluia_verse": [
+        "Jn 6:56"
+      ],
+      "gospel": [
+        "Jn 6:52-59"
+      ]
+    },
+    "checked_at": "2026-05-01T04:25:33+00:00"
   }
 }

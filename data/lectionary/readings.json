@@ -51565,7 +51565,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 145:8-9, 13",
+            "citation": "Ps 145:8-9",
             "sources": [
               "USCCB"
             ]
@@ -51579,15 +51579,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jn 11:25a, 26",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-14": [
