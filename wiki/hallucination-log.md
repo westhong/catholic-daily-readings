@@ -797,3 +797,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17943ee
+
+### ❌ 2025-03-30 — Fourth Sunday of Lent Year C Readings
+- **Checked**: 2026-05-01 09:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033025-YearC.cfm
+- **Status**: mismatch
+- **Lectionary**: 33
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **gospel**: stored=`['Luke 15:1-3, 11-32']`, live=`['Luke 15:1-3']`, fix=`['Luke 15:1-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31b6b0c
