@@ -10611,5 +10611,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T22:25:04+00:00"
+  },
+  "2023-06-22:0": {
+    "date": "2023-06-22",
+    "url": "https://bible.usccb.org/bible/readings/062223.cfm",
+    "lectionary_number": 368,
+    "feast": "Thursday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Rom 8:15"
+        ],
+        "fix": [
+          "Rom 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Rom 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 11:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 111:1"
+      ],
+      "alleluia_verse": [
+        "Rom 8:15"
+      ],
+      "gospel": [
+        "Mt 6:7-15"
+      ]
+    },
+    "checked_at": "2026-05-01T22:30:17+00:00"
   }
 }

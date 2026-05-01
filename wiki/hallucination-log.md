@@ -2090,3 +2090,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 618
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/810.cfm`, live=fetch failed
+
+### ❌ 2023-06-22 — Thursday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-01 22:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062223.cfm
+- **Status**: mismatch
+- **Lectionary**: 368
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Rom 8:15']`, fix=`['Rom 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f8e2a58
