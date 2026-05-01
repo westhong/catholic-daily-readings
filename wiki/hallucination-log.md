@@ -2038,3 +2038,16 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 115:1-2, 3-4, 15-16']`, live=`['Psalm 115:1-2']`, fix=`['Psalm 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/231ca87
+
+### ❌ 2024-09-01 — Twenty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-01 22:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090124.cfm
+- **Status**: mismatch
+- **Lectionary**: 125
+- **Mismatches**:
+  - **first_reading**: stored=`['Dt 4:1-2, 6-8']`, live=`['Dt 4:1-2']`, fix=`['Dt 4:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 15:2-3, 3-4, 4-5']`, live=`['Ps 15:2-3']`, fix=`['Ps 15:2-3']`
+  - **second_reading**: stored=`['Jas 1:17-18, 21']`, live=`['Jas 1:17-18']`, fix=`['Jas 1:17-18']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:18']`, fix=`['Jas 1:18']`
+  - **gospel**: stored=`['Mk 7:1-8, 14-15, 21-23']`, live=`['Mk 7:1-8']`, fix=`['Mk 7:1-8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/80d77c0

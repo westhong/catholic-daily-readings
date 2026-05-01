@@ -10316,5 +10316,108 @@
       ]
     },
     "checked_at": "2026-05-01T22:01:08+00:00"
+  },
+  "2024-09-01:0": {
+    "date": "2024-09-01",
+    "url": "https://bible.usccb.org/bible/readings/090124.cfm",
+    "lectionary_number": 125,
+    "feast": "Twenty-second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dt 4:1-2, 6-8"
+        ],
+        "live": [
+          "Dt 4:1-2"
+        ],
+        "fix": [
+          "Dt 4:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 15:2-3, 3-4, 4-5"
+        ],
+        "live": [
+          "Ps 15:2-3"
+        ],
+        "fix": [
+          "Ps 15:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Jas 1:17-18, 21"
+        ],
+        "live": [
+          "Jas 1:17-18"
+        ],
+        "fix": [
+          "Jas 1:17-18"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jas 1:18"
+        ],
+        "fix": [
+          "Jas 1:18"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mk 7:1-8, 14-15, 21-23"
+        ],
+        "live": [
+          "Mk 7:1-8"
+        ],
+        "fix": [
+          "Mk 7:1-8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dt 4:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 15:2-3"
+      ],
+      "second_reading": [
+        "Jas 1:17-18"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ],
+      "gospel": [
+        "Mk 7:1-8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 4:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 15:2-3"
+      ],
+      "second_reading": [
+        "Jas 1:17-18"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ],
+      "gospel": [
+        "Mk 7:1-8"
+      ]
+    },
+    "checked_at": "2026-05-01T22:05:19+00:00"
   }
 }

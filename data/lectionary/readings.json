@@ -71844,7 +71844,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:2-3, 10-11, 18-19",
+            "citation": "Ps 33:2-3",
             "sources": [
               "USCCB"
             ]
@@ -71865,8 +71865,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-13": [
