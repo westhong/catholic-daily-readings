@@ -5443,5 +5443,75 @@
       ]
     },
     "checked_at": "2026-05-01T12:10:27+00:00"
+  },
+  "2024-07-19:0": {
+    "date": "2024-07-19",
+    "url": "https://bible.usccb.org/bible/readings/071924.cfm",
+    "lectionary_number": 393,
+    "feast": "Friday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 38:1-6, 21-22, 7-8"
+        ],
+        "live": [
+          "Is 38:1-6"
+        ],
+        "fix": [
+          "Is 38:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Isaiah 38:10, 11, 12"
+        ],
+        "live": [
+          "Isaiah 38:10"
+        ],
+        "fix": [
+          "Isaiah 38:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 38:1-6"
+      ],
+      "responsorial_psalm": [
+        "Isaiah 38:10"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 38:1-6"
+      ],
+      "responsorial_psalm": [
+        "Isaiah 38:10"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mt 12:1-8"
+      ]
+    },
+    "checked_at": "2026-05-01T12:15:40+00:00"
   }
 }
