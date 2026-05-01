@@ -816,3 +816,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87365aa
+
+### 🚫 2026-10-14 — 
+- **Checked**: 2026-05-01 10:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1014.cfm
+- **Status**: url_dead
+- **Lectionary**: 469
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1014.cfm`, live=fetch failed
