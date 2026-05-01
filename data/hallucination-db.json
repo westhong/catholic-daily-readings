@@ -7595,5 +7595,75 @@
       ]
     },
     "checked_at": "2026-05-01T16:35:47+00:00"
+  },
+  "2025-10-02:0": {
+    "date": "2025-10-02",
+    "url": "https://bible.usccb.org/bible/readings/100225.cfm",
+    "lectionary_number": 458,
+    "feast": "Memorial of the Holy Guardian Angels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 103:21"
+        ],
+        "fix": [
+          "Psalm 103:21"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 18:1-5, 10"
+        ],
+        "live": [
+          "Matthew 18:1-5"
+        ],
+        "fix": [
+          "Matthew 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nehemiah 8:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-01T16:40:34+00:00"
   }
 }
