@@ -1234,3 +1234,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 943
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261126.cfm`, live=fetch failed
+
+### ❌ 2023-09-25 — Monday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-01 13:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092523.cfm
+- **Status**: mismatch
+- **Lectionary**: 449
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ff29712
