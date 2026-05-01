@@ -934,20 +934,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 7:1-5, 8",
+            "citation": "2 Sm 7:1-5",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "89:2-3, 4-5, 27",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 1:67-79",
@@ -956,7 +949,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-25": [

@@ -8715,5 +8715,60 @@
       ]
     },
     "checked_at": "2026-05-01T18:40:05+00:00"
+  },
+  "2025-01-10:0": {
+    "date": "2025-01-10",
+    "url": "https://bible.usccb.org/bible/readings/011025.cfm",
+    "lectionary_number": 216,
+    "feast": "Friday after Epiphany",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:23"
+        ],
+        "fix": [
+          "Matthew 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 John 5:5-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:23"
+      ],
+      "gospel": [
+        "Luke 5:12-16"
+      ]
+    },
+    "checked_at": "2026-05-01T18:45:19+00:00"
   }
 }
