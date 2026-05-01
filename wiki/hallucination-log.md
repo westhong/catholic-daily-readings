@@ -1180,3 +1180,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Exodus 15:8-9, 10']`, live=`['Exodus 15:8-9']`, fix=`['Exodus 15:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1b31c1
+
+### ❌ 2023-09-12 — Tuesday of the Twenty-third Week in Ordinary Time
+- **Checked**: 2026-05-01 13:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091223.cfm
+- **Status**: mismatch
+- **Lectionary**: 438
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/653c284
