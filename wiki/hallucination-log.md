@@ -996,3 +996,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 1:15-17, 20']`, live=`['Acts 1:15-17']`, fix=`['Acts 1:15-17']`
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79b1d6f
+
+### 🚫 2026-12-25 — 
+- **Checked**: 2026-05-01 11:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261225.cfm
+- **Status**: url_dead
+- **Lectionary**: 13
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261225.cfm`, live=fetch failed
