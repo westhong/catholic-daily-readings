@@ -1973,5 +1973,75 @@
       ]
     },
     "checked_at": "2026-05-01T06:21:02+00:00"
+  },
+  "2024-11-29:0": {
+    "date": "2024-11-29",
+    "url": "https://bible.usccb.org/bible/readings/112924.cfm",
+    "lectionary_number": 507,
+    "feast": "Friday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "RV 20:1-4, 11—21"
+        ],
+        "live": [
+          "RV 20:1-4"
+        ],
+        "fix": [
+          "RV 20:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 84:3, 4, 5-6"
+        ],
+        "live": [
+          "PS 84:3"
+        ],
+        "fix": [
+          "PS 84:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LUKE 21:28"
+        ],
+        "fix": [
+          "LUKE 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "RV 20:1-4"
+      ],
+      "responsorial_psalm": [
+        "PS 84:3"
+      ],
+      "alleluia_verse": [
+        "LUKE 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "RV 20:1-4"
+      ],
+      "responsorial_psalm": [
+        "PS 84:3"
+      ],
+      "alleluia_verse": [
+        "LUKE 21:28"
+      ],
+      "gospel": [
+        "LK 21:29-33"
+      ]
+    },
+    "checked_at": "2026-05-01T06:25:13+00:00"
   }
 }

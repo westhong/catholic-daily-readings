@@ -52819,14 +52819,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "34:2-3, 4-5, 6-7, 8-9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 3:16-21",
@@ -52842,8 +52835,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-11": [

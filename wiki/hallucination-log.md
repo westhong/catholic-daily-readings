@@ -397,3 +397,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 27:1, 4, 13-14']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96b818d
+
+### ❌ 2024-11-29 — Friday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-01 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112924.cfm
+- **Status**: mismatch
+- **Lectionary**: 507
+- **Mismatches**:
+  - **first_reading**: stored=`['RV 20:1-4, 11—21']`, live=`['RV 20:1-4']`, fix=`['RV 20:1-4']`
+  - **responsorial_psalm**: stored=`['PS 84:3, 4, 5-6']`, live=`['PS 84:3']`, fix=`['PS 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LUKE 21:28']`, fix=`['LUKE 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/acd5a53
