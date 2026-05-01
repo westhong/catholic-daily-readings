@@ -1636,3 +1636,18 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thes 2:13']`, fix=`['See 1 Thes 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26d206f
+
+### ❌ 2026-03-27 — Friday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 18:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032726.cfm
+- **Status**: mismatch
+- **Lectionary**: 255
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9413e41
+
+### ✅ 2024-03-10 — Fourth Sunday of Lent
+- **Checked**: 2026-05-01 18:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031024.cfm
+- **Status**: ok
+- **Lectionary**: 31
