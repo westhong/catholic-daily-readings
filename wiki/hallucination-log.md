@@ -1031,3 +1031,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:5-6, 30-31, 39-40']`, live=`['Psalm 37:5-6']`, fix=`['Psalm 37:5-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 17:17']`, fix=`['See John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16883d4
+
+### ❌ 2023-01-22 — Third Sunday in Ordinary Time
+- **Checked**: 2026-05-01 11:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012223.cfm
+- **Status**: mismatch
+- **Lectionary**: 67
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 8:23—9']`, live=`['Is 8:23']`, fix=`['Is 8:23']`
+  - **responsorial_psalm**: stored=`['Ps 27:1, 4, 13-14']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
+  - **second_reading**: stored=`['1 Cor 1:10-13, 17']`, live=`['1 Cor 1:10-13']`, fix=`['1 Cor 1:10-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:23']`, fix=`['Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1202ab

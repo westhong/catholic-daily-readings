@@ -5181,5 +5181,93 @@
       ]
     },
     "checked_at": "2026-05-01T11:45:12+00:00"
+  },
+  "2023-01-22:0": {
+    "date": "2023-01-22",
+    "url": "https://bible.usccb.org/bible/readings/012223.cfm",
+    "lectionary_number": 67,
+    "feast": "Third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 8:23—9"
+        ],
+        "live": [
+          "Is 8:23"
+        ],
+        "fix": [
+          "Is 8:23"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 27:1, 4, 13-14"
+        ],
+        "live": [
+          "Ps 27:1"
+        ],
+        "fix": [
+          "Ps 27:1"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Cor 1:10-13, 17"
+        ],
+        "live": [
+          "1 Cor 1:10-13"
+        ],
+        "fix": [
+          "1 Cor 1:10-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:23"
+        ],
+        "fix": [
+          "Mt 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 8:23"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "second_reading": [
+        "1 Cor 1:10-13"
+      ],
+      "alleluia_verse": [
+        "Mt 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 8:23"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "second_reading": [
+        "1 Cor 1:10-13"
+      ],
+      "alleluia_verse": [
+        "Mt 4:23"
+      ],
+      "gospel": [
+        "Mt 4:12-23"
+      ]
+    },
+    "checked_at": "2026-05-01T11:50:26+00:00"
   }
 }
