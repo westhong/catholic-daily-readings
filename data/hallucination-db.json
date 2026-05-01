@@ -2202,5 +2202,24 @@
       ]
     },
     "checked_at": "2026-05-01T06:40:49+00:00"
+  },
+  "2026-09-01:0": {
+    "date": "2026-09-01",
+    "url": "https://bible.usccb.org/bible/readings/901.cfm",
+    "lectionary_number": 432,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/901.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T06:46:02+00:00"
   }
 }
