@@ -357,3 +357,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:75, 76, 77, 78, 79, 80, 81']`, live=`['Daniel 3:75']`, fix=`['Daniel 3:75']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/500e2f7
+
+### ❌ 2023-02-28 — Tuesday of the First Week of Lent
+- **Checked**: 2026-05-01 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022823.cfm
+- **Status**: mismatch
+- **Lectionary**: 225
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 34:4-5, 6-7, 16-17, 18-19']`, live=`['PS 34:4-5']`, fix=`['PS 34:4-5']`
+  - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/868a78e

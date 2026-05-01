@@ -1757,5 +1757,53 @@
       ]
     },
     "checked_at": "2026-05-01T06:00:12+00:00"
+  },
+  "2023-02-28:0": {
+    "date": "2023-02-28",
+    "url": "https://bible.usccb.org/bible/readings/022823.cfm",
+    "lectionary_number": 225,
+    "feast": "Tuesday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 34:4-5, 6-7, 16-17, 18-19"
+        ],
+        "live": [
+          "PS 34:4-5"
+        ],
+        "fix": [
+          "PS 34:4-5"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Mt 4:4b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 34:4-5"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 55:10-11"
+      ],
+      "responsorial_psalm": [
+        "PS 34:4-5"
+      ],
+      "gospel": [
+        "Mt 6:7-15"
+      ]
+    },
+    "checked_at": "2026-05-01T06:05:24+00:00"
   }
 }

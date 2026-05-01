@@ -9364,7 +9364,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 71:1-2, 3-4",
+            "citation": "Psalm 71:1-2",
             "sources": [
               "USCCB"
             ]
@@ -9385,11 +9385,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 1:7",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/062425-Vigil.cfm",
       "date": "2025-06-24",
-      "mass": "Vigil"
+      "mass": "Vigil",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 587,
