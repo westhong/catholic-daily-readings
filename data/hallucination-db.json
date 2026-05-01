@@ -7349,5 +7349,75 @@
       ]
     },
     "checked_at": "2026-05-01T16:15:05+00:00"
+  },
+  "2026-01-17:0": {
+    "date": "2026-01-17",
+    "url": "https://bible.usccb.org/bible/readings/011726.cfm",
+    "lectionary_number": 310,
+    "feast": "Memorial of Saint Anthony, Abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Samuel 9:1-4, 17-19"
+        ],
+        "live": [
+          "1 Samuel 9:1-4"
+        ],
+        "fix": [
+          "1 Samuel 9:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 21:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "Psalm 21:2-3"
+        ],
+        "fix": [
+          "Psalm 21:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 4:18"
+        ],
+        "fix": [
+          "Luke 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Samuel 9:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 21:2-3"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 9:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 21:2-3"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ],
+      "gospel": [
+        "Mark 2:13-17"
+      ]
+    },
+    "checked_at": "2026-05-01T16:20:11+00:00"
   }
 }
