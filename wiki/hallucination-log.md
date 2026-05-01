@@ -1962,3 +1962,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 51:3-4, 5-6']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
   - **verse_before_gospel**: stored=`['See Am 5:14']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ad5efa5
+
+### ❌ 2027-06-07 — Monday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-01 21:27 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060727.cfm
+- **Status**: mismatch
+- **Lectionary**: 359
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:12']`, fix=`['Matthew 5:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbfe645
