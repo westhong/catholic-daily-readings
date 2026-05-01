@@ -9228,5 +9228,75 @@
       ]
     },
     "checked_at": "2026-05-01T19:50:10+00:00"
+  },
+  "2024-08-03:0": {
+    "date": "2024-08-03",
+    "url": "https://bible.usccb.org/bible/readings/080324.cfm",
+    "lectionary_number": 406,
+    "feast": "Saturday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jer 26:11-16, 24"
+        ],
+        "live": [
+          "Jer 26:11-16"
+        ],
+        "fix": [
+          "Jer 26:11-16"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 69:15-16, 30-31, 33-34"
+        ],
+        "live": [
+          "PS 69:15-16"
+        ],
+        "fix": [
+          "PS 69:15-16"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:10"
+        ],
+        "fix": [
+          "Mt 5:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jer 26:11-16"
+      ],
+      "responsorial_psalm": [
+        "PS 69:15-16"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 26:11-16"
+      ],
+      "responsorial_psalm": [
+        "PS 69:15-16"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ],
+      "gospel": [
+        "Mt 14:1-12"
+      ]
+    },
+    "checked_at": "2026-05-01T19:55:21+00:00"
   }
 }

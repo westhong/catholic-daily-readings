@@ -1824,3 +1824,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0660e3f
+
+### ❌ 2024-08-03 — Saturday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-01 19:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080324.cfm
+- **Status**: mismatch
+- **Lectionary**: 406
+- **Mismatches**:
+  - **first_reading**: stored=`['Jer 26:11-16, 24']`, live=`['Jer 26:11-16']`, fix=`['Jer 26:11-16']`
+  - **responsorial_psalm**: stored=`['PS 69:15-16, 30-31, 33-34']`, live=`['PS 69:15-16']`, fix=`['PS 69:15-16']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8523ba5
