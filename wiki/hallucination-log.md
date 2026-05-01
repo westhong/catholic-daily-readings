@@ -1940,3 +1940,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:3']`, fix=`['MT 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/80c701b
+
+### ❌ 2027-10-02 — Memorial of the Holy Guardian Angels
+- **Checked**: 2026-05-01 21:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100227.cfm
+- **Status**: mismatch
+- **Lectionary**: 460
+- **Mismatches**:
+  - **first_reading**: stored=`['Baruch 4:5-12, 27-29']`, live=`['Baruch 4:5-12']`, fix=`['Baruch 4:5-12']`
+  - **responsorial_psalm**: stored=`['Psalm 69:33-35, 36-37']`, live=`['Psalm 69:33-35']`, fix=`['Psalm 69:33-35']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 103:21']`, fix=`['Psalm 103:21']`
+  - **gospel**: stored=`['Matthew 18:1-5, 10']`, live=`['Matthew 18:1-5']`, fix=`['Matthew 18:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b5fe203

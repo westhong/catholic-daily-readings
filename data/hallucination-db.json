@@ -9811,5 +9811,90 @@
       ]
     },
     "checked_at": "2026-05-01T21:10:55+00:00"
+  },
+  "2027-10-02:0": {
+    "date": "2027-10-02",
+    "url": "https://bible.usccb.org/bible/readings/100227.cfm",
+    "lectionary_number": 460,
+    "feast": "Memorial of the Holy Guardian Angels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Baruch 4:5-12, 27-29"
+        ],
+        "live": [
+          "Baruch 4:5-12"
+        ],
+        "fix": [
+          "Baruch 4:5-12"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 69:33-35, 36-37"
+        ],
+        "live": [
+          "Psalm 69:33-35"
+        ],
+        "fix": [
+          "Psalm 69:33-35"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 103:21"
+        ],
+        "fix": [
+          "Psalm 103:21"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 18:1-5, 10"
+        ],
+        "live": [
+          "Matthew 18:1-5"
+        ],
+        "fix": [
+          "Matthew 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Baruch 4:5-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 69:33-35"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Baruch 4:5-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 69:33-35"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-01T21:15:06+00:00"
   }
 }

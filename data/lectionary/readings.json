@@ -50995,7 +50995,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 51:3-4, 5-6",
+            "citation": "PS 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -51009,15 +51009,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Am 5:14",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-17": [
