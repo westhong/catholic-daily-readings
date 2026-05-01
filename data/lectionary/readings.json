@@ -41740,7 +41740,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Tobit 12:1, 5-15, 20",
+            "citation": "Tobit 12:1",
             "sources": [
               "USCCB"
             ]
@@ -41748,7 +41748,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Tobit 13:2, 6",
+            "citation": "Tobit 13:2",
             "sources": [
               "USCCB"
             ]
@@ -41761,8 +41761,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-06": [

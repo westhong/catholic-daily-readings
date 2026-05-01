@@ -723,3 +723,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7269577
+
+### ❌ 2023-02-02 — Feast of the Presentation of the Lord
+- **Checked**: 2026-05-01 09:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020223.cfm
+- **Status**: mismatch
+- **Lectionary**: 524
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['24:7, 8, 9, 10']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:32']`, fix=`['Lk 2:32']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b25de5
