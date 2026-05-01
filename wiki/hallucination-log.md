@@ -2161,3 +2161,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 28:2, 7, 8-9']`, live=`['Ps 28:2']`, fix=`['Ps 28:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad726b
+
+### 🚫 2026-09-15 — 
+- **Checked**: 2026-05-01 23:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/915.cfm
+- **Status**: url_dead
+- **Lectionary**: 444
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/915.cfm`, live=fetch failed

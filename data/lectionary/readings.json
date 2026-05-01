@@ -17450,7 +17450,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 49:2, 8-10",
+            "citation": "Genesis 49:2",
             "sources": [
               "USCCB"
             ]
@@ -17458,7 +17458,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 72:1-2, 3-4",
+            "citation": "Psalm 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -17472,7 +17472,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-18": [

@@ -11004,5 +11004,24 @@
       ]
     },
     "checked_at": "2026-05-01T23:00:35+00:00"
+  },
+  "2026-09-15:0": {
+    "date": "2026-09-15",
+    "url": "https://bible.usccb.org/bible/readings/915.cfm",
+    "lectionary_number": 444,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/915.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T23:05:51+00:00"
   }
 }
