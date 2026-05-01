@@ -241,3 +241,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c00db09
+
+### ❌ 2023-08-12 — Saturday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081223.cfm
+- **Status**: mismatch
+- **Lectionary**: 412
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3757717

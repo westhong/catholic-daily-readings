@@ -1190,5 +1190,45 @@
       ]
     },
     "checked_at": "2026-05-01T05:10:40+00:00"
+  },
+  "2023-08-12:0": {
+    "date": "2023-08-12",
+    "url": "https://bible.usccb.org/bible/readings/081223.cfm",
+    "lectionary_number": 412,
+    "feast": "Saturday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 6:4-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 18:2-3"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Mt 17:14-20"
+      ]
+    },
+    "checked_at": "2026-05-01T05:15:55+00:00"
   }
 }
