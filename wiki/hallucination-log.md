@@ -1404,3 +1404,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94a43bf
+
+### ❌ 2024-06-23 — Twelfth Sunday in Ordinary Time
+- **Checked**: 2026-05-01 15:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062324.cfm
+- **Status**: mismatch
+- **Lectionary**: 95
+- **Mismatches**:
+  - **first_reading**: stored=`['Jb 38:1, 8-11']`, live=`['Jb 38:1']`, fix=`['Jb 38:1']`
+  - **responsorial_psalm**: stored=`['107:23-24, 25-26, 28-29, 30-31']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a0a05d

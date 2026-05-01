@@ -44889,13 +44889,22 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 139:7-8, 9-10, 11-12",
+            "citation": "Psalm 139:7-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 John 2:5",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-26": [
