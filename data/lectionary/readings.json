@@ -69779,7 +69779,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 19:8, 9, 10, 11",
+            "citation": "PS 19:8",
             "sources": [
               "USCCB"
             ]
@@ -69800,8 +69800,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Col 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-04": [

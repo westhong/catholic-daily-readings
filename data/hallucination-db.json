@@ -6324,5 +6324,59 @@
       ]
     },
     "checked_at": "2026-05-01T13:45:04+00:00"
+  },
+  "2027-09-21:0": {
+    "date": "2027-09-21",
+    "url": "https://bible.usccb.org/bible/readings/092127.cfm",
+    "lectionary_number": 643,
+    "feast": "Feast of Saint Matthew, Apostle and Evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ephesians 4:1-7, 11-13"
+        ],
+        "live": [
+          "Ephesians 4:1-7"
+        ],
+        "fix": [
+          "Ephesians 4:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:2-3, 4-5"
+        ],
+        "live": [
+          "Psalm 19:2-3"
+        ],
+        "fix": [
+          "Psalm 19:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ephesians 4:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ephesians 4:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ],
+      "gospel": [
+        "Matthew 9:9-13"
+      ]
+    },
+    "checked_at": "2026-05-01T13:50:18+00:00"
   }
 }
