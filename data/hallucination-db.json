@@ -5904,5 +5904,75 @@
       ]
     },
     "checked_at": "2026-05-01T12:55:42+00:00"
+  },
+  "2027-07-20:0": {
+    "date": "2027-07-20",
+    "url": "https://bible.usccb.org/bible/readings/072027.cfm",
+    "lectionary_number": 396,
+    "feast": "Tuesday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 14:21—15"
+        ],
+        "live": [
+          "Exodus 14:21"
+        ],
+        "fix": [
+          "Exodus 14:21"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Exodus 15:8-9, 10"
+        ],
+        "live": [
+          "Exodus 15:8-9"
+        ],
+        "fix": [
+          "Exodus 15:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 14:21"
+      ],
+      "responsorial_psalm": [
+        "Exodus 15:8-9"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 14:21"
+      ],
+      "responsorial_psalm": [
+        "Exodus 15:8-9"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Matthew 12:46-50"
+      ]
+    },
+    "checked_at": "2026-05-01T13:00:56+00:00"
   }
 }

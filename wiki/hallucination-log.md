@@ -1169,3 +1169,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 85:9, 11-12, 13-14']`, live=`['Psalm 85:9']`, fix=`['Psalm 85:9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9402b8
+
+### ❌ 2027-07-20 — Tuesday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 13:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072027.cfm
+- **Status**: mismatch
+- **Lectionary**: 396
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 14:21—15']`, live=`['Exodus 14:21']`, fix=`['Exodus 14:21']`
+  - **responsorial_psalm**: stored=`['Exodus 15:8-9, 10']`, live=`['Exodus 15:8-9']`, fix=`['Exodus 15:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1b31c1
