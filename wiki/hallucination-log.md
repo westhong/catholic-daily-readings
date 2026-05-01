@@ -1865,3 +1865,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
   - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d313a0
+
+### 🚫 2026-10-07 — 
+- **Checked**: 2026-05-01 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1007.cfm
+- **Status**: url_dead
+- **Lectionary**: 463
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1007.cfm`, live=fetch failed
