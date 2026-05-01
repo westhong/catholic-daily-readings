@@ -1588,3 +1588,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbf2681
+
+### ❌ 2027-03-05 — Friday of the Third Week of Lent
+- **Checked**: 2026-05-01 17:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030527.cfm
+- **Status**: mismatch
+- **Lectionary**: 241
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8e6dca

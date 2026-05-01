@@ -8087,5 +8087,38 @@
       ]
     },
     "checked_at": "2026-05-01T17:25:52+00:00"
+  },
+  "2027-03-05:0": {
+    "date": "2027-03-05",
+    "url": "https://bible.usccb.org/bible/readings/030527.cfm",
+    "lectionary_number": 241,
+    "feast": "Friday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Matthew 4:17"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hosea 14:2-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 81:6"
+      ],
+      "gospel": [
+        "Mark 12:28-34"
+      ]
+    },
+    "checked_at": "2026-05-01T17:31:03+00:00"
   }
 }
