@@ -1625,3 +1625,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
   - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4ae142c
+
+### ❌ 2024-08-16 — Friday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 18:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081624.cfm
+- **Status**: mismatch
+- **Lectionary**: 417
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 16:1-15, 60, 63']`, live=`['Ez 16:1-15']`, fix=`['Ez 16:1-15']`
+  - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thes 2:13']`, fix=`['See 1 Thes 2:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26d206f

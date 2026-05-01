@@ -21876,15 +21876,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "John 6:63c, 68c",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-28": [
