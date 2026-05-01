@@ -7224,5 +7224,90 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T15:50:10+00:00"
+  },
+  "2026-06-17:0": {
+    "date": "2026-06-17",
+    "url": "https://bible.usccb.org/bible/readings/061726.cfm",
+    "lectionary_number": 367,
+    "feast": "Wednesday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kings 2:1, 6-14"
+        ],
+        "live": [
+          "2 Kings 2:1"
+        ],
+        "fix": [
+          "2 Kings 2:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 31:20, 21, 24"
+        ],
+        "live": [
+          "Psalm 31:20"
+        ],
+        "fix": [
+          "Psalm 31:20"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 6:1-6, 16-18"
+        ],
+        "live": [
+          "Matthew 6:1-6"
+        ],
+        "fix": [
+          "Matthew 6:1-6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kings 2:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:20"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Matthew 6:1-6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kings 2:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:20"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Matthew 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-01T16:10:51+00:00"
   }
 }
