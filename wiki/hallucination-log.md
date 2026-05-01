@@ -585,3 +585,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6, 8-9']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
   - **gospel**: stored=`['John 20:1-2, 11-18']`, live=`['John 20:1-2']`, fix=`['John 20:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/723bf41
+
+### ❌ 2024-09-03 — Memorial of Saint Gregory the Great, Pope and Doctor of the Church
+- **Checked**: 2026-05-01 08:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090324.cfm
+- **Status**: mismatch
+- **Lectionary**: 432
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 145:8-9, 10-11, 12-13']`, live=`['PS 145:8-9']`, fix=`['PS 145:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b8c553

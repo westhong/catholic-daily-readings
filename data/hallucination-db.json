@@ -2936,5 +2936,60 @@
       ]
     },
     "checked_at": "2026-05-01T07:55:19+00:00"
+  },
+  "2024-09-03:0": {
+    "date": "2024-09-03",
+    "url": "https://bible.usccb.org/bible/readings/090324.cfm",
+    "lectionary_number": 432,
+    "feast": "Memorial of Saint Gregory the Great, Pope and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 145:8-9, 10-11, 12-13"
+        ],
+        "live": [
+          "PS 145:8-9"
+        ],
+        "fix": [
+          "PS 145:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 145:8-9"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 2:10"
+      ],
+      "responsorial_psalm": [
+        "PS 145:8-9"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Lk 4:31-37"
+      ]
+    },
+    "checked_at": "2026-05-01T08:00:34+00:00"
   }
 }

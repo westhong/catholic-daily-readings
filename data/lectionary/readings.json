@@ -63295,7 +63295,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 149:1-2, 3-4, 5",
+            "citation": "Ps 149:1-2",
             "sources": [
               "USCCB"
             ]
@@ -63316,8 +63316,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-08": [
