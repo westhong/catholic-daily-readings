@@ -1558,3 +1558,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Cor 10:31—11']`, live=`['1 Cor 10:31']`, fix=`['1 Cor 10:31']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ac5bfa
+
+### ❌ 2025-05-29 — Thursday of the Sixth Week of Easter
+- **Checked**: 2026-05-01 17:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052925-thursday.cfm
+- **Status**: mismatch
+- **Lectionary**: 294
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 14:18']`, fix=`['See John 14:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5074850
