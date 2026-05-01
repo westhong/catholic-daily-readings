@@ -6775,5 +6775,60 @@
       ]
     },
     "checked_at": "2026-05-01T14:35:49+00:00"
+  },
+  "2027-08-09:0": {
+    "date": "2027-08-09",
+    "url": "https://bible.usccb.org/bible/readings/080927.cfm",
+    "lectionary_number": 413,
+    "feast": "Monday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thessalonians 2:14"
+        ],
+        "fix": [
+          "See 2 Thessalonians 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 10:12-22"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ],
+      "gospel": [
+        "Matthew 17:22-27"
+      ]
+    },
+    "checked_at": "2026-05-01T14:41:04+00:00"
   }
 }

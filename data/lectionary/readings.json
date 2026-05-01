@@ -69773,7 +69773,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sir 44:1, 9-13",
+            "citation": "Sir 44:1",
             "sources": [
               "USCCB"
             ]
@@ -69802,8 +69802,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-03": [
