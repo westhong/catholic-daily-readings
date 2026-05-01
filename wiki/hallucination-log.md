@@ -1855,3 +1855,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 47:2-3, 4-5, 6-7']`, live=`['PS 47:2-3']`, fix=`['PS 47:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 24:46']`, fix=`['See Lk 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a03c0e
+
+### ❌ 2026-02-21 — Saturday after Ash Wednesday
+- **Checked**: 2026-05-01 20:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022126.cfm
+- **Status**: mismatch
+- **Lectionary**: 222
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
+  - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d313a0
