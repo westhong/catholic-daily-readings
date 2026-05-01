@@ -1568,3 +1568,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 14:18']`, fix=`['See John 14:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5074850
+
+### ❌ 2026-04-02 — Holy Thursday - Chrism Mass
+- **Checked**: 2026-05-01 17:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040226-chrism.cfm
+- **Status**: mismatch
+- **Lectionary**: None
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 61:1-3a, 6a, 8b-9']`, live=`['Isaiah 61:1-3']`, fix=`['Isaiah 61:1-3']`
+  - **responsorial_psalm**: stored=`['Psalm 89:21-22, 25 and 27']`, live=`['Psalm 89:21-22']`, fix=`['Psalm 89:21-22']`
+  - **verse_before_gospel**: stored=`['Isaiah 61:1']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0b8fbf2
