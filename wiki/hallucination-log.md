@@ -1302,3 +1302,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 54:3-4, 6']`, live=`['Psalm 54:3-4']`, fix=`['Psalm 54:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1f11b3e
+
+### ❌ 2023-07-22 — Feast of Saint Mary Magdalene
+- **Checked**: 2026-05-01 14:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072223.cfm
+- **Status**: mismatch
+- **Lectionary**: 603
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 8-9']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
+  - **gospel**: stored=`['Jn 20:1-2, 11-18']`, live=`['Jn 20:1-2']`, fix=`['Jn 20:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9247d42

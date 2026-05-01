@@ -6543,5 +6543,59 @@
       ]
     },
     "checked_at": "2026-05-01T14:05:59+00:00"
+  },
+  "2023-07-22:0": {
+    "date": "2023-07-22",
+    "url": "https://bible.usccb.org/bible/readings/072223.cfm",
+    "lectionary_number": 603,
+    "feast": "Feast of Saint Mary Magdalene",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 63:2, 3-4, 5-6, 8-9"
+        ],
+        "live": [
+          "Ps 63:2"
+        ],
+        "fix": [
+          "Ps 63:2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 20:1-2, 11-18"
+        ],
+        "live": [
+          "Jn 20:1-2"
+        ],
+        "fix": [
+          "Jn 20:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "gospel": [
+        "Jn 20:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sgs 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "gospel": [
+        "Jn 20:1-2"
+      ]
+    },
+    "checked_at": "2026-05-01T14:10:16+00:00"
   }
 }
