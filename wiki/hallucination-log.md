@@ -694,3 +694,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dfd0d91
+
+### ❌ 2027-05-18 — Tuesday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-01 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051827.cfm
+- **Status**: mismatch
+- **Lectionary**: 342
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Galatians 6:14']`, fix=`['Galatians 6:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ad776d

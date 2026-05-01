@@ -3528,5 +3528,60 @@
       ]
     },
     "checked_at": "2026-05-01T08:50:50+00:00"
+  },
+  "2027-05-18:0": {
+    "date": "2027-05-18",
+    "url": "https://bible.usccb.org/bible/readings/051827.cfm",
+    "lectionary_number": 342,
+    "feast": "Tuesday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 37:3-4, 18-19, 27-28, 39-40"
+        ],
+        "live": [
+          "Psalm 37:3-4"
+        ],
+        "fix": [
+          "Psalm 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Galatians 6:14"
+        ],
+        "fix": [
+          "Galatians 6:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Galatians 6:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 2:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Galatians 6:14"
+      ],
+      "gospel": [
+        "Mark 9:30-37"
+      ]
+    },
+    "checked_at": "2026-05-01T08:55:04+00:00"
   }
 }

@@ -47321,7 +47321,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 80:2-3, 15-16, 18-19",
+            "citation": "PS 80:2-3",
             "sources": [
               "USCCB"
             ]
@@ -47350,8 +47350,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "PS 85:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-04": [
