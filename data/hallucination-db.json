@@ -10522,5 +10522,75 @@
       ]
     },
     "checked_at": "2026-05-01T22:15:41+00:00"
+  },
+  "2024-01-22:0": {
+    "date": "2024-01-22",
+    "url": "https://bible.usccb.org/bible/readings/012224.cfm",
+    "lectionary_number": 317,
+    "feast": "Day of Prayer for the Legal Protection of Unborn Children",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Sm 5:1-7, 10"
+        ],
+        "live": [
+          "2 Sm 5:1-7"
+        ],
+        "fix": [
+          "2 Sm 5:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 89:20, 21-22, 25-26"
+        ],
+        "live": [
+          "PS 89:20"
+        ],
+        "fix": [
+          "PS 89:20"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "SEE 2 TM 1:10"
+        ],
+        "fix": [
+          "SEE 2 TM 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Sm 5:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 89:20"
+      ],
+      "alleluia_verse": [
+        "SEE 2 TM 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 5:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 89:20"
+      ],
+      "alleluia_verse": [
+        "SEE 2 TM 1:10"
+      ],
+      "gospel": [
+        "Mk 3:22-30"
+      ]
+    },
+    "checked_at": "2026-05-01T22:20:53+00:00"
   }
 }

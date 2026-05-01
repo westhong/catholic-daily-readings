@@ -2071,3 +2071,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abec4a9
+
+### ❌ 2024-01-22 — Day of Prayer for the Legal Protection of Unborn Children
+- **Checked**: 2026-05-01 22:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012224.cfm
+- **Status**: mismatch
+- **Lectionary**: 317
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 5:1-7, 10']`, live=`['2 Sm 5:1-7']`, fix=`['2 Sm 5:1-7']`
+  - **responsorial_psalm**: stored=`['PS 89:20, 21-22, 25-26']`, live=`['PS 89:20']`, fix=`['PS 89:20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['SEE 2 TM 1:10']`, fix=`['SEE 2 TM 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/44ee451
