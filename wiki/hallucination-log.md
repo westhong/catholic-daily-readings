@@ -1546,3 +1546,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['128:1-2, 3, 4-5']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78a2a20
+
+### ❌ 2024-02-11 — Sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-01 17:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021124.cfm
+- **Status**: mismatch
+- **Lectionary**: 77
+- **Mismatches**:
+  - **first_reading**: stored=`['Lv 13:1-2, 44-46']`, live=`['Lv 13:1-2']`, fix=`['Lv 13:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 32:1-2, 5, 11']`, live=`['Ps 32:1-2']`, fix=`['Ps 32:1-2']`
+  - **second_reading**: stored=`['1 Cor 10:31—11']`, live=`['1 Cor 10:31']`, fix=`['1 Cor 10:31']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ac5bfa

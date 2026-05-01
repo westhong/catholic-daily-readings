@@ -7838,5 +7838,93 @@
       ]
     },
     "checked_at": "2026-05-01T16:55:10+00:00"
+  },
+  "2024-02-11:0": {
+    "date": "2024-02-11",
+    "url": "https://bible.usccb.org/bible/readings/021124.cfm",
+    "lectionary_number": 77,
+    "feast": "Sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Lv 13:1-2, 44-46"
+        ],
+        "live": [
+          "Lv 13:1-2"
+        ],
+        "fix": [
+          "Lv 13:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 32:1-2, 5, 11"
+        ],
+        "live": [
+          "Ps 32:1-2"
+        ],
+        "fix": [
+          "Ps 32:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Cor 10:31—11"
+        ],
+        "live": [
+          "1 Cor 10:31"
+        ],
+        "fix": [
+          "1 Cor 10:31"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Lv 13:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 32:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 10:31"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Lv 13:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 32:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 10:31"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mk 1:40-45"
+      ]
+    },
+    "checked_at": "2026-05-01T17:00:22+00:00"
   }
 }

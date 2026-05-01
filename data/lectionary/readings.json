@@ -8142,7 +8142,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3",
+            "citation": "Psalm 98:1",
             "sources": [
               "USCCB"
             ]
@@ -8155,11 +8155,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 14:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/052925-thursday.cfm",
       "date": "2025-05-29",
-      "mass": "thursday"
+      "mass": "thursday",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 58,
