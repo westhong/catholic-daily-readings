@@ -3800,5 +3800,65 @@
       ]
     },
     "checked_at": "2026-05-01T09:16:00+00:00"
+  },
+  "2023-03-13:0": {
+    "date": "2023-03-13",
+    "url": "https://bible.usccb.org/bible/readings/031323.cfm",
+    "lectionary_number": 237,
+    "feast": "Monday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 42:2, 3"
+        ],
+        "live": [
+          "PS 42:2"
+        ],
+        "fix": [
+          "PS 42:2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Psalm 130:5, 7"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 42:2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 5:1-15"
+      ],
+      "responsorial_psalm": [
+        "PS 42:2"
+      ],
+      "gospel": [
+        "Lk 4:24-30"
+      ]
+    },
+    "checked_at": "2026-05-01T09:20:14+00:00"
+  },
+  "2024-05-09:0": {
+    "date": "2024-05-09",
+    "url": "https://bible.usccb.org/bible/readings/050924.cfm",
+    "lectionary_number": 58,
+    "feast": "Thursday of the Sixth Week of Easter - Ascension",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T09:25:26+00:00"
   }
 }

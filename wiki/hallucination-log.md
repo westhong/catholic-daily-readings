@@ -744,3 +744,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Tobit 13:2, 6']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9397e27
+
+### ❌ 2023-03-13 — Monday of the Third Week of Lent
+- **Checked**: 2026-05-01 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031323.cfm
+- **Status**: mismatch
+- **Lectionary**: 237
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 42:2, 3']`, live=`['PS 42:2']`, fix=`['PS 42:2']`
+  - **verse_before_gospel**: stored=`['See Psalm 130:5, 7']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/634f6c5
+
+### ✅ 2024-05-09 — Thursday of the Sixth Week of Easter - Ascension
+- **Checked**: 2026-05-01 09:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050924.cfm
+- **Status**: ok
+- **Lectionary**: 58
