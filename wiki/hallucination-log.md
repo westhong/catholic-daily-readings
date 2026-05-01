@@ -886,3 +886,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 85:2-4, 5-6, 7-8']`, live=`['PS 85:2-4']`, fix=`['PS 85:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 14:23']`, fix=`['JN 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d6ea557
+
+### ❌ 2024-02-19 — Monday of the First Week of Lent
+- **Checked**: 2026-05-01 10:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021924.cfm
+- **Status**: mismatch
+- **Lectionary**: 224
+- **Mismatches**:
+  - **first_reading**: stored=`['Lv 19:1-2, 11-18']`, live=`['Lv 19:1-2']`, fix=`['Lv 19:1-2']`
+  - **responsorial_psalm**: stored=`['19:8, 9, 10, 15']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['2 Cor 6:2b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d88681

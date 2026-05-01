@@ -51523,7 +51523,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 95:1-2, 6-7, 8-9",
+            "citation": "PS 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -51537,15 +51537,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jl 2:12-13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-08": [
