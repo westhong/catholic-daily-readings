@@ -13969,7 +13969,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:8, 9, 10, 11",
+            "citation": "Psalm 19:8",
             "sources": [
               "USCCB"
             ]
@@ -13977,7 +13977,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 18:1-5, 10",
+            "citation": "Matthew 18:1-5",
             "sources": [
               "USCCB"
             ]
@@ -13990,8 +13990,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 103:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-03": [

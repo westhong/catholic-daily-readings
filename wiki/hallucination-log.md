@@ -1494,3 +1494,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 132:6-7, 9-10, 13-14']`, live=`['Psalm 132:6-7']`, fix=`['Psalm 132:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8419346
+
+### ❌ 2027-07-14 — Memorial of Saint Kateri Tekakwitha, Virgin [In the Dioceses of the United States]
+- **Checked**: 2026-05-01 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071427.cfm
+- **Status**: mismatch
+- **Lectionary**: 391
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 3:1-6, 9-12']`, live=`['Exodus 3:1-6']`, fix=`['Exodus 3:1-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e83e4c8
