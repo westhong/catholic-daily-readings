@@ -4717,5 +4717,68 @@
       ]
     },
     "checked_at": "2026-05-01T10:50:25+00:00"
+  },
+  "2023-02-27:0": {
+    "date": "2023-02-27",
+    "url": "https://bible.usccb.org/bible/readings/022723.cfm",
+    "lectionary_number": 224,
+    "feast": "Monday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Lv 19:1-2, 11-18"
+        ],
+        "live": [
+          "Lv 19:1-2"
+        ],
+        "fix": [
+          "Lv 19:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:8, 9, 10, 15"
+        ],
+        "live": [
+          "Ps 19:8"
+        ],
+        "fix": [
+          "Ps 19:8"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "2 Cor 6:2b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Lv 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Lv 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "gospel": [
+        "Mt 25:31-46"
+      ]
+    },
+    "checked_at": "2026-05-01T10:55:39+00:00"
   }
 }
