@@ -6830,5 +6830,60 @@
       ]
     },
     "checked_at": "2026-05-01T14:41:04+00:00"
+  },
+  "2023-06-02:0": {
+    "date": "2023-06-02",
+    "url": "https://bible.usccb.org/bible/readings/060223.cfm",
+    "lectionary_number": 351,
+    "feast": "Friday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sir 44:1, 9-13"
+        ],
+        "live": [
+          "Sir 44:1"
+        ],
+        "fix": [
+          "Sir 44:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sir 44:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 44:1"
+      ],
+      "responsorial_psalm": [
+        "PS 149:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Mk 11:11-26"
+      ]
+    },
+    "checked_at": "2026-05-01T14:45:19+00:00"
   }
 }

@@ -4358,7 +4358,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 86:1-2, 3-4, 5-6",
+            "citation": "Psalm 86:1-2",
             "sources": [
               "USCCB"
             ]
@@ -4372,15 +4372,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ezekiel 33:11",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-09": [

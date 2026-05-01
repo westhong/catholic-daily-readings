@@ -1360,3 +1360,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e9729b7
+
+### ❌ 2023-06-02 — Friday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-01 14:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060223.cfm
+- **Status**: mismatch
+- **Lectionary**: 351
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 44:1, 9-13']`, live=`['Sir 44:1']`, fix=`['Sir 44:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/135dfd9
