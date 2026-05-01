@@ -1952,3 +1952,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 103:21']`, fix=`['Psalm 103:21']`
   - **gospel**: stored=`['Matthew 18:1-5, 10']`, live=`['Matthew 18:1-5']`, fix=`['Matthew 18:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b5fe203
+
+### ❌ 2024-02-16 — Friday after Ash Wednesday
+- **Checked**: 2026-05-01 21:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021624.cfm
+- **Status**: mismatch
+- **Lectionary**: 221
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 51:3-4, 5-6']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
+  - **verse_before_gospel**: stored=`['See Am 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ad5efa5
