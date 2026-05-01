@@ -2991,5 +2991,60 @@
       ]
     },
     "checked_at": "2026-05-01T08:00:34+00:00"
+  },
+  "2023-01-07:0": {
+    "date": "2023-01-07",
+    "url": "https://bible.usccb.org/bible/readings/010723.cfm",
+    "lectionary_number": 210,
+    "feast": "Christmas Weekday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 149:1-2, 3-4, 5"
+        ],
+        "live": [
+          "Ps 149:1-2"
+        ],
+        "fix": [
+          "Ps 149:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 149:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Jn 5:14-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 149:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Jn 2:1-11"
+      ]
+    },
+    "checked_at": "2026-05-01T08:05:49+00:00"
   }
 }

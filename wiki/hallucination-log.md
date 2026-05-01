@@ -595,3 +595,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 145:8-9, 10-11, 12-13']`, live=`['PS 145:8-9']`, fix=`['PS 145:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b8c553
+
+### ❌ 2023-01-07 — Christmas Weekday
+- **Checked**: 2026-05-01 08:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010723.cfm
+- **Status**: mismatch
+- **Lectionary**: 210
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 149:1-2, 3-4, 5']`, live=`['Ps 149:1-2']`, fix=`['Ps 149:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3f26f46

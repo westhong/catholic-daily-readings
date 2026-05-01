@@ -21915,7 +21915,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 2, 3, 13-14",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -21929,7 +21929,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-31": [
