@@ -12836,7 +12836,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 54:3-4, 6",
+            "citation": "Psalm 54:3-4",
             "sources": [
               "USCCB"
             ]
@@ -12849,8 +12849,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-07": [

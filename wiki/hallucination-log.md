@@ -1282,3 +1282,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 19:8, 9, 10, 11']`, live=`['PS 19:8']`, fix=`['PS 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Col 3:16']`, fix=`['See Col 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84330d8
+
+### ❌ 2027-09-16 — Memorial of Saints Cornelius, Pope, and Saint Cyprian, Bishop, Martyrs
+- **Checked**: 2026-05-01 14:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091627.cfm
+- **Status**: mismatch
+- **Lectionary**: 446
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 111:7-8, 9, 10']`, live=`['Psalm 111:7-8']`, fix=`['Psalm 111:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aaf0f9c

@@ -6433,5 +6433,60 @@
       ]
     },
     "checked_at": "2026-05-01T13:55:31+00:00"
+  },
+  "2027-09-16:0": {
+    "date": "2027-09-16",
+    "url": "https://bible.usccb.org/bible/readings/091627.cfm",
+    "lectionary_number": 446,
+    "feast": "Memorial of Saints Cornelius, Pope, and Saint Cyprian, Bishop, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 111:7-8, 9, 10"
+        ],
+        "live": [
+          "Psalm 111:7-8"
+        ],
+        "fix": [
+          "Psalm 111:7-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:28"
+        ],
+        "fix": [
+          "Matthew 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 111:7-8"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 4:12-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 111:7-8"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ],
+      "gospel": [
+        "Luke 7:36-50"
+      ]
+    },
+    "checked_at": "2026-05-01T14:00:46+00:00"
   }
 }
