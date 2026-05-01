@@ -1845,3 +1845,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
   - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6111b5b
+
+### ❌ 2023-05-19 — Friday of the Sixth Week of Easter
+- **Checked**: 2026-05-01 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051923.cfm
+- **Status**: mismatch
+- **Lectionary**: 295
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 47:2-3, 4-5, 6-7']`, live=`['PS 47:2-3']`, fix=`['PS 47:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 24:46']`, fix=`['See Lk 24:46']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a03c0e
