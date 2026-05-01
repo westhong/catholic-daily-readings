@@ -64088,7 +64088,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 8:23—9",
+            "citation": "Is 8:23",
             "sources": [
               "USCCB"
             ]
@@ -64096,7 +64096,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 27:1, 4, 13-14",
+            "citation": "Ps 27:1",
             "sources": [
               "USCCB"
             ]
@@ -64104,7 +64104,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Cor 1:10-13, 17",
+            "citation": "1 Cor 1:10-13",
             "sources": [
               "USCCB"
             ]
@@ -64125,8 +64125,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-23": [

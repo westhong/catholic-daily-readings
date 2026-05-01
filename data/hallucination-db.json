@@ -5126,5 +5126,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T11:40:58+00:00"
+  },
+  "2026-02-11:0": {
+    "date": "2026-02-11",
+    "url": "https://bible.usccb.org/bible/readings/021126.cfm",
+    "lectionary_number": 331,
+    "feast": "Wednesday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 37:5-6, 30-31, 39-40"
+        ],
+        "live": [
+          "Psalm 37:5-6"
+        ],
+        "fix": [
+          "Psalm 37:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 17:17"
+        ],
+        "fix": [
+          "See John 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 37:5-6"
+      ],
+      "alleluia_verse": [
+        "See John 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 10:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 37:5-6"
+      ],
+      "alleluia_verse": [
+        "See John 17:17"
+      ],
+      "gospel": [
+        "Mark 7:14-23"
+      ]
+    },
+    "checked_at": "2026-05-01T11:45:12+00:00"
   }
 }
