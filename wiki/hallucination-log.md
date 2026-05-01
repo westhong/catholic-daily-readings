@@ -224,3 +224,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 33:1-2, 4-5, 18-19']`, live=`['Psalm 33:1-2']`, fix=`['Psalm 33:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f7be24
+
+### 🚫 2026-12-27 — 
+- **Checked**: 2026-05-01 05:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261227.cfm
+- **Status**: url_dead
+- **Lectionary**: 17
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261227.cfm`, live=fetch failed
