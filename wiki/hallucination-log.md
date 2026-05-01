@@ -387,3 +387,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 3:2-3, 4-5, 6-7']`, live=`['Psalm 3:2-3']`, fix=`['Psalm 3:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:10']`, fix=`['1 John 4:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d8aec9
+
+### ❌ 2024-04-12 — Friday of the Second Week of Easter
+- **Checked**: 2026-05-01 06:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041224.cfm
+- **Status**: mismatch
+- **Lectionary**: 271
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 27:1, 4, 13-14']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96b818d

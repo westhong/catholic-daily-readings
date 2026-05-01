@@ -62888,7 +62888,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "RV 20:1-4, 11—21",
+            "citation": "RV 20:1-4",
             "sources": [
               "USCCB"
             ]
@@ -62896,7 +62896,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 84:3, 4, 5-6",
+            "citation": "PS 84:3",
             "sources": [
               "USCCB"
             ]
@@ -62917,8 +62917,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "LUKE 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-30": [
