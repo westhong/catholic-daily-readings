@@ -2179,3 +2179,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 49:2, 8-10']`, live=`['Genesis 49:2']`, fix=`['Genesis 49:2']`
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 3-4']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cc7587
+
+### ❌ 2024-07-12 — Friday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 23:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071224.cfm
+- **Status**: mismatch
+- **Lectionary**: 387
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 51:3-4, 8-9, 12-13, 14']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 16:13']`, fix=`['JN 16:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3b18342
