@@ -6239,7 +6239,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 52:13—53",
+            "citation": "Isaiah 52:13",
             "sources": [
               "USCCB"
             ]
@@ -6247,7 +6247,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 31:2, 6, 12-13, 15-16, 17, 25",
+            "citation": "Psalm 31:2",
             "sources": [
               "USCCB"
             ]
@@ -6263,21 +6263,15 @@
         ],
         "gospel": [
           {
-            "citation": "John 18:1—19",
+            "citation": "John 18:1",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Philippians 2:8-9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-04-19": [
