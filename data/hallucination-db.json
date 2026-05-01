@@ -5776,5 +5776,78 @@
       ]
     },
     "checked_at": "2026-05-01T12:45:15+00:00"
+  },
+  "2025-08-24:0": {
+    "date": "2025-08-24",
+    "url": "https://bible.usccb.org/bible/readings/082425.cfm",
+    "lectionary_number": 123,
+    "feast": "Twenty-first Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 117:1, 2"
+        ],
+        "live": [
+          "Psalm 117:1"
+        ],
+        "fix": [
+          "Psalm 117:1"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Hebrews 12:5-7, 11-13"
+        ],
+        "live": [
+          "Hebrews 12:5-7"
+        ],
+        "fix": [
+          "Hebrews 12:5-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:6"
+        ],
+        "fix": [
+          "John 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 117:1"
+      ],
+      "second_reading": [
+        "Hebrews 12:5-7"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 66:18-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 117:1"
+      ],
+      "second_reading": [
+        "Hebrews 12:5-7"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ],
+      "gospel": [
+        "Luke 13:22-30"
+      ]
+    },
+    "checked_at": "2026-05-01T12:50:29+00:00"
   }
 }

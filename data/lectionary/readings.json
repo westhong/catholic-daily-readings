@@ -12010,7 +12010,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 85:9, 11-12, 13-14",
+            "citation": "Psalm 85:9",
             "sources": [
               "USCCB"
             ]
@@ -12031,8 +12031,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Corinthians 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-20": [

@@ -1148,3 +1148,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/472e292
+
+### ❌ 2025-08-24 — Twenty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-01 12:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082425.cfm
+- **Status**: mismatch
+- **Lectionary**: 123
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 117:1, 2']`, live=`['Psalm 117:1']`, fix=`['Psalm 117:1']`
+  - **second_reading**: stored=`['Hebrews 12:5-7, 11-13']`, live=`['Hebrews 12:5-7']`, fix=`['Hebrews 12:5-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/937d21a
