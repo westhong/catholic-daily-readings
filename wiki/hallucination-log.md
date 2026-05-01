@@ -1226,3 +1226,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1e98cc2
+
+### 🚫 2026-11-26 — 
+- **Checked**: 2026-05-01 13:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261126.cfm
+- **Status**: url_dead
+- **Lectionary**: 943
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261126.cfm`, live=fetch failed
