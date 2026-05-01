@@ -9621,5 +9621,60 @@
       ]
     },
     "checked_at": "2026-05-01T20:35:42+00:00"
+  },
+  "2025-06-06:0": {
+    "date": "2025-06-06",
+    "url": "https://bible.usccb.org/bible/readings/060625.cfm",
+    "lectionary_number": 301,
+    "feast": "Friday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:1-2, 11-12, 19-20"
+        ],
+        "live": [
+          "Psalm 103:1-2"
+        ],
+        "fix": [
+          "Psalm 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:26"
+        ],
+        "fix": [
+          "John 14:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 25:13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ],
+      "gospel": [
+        "John 21:15-19"
+      ]
+    },
+    "checked_at": "2026-05-01T20:55:20+00:00"
   }
 }

@@ -59723,7 +59723,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 145:17-18, 19-20, 21",
+            "citation": "PS 145:17-18",
             "sources": [
               "USCCB"
             ]
@@ -59744,8 +59744,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JOHN 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-08": [

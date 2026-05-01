@@ -1902,3 +1902,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 69:5, 8-10, 14']`, live=`['PS 69:5']`, fix=`['PS 69:5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 1:25']`, fix=`['1 Pt 1:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/02fad3d
+
+### ❌ 2025-06-06 — Friday of the Seventh Week of Easter
+- **Checked**: 2026-05-01 20:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060625.cfm
+- **Status**: mismatch
+- **Lectionary**: 301
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc5fccb
