@@ -9771,5 +9771,45 @@
       ]
     },
     "checked_at": "2026-05-01T21:05:43+00:00"
+  },
+  "2024-10-21:0": {
+    "date": "2024-10-21",
+    "url": "https://bible.usccb.org/bible/readings/102124.cfm",
+    "lectionary_number": 473,
+    "feast": "Monday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 5:3"
+        ],
+        "fix": [
+          "MT 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "MT 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EPH 2:1-10"
+      ],
+      "responsorial_psalm": [
+        "PS 100:1"
+      ],
+      "alleluia_verse": [
+        "MT 5:3"
+      ],
+      "gospel": [
+        "LK 12:13-21"
+      ]
+    },
+    "checked_at": "2026-05-01T21:10:55+00:00"
   }
 }

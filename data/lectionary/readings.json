@@ -46410,7 +46410,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Baruch 4:5-12, 27-29",
+            "citation": "Baruch 4:5-12",
             "sources": [
               "USCCB"
             ]
@@ -46418,7 +46418,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:33-35, 36-37",
+            "citation": "Psalm 69:33-35",
             "sources": [
               "USCCB"
             ]
@@ -46426,13 +46426,22 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 18:1-5, 10",
+            "citation": "Matthew 18:1-5",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 103:21",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-03": [

@@ -1931,3 +1931,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:56']`, fix=`['John 6:56']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2023f37
+
+### ❌ 2024-10-21 — Monday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-01 21:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102124.cfm
+- **Status**: mismatch
+- **Lectionary**: 473
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:3']`, fix=`['MT 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/80c701b
