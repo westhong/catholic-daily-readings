@@ -418,3 +418,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['34:2-3, 4-5, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/38f666a
+
+### ❌ 2027-06-24 — Solemnity of the Nativity of Saint John the Baptist Vigil
+- **Checked**: 2026-05-01 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062427-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 586
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 1:7']`, fix=`['See John 1:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03301a0

@@ -11253,7 +11253,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 81:12-13, 14-15, 16-17",
+            "citation": "Psalm 81:12-13",
             "sources": [
               "USCCB"
             ]
@@ -11274,8 +11274,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-05": [
