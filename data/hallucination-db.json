@@ -42,5 +42,31 @@
     "url_status": null,
     "checked_at": "2026-05-01T03:29:27+00:00",
     "mass_idx": 0
+  },
+  "2024-06-15:0": {
+    "date": "2024-06-15",
+    "url": "https://bible.usccb.org/bible/readings/061524.cfm",
+    "lectionary_number": 364,
+    "feast": "Saturday of the Tenth Week in Ordinary Time",
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kgs 19:19-21"
+        ],
+        "live": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 16:1"
+        ],
+        "live": []
+      }
+    ],
+    "url_status": null,
+    "checked_at": "2026-05-01T03:30:17+00:00",
+    "mass_idx": 0
   }
 }
