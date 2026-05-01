@@ -62869,7 +62869,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 98:1, 2-3",
+            "citation": "PS 98:1",
             "sources": [
               "USCCB"
             ]
@@ -62890,8 +62890,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "RV 2:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-28": [

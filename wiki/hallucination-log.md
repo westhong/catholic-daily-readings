@@ -495,3 +495,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0806ddd
+
+### 🚫 2026-09-04 — 
+- **Checked**: 2026-05-01 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/904.cfm
+- **Status**: url_dead
+- **Lectionary**: 435
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/904.cfm`, live=fetch failed
