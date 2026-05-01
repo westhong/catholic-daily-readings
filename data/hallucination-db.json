@@ -8139,5 +8139,63 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T17:35:14+00:00"
+  },
+  "2025-04-27:0": {
+    "date": "2025-04-27",
+    "url": "https://bible.usccb.org/bible/readings/042725.cfm",
+    "lectionary_number": 45,
+    "feast": "Second Sunday of Easter Sunday of Divine Mercy",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 118:2-4, 13-15, 22-24"
+        ],
+        "live": [
+          "Psalm 118:2-4"
+        ],
+        "fix": [
+          "Psalm 118:2-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 20:29"
+        ],
+        "fix": [
+          "John 20:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 118:2-4"
+      ],
+      "alleluia_verse": [
+        "John 20:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:12-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 118:2-4"
+      ],
+      "second_reading": [
+        "Revelation 1:9-11"
+      ],
+      "alleluia_verse": [
+        "John 20:29"
+      ],
+      "gospel": [
+        "John 20:19-31"
+      ]
+    },
+    "checked_at": "2026-05-01T17:40:29+00:00"
   }
 }

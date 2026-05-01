@@ -66941,7 +66941,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 106:19-20, 21-22, 23",
+            "citation": "Ps 106:19-20",
             "sources": [
               "USCCB"
             ]
@@ -66955,15 +66955,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jn 3:16",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-24": [
