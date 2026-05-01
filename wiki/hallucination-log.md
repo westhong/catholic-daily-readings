@@ -1597,3 +1597,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8e6dca
+
+### 🚫 2026-11-06 — 
+- **Checked**: 2026-05-01 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261106.cfm
+- **Status**: url_dead
+- **Lectionary**: 489
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261106.cfm`, live=fetch failed
