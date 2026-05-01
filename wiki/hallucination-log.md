@@ -523,3 +523,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a81f4cf
+
+### ❌ 2025-07-17 — Thursday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-01 07:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071725.cfm
+- **Status**: mismatch
+- **Lectionary**: 392
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/069c565

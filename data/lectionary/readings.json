@@ -43242,7 +43242,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 11:10—12",
+            "citation": "Exodus 11:10",
             "sources": [
               "USCCB"
             ]
@@ -43250,7 +43250,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 116:12-13, 15",
+            "citation": "Psalm 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -43263,8 +43263,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-17": [

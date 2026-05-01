@@ -2590,5 +2590,45 @@
       ]
     },
     "checked_at": "2026-05-01T07:25:56+00:00"
+  },
+  "2025-07-17:0": {
+    "date": "2025-07-17",
+    "url": "https://bible.usccb.org/bible/readings/071725.cfm",
+    "lectionary_number": 392,
+    "feast": "Thursday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:28"
+        ],
+        "fix": [
+          "Matthew 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 3:13-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:1"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ],
+      "gospel": [
+        "Matthew 11:28-30"
+      ]
+    },
+    "checked_at": "2026-05-01T07:30:09+00:00"
   }
 }
