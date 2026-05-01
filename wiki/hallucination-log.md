@@ -1732,3 +1732,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Sm 7:1-5, 8']`, live=`['2 Sm 7:1-5']`, fix=`['2 Sm 7:1-5']`
   - **responsorial_psalm**: stored=`['89:2-3, 4-5, 27']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6155352
+
+### ❌ 2023-06-08 — Thursday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-01 19:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060823.cfm
+- **Status**: mismatch
+- **Lectionary**: 356
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644b989
