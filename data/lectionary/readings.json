@@ -76201,6 +76201,18 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "November 7",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "November 9",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "alleluia": [
@@ -76210,8 +76222,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Pt 4:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-09": [
