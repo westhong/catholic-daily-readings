@@ -2151,3 +2151,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Lk 15:18']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Lk 15:1-3, 11-32']`, live=`['Lk 15:1-3']`, fix=`['Lk 15:1-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/109dcd5
+
+### ❌ 2023-09-18 — Monday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-01 23:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091823.cfm
+- **Status**: mismatch
+- **Lectionary**: 443
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 28:2, 7, 8-9']`, live=`['Ps 28:2']`, fix=`['Ps 28:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad726b
