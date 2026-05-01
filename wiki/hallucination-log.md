@@ -377,3 +377,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 1:7']`, fix=`['See John 1:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f112757
+
+### ❌ 2025-11-18 — Tuesday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-01 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111825.cfm
+- **Status**: mismatch
+- **Lectionary**: 498
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 3:2-3, 4-5, 6-7']`, live=`['Psalm 3:2-3']`, fix=`['Psalm 3:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:10']`, fix=`['1 John 4:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d8aec9

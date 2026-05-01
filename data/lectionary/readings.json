@@ -52907,7 +52907,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 27:1, 4, 13-14",
+            "citation": "Ps 27:1",
             "sources": [
               "USCCB"
             ]
@@ -52928,8 +52928,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-13": [
