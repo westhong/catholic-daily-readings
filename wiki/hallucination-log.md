@@ -1312,3 +1312,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 8-9']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
   - **gospel**: stored=`['Jn 20:1-2, 11-18']`, live=`['Jn 20:1-2']`, fix=`['Jn 20:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9247d42
+
+### 🚫 2026-06-29 — Solemnity of Saints Peter and Paul, Apostles
+- **Checked**: 2026-05-01 14:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062926-Vigil.cfm
+- **Status**: url_dead
+- **Lectionary**: 589
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/062926-Vigil.cfm`, live=fetch failed

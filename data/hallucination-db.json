@@ -6597,5 +6597,24 @@
       ]
     },
     "checked_at": "2026-05-01T14:10:16+00:00"
+  },
+  "2026-06-29:1": {
+    "date": "2026-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062926-Vigil.cfm",
+    "lectionary_number": 589,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles",
+    "mass_idx": 1,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/062926-Vigil.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T14:15:32+00:00"
   }
 }
