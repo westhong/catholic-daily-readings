@@ -1883,3 +1883,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 7-8, 10-11, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 2:2']`, fix=`['Matthew 2:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1388d25
+
+### ❌ 2025-02-10 — Memorial of Saint Scholastica, Virgin
+- **Checked**: 2026-05-01 20:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021025.cfm
+- **Status**: mismatch
+- **Lectionary**: 329
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c9df5b

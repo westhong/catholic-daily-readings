@@ -58115,7 +58115,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 69:5, 8-10, 14",
+            "citation": "PS 69:5",
             "sources": [
               "USCCB"
             ]
@@ -58136,8 +58136,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Pt 1:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-03": [
