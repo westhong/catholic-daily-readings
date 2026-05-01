@@ -1681,3 +1681,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 40:2, 4, 7-8, 8-9, 10']`, live=`['Psalm 40:2']`, fix=`['Psalm 40:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/be8afb1
+
+### ❌ 2024-01-26 — Memorial of Saints Timothy and Titus, bishops
+- **Checked**: 2026-05-01 18:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012624.cfm
+- **Status**: mismatch
+- **Lectionary**: 520
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Tm 1:1-8']`, live=`['2 Tm 1:1-8', 'Ti 1:1-5']`, fix=`['2 Tm 1:1-8', 'Ti 1:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['SEE MT 11:25']`, fix=`['SEE MT 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/13fd630

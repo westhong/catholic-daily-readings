@@ -8528,5 +8528,64 @@
       ]
     },
     "checked_at": "2026-05-01T18:25:32+00:00"
+  },
+  "2024-01-26:0": {
+    "date": "2024-01-26",
+    "url": "https://bible.usccb.org/bible/readings/012624.cfm",
+    "lectionary_number": 520,
+    "feast": "Memorial of Saints Timothy and Titus, bishops",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Tm 1:1-8"
+        ],
+        "live": [
+          "2 Tm 1:1-8",
+          "Ti 1:1-5"
+        ],
+        "fix": [
+          "2 Tm 1:1-8",
+          "Ti 1:1-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "SEE MT 11:25"
+        ],
+        "fix": [
+          "SEE MT 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Tm 1:1-8",
+        "Ti 1:1-5"
+      ],
+      "alleluia_verse": [
+        "SEE MT 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Tm 1:1-8",
+        "Ti 1:1-5"
+      ],
+      "responsorial_psalm": [
+        "PS 96:1-2"
+      ],
+      "alleluia_verse": [
+        "SEE MT 11:25"
+      ],
+      "gospel": [
+        "Mk 4:26-34"
+      ]
+    },
+    "checked_at": "2026-05-01T18:30:43+00:00"
   }
 }
