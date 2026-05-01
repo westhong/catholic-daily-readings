@@ -64490,14 +64490,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "24:7, 8, 9, 10",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Heb 2:14-18",
@@ -64521,8 +64514,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 2:32",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-03": [

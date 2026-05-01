@@ -714,3 +714,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 80:2-3, 15-16, 18-19']`, live=`['PS 80:2-3']`, fix=`['PS 80:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['PS 85:8']`, fix=`['PS 85:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e166146
+
+### ❌ 2024-05-13 — Monday of the Seventh Week of Easter
+- **Checked**: 2026-05-01 09:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051324.cfm
+- **Status**: mismatch
+- **Lectionary**: 297
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7269577
