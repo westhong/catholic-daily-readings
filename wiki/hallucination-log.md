@@ -1425,3 +1425,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 139:7-8, 9-10, 11-12']`, live=`['Psalm 139:7-8']`, fix=`['Psalm 139:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98ab6e6
+
+### ❌ 2025-12-04 — Thursday of the First Week of Advent
+- **Checked**: 2026-05-01 15:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120425.cfm
+- **Status**: mismatch
+- **Lectionary**: 178
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Isaiah 55:6']`, fix=`['Isaiah 55:6']`
+  - **gospel**: stored=`['Matthew 7:21, 24-27']`, live=`['Matthew 7:21']`, fix=`['Matthew 7:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/99dbb45
+
+### ✅ 2024-11-28 — Thursday of the Thirty-fourth Week in Ordinary Time-Thanksgiving
+- **Checked**: 2026-05-01 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112824.cfm
+- **Status**: ok
+- **Lectionary**: 506

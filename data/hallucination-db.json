@@ -7157,5 +7157,72 @@
       ]
     },
     "checked_at": "2026-05-01T15:40:42+00:00"
+  },
+  "2025-12-04:0": {
+    "date": "2025-12-04",
+    "url": "https://bible.usccb.org/bible/readings/120425.cfm",
+    "lectionary_number": 178,
+    "feast": "Thursday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Isaiah 55:6"
+        ],
+        "fix": [
+          "Isaiah 55:6"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 7:21, 24-27"
+        ],
+        "live": [
+          "Matthew 7:21"
+        ],
+        "fix": [
+          "Matthew 7:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Isaiah 55:6"
+      ],
+      "gospel": [
+        "Matthew 7:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 26:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 118:1"
+      ],
+      "alleluia_verse": [
+        "Isaiah 55:6"
+      ],
+      "gospel": [
+        "Matthew 7:21"
+      ]
+    },
+    "checked_at": "2026-05-01T15:45:57+00:00"
+  },
+  "2024-11-28:0": {
+    "date": "2024-11-28",
+    "url": "https://bible.usccb.org/bible/readings/112824.cfm",
+    "lectionary_number": 506,
+    "feast": "Thursday of the Thirty-fourth Week in Ordinary Time-Thanksgiving",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T15:50:10+00:00"
   }
 }
