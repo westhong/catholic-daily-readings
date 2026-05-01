@@ -1099,3 +1099,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 124
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/830.cfm`, live=fetch failed
+
+### ❌ 2023-09-17 — Twenty-fourth Sunday in Ordinary Time
+- **Checked**: 2026-05-01 12:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091723.cfm
+- **Status**: mismatch
+- **Lectionary**: 130
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 27:30—28']`, live=`['Sir 27:30']`, fix=`['Sir 27:30']`
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 9-10, 11-12']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/71ffc0c

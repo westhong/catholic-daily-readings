@@ -24053,7 +24053,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 149:1b-2, 3-4, 5-6a and 9b",
+            "citation": "Psalm 149:1",
             "sources": [
               "USCCB"
             ]
@@ -24069,13 +24069,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 15:26-16:4a",
+            "citation": "John 15:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:26",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-12": [

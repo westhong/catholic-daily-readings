@@ -5532,5 +5532,78 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T12:20:54+00:00"
+  },
+  "2023-09-17:0": {
+    "date": "2023-09-17",
+    "url": "https://bible.usccb.org/bible/readings/091723.cfm",
+    "lectionary_number": 130,
+    "feast": "Twenty-fourth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sir 27:30—28"
+        ],
+        "live": [
+          "Sir 27:30"
+        ],
+        "fix": [
+          "Sir 27:30"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 3-4, 9-10, 11-12"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sir 27:30"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 27:30"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "second_reading": [
+        "Rom 14:7-9"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 18:21-35"
+      ]
+    },
+    "checked_at": "2026-05-01T12:25:09+00:00"
   }
 }
