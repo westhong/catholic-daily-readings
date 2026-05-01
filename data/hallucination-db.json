@@ -3403,5 +3403,75 @@
       ]
     },
     "checked_at": "2026-05-01T08:40:24+00:00"
+  },
+  "2025-01-27:0": {
+    "date": "2025-01-27",
+    "url": "https://bible.usccb.org/bible/readings/012725.cfm",
+    "lectionary_number": 317,
+    "feast": "Monday of the Third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hebrews 9:15, 24-28"
+        ],
+        "live": [
+          "Hebrews 9:15"
+        ],
+        "fix": [
+          "Hebrews 9:15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 98:1, 2-3"
+        ],
+        "live": [
+          "Psalm 98:1"
+        ],
+        "fix": [
+          "Psalm 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Timothy 1:10"
+        ],
+        "fix": [
+          "2 Timothy 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hebrews 9:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 9:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ],
+      "gospel": [
+        "Mark 3:22-30"
+      ]
+    },
+    "checked_at": "2026-05-01T08:45:36+00:00"
   }
 }

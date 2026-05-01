@@ -45760,7 +45760,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Tobit 13:2, 3-4",
+            "citation": "Tobit 13:2",
             "sources": [
               "USCCB"
             ]
@@ -45773,8 +45773,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-23": [

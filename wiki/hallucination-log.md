@@ -673,3 +673,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/841f9a5
+
+### ❌ 2025-01-27 — Monday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-01 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012725.cfm
+- **Status**: mismatch
+- **Lectionary**: 317
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 9:15, 24-28']`, live=`['Hebrews 9:15']`, fix=`['Hebrews 9:15']`
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/56c26f0
