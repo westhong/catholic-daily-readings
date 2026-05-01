@@ -3046,5 +3046,44 @@
       ]
     },
     "checked_at": "2026-05-01T08:05:49+00:00"
+  },
+  "2026-03-30:0": {
+    "date": "2026-03-30",
+    "url": "https://bible.usccb.org/bible/readings/033026.cfm",
+    "lectionary_number": 257,
+    "feast": "Monday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 27:1, 2, 3, 13-14"
+        ],
+        "live": [
+          "Psalm 27:1"
+        ],
+        "fix": [
+          "Psalm 27:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 42:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ],
+      "gospel": [
+        "John 12:1-11"
+      ]
+    },
+    "checked_at": "2026-05-01T08:11:05+00:00"
   }
 }
