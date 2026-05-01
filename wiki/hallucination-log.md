@@ -2239,3 +2239,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 49:6-7, 8-10, 17-18, 19-20']`, live=`['Ps 49:6-7']`, fix=`['Ps 49:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d3e13b
+
+### ❌ 2027-03-20 — Saturday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 23:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032027.cfm
+- **Status**: mismatch
+- **Lectionary**: 256
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81ce225
