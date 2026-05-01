@@ -1292,3 +1292,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 111:7-8, 9, 10']`, live=`['Psalm 111:7-8']`, fix=`['Psalm 111:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aaf0f9c
+
+### ❌ 2025-09-06 — Saturday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-01 14:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090625.cfm
+- **Status**: mismatch
+- **Lectionary**: 436
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 54:3-4, 6']`, live=`['Psalm 54:3-4']`, fix=`['Psalm 54:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1f11b3e

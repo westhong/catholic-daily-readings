@@ -6488,5 +6488,60 @@
       ]
     },
     "checked_at": "2026-05-01T14:00:46+00:00"
+  },
+  "2025-09-06:0": {
+    "date": "2025-09-06",
+    "url": "https://bible.usccb.org/bible/readings/090625.cfm",
+    "lectionary_number": 436,
+    "feast": "Saturday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 54:3-4, 6"
+        ],
+        "live": [
+          "Psalm 54:3-4"
+        ],
+        "fix": [
+          "Psalm 54:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:6"
+        ],
+        "fix": [
+          "John 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 54:3-4"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 1:21-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 54:3-4"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ],
+      "gospel": [
+        "Luke 6:1-5"
+      ]
+    },
+    "checked_at": "2026-05-01T14:05:59+00:00"
   }
 }

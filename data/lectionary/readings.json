@@ -71903,7 +71903,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 63:2, 3-4, 5-6, 8-9",
+            "citation": "Ps 63:2",
             "sources": [
               "USCCB"
             ]
@@ -71911,13 +71911,14 @@
         ],
         "gospel": [
           {
-            "citation": "Jn 20:1-2, 11-18",
+            "citation": "Jn 20:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-23": [
