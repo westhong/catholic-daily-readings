@@ -7720,5 +7720,62 @@
       ]
     },
     "checked_at": "2026-05-01T16:45:45+00:00"
+  },
+  "2026-05-31:0": {
+    "date": "2026-05-31",
+    "url": "https://bible.usccb.org/bible/readings/053126.cfm",
+    "lectionary_number": 164,
+    "feast": "The Solemnity of the Most Holy Trinity",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 34:4b-6, 8-9"
+        ],
+        "live": [
+          "Exodus 34:4"
+        ],
+        "fix": [
+          "Exodus 34:4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Daniel 3:52"
+        ],
+        "fix": [
+          "Daniel 3:52"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 34:4"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 34:4"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "second_reading": [
+        "2 Corinthians 13:11-13"
+      ],
+      "gospel": [
+        "John 3:16-18"
+      ]
+    },
+    "checked_at": "2026-05-01T16:50:58+00:00"
   }
 }

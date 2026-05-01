@@ -71050,20 +71050,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 17:1, 9-10, 15-22",
+            "citation": "Gn 17:1",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "128:1-2, 3, 4-5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 8:1-4",
@@ -71079,8 +71072,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-01": [

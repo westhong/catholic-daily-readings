@@ -1525,3 +1525,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 137:1-2, 3, 4-5, 6']`, live=`['Ps 137:1-2']`, fix=`['Ps 137:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 3:8-9']`, fix=`['Phil 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/db9f201
+
+### ❌ 2026-05-31 — The Solemnity of the Most Holy Trinity
+- **Checked**: 2026-05-01 16:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053126.cfm
+- **Status**: mismatch
+- **Lectionary**: 164
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 34:4b-6, 8-9']`, live=`['Exodus 34:4']`, fix=`['Exodus 34:4']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e95a4aa
