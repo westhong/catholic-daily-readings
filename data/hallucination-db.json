@@ -1291,5 +1291,45 @@
       ]
     },
     "checked_at": "2026-05-01T05:25:23+00:00"
+  },
+  "2024-07-06:0": {
+    "date": "2024-07-06",
+    "url": "https://bible.usccb.org/bible/readings/070624.cfm",
+    "lectionary_number": 382,
+    "feast": "Saturday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 10:27"
+        ],
+        "fix": [
+          "JN 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "JN 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "AM 9:11-15"
+      ],
+      "responsorial_psalm": [
+        "PS 85:9"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ],
+      "gospel": [
+        "MT 9:14-17"
+      ]
+    },
+    "checked_at": "2026-05-01T05:30:35+00:00"
   }
 }
