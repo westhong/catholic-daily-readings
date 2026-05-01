@@ -1583,5 +1583,24 @@
       ]
     },
     "checked_at": "2026-05-01T05:50:29+00:00"
+  },
+  "2026-07-03:0": {
+    "date": "2026-07-03",
+    "url": "https://bible.usccb.org/bible/readings/73.cfm",
+    "lectionary_number": 593,
+    "feast": "Feast of Saint Thomas, Apostle",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/73.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T05:55:43+00:00"
   }
 }

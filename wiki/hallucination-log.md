@@ -319,3 +319,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['98:1, 2-3']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 1:1-2']`, fix=`['Heb 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b32638
+
+### 🚫 2026-07-03 — Feast of Saint Thomas, Apostle
+- **Checked**: 2026-05-01 05:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/73.cfm
+- **Status**: url_dead
+- **Lectionary**: 593
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/73.cfm`, live=fetch failed
