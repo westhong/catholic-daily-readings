@@ -1702,5 +1702,60 @@
       ]
     },
     "checked_at": "2026-05-01T05:55:59+00:00"
+  },
+  "2025-11-28:0": {
+    "date": "2025-11-28",
+    "url": "https://bible.usccb.org/bible/readings/112825.cfm",
+    "lectionary_number": 507,
+    "feast": "Friday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:75, 76, 77, 78, 79, 80, 81"
+        ],
+        "live": [
+          "Daniel 3:75"
+        ],
+        "fix": [
+          "Daniel 3:75"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:28"
+        ],
+        "fix": [
+          "Luke 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Daniel 3:75"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 7:2-14"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:75"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ],
+      "gospel": [
+        "Luke 21:29-33"
+      ]
+    },
+    "checked_at": "2026-05-01T06:00:12+00:00"
   }
 }
