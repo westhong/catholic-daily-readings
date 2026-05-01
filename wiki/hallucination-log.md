@@ -1013,3 +1013,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:40']`, fix=`['See Jn 6:40']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7941d0f
+
+### 🚫 2026-10-10 — 
+- **Checked**: 2026-05-01 11:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1010.cfm
+- **Status**: url_dead
+- **Lectionary**: 466
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1010.cfm`, live=fetch failed
