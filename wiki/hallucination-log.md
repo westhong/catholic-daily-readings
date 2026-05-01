@@ -856,3 +856,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 89:2-3, 21-22, 25 and 27']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Revelation 1:5']`, fix=`['See Revelation 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92e0880
+
+### ❌ 2023-12-22 — Friday of the Third Week of Advent
+- **Checked**: 2026-05-01 10:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122223.cfm
+- **Status**: mismatch
+- **Lectionary**: 198
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/def6f78
