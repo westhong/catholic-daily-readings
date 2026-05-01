@@ -9566,5 +9566,60 @@
       ]
     },
     "checked_at": "2026-05-01T20:30:32+00:00"
+  },
+  "2024-08-02:0": {
+    "date": "2024-08-02",
+    "url": "https://bible.usccb.org/bible/readings/080224.cfm",
+    "lectionary_number": 405,
+    "feast": "Friday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 69:5, 8-10, 14"
+        ],
+        "live": [
+          "PS 69:5"
+        ],
+        "fix": [
+          "PS 69:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Pt 1:25"
+        ],
+        "fix": [
+          "1 Pt 1:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 69:5"
+      ],
+      "alleluia_verse": [
+        "1 Pt 1:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 26:1-9"
+      ],
+      "responsorial_psalm": [
+        "PS 69:5"
+      ],
+      "alleluia_verse": [
+        "1 Pt 1:25"
+      ],
+      "gospel": [
+        "Mt 13:54-58"
+      ]
+    },
+    "checked_at": "2026-05-01T20:35:42+00:00"
   }
 }

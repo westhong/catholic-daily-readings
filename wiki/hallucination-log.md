@@ -1892,3 +1892,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c9df5b
+
+### ❌ 2024-08-02 — Friday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-01 20:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080224.cfm
+- **Status**: mismatch
+- **Lectionary**: 405
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 69:5, 8-10, 14']`, live=`['PS 69:5']`, fix=`['PS 69:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 1:25']`, fix=`['1 Pt 1:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/02fad3d
