@@ -250,3 +250,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3757717
+
+### 🚫 2026-09-20 — 
+- **Checked**: 2026-05-01 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/920.cfm
+- **Status**: url_dead
+- **Lectionary**: 133
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/920.cfm`, live=fetch failed
