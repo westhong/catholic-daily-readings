@@ -2129,3 +2129,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 112:1-2, 5-6, 7-8, 9']`, live=`['Ps 112:1-2']`, fix=`['Ps 112:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b0fa930
+
+### ❌ 2025-08-23 — Saturday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-01 22:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082325.cfm
+- **Status**: mismatch
+- **Lectionary**: 424
+- **Mismatches**:
+  - **first_reading**: stored=`['Ruth 2:1-3, 8-11']`, live=`['Ruth 2:1-3']`, fix=`['Ruth 2:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 23:9']`, fix=`['Matthew 23:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b32b9c5
