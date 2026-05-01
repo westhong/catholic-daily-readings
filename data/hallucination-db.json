@@ -5403,5 +5403,45 @@
       ]
     },
     "checked_at": "2026-05-01T12:05:13+00:00"
+  },
+  "2024-05-23:0": {
+    "date": "2024-05-23",
+    "url": "https://bible.usccb.org/bible/readings/052324.cfm",
+    "lectionary_number": 344,
+    "feast": "Thursday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 1 Thes 2:13"
+        ],
+        "fix": [
+          "See 1 Thes 2:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See 1 Thes 2:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 49:14-15"
+      ],
+      "alleluia_verse": [
+        "See 1 Thes 2:13"
+      ],
+      "gospel": [
+        "Mk 9:41-50"
+      ]
+    },
+    "checked_at": "2026-05-01T12:10:27+00:00"
   }
 }

@@ -57244,7 +57244,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 38:1-6, 21-22, 7-8",
+            "citation": "Is 38:1-6",
             "sources": [
               "USCCB"
             ]
@@ -57252,7 +57252,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Isaiah 38:10, 11, 12",
+            "citation": "Isaiah 38:10",
             "sources": [
               "USCCB"
             ]
@@ -57273,8 +57273,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-20": [
