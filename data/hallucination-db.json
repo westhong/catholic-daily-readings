@@ -11206,5 +11206,66 @@
       ]
     },
     "checked_at": "2026-05-01T23:25:45+00:00"
+  },
+  "2024-04-25:0": {
+    "date": "2024-04-25",
+    "url": "https://bible.usccb.org/bible/readings/042524.cfm",
+    "lectionary_number": 555,
+    "feast": "Feast of Saint Mark, evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "89:2-3, 6-7, 16-17"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Cor 1:23"
+        ],
+        "fix": [
+          "1 Cor 1:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "to every creature. Whoever believes and"
+        ],
+        "live": [
+          "Mk 16:15-20"
+        ],
+        "fix": [
+          "Mk 16:15-20"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "1 Cor 1:23"
+      ],
+      "gospel": [
+        "Mk 16:15-20"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 5:5"
+      ],
+      "alleluia_verse": [
+        "1 Cor 1:23"
+      ],
+      "gospel": [
+        "Mk 16:15-20"
+      ]
+    },
+    "checked_at": "2026-05-01T23:30:56+00:00"
   }
 }

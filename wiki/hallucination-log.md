@@ -2207,3 +2207,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:129, 130, 131, 132, 133, 135']`, live=`['Psalm 119:129']`, fix=`['Psalm 119:129']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79d9131
+
+### ❌ 2024-04-25 — Feast of Saint Mark, evangelist
+- **Checked**: 2026-05-01 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042524.cfm
+- **Status**: mismatch
+- **Lectionary**: 555
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['89:2-3, 6-7, 16-17']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Cor 1:23']`, fix=`['1 Cor 1:23']`
+  - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-20']`, fix=`['Mk 16:15-20']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2a69cb

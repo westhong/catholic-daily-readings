@@ -14159,7 +14159,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Baruch 4:5-12, 27-29",
+            "citation": "Baruch 4:5-12",
             "sources": [
               "USCCB"
             ]
@@ -14167,7 +14167,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:33-35, 36-37",
+            "citation": "Psalm 69:33-35",
             "sources": [
               "USCCB"
             ]
@@ -14188,8 +14188,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-05": [
