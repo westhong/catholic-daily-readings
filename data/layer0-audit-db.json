@@ -8829,5 +8829,16 @@
     "warnings": [],
     "status": "pass",
     "checked_at": "2026-05-01T02:45:49+00:00"
+  },
+  "2024-07-12-071224.cfm": {
+    "file": "2024-07-12-071224.cfm",
+    "date": "2024-07-12",
+    "lectionary_number": 387,
+    "feast": "Reading 1",
+    "sha12": "8e6a863f2a5e",
+    "citations": [],
+    "warnings": [],
+    "status": "fail",
+    "checked_at": "2026-05-01T03:00:57+00:00"
   }
 }
