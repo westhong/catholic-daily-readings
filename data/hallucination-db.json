@@ -5675,5 +5675,24 @@
       ]
     },
     "checked_at": "2026-05-01T12:30:23+00:00"
+  },
+  "2026-09-11:0": {
+    "date": "2026-09-11",
+    "url": "https://bible.usccb.org/bible/readings/911.cfm",
+    "lectionary_number": 441,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/911.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T12:35:37+00:00"
   }
 }

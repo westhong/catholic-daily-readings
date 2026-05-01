@@ -1121,3 +1121,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
   - **gospel**: stored=`['John 15:26-16:4a']`, live=`['John 15:26']`, fix=`['John 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7fdfc51
+
+### 🚫 2026-09-11 — 
+- **Checked**: 2026-05-01 12:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/911.cfm
+- **Status**: url_dead
+- **Lectionary**: 441
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/911.cfm`, live=fetch failed
