@@ -1873,3 +1873,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 463
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1007.cfm`, live=fetch failed
+
+### ❌ 2026-01-04 — The Epiphany of the Lord
+- **Checked**: 2026-05-01 20:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010426.cfm
+- **Status**: mismatch
+- **Lectionary**: 20
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 7-8, 10-11, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 2:2']`, fix=`['Matthew 2:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1388d25

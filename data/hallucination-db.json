@@ -9468,5 +9468,63 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T20:20:07+00:00"
+  },
+  "2026-01-04:0": {
+    "date": "2026-01-04",
+    "url": "https://bible.usccb.org/bible/readings/010426.cfm",
+    "lectionary_number": 20,
+    "feast": "The Epiphany of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 72:1-2, 7-8, 10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 72:1-2"
+        ],
+        "fix": [
+          "Psalm 72:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 2:2"
+        ],
+        "fix": [
+          "Matthew 2:2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 72:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 2:2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 60:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 72:1-2"
+      ],
+      "second_reading": [
+        "Ephesians 3:2-3"
+      ],
+      "alleluia_verse": [
+        "Matthew 2:2"
+      ],
+      "gospel": [
+        "Matthew 2:1-12"
+      ]
+    },
+    "checked_at": "2026-05-01T20:25:20+00:00"
   }
 }
