@@ -1043,3 +1043,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Cor 1:10-13, 17']`, live=`['1 Cor 1:10-13']`, fix=`['1 Cor 1:10-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:23']`, fix=`['Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1202ab
+
+### 🚫 2026-10-27 — 
+- **Checked**: 2026-05-01 11:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1027.cfm
+- **Status**: url_dead
+- **Lectionary**: 480
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1027.cfm`, live=fetch failed
