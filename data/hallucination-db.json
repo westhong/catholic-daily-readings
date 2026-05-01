@@ -4883,5 +4883,45 @@
       ]
     },
     "checked_at": "2026-05-01T11:05:08+00:00"
+  },
+  "2024-09-27:0": {
+    "date": "2024-09-27",
+    "url": "https://bible.usccb.org/bible/readings/092724.cfm",
+    "lectionary_number": 453,
+    "feast": "Memorial of Saint Vincent de Paul, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 10:45"
+        ],
+        "fix": [
+          "Mk 10:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mk 10:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Eccl 3:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 144:1"
+      ],
+      "alleluia_verse": [
+        "Mk 10:45"
+      ],
+      "gospel": [
+        "Lk 9:18-22"
+      ]
+    },
+    "checked_at": "2026-05-01T11:10:23+00:00"
   }
 }

@@ -959,3 +959,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 5:5-6, 7, 12']`, live=`['PS 5:5-6']`, fix=`['PS 5:5-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a9b970
+
+### ❌ 2024-09-27 — Memorial of Saint Vincent de Paul, Priest
+- **Checked**: 2026-05-01 11:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092724.cfm
+- **Status**: mismatch
+- **Lectionary**: 453
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0946db0
