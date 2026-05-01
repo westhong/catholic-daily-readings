@@ -18784,7 +18784,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:8-9, 16",
+            "citation": "Psalm 50:8-9",
             "sources": [
               "USCCB"
             ]
@@ -18805,8 +18805,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Hebrews 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-20": [

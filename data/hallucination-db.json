@@ -2358,5 +2358,53 @@
       ]
     },
     "checked_at": "2026-05-01T07:00:48+00:00"
+  },
+  "2026-03-26:0": {
+    "date": "2026-03-26",
+    "url": "https://bible.usccb.org/bible/readings/032626.cfm",
+    "lectionary_number": 254,
+    "feast": "Thursday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 105:4-5"
+        ],
+        "fix": [
+          "Psalm 105:4-5"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Psalm 95:8"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 105:4-5"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 17:3-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:4-5"
+      ],
+      "gospel": [
+        "John 8:51-59"
+      ]
+    },
+    "checked_at": "2026-05-01T07:06:01+00:00"
   }
 }

@@ -475,3 +475,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eadfe03
+
+### ❌ 2026-03-26 — Thursday of the Fifth Week of Lent
+- **Checked**: 2026-05-01 07:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032626.cfm
+- **Status**: mismatch
+- **Lectionary**: 254
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c73ecc5
