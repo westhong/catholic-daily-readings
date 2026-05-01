@@ -43488,7 +43488,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 14:21—15",
+            "citation": "Exodus 14:21",
             "sources": [
               "USCCB"
             ]
@@ -43496,7 +43496,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Exodus 15:8-9, 10",
+            "citation": "Exodus 15:8-9",
             "sources": [
               "USCCB"
             ]
@@ -43509,8 +43509,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-21": [

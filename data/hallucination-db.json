@@ -5849,5 +5849,60 @@
       ]
     },
     "checked_at": "2026-05-01T12:50:29+00:00"
+  },
+  "2025-08-19:0": {
+    "date": "2025-08-19",
+    "url": "https://bible.usccb.org/bible/readings/081925.cfm",
+    "lectionary_number": 420,
+    "feast": "Tuesday of the Twentieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 85:9, 11-12, 13-14"
+        ],
+        "live": [
+          "Psalm 85:9"
+        ],
+        "fix": [
+          "Psalm 85:9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 8:9"
+        ],
+        "fix": [
+          "2 Corinthians 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 85:9"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Judges 6:11-24"
+      ],
+      "responsorial_psalm": [
+        "Psalm 85:9"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ],
+      "gospel": [
+        "Matthew 19:23-30"
+      ]
+    },
+    "checked_at": "2026-05-01T12:55:42+00:00"
   }
 }
