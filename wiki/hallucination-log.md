@@ -1004,3 +1004,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 13
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261225.cfm`, live=fetch failed
+
+### ❌ 2023-04-26 — Wednesday of the Third Week of Easter
+- **Checked**: 2026-05-01 11:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042623.cfm
+- **Status**: mismatch
+- **Lectionary**: 275
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:40']`, fix=`['See Jn 6:40']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7941d0f
