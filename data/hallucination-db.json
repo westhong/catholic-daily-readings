@@ -4610,5 +4610,72 @@
       ]
     },
     "checked_at": "2026-05-01T10:40:58+00:00"
+  },
+  "2024-03-24:0": {
+    "date": "2024-03-24",
+    "url": "https://bible.usccb.org/bible/readings/032424.cfm",
+    "lectionary_number": 37,
+    "feast": "Palm Sunday of the Lord’s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 50:4-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "22:8-9, 17-18, 19-20, 23-24"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Phil 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mk 14:1—15"
+        ],
+        "live": [
+          "Mk 14:1",
+          "Mk 15:1-39"
+        ],
+        "fix": [
+          "Mk 14:1",
+          "Mk 15:1-39"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mk 14:1",
+        "Mk 15:1-39"
+      ]
+    },
+    "live_readings": {
+      "second_reading": [
+        "Phil 2:6-11"
+      ],
+      "gospel": [
+        "Mk 14:1",
+        "Mk 15:1-39"
+      ]
+    },
+    "checked_at": "2026-05-01T10:45:11+00:00"
   }
 }

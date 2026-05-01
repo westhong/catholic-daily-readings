@@ -907,3 +907,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 95:1-2, 6-7, 8-9']`, live=`['PS 95:1-2']`, fix=`['PS 95:1-2']`
   - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6824c69
+
+### ❌ 2024-03-24 — Palm Sunday of the Lord’s Passion
+- **Checked**: 2026-05-01 10:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032424.cfm
+- **Status**: mismatch
+- **Lectionary**: 37
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 50:4-7']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['22:8-9, 17-18, 19-20, 23-24']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mk 14:1—15']`, live=`['Mk 14:1', 'Mk 15:1-39']`, fix=`['Mk 14:1', 'Mk 15:1-39']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17254cf
