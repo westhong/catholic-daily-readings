@@ -297,3 +297,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bcddb68
+
+### ❌ 2025-05-25 — Sixth Sunday of Easter
+- **Checked**: 2026-05-01 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052525.cfm
+- **Status**: mismatch
+- **Lectionary**: 57
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 15:1-2, 22-29']`, live=`['Acts 15:1-2']`, fix=`['Acts 15:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6, 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
+  - **second_reading**: stored=`['Revelation 21:10-14, 22-23']`, live=`['Revelation 21:10-14']`, fix=`['Revelation 21:10-14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0d4f51d
