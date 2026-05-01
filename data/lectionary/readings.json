@@ -45819,7 +45819,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ephesians 4:1-7, 11-13",
+            "citation": "Ephesians 4:1-7",
             "sources": [
               "USCCB"
             ]
@@ -45827,7 +45827,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:2-3, 4-5",
+            "citation": "Psalm 19:2-3",
             "sources": [
               "USCCB"
             ]
@@ -45841,7 +45841,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-22": [

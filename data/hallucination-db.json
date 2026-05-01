@@ -6284,5 +6284,45 @@
       ]
     },
     "checked_at": "2026-05-01T13:40:52+00:00"
+  },
+  "2027-01-14:0": {
+    "date": "2027-01-14",
+    "url": "https://bible.usccb.org/bible/readings/011427.cfm",
+    "lectionary_number": 308,
+    "feast": "Thursday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:23"
+        ],
+        "fix": [
+          "Matthew 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 3:7-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:6-7"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:23"
+      ],
+      "gospel": [
+        "Mark 1:40-45"
+      ]
+    },
+    "checked_at": "2026-05-01T13:45:04+00:00"
   }
 }

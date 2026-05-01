@@ -1253,3 +1253,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 12:1-8, 11-14']`, live=`['Exodus 12:1-8']`, fix=`['Exodus 12:1-8']`
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/14f9d0a
+
+### ❌ 2027-01-14 — Thursday of the First Week in Ordinary Time
+- **Checked**: 2026-05-01 13:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011427.cfm
+- **Status**: mismatch
+- **Lectionary**: 308
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/04e1aec
