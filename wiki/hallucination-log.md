@@ -1972,3 +1972,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:12']`, fix=`['Matthew 5:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbfe645
+
+### 🚫 2026-08-25 — 
+- **Checked**: 2026-05-01 21:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/825.cfm
+- **Status**: url_dead
+- **Lectionary**: 426
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/825.cfm`, live=fetch failed
