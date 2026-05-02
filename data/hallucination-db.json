@@ -14199,5 +14199,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T04:45:46+00:00"
+  },
+  "2024-02-21:0": {
+    "date": "2024-02-21",
+    "url": "https://bible.usccb.org/bible/readings/022124.cfm",
+    "lectionary_number": 226,
+    "feast": "Wednesday of the First Week in Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 51:3-4, 12-13, 18-19"
+        ],
+        "live": [
+          "PS 51:3-4"
+        ],
+        "fix": [
+          "PS 51:3-4"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jl 2:12-13"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 51:3-4"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jon 3:1-10"
+      ],
+      "responsorial_psalm": [
+        "PS 51:3-4"
+      ],
+      "gospel": [
+        "Lk 11:29-32"
+      ]
+    },
+    "checked_at": "2026-05-02T04:50:59+00:00"
   }
 }

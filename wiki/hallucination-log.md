@@ -2813,3 +2813,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 436
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/905.cfm`, live=fetch failed
+
+### ❌ 2024-02-21 — Wednesday of the First Week in Lent
+- **Checked**: 2026-05-02 04:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022124.cfm
+- **Status**: mismatch
+- **Lectionary**: 226
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 51:3-4, 12-13, 18-19']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
+  - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/60aa1d1
