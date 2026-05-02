@@ -3610,3 +3610,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 479
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1026.cfm`, live=fetch failed
+
+### ❌ 2024-11-06 — Wednesday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-02 11:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110624.cfm
+- **Status**: mismatch
+- **Lectionary**: 487
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 27:1, 4, 13-14']`, live=`['PS 27:1']`, fix=`['PS 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 PT 4:14']`, fix=`['1 PT 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd1f3b3

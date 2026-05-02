@@ -18450,5 +18450,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T11:25:10+00:00"
+  },
+  "2024-11-06:0": {
+    "date": "2024-11-06",
+    "url": "https://bible.usccb.org/bible/readings/110624.cfm",
+    "lectionary_number": 487,
+    "feast": "Wednesday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 27:1, 4, 13-14"
+        ],
+        "live": [
+          "PS 27:1"
+        ],
+        "fix": [
+          "PS 27:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 PT 4:14"
+        ],
+        "fix": [
+          "1 PT 4:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 27:1"
+      ],
+      "alleluia_verse": [
+        "1 PT 4:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "PHIL 2:12-18"
+      ],
+      "responsorial_psalm": [
+        "PS 27:1"
+      ],
+      "alleluia_verse": [
+        "1 PT 4:14"
+      ],
+      "gospel": [
+        "LK 14:25-33"
+      ]
+    },
+    "checked_at": "2026-05-02T11:30:27+00:00"
   }
 }
