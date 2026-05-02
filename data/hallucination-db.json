@@ -23813,5 +23813,63 @@
       ]
     },
     "checked_at": "2026-05-02T20:30:14+00:00"
+  },
+  "2026-02-02:0": {
+    "date": "2026-02-02",
+    "url": "https://bible.usccb.org/bible/readings/020226.cfm",
+    "lectionary_number": 524,
+    "feast": "Feast of the Presentation of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 24:7, 8, 9, 10"
+        ],
+        "live": [
+          "Psalm 24:7"
+        ],
+        "fix": [
+          "Psalm 24:7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 2:32"
+        ],
+        "fix": [
+          "Luke 2:32"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 24:7"
+      ],
+      "alleluia_verse": [
+        "Luke 2:32"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Malachi 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 24:7"
+      ],
+      "second_reading": [
+        "Hebrews 2:14-18"
+      ],
+      "alleluia_verse": [
+        "Luke 2:32"
+      ],
+      "gospel": [
+        "Luke 2:22-40"
+      ]
+    },
+    "checked_at": "2026-05-02T20:35:26+00:00"
   }
 }

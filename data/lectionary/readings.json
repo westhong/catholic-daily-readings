@@ -58212,7 +58212,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 85:9-10, 11-12, 13-14",
+            "citation": "Ps 85:9-10",
             "sources": [
               "USCCB"
             ]
@@ -58242,7 +58242,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-15": [
