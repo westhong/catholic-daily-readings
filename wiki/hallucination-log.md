@@ -2874,3 +2874,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 34:4-5, 6-7, 16-17, 18-19']`, live=`['PS 34:4-5']`, fix=`['PS 34:4-5']`
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65073d9
+
+### ❌ 2023-06-11 — Solemnity of the Body and Blood of Christ
+- **Checked**: 2026-05-02 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061123.cfm
+- **Status**: mismatch
+- **Lectionary**: 167
+- **Mismatches**:
+  - **first_reading**: stored=`['Dt 8:2-3, 14']`, live=`['Dt 8:2-3']`, fix=`['Dt 8:2-3']`
+  - **responsorial_psalm**: stored=`['Ps 147:12-13, 14-15, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/412caaf

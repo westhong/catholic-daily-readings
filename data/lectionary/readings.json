@@ -10856,7 +10856,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 16:1-5, 9-15",
+            "citation": "Exodus 16:1-5",
             "sources": [
               "USCCB"
             ]
@@ -10864,7 +10864,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 78:18-19, 23-24, 25-26, 27-28",
+            "citation": "Psalm 78:18-19",
             "sources": [
               "USCCB"
             ]
@@ -10878,7 +10878,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-24": [

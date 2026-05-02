@@ -14533,5 +14533,78 @@
       ]
     },
     "checked_at": "2026-05-02T05:16:04+00:00"
+  },
+  "2023-06-11:0": {
+    "date": "2023-06-11",
+    "url": "https://bible.usccb.org/bible/readings/061123.cfm",
+    "lectionary_number": 167,
+    "feast": "Solemnity of the Body and Blood of Christ",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dt 8:2-3, 14"
+        ],
+        "live": [
+          "Dt 8:2-3"
+        ],
+        "fix": [
+          "Dt 8:2-3"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Ps 147:12-13"
+        ],
+        "fix": [
+          "Ps 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:51"
+        ],
+        "fix": [
+          "Jn 6:51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dt 8:2-3"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 6:51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 8:2-3"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "second_reading": [
+        "1 Cor 10:16-17"
+      ],
+      "alleluia_verse": [
+        "Jn 6:51"
+      ],
+      "gospel": [
+        "Jn 6:51-58"
+      ]
+    },
+    "checked_at": "2026-05-02T05:20:17+00:00"
   }
 }
