@@ -3470,3 +3470,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:8-9, 13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
   - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b929ae0
+
+### ❌ 2027-02-15 — Monday of the First Week of Lent
+- **Checked**: 2026-05-02 10:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021527.cfm
+- **Status**: mismatch
+- **Lectionary**: 224
+- **Mismatches**:
+  - **first_reading**: stored=`['Leviticus 19:1-2, 11-18']`, live=`['Leviticus 19:1-2']`, fix=`['Leviticus 19:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+  - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92cdeb7

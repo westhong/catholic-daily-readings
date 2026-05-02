@@ -17727,5 +17727,68 @@
       ]
     },
     "checked_at": "2026-05-02T10:15:16+00:00"
+  },
+  "2027-02-15:0": {
+    "date": "2027-02-15",
+    "url": "https://bible.usccb.org/bible/readings/021527.cfm",
+    "lectionary_number": 224,
+    "feast": "Monday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Leviticus 19:1-2, 11-18"
+        ],
+        "live": [
+          "Leviticus 19:1-2"
+        ],
+        "fix": [
+          "Leviticus 19:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 15"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "2 Corinthians 6:2b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Leviticus 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Leviticus 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "gospel": [
+        "Matthew 25:31-46"
+      ]
+    },
+    "checked_at": "2026-05-02T10:20:29+00:00"
   }
 }

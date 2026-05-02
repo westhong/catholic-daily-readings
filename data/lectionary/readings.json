@@ -61719,7 +61719,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gal 2:1-2, 7-14",
+            "citation": "Gal 2:1-2",
             "sources": [
               "USCCB"
             ]
@@ -61748,8 +61748,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Rom 8:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-10": [
