@@ -4057,7 +4057,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:13-14, 15-16, 17-18",
+            "citation": "Psalm 103:13-14",
             "sources": [
               "USCCB"
             ]
@@ -4078,8 +4078,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-02": [

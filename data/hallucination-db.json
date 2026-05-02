@@ -13298,5 +13298,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T03:15:31+00:00"
+  },
+  "2026-10-15:0": {
+    "date": "2026-10-15",
+    "url": "https://bible.usccb.org/bible/readings/1015.cfm",
+    "lectionary_number": 470,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1015.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T03:20:08+00:00"
   }
 }
