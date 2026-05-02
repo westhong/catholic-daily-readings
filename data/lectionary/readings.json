@@ -16712,7 +16712,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:2-3, 4-5, 6-7, 8-9, 10-11",
+            "citation": "Psalm 145:2-3",
             "sources": [
               "USCCB"
             ]
@@ -16733,11 +16733,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Thessalonians 5:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/112725-Thanksgiving.cfm",
       "date": "2025-11-27",
-      "mass": "Thanksgiving"
+      "mass": "Thanksgiving",
+      "mass_idx": 1
     }
   ],
   "2025-11-28": [

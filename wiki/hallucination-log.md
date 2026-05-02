@@ -3352,3 +3352,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 27:1, 3, 5, 8']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 8:15']`, fix=`['Luke 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f23e18c
+
+### ❌ 2027-09-02 — Thursday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-02 09:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090227.cfm
+- **Status**: mismatch
+- **Lectionary**: 434
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/360ea35
