@@ -74569,7 +74569,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 114:1-2, 3-4, 5-6",
+            "citation": "Ps 114:1-2",
             "sources": [
               "USCCB"
             ]
@@ -74590,8 +74590,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 119:135",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-18": [

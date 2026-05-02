@@ -4565,3 +4565,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Colossians 3:1-5, 9-11']`, live=`['Colossians 3:1-5']`, fix=`['Colossians 3:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/acd70b7
+
+### ❌ 2023-10-31 — Tuesday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-02 19:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103123.cfm
+- **Status**: mismatch
+- **Lectionary**: 480
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/840e8f4

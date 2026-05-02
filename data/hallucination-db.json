@@ -23361,5 +23361,45 @@
       ]
     },
     "checked_at": "2026-05-02T19:45:30+00:00"
+  },
+  "2023-10-31:0": {
+    "date": "2023-10-31",
+    "url": "https://bible.usccb.org/bible/readings/103123.cfm",
+    "lectionary_number": 480,
+    "feast": "Tuesday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 8:18-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 126:1"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Lk 13:18-21"
+      ]
+    },
+    "checked_at": "2026-05-02T19:50:43+00:00"
   }
 }
