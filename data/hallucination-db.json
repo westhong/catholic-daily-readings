@@ -11459,5 +11459,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-01T23:50:43+00:00"
+  },
+  "2026-12-08:0": {
+    "date": "2026-12-08",
+    "url": "https://bible.usccb.org/bible/readings/261208.cfm",
+    "lectionary_number": 689,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261208.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-01T23:55:58+00:00"
   }
 }
