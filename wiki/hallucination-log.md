@@ -4554,3 +4554,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 130
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/913.cfm`, live=fetch failed
+
+### ❌ 2025-08-03 — Eighteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 19:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080325.cfm
+- **Status**: mismatch
+- **Lectionary**: 114
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 90:3-4, 5-6, 12-13, 14']`, live=`['Psalm 90:3-4']`, fix=`['Psalm 90:3-4']`
+  - **second_reading**: stored=`['Colossians 3:1-5, 9-11']`, live=`['Colossians 3:1-5']`, fix=`['Colossians 3:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/acd70b7

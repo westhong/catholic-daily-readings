@@ -23288,5 +23288,78 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T19:40:13+00:00"
+  },
+  "2025-08-03:0": {
+    "date": "2025-08-03",
+    "url": "https://bible.usccb.org/bible/readings/080325.cfm",
+    "lectionary_number": 114,
+    "feast": "Eighteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 90:3-4, 5-6, 12-13, 14"
+        ],
+        "live": [
+          "Psalm 90:3-4"
+        ],
+        "fix": [
+          "Psalm 90:3-4"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Colossians 3:1-5, 9-11"
+        ],
+        "live": [
+          "Colossians 3:1-5"
+        ],
+        "fix": [
+          "Colossians 3:1-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 90:3-4"
+      ],
+      "second_reading": [
+        "Colossians 3:1-5"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ecclesiastes 1:2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 90:3-4"
+      ],
+      "second_reading": [
+        "Colossians 3:1-5"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Luke 12:13-21"
+      ]
+    },
+    "checked_at": "2026-05-02T19:45:30+00:00"
   }
 }
