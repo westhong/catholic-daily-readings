@@ -4811,3 +4811,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Chronicles 36:14-16, 19-23']`, live=`['2 Chronicles 36:14-16']`, fix=`['2 Chronicles 36:14-16']`
   - **responsorial_psalm**: stored=`['137:1-2, 3, 4-5, 6']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8982008
+
+### ❌ 2027-02-12 — Friday after Ash Wednesday
+- **Checked**: 2026-05-02 21:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021227.cfm
+- **Status**: mismatch
+- **Lectionary**: 221
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['See Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ec971cd
