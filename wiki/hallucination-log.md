@@ -4055,3 +4055,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
   - **gospel**: stored=`['Monday: Matthew 15:1-2, 10-14']`, live=`['Matthew 14:22-36', 'Matthew 15:1-2']`, fix=`['Matthew 14:22-36', 'Matthew 15:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/751c9be
+
+### ❌ 2025-09-28 — Twenty-sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 15:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092825.cfm
+- **Status**: mismatch
+- **Lectionary**: 138
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 146:7, 8-9, 9-10']`, live=`['Psalm 146:7']`, fix=`['Psalm 146:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c2e6632

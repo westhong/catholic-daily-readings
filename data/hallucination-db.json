@@ -20779,5 +20779,47 @@
       ]
     },
     "checked_at": "2026-05-02T15:15:54+00:00"
+  },
+  "2025-09-28:0": {
+    "date": "2025-09-28",
+    "url": "https://bible.usccb.org/bible/readings/092825.cfm",
+    "lectionary_number": 138,
+    "feast": "Twenty-sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 146:7, 8-9, 9-10"
+        ],
+        "live": [
+          "Psalm 146:7"
+        ],
+        "fix": [
+          "Psalm 146:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 146:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Amos 6:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 146:7"
+      ],
+      "second_reading": [
+        "1 Timothy 6:11-16"
+      ],
+      "gospel": [
+        "Luke 16:19-31"
+      ]
+    },
+    "checked_at": "2026-05-02T15:20:08+00:00"
   }
 }
