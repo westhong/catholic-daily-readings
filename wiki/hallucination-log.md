@@ -3752,3 +3752,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 386
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/79.cfm`, live=fetch failed
+
+### ❌ 2023-05-02 — Memorial of Saint Athanasius, Bishop and Doctor of the Church
+- **Checked**: 2026-05-02 12:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050223.cfm
+- **Status**: mismatch
+- **Lectionary**: 280
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/edf5d21

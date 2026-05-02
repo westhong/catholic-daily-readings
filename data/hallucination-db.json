@@ -19234,5 +19234,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T12:41:03+00:00"
+  },
+  "2023-05-02:0": {
+    "date": "2023-05-02",
+    "url": "https://bible.usccb.org/bible/readings/050223.cfm",
+    "lectionary_number": 280,
+    "feast": "Memorial of Saint Athanasius, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 11:19-26"
+      ],
+      "responsorial_psalm": [
+        "Ps 87:1"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Jn 10:22-30"
+      ]
+    },
+    "checked_at": "2026-05-02T12:45:23+00:00"
   }
 }
