@@ -4671,3 +4671,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 85:9-10, 11-12, 13-14']`, live=`['Ps 85:9-10']`, fix=`['Ps 85:9-10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a02150
+
+### ❌ 2027-02-19 — Friday of the First Week of Lent
+- **Checked**: 2026-05-02 20:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021927.cfm
+- **Status**: mismatch
+- **Lectionary**: 228
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-7']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3cec55

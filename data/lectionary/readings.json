@@ -19401,7 +19401,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:20, 21-22, 27-28",
+            "citation": "Psalm 89:20",
             "sources": [
               "USCCB"
             ]
@@ -19422,8 +19422,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-21": [
