@@ -12968,5 +12968,45 @@
       ]
     },
     "checked_at": "2026-05-02T02:40:56+00:00"
+  },
+  "2026-01-26:0": {
+    "date": "2026-01-26",
+    "url": "https://bible.usccb.org/bible/readings/012626.cfm",
+    "lectionary_number": 520,
+    "feast": "Memorial of Saints Timothy and Titus, Bishops",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Timothy 1:10"
+        ],
+        "fix": [
+          "See 2 Timothy 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See 2 Timothy 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Timothy 1:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:1-2"
+      ],
+      "alleluia_verse": [
+        "See 2 Timothy 1:10"
+      ],
+      "gospel": [
+        "Mark 3:22-30"
+      ]
+    },
+    "checked_at": "2026-05-02T02:45:08+00:00"
   }
 }

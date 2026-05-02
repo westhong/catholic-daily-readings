@@ -2570,3 +2570,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6493b5b
+
+### ❌ 2026-01-26 — Memorial of Saints Timothy and Titus, Bishops
+- **Checked**: 2026-05-02 02:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012626.cfm
+- **Status**: mismatch
+- **Lectionary**: 520
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c66772
