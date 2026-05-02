@@ -66615,7 +66615,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 4:1-15, 25",
+            "citation": "Gn 4:1-15",
             "sources": [
               "USCCB"
             ]
@@ -66644,8 +66644,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-14": [

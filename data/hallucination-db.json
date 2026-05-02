@@ -24770,5 +24770,45 @@
       ]
     },
     "checked_at": "2026-05-02T22:00:45+00:00"
+  },
+  "2025-02-04:0": {
+    "date": "2025-02-04",
+    "url": "https://bible.usccb.org/bible/readings/020425.cfm",
+    "lectionary_number": 324,
+    "feast": "Tuesday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 8:17"
+        ],
+        "fix": [
+          "Matthew 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 12:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 22:26"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ],
+      "gospel": [
+        "Mark 5:21-43"
+      ]
+    },
+    "checked_at": "2026-05-02T22:05:58+00:00"
   }
 }

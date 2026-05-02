@@ -4831,3 +4831,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6, 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c739ee
+
+### ❌ 2025-02-04 — Tuesday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 22:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020425.cfm
+- **Status**: mismatch
+- **Lectionary**: 324
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad7c6e
