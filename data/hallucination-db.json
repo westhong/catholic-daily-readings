@@ -18094,5 +18094,59 @@
       ]
     },
     "checked_at": "2026-05-02T10:50:38+00:00"
+  },
+  "2025-12-16:0": {
+    "date": "2025-12-16",
+    "url": "https://bible.usccb.org/bible/readings/121625.cfm",
+    "lectionary_number": 188,
+    "feast": "Tuesday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Zephaniah 3:1-2, 9-13"
+        ],
+        "live": [
+          "Zephaniah 3:1-2"
+        ],
+        "fix": [
+          "Zephaniah 3:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:2-3, 6-7, 17-18, 19"
+        ],
+        "live": [
+          "Psalm 34:2-3"
+        ],
+        "fix": [
+          "Psalm 34:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Zephaniah 3:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zephaniah 3:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "gospel": [
+        "Matthew 21:28-32"
+      ]
+    },
+    "checked_at": "2026-05-02T10:55:52+00:00"
   }
 }

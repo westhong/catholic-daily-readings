@@ -51408,7 +51408,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 51:3-4, 5-6",
+            "citation": "Ps 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -51416,7 +51416,7 @@
         ],
         "second_reading": [
           {
-            "citation": "2 Cor 5:20—6",
+            "citation": "2 Cor 5:20",
             "sources": [
               "USCCB"
             ]
@@ -51424,21 +51424,15 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 6:1-6, 16-18",
+            "citation": "Mt 6:1-6",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Ps 95:8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-15": [

@@ -3540,3 +3540,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 2-3, 3-4']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63191c9
+
+### ❌ 2025-12-16 — Tuesday of the Third Week of Advent
+- **Checked**: 2026-05-02 10:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121625.cfm
+- **Status**: mismatch
+- **Lectionary**: 188
+- **Mismatches**:
+  - **first_reading**: stored=`['Zephaniah 3:1-2, 9-13']`, live=`['Zephaniah 3:1-2']`, fix=`['Zephaniah 3:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 6-7, 17-18, 19']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/346028d
