@@ -3138,3 +3138,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:1-2, 4-5, 7-8']`, live=`['Psalm 119:1-2']`, fix=`['Psalm 119:1-2']`
   - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ac84f6
+
+### ❌ 2025-09-07 — Twenty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-02 07:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090725.cfm
+- **Status**: mismatch
+- **Lectionary**: 129
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 90:3-4, 5-6, 12-13, 14']`, live=`['Psalm 90:3-4']`, fix=`['Psalm 90:3-4']`
+  - **second_reading**: stored=`['Philemon 9-10, 12-17 I, Paul, an old man']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:135']`, fix=`['Psalm 119:135']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bda275a

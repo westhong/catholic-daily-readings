@@ -15981,5 +15981,69 @@
       ]
     },
     "checked_at": "2026-05-02T07:25:36+00:00"
+  },
+  "2025-09-07:0": {
+    "date": "2025-09-07",
+    "url": "https://bible.usccb.org/bible/readings/090725.cfm",
+    "lectionary_number": 129,
+    "feast": "Twenty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 90:3-4, 5-6, 12-13, 14"
+        ],
+        "live": [
+          "Psalm 90:3-4"
+        ],
+        "fix": [
+          "Psalm 90:3-4"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Philemon 9-10, 12-17 I, Paul, an old man"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:135"
+        ],
+        "fix": [
+          "Psalm 119:135"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 90:3-4"
+      ],
+      "second_reading": [],
+      "alleluia_verse": [
+        "Psalm 119:135"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 9:13-18"
+      ],
+      "responsorial_psalm": [
+        "Psalm 90:3-4"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:135"
+      ],
+      "gospel": [
+        "Luke 14:25-33"
+      ]
+    },
+    "checked_at": "2026-05-02T07:30:51+00:00"
   }
 }

@@ -41305,7 +41305,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 104:1, 24, 29-30, 31, 34",
+            "citation": "Psalm 104:1",
             "sources": [
               "USCCB"
             ]
@@ -41330,7 +41330,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/051627-Day.cfm",
       "date": "2027-05-16",
-      "mass": "Day"
+      "mass": "Day",
+      "mass_idx": 1
     }
   ],
   "2027-05-17": [
