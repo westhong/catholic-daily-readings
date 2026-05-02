@@ -3242,7 +3242,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 138:1-2, 2-3, 4-5, 7-8",
+            "citation": "Psalm 138:1-2",
             "sources": [
               "USCCB"
             ]
@@ -3271,8 +3271,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-10": [

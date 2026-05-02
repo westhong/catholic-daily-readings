@@ -4995,3 +4995,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Kgs 3:5, 7-12']`, live=`['1 Kgs 3:5']`, fix=`['1 Kgs 3:5']`
   - **responsorial_psalm**: stored=`['Ps 119:57, 72, 76-77, 127-128, 129-130']`, live=`['Ps 119:57']`, fix=`['Ps 119:57']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c0d082
+
+### ❌ 2025-03-20 — Thursday of the Second Week of Lent
+- **Checked**: 2026-05-02 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032025.cfm
+- **Status**: mismatch
+- **Lectionary**: 233
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **verse_before_gospel**: stored=`['Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4e40f88
