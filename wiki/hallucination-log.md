@@ -4310,3 +4310,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87040b3
+
+### ❌ 2025-12-25 — The Nativity of the Lord (Christmas) Mass during the Day
+- **Checked**: 2026-05-02 17:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122525-Day.cfm
+- **Status**: mismatch
+- **Lectionary**: 16
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3, 3-4, 5-6']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **gospel**: stored=`['John 1:1-18']`, live=`['John 1:1-18', 'John 1:1-5']`, fix=`['John 1:1-18', 'John 1:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92a09ed
