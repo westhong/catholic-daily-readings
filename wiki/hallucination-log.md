@@ -4948,3 +4948,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9efcf9
+
+### ❌ 2025-06-04 — Wednesday of the Seventh Week of Easter
+- **Checked**: 2026-05-02 23:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060425.cfm
+- **Status**: mismatch
+- **Lectionary**: 299
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 68:29-30, 33-35']`, live=`['Psalm 68:29-30']`, fix=`['Psalm 68:29-30']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 17:17']`, fix=`['See John 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ce2aba1
