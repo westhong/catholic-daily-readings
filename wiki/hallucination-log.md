@@ -4073,3 +4073,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ca3968
+
+### ❌ 2023-07-19 — Wednesday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071923.cfm
+- **Status**: mismatch
+- **Lectionary**: 391
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 3:1-6, 9-12']`, live=`['Ex 3:1-6']`, fix=`['Ex 3:1-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c6bb42

@@ -20861,5 +20861,60 @@
       ]
     },
     "checked_at": "2026-05-02T15:25:20+00:00"
+  },
+  "2023-07-19:0": {
+    "date": "2023-07-19",
+    "url": "https://bible.usccb.org/bible/readings/071923.cfm",
+    "lectionary_number": 391,
+    "feast": "Wednesday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 3:1-6, 9-12"
+        ],
+        "live": [
+          "Ex 3:1-6"
+        ],
+        "fix": [
+          "Ex 3:1-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 3:1-6"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 3:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mt 11:25-27"
+      ]
+    },
+    "checked_at": "2026-05-02T15:30:33+00:00"
   }
 }
