@@ -44693,7 +44693,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 5-6",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -44701,13 +44701,28 @@
         ],
         "gospel": [
           {
-            "citation": "Monday: Matthew 15:1-2, 10-14",
+            "citation": "Matthew 14:22-36",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Matthew 15:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 1:49",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-04": [

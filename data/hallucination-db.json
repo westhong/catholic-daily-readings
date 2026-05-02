@@ -20650,5 +20650,60 @@
       ]
     },
     "checked_at": "2026-05-02T15:05:25+00:00"
+  },
+  "2023-06-07:0": {
+    "date": "2023-06-07",
+    "url": "https://bible.usccb.org/bible/readings/060723.cfm",
+    "lectionary_number": 355,
+    "feast": "Wednesday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 25:2-3, 4-5"
+        ],
+        "live": [
+          "Ps 25:2-3"
+        ],
+        "fix": [
+          "Ps 25:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 11:25"
+        ],
+        "fix": [
+          "Jn 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 25:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Tb 3:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 11:25"
+      ],
+      "gospel": [
+        "Mk 12:18-27"
+      ]
+    },
+    "checked_at": "2026-05-02T15:10:39+00:00"
   }
 }
