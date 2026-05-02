@@ -64739,20 +64739,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Heb 7:25—8",
+            "citation": "Heb 7:25",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "40:7-8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 3:7-12",
@@ -64768,8 +64761,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Tm 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-20": [

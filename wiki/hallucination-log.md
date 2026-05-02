@@ -3031,3 +3031,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Chr 7:16']`, fix=`['2 Chr 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a141ff5
+
+### ❌ 2027-08-17 — Tuesday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-02 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081727.cfm
+- **Status**: mismatch
+- **Lectionary**: 420
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 85:9, 11-12, 13-14']`, live=`['Psalm 85:9']`, fix=`['Psalm 85:9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/753315e
