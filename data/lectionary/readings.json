@@ -47775,7 +47775,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 1:1-2, 3, 4",
+            "citation": "Psalm 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -47788,8 +47788,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Philippians 3:8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-22": [

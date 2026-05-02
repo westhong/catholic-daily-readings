@@ -4280,3 +4280,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b03ce63
+
+### ❌ 2024-04-06 — Saturday in the Octave of Easter
+- **Checked**: 2026-05-02 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040624.cfm
+- **Status**: mismatch
+- **Lectionary**: 266
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['118:1']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+  - **gospel**: stored=`['to every creature.” LISTEN PODCAST VIEW']`, live=`['Mk 16:9-15']`, fix=`['Mk 16:9-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4c3a436
