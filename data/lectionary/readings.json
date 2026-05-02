@@ -67552,7 +67552,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 105:4-5, 6-7, 8-9",
+            "citation": "Ps 105:4-5",
             "sources": [
               "USCCB"
             ]
@@ -67566,15 +67566,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ps 95:8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-31": [
