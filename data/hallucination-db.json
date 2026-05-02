@@ -14986,5 +14986,44 @@
       ]
     },
     "checked_at": "2026-05-02T05:50:58+00:00"
+  },
+  "2024-12-20:0": {
+    "date": "2024-12-20",
+    "url": "https://bible.usccb.org/bible/readings/122024.cfm",
+    "lectionary_number": 196,
+    "feast": "Friday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 24:1-2, 3-4"
+        ],
+        "live": [
+          "Ps 24:1-2"
+        ],
+        "fix": [
+          "Ps 24:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 24:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 7:10-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 24:1-2"
+      ],
+      "gospel": [
+        "Lk 1:26-38"
+      ]
+    },
+    "checked_at": "2026-05-02T05:55:11+00:00"
   }
 }

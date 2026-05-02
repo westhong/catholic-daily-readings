@@ -2948,3 +2948,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
   - **gospel**: stored=`['Jn 15:26—16']`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/86447a0
+
+### ❌ 2024-12-20 — Friday of the Third Week of Advent
+- **Checked**: 2026-05-02 05:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122024.cfm
+- **Status**: mismatch
+- **Lectionary**: 196
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 24:1-2, 3-4']`, live=`['Ps 24:1-2']`, fix=`['Ps 24:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9629e
