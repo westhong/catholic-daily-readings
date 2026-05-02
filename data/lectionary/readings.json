@@ -12272,7 +12272,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 40:5, 7-8",
+            "citation": "Psalm 40:5",
             "sources": [
               "USCCB"
             ]
@@ -12293,8 +12293,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-22": [
