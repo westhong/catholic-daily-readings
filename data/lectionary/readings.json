@@ -15319,7 +15319,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 109:21-22, 26-27, 30-31",
+            "citation": "Psalm 109:21-22",
             "sources": [
               "USCCB"
             ]
@@ -15340,8 +15340,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Luke 19:38",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-31": [
