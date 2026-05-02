@@ -2707,3 +2707,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:13']`, fix=`['John 16:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/346c29a
+
+### 🚫 2026-09-29 — 
+- **Checked**: 2026-05-02 03:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/929.cfm
+- **Status**: url_dead
+- **Lectionary**: 647
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/929.cfm`, live=fetch failed
