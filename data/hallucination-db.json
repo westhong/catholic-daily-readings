@@ -15566,5 +15566,24 @@
       ]
     },
     "checked_at": "2026-05-02T06:40:31+00:00"
+  },
+  "2026-06-24:1": {
+    "date": "2026-06-24",
+    "url": "https://bible.usccb.org/bible/readings/062426-Vigil.cfm",
+    "lectionary_number": 587,
+    "feast": "The Nativity of Saint John the Baptist",
+    "mass_idx": 1,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/062426-Vigil.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T06:45:45+00:00"
   }
 }

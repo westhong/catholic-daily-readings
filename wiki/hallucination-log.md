@@ -3052,3 +3052,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['40:7-8']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Tm 1:10']`, fix=`['2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98d6cde
+
+### 🚫 2026-06-24 — The Nativity of Saint John the Baptist
+- **Checked**: 2026-05-02 06:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062426-Vigil.cfm
+- **Status**: url_dead
+- **Lectionary**: 587
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/062426-Vigil.cfm`, live=fetch failed
