@@ -4138,3 +4138,17 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 27:1, 2, 3, 13-14']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/db8b821
+
+### 🚫 2026-09-28 — 
+- **Checked**: 2026-05-02 16:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/928.cfm
+- **Status**: url_dead
+- **Lectionary**: 455
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/928.cfm`, live=fetch failed
+
+### ✅ 2024-03-28 — Thursday of Holy Week
+- **Checked**: 2026-05-02 16:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032824.cfm
+- **Status**: ok
+- **Lectionary**: 260

@@ -21168,5 +21168,36 @@
       ]
     },
     "checked_at": "2026-05-02T16:00:07+00:00"
+  },
+  "2026-09-28:0": {
+    "date": "2026-09-28",
+    "url": "https://bible.usccb.org/bible/readings/928.cfm",
+    "lectionary_number": 455,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/928.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T16:05:20+00:00"
+  },
+  "2024-03-28:0": {
+    "date": "2024-03-28",
+    "url": "https://bible.usccb.org/bible/readings/032824.cfm",
+    "lectionary_number": 260,
+    "feast": "Thursday of Holy Week",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T16:10:26+00:00"
   }
 }

@@ -49138,7 +49138,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 7:1-5, 8",
+            "citation": "2 Sm 7:1-5",
             "sources": [
               "USCCB"
             ]
@@ -49146,7 +49146,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 89:2-3, 4-5, 27, 29",
+            "citation": "Ps 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -49175,8 +49175,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 1:38",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-25": [
