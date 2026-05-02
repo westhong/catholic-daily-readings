@@ -4270,3 +4270,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
   - **gospel**: stored=`['Mt 10:34—11']`, live=`['Mt 10:34']`, fix=`['Mt 10:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0876766
+
+### ❌ 2026-06-11 — Memorial of Saint Barnabas, Apostle
+- **Checked**: 2026-05-02 17:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061126.cfm
+- **Status**: mismatch
+- **Lectionary**: 580
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b03ce63

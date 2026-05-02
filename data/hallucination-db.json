@@ -21825,5 +21825,60 @@
       ]
     },
     "checked_at": "2026-05-02T17:15:07+00:00"
+  },
+  "2026-06-11:0": {
+    "date": "2026-06-11",
+    "url": "https://bible.usccb.org/bible/readings/061126.cfm",
+    "lectionary_number": 580,
+    "feast": "Memorial of Saint Barnabas, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 98:1, 2-3"
+        ],
+        "live": [
+          "Psalm 98:1"
+        ],
+        "fix": [
+          "Psalm 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 13:34"
+        ],
+        "fix": [
+          "John 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 11:21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ],
+      "gospel": [
+        "Matthew 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-02T17:20:20+00:00"
   }
 }
