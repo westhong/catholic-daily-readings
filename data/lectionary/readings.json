@@ -66663,7 +66663,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 102:16-18, 19-21, 29",
+            "citation": "Ps 102:16-18",
             "sources": [
               "USCCB"
             ]
@@ -66685,7 +66685,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-17": [
