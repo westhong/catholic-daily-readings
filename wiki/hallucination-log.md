@@ -4594,3 +4594,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:57, 58, 59, 60, 61']`, live=`['Daniel 3:57']`, fix=`['Daniel 3:57']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Revelation 2:10']`, fix=`['Revelation 2:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/745fb07
+
+### ❌ 2027-08-11 — Memorial of Saint Clare, Virgin
+- **Checked**: 2026-05-02 20:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081127.cfm
+- **Status**: mismatch
+- **Lectionary**: 415
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/721899e
