@@ -2494,3 +2494,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 504
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261124.cfm`, live=fetch failed
+
+### ❌ 2024-12-17 — Tuesday of the Third Week of Advent
+- **Checked**: 2026-05-02 02:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121724.cfm
+- **Status**: mismatch
+- **Lectionary**: 193
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 49:2, 8-10']`, live=`['Gn 49:2']`, fix=`['Gn 49:2']`
+  - **responsorial_psalm**: stored=`['72:1-2, 3-4']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2bb92b2

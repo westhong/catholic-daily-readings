@@ -12611,5 +12611,50 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T02:00:58+00:00"
+  },
+  "2024-12-17:0": {
+    "date": "2024-12-17",
+    "url": "https://bible.usccb.org/bible/readings/121724.cfm",
+    "lectionary_number": 193,
+    "feast": "Tuesday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 49:2, 8-10"
+        ],
+        "live": [
+          "Gn 49:2"
+        ],
+        "fix": [
+          "Gn 49:2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "72:1-2, 3-4"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 49:2"
+      ],
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 49:2"
+      ],
+      "gospel": [
+        "Mt 1:1-17"
+      ]
+    },
+    "checked_at": "2026-05-02T02:05:11+00:00"
   }
 }

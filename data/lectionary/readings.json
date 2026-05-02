@@ -43467,7 +43467,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:3, 14, 30-31, 33-34",
+            "citation": "Psalm 69:3",
             "sources": [
               "USCCB"
             ]
@@ -43480,8 +43480,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-14": [
