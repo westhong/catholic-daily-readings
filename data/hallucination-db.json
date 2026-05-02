@@ -24559,5 +24559,62 @@
       ]
     },
     "checked_at": "2026-05-02T21:40:56+00:00"
+  },
+  "2025-05-04:0": {
+    "date": "2025-05-04",
+    "url": "https://bible.usccb.org/bible/readings/050425.cfm",
+    "lectionary_number": 48,
+    "feast": "Third Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 5:27-32, 40"
+        ],
+        "live": [
+          "Acts 5:27-32"
+        ],
+        "fix": [
+          "Acts 5:27-32"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 30:2, 4, 5-6, 11-12, 13"
+        ],
+        "live": [
+          "Psalm 30:2"
+        ],
+        "fix": [
+          "Psalm 30:2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 5:27-32"
+      ],
+      "responsorial_psalm": [
+        "Psalm 30:2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:27-32"
+      ],
+      "responsorial_psalm": [
+        "Psalm 30:2"
+      ],
+      "second_reading": [
+        "Revelation 5:11-14"
+      ],
+      "gospel": [
+        "John 21:1-19"
+      ]
+    },
+    "checked_at": "2026-05-02T21:45:09+00:00"
   }
 }

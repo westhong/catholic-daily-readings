@@ -4791,3 +4791,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 8:12']`, fix=`['JN 8:12']`
   - **gospel**: stored=`['MT 7:6, 12-14']`, live=`['MT 7:6']`, fix=`['MT 7:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03faa49
+
+### ❌ 2025-05-04 — Third Sunday of Easter
+- **Checked**: 2026-05-02 21:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050425.cfm
+- **Status**: mismatch
+- **Lectionary**: 48
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 5:27-32, 40']`, live=`['Acts 5:27-32']`, fix=`['Acts 5:27-32']`
+  - **responsorial_psalm**: stored=`['Psalm 30:2, 4, 5-6, 11-12, 13']`, live=`['Psalm 30:2']`, fix=`['Psalm 30:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/640cd61

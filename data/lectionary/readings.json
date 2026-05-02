@@ -38456,20 +38456,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Chronicles 36:14-16, 19-23",
+            "citation": "2 Chronicles 36:14-16",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "137:1-2, 3, 4-5, 6",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Ephesians 2:4-10",
@@ -38489,7 +38482,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/030727-YearB.cfm",
       "date": "2027-03-07",
-      "mass": "YearB"
+      "mass": "YearB",
+      "mass_idx": 1
     }
   ],
   "2027-03-08": [
