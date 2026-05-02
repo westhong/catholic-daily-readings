@@ -3885,3 +3885,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-18']`, fix=`['Mk 16:15-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5369c6f
+
+### ❌ 2023-06-17 — Memorial of the Immaculate Heart of Mary
+- **Checked**: 2026-05-02 13:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061723.cfm
+- **Status**: mismatch
+- **Lectionary**: 573
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['103:1-2, 3-4, 9-10, 11-12']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 2:19']`, fix=`['See Lk 2:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84c7c46

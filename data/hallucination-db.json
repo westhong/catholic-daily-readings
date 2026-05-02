@@ -19876,5 +19876,51 @@
       ]
     },
     "checked_at": "2026-05-02T13:50:31+00:00"
+  },
+  "2023-06-17:0": {
+    "date": "2023-06-17",
+    "url": "https://bible.usccb.org/bible/readings/061723.cfm",
+    "lectionary_number": 573,
+    "feast": "Memorial of the Immaculate Heart of Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "103:1-2, 3-4, 9-10, 11-12"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Lk 2:19"
+        ],
+        "fix": [
+          "See Lk 2:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Lk 2:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 5:14-21"
+      ],
+      "alleluia_verse": [
+        "See Lk 2:19"
+      ],
+      "gospel": [
+        "Lk 2:41-51"
+      ]
+    },
+    "checked_at": "2026-05-02T13:55:48+00:00"
   }
 }
