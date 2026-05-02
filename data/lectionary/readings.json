@@ -70393,7 +70393,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 28:16-20, 30-31",
+            "citation": "Acts 28:16-20",
             "sources": [
               "USCCB"
             ]
@@ -70401,7 +70401,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 11:4, 5",
+            "citation": "Ps 11:4",
             "sources": [
               "USCCB"
             ]
@@ -70422,8 +70422,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 16:7",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-05-28": [
