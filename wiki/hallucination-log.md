@@ -2885,3 +2885,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 147:12-13, 14-15, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/412caaf
+
+### ❌ 2025-07-23 — Wednesday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 05:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072325.cfm
+- **Status**: mismatch
+- **Lectionary**: 397
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 16:1-5, 9-15']`, live=`['Exodus 16:1-5']`, fix=`['Exodus 16:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 78:18-19, 23-24, 25-26, 27-28']`, live=`['Psalm 78:18-19']`, fix=`['Psalm 78:18-19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ca403e

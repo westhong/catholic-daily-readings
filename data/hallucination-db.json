@@ -14606,5 +14606,59 @@
       ]
     },
     "checked_at": "2026-05-02T05:20:17+00:00"
+  },
+  "2025-07-23:0": {
+    "date": "2025-07-23",
+    "url": "https://bible.usccb.org/bible/readings/072325.cfm",
+    "lectionary_number": 397,
+    "feast": "Wednesday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 16:1-5, 9-15"
+        ],
+        "live": [
+          "Exodus 16:1-5"
+        ],
+        "fix": [
+          "Exodus 16:1-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 78:18-19, 23-24, 25-26, 27-28"
+        ],
+        "live": [
+          "Psalm 78:18-19"
+        ],
+        "fix": [
+          "Psalm 78:18-19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 16:1-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 78:18-19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 16:1-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 78:18-19"
+      ],
+      "gospel": [
+        "Matthew 13:1-9"
+      ]
+    },
+    "checked_at": "2026-05-02T05:25:48+00:00"
   }
 }
