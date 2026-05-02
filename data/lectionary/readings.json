@@ -39418,7 +39418,7 @@
         ],
         "gospel": [
           {
-            "citation": "to every creature.” En Español View Cale",
+            "citation": "Mark 16:9-15",
             "sources": [
               "USCCB"
             ]
@@ -39431,8 +39431,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-04": [
