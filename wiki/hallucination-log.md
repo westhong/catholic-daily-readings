@@ -4349,3 +4349,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:4-5, 18-19, 20']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a382a6
+
+### ❌ 2025-08-09 — Saturday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 18:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080925.cfm
+- **Status**: mismatch
+- **Lectionary**: 412
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ffc26b2

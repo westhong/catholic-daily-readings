@@ -25884,7 +25884,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:157, 160, 161, 165, 166, 168",
+            "citation": "Psalm 119:157",
             "sources": [
               "USCCB"
             ]
@@ -25905,8 +25905,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-06": [
