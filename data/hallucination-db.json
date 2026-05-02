@@ -20705,5 +20705,79 @@
       ]
     },
     "checked_at": "2026-05-02T15:10:39+00:00"
+  },
+  "2027-08-03:0": {
+    "date": "2027-08-03",
+    "url": "https://bible.usccb.org/bible/readings/080327.cfm",
+    "lectionary_number": 408,
+    "feast": "Tuesday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 51:3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 51:3-4"
+        ],
+        "fix": [
+          "Psalm 51:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 1:49"
+        ],
+        "fix": [
+          "John 1:49"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Monday: Matthew 15:1-2, 10-14"
+        ],
+        "live": [
+          "Matthew 14:22-36",
+          "Matthew 15:1-2"
+        ],
+        "fix": [
+          "Matthew 14:22-36",
+          "Matthew 15:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "alleluia_verse": [
+        "John 1:49"
+      ],
+      "gospel": [
+        "Matthew 14:22-36",
+        "Matthew 15:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Numbers 12:1-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "alleluia_verse": [
+        "John 1:49"
+      ],
+      "gospel": [
+        "Matthew 14:22-36",
+        "Matthew 15:1-2"
+      ]
+    },
+    "checked_at": "2026-05-02T15:15:54+00:00"
   }
 }

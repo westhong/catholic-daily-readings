@@ -4044,3 +4044,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 25:2-3, 4-5']`, live=`['Ps 25:2-3']`, fix=`['Ps 25:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 11:25']`, fix=`['Jn 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16df4c2
+
+### ❌ 2027-08-03 — Tuesday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 15:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080327.cfm
+- **Status**: mismatch
+- **Lectionary**: 408
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
+  - **gospel**: stored=`['Monday: Matthew 15:1-2, 10-14']`, live=`['Matthew 14:22-36', 'Matthew 15:1-2']`, fix=`['Matthew 14:22-36', 'Matthew 15:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/751c9be
