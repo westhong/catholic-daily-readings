@@ -74642,7 +74642,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 63:2, 3-4, 5-6, 8-9",
+            "citation": "Ps 63:2",
             "sources": [
               "USCCB"
             ]
@@ -74672,7 +74672,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-04": [

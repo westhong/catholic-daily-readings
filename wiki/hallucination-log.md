@@ -3198,3 +3198,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8447896
+
+### ❌ 2027-06-26 — Saturday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-02 08:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062627.cfm
+- **Status**: mismatch
+- **Lectionary**: 376
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aec534e
