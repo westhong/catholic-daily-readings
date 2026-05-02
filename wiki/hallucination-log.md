@@ -2609,3 +2609,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:4-5, 6-7, 16-17, 18-19']`, live=`['Psalm 34:4-5']`, fix=`['Psalm 34:4-5']`
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79f60e0
+
+### ❌ 2027-02-04 — Thursday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 03:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020427.cfm
+- **Status**: mismatch
+- **Lectionary**: 326
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 12:18-19, 21-24']`, live=`['Hebrews 12:18-19']`, fix=`['Hebrews 12:18-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78ce158
