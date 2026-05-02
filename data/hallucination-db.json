@@ -22753,5 +22753,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T18:45:22+00:00"
+  },
+  "2023-10-06:0": {
+    "date": "2023-10-06",
+    "url": "https://bible.usccb.org/bible/readings/100623.cfm",
+    "lectionary_number": 459,
+    "feast": "Friday of the Twenty-sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 95:8"
+        ],
+        "fix": [
+          "Ps 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Bar 1:15-22"
+      ],
+      "responsorial_psalm": [
+        "Ps 79:1"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ],
+      "gospel": [
+        "Lk 10:13-16"
+      ]
+    },
+    "checked_at": "2026-05-02T18:50:11+00:00"
   }
 }

@@ -4448,3 +4448,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 16
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261225.cfm`, live=fetch failed
+
+### ❌ 2023-10-06 — Friday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-02 18:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100623.cfm
+- **Status**: mismatch
+- **Lectionary**: 459
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e685ac8
