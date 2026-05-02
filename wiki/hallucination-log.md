@@ -2373,3 +2373,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62e4222
+
+### ❌ 2023-12-21 — Thursday of the Third Week of Advent
+- **Checked**: 2026-05-02 01:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122123.cfm
+- **Status**: mismatch
+- **Lectionary**: 197
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:2-3, 11-12, 20-21']`, live=`['Ps 33:2-3']`, fix=`['Ps 33:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/765030f

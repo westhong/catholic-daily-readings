@@ -12039,5 +12039,44 @@
       ]
     },
     "checked_at": "2026-05-02T00:55:05+00:00"
+  },
+  "2023-12-21:0": {
+    "date": "2023-12-21",
+    "url": "https://bible.usccb.org/bible/readings/122123.cfm",
+    "lectionary_number": 197,
+    "feast": "Thursday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:2-3, 11-12, 20-21"
+        ],
+        "live": [
+          "Ps 33:2-3"
+        ],
+        "fix": [
+          "Ps 33:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sg 2:8-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:2-3"
+      ],
+      "gospel": [
+        "Lk 1:39-45"
+      ]
+    },
+    "checked_at": "2026-05-02T01:00:15+00:00"
   }
 }
