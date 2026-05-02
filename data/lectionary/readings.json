@@ -37670,7 +37670,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 37:3-4, 12-13",
+            "citation": "Genesis 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -37678,7 +37678,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:16-17, 18-19, 20-21",
+            "citation": "Psalm 105:16-17",
             "sources": [
               "USCCB"
             ]
@@ -37686,21 +37686,15 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 21:33-43, 45-46",
+            "citation": "Matthew 21:33-43",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "John 3:16",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-27": [
