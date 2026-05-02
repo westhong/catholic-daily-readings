@@ -19368,5 +19368,45 @@
       ]
     },
     "checked_at": "2026-05-02T12:56:53+00:00"
+  },
+  "2024-11-21:0": {
+    "date": "2024-11-21",
+    "url": "https://bible.usccb.org/bible/readings/112124.cfm",
+    "lectionary_number": 500,
+    "feast": "Memorial of the Presentation of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "PS 95:8"
+        ],
+        "fix": [
+          "PS 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "PS 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "RV 5:1-10"
+      ],
+      "responsorial_psalm": [
+        "PS 149:1"
+      ],
+      "alleluia_verse": [
+        "PS 95:8"
+      ],
+      "gospel": [
+        "LK 19:41-44"
+      ]
+    },
+    "checked_at": "2026-05-02T13:00:06+00:00"
   }
 }

@@ -3780,3 +3780,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Samuel 7:1-5, 8']`, live=`['2 Samuel 7:1-5']`, fix=`['2 Samuel 7:1-5']`
   - **responsorial_psalm**: stored=`['Psalm 89:2-3, 4-5, 27']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6facf22
+
+### ❌ 2024-11-21 — Memorial of the Presentation of the Blessed Virgin Mary
+- **Checked**: 2026-05-02 13:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112124.cfm
+- **Status**: mismatch
+- **Lectionary**: 500
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['PS 95:8']`, fix=`['PS 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1e5735

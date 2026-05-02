@@ -21835,7 +21835,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 4-5, 27",
+            "citation": "Psalm 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -21843,7 +21843,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Romans 4:13, 16-18, 22",
+            "citation": "Romans 4:13",
             "sources": [
               "USCCB"
             ]
@@ -21851,21 +21851,15 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 1:16, 18-21, 24",
+            "citation": "Matthew 1:16",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Psalm 84:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-20": [
