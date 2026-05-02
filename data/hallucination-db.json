@@ -22280,5 +22280,60 @@
       ]
     },
     "checked_at": "2026-05-02T18:01:01+00:00"
+  },
+  "2026-06-05:0": {
+    "date": "2026-06-05",
+    "url": "https://bible.usccb.org/bible/readings/060526.cfm",
+    "lectionary_number": 357,
+    "feast": "Memorial of Saint Boniface, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:157, 160, 161, 165, 166, 168"
+        ],
+        "live": [
+          "Psalm 119:157"
+        ],
+        "fix": [
+          "Psalm 119:157"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:157"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Timothy 3:10-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:157"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Mark 12:35-37"
+      ]
+    },
+    "checked_at": "2026-05-02T18:05:11+00:00"
   }
 }

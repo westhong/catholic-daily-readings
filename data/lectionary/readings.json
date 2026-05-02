@@ -65395,20 +65395,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Heb 9:2-3, 11-14",
+            "citation": "Heb 9:2-3",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "47:2-3, 6-7, 8-9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 3:20-21",
@@ -65424,8 +65417,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Acts 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-22": [
