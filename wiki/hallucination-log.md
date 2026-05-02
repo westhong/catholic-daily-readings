@@ -2333,3 +2333,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 417
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/814.cfm`, live=fetch failed
+
+### ❌ 2024-08-05 — Monday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 00:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080524.cfm
+- **Status**: mismatch
+- **Lectionary**: 407
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 119:29, 43, 79, 80, 95, 102']`, live=`['PS 119:29']`, fix=`['PS 119:29']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/854f80b

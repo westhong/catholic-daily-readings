@@ -73129,7 +73129,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 51:3-4, 5-6",
+            "citation": "Ps 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -73137,7 +73137,7 @@
         ],
         "gospel": [
           {
-            "citation": "is read on Monday. Some Pharisees and sc",
+            "citation": "Mt 14:22-36",
             "sources": [
               "USCCB"
             ]
@@ -73150,8 +73150,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 1:49",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-09": [

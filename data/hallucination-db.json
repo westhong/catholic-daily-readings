@@ -11826,5 +11826,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T00:30:57+00:00"
+  },
+  "2024-08-05:0": {
+    "date": "2024-08-05",
+    "url": "https://bible.usccb.org/bible/readings/080524.cfm",
+    "lectionary_number": 407,
+    "feast": "Monday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:29, 43, 79, 80, 95, 102"
+        ],
+        "live": [
+          "PS 119:29"
+        ],
+        "fix": [
+          "PS 119:29"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 119:29"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 28:1-17"
+      ],
+      "responsorial_psalm": [
+        "PS 119:29"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Mt 14:13-21"
+      ]
+    },
+    "checked_at": "2026-05-02T00:35:10+00:00"
   }
 }
