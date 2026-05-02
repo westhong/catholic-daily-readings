@@ -4536,3 +4536,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 2:1-3, 4-7a, 7b-9']`, live=`['Psalm 2:1-3']`, fix=`['Psalm 2:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8738553
+
+### ❌ 2025-03-02 — Eighth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 19:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030225.cfm
+- **Status**: mismatch
+- **Lectionary**: 84
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 92:2-3, 13-14, 15-16']`, live=`['Psalm 92:2-3']`, fix=`['Psalm 92:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75db673
