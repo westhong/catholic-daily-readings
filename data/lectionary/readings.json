@@ -13755,7 +13755,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ezra 6:7-8, 12",
+            "citation": "Ezra 6:7-8",
             "sources": [
               "USCCB"
             ]
@@ -13763,7 +13763,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 122:1-2, 3-4",
+            "citation": "Psalm 122:1-2",
             "sources": [
               "USCCB"
             ]
@@ -13784,8 +13784,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-24": [

@@ -3661,3 +3661,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 51:12-13, 14-15, 18-19']`, live=`['PS 51:12-13']`, fix=`['PS 51:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8dff6c
+
+### ❌ 2023-12-02 — Saturday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 11:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120223.cfm
+- **Status**: mismatch
+- **Lectionary**: 508
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Dn 3:82, 83, 84, 85, 86, 87']`, live=`['Dn 3:82']`, fix=`['Dn 3:82']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/04f8cb8
