@@ -65057,7 +65057,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 72:1-2, 7-8, 10-11, 12-13",
+            "citation": "Ps 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -65086,8 +65086,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 2:2",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-09": [

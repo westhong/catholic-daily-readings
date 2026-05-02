@@ -4910,3 +4910,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 52:10, 11']`, live=`['Ps 52:10']`, fix=`['Ps 52:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e00334b
+
+### 🚫 2026-09-14 — 
+- **Checked**: 2026-05-02 22:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/914.cfm
+- **Status**: url_dead
+- **Lectionary**: 638
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/914.cfm`, live=fetch failed

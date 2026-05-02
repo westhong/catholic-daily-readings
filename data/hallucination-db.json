@@ -25174,5 +25174,24 @@
       ]
     },
     "checked_at": "2026-05-02T22:40:17+00:00"
+  },
+  "2026-09-14:0": {
+    "date": "2026-09-14",
+    "url": "https://bible.usccb.org/bible/readings/914.cfm",
+    "lectionary_number": 638,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/914.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T22:45:29+00:00"
   }
 }
