@@ -4183,3 +4183,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:18']`, fix=`['Jas 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ad9722
+
+### ❌ 2024-11-04 — Memorial of Saint Charles Borromeo, Bishop
+- **Checked**: 2026-05-02 16:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110424.cfm
+- **Status**: mismatch
+- **Lectionary**: 485
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b4a522d
