@@ -15585,5 +15585,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T06:45:45+00:00"
+  },
+  "2023-05-06:0": {
+    "date": "2023-05-06",
+    "url": "https://bible.usccb.org/bible/readings/050623.cfm",
+    "lectionary_number": 284,
+    "feast": "Saturday of the Fourth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 2-3"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:31"
+        ],
+        "fix": [
+          "Jn 8:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Jn 8:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 13:44-52"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Jn 8:31"
+      ],
+      "gospel": [
+        "Jn 14:7-14"
+      ]
+    },
+    "checked_at": "2026-05-02T06:51:01+00:00"
   }
 }

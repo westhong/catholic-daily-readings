@@ -3060,3 +3060,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 587
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/062426-Vigil.cfm`, live=fetch failed
+
+### ❌ 2023-05-06 — Saturday of the Fourth Week of Easter
+- **Checked**: 2026-05-02 06:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050623.cfm
+- **Status**: mismatch
+- **Lectionary**: 284
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/427b95e
