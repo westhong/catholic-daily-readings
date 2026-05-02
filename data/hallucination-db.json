@@ -15878,5 +15878,60 @@
       ]
     },
     "checked_at": "2026-05-02T07:15:10+00:00"
+  },
+  "2024-05-06:0": {
+    "date": "2024-05-06",
+    "url": "https://bible.usccb.org/bible/readings/050624.cfm",
+    "lectionary_number": 291,
+    "feast": "Monday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:26"
+        ],
+        "fix": [
+          "Jn 15:26"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 15:26—16"
+        ],
+        "live": [
+          "Jn 15:26"
+        ],
+        "fix": [
+          "Jn 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 15:26"
+      ],
+      "gospel": [
+        "Jn 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:11-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 149:1"
+      ],
+      "alleluia_verse": [
+        "Jn 15:26"
+      ],
+      "gospel": [
+        "Jn 15:26"
+      ]
+    },
+    "checked_at": "2026-05-02T07:20:23+00:00"
   }
 }

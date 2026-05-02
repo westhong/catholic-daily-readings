@@ -3118,3 +3118,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 51:12-13, 14-15, 18-19']`, live=`['Ps 51:12-13']`, fix=`['Ps 51:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 16:18']`, fix=`['Mt 16:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/427317c
+
+### ❌ 2024-05-06 — Monday of the Sixth Week of Easter
+- **Checked**: 2026-05-02 07:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050624.cfm
+- **Status**: mismatch
+- **Lectionary**: 291
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+  - **gospel**: stored=`['Jn 15:26—16']`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/346f826
