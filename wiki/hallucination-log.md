@@ -4861,3 +4861,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['25:4-5']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 85:8']`, fix=`['Ps 85:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f5aae19
+
+### ❌ 2025-05-07 — Wednesday of the Third Week of Easter
+- **Checked**: 2026-05-02 22:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050725.cfm
+- **Status**: mismatch
+- **Lectionary**: 275
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:40']`, fix=`['See John 6:40']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e971f3a
