@@ -48772,7 +48772,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jgs 13:2-7, 24-25",
+            "citation": "Jgs 13:2-7",
             "sources": [
               "USCCB"
             ]
@@ -48794,7 +48794,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-20": [

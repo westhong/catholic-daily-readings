@@ -3491,3 +3491,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gal 2:1-2, 7-14']`, live=`['Gal 2:1-2']`, fix=`['Gal 2:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Rom 8:15']`, fix=`['Rom 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/53b1a48
+
+### ❌ 2023-03-08 — Wednesday of the Second Week of Lent
+- **Checked**: 2026-05-02 10:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030823.cfm
+- **Status**: mismatch
+- **Lectionary**: 232
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['31:5-6, 14, 15-16']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c82d3bf
