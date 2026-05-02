@@ -5024,3 +5024,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/faf847f
+
+### ❌ 2023-02-05 — Fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 23:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020523.cfm
+- **Status**: mismatch
+- **Lectionary**: 73
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 112:4-5, 6-7, 8-9']`, live=`['Ps 112:4-5']`, fix=`['Ps 112:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6853650
