@@ -19668,5 +19668,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T13:30:33+00:00"
+  },
+  "2025-10-13:0": {
+    "date": "2025-10-13",
+    "url": "https://bible.usccb.org/bible/readings/101325.cfm",
+    "lectionary_number": 467,
+    "feast": "Monday of the Twenty-eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 95:8"
+        ],
+        "fix": [
+          "Psalm 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 1:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ],
+      "gospel": [
+        "Luke 11:29-32"
+      ]
+    },
+    "checked_at": "2026-05-02T13:35:47+00:00"
   }
 }
