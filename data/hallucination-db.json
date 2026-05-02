@@ -24865,5 +24865,66 @@
       ]
     },
     "checked_at": "2026-05-02T22:10:09+00:00"
+  },
+  "2024-12-16:0": {
+    "date": "2024-12-16",
+    "url": "https://bible.usccb.org/bible/readings/121624.cfm",
+    "lectionary_number": 187,
+    "feast": "Monday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Nm 24:2-7, 15-17"
+        ],
+        "live": [
+          "Nm 24:2-7"
+        ],
+        "fix": [
+          "Nm 24:2-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "25:4-5"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 85:8"
+        ],
+        "fix": [
+          "Ps 85:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Nm 24:2-7"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Ps 85:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 24:2-7"
+      ],
+      "alleluia_verse": [
+        "Ps 85:8"
+      ],
+      "gospel": [
+        "Mt 21:23-27"
+      ]
+    },
+    "checked_at": "2026-05-02T22:15:20+00:00"
   }
 }

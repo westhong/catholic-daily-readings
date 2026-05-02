@@ -4850,3 +4850,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gn 4:1-15, 25']`, live=`['Gn 4:1-15']`, fix=`['Gn 4:1-15']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3193ea0
+
+### ❌ 2024-12-16 — Monday of the Third Week of Advent
+- **Checked**: 2026-05-02 22:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121624.cfm
+- **Status**: mismatch
+- **Lectionary**: 187
+- **Mismatches**:
+  - **first_reading**: stored=`['Nm 24:2-7, 15-17']`, live=`['Nm 24:2-7']`, fix=`['Nm 24:2-7']`
+  - **responsorial_psalm**: stored=`['25:4-5']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 85:8']`, fix=`['Ps 85:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f5aae19
