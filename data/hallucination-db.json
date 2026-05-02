@@ -14180,5 +14180,24 @@
       ]
     },
     "checked_at": "2026-05-02T04:40:35+00:00"
+  },
+  "2026-09-05:0": {
+    "date": "2026-09-05",
+    "url": "https://bible.usccb.org/bible/readings/905.cfm",
+    "lectionary_number": 436,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/905.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T04:45:46+00:00"
   }
 }
