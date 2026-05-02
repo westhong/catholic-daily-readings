@@ -2844,3 +2844,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 66:1-3a, 4-5, 6-7a']`, live=`['Psalm 66:1-3']`, fix=`['Psalm 66:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:40']`, fix=`['See John 6:40']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65d4670
+
+### ❌ 2024-08-25 — Twenty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-02 05:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082524.cfm
+- **Status**: mismatch
+- **Lectionary**: 122
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 16-17, 18-19, 20-21']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:63']`, fix=`['Jn 6:63']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c4adafb

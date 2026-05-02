@@ -14372,5 +14372,63 @@
       ]
     },
     "checked_at": "2026-05-02T05:00:26+00:00"
+  },
+  "2024-08-25:0": {
+    "date": "2024-08-25",
+    "url": "https://bible.usccb.org/bible/readings/082524.cfm",
+    "lectionary_number": 122,
+    "feast": "Twenty-first Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 16-17, 18-19, 20-21"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:63"
+        ],
+        "fix": [
+          "Jn 6:63"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 6:63"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jos 24:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "second_reading": [
+        "Eph 5:21-32"
+      ],
+      "alleluia_verse": [
+        "Jn 6:63"
+      ],
+      "gospel": [
+        "Jn 6:60-69"
+      ]
+    },
+    "checked_at": "2026-05-02T05:05:38+00:00"
   }
 }
