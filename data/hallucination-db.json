@@ -13457,5 +13457,57 @@
       ]
     },
     "checked_at": "2026-05-02T03:30:37+00:00"
+  },
+  "2024-11-23:0": {
+    "date": "2024-11-23",
+    "url": "https://bible.usccb.org/bible/readings/112324.cfm",
+    "lectionary_number": 502,
+    "feast": "Saturday of the Thirty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 144:1, 2, 9-10"
+        ],
+        "live": [
+          "Psalm 144:1"
+        ],
+        "fix": [
+          "Psalm 144:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 144:1"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 144:1"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Lk 20:27-40"
+      ]
+    },
+    "checked_at": "2026-05-02T03:35:50+00:00"
   }
 }

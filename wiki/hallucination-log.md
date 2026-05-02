@@ -2667,3 +2667,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 33:22']`, fix=`['Is 33:22']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:35–10']`, fix=`['Mt 9:35–10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16a842a
+
+### ❌ 2024-11-23 — Saturday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-02 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112324.cfm
+- **Status**: mismatch
+- **Lectionary**: 502
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 144:1, 2, 9-10']`, live=`['Psalm 144:1']`, fix=`['Psalm 144:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cb85cb1

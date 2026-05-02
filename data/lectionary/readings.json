@@ -14660,7 +14660,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 62:2-3, 6-7, 9",
+            "citation": "Psalm 62:2-3",
             "sources": [
               "USCCB"
             ]
@@ -14681,8 +14681,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-16": [
