@@ -5015,3 +5015,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 138:1-2, 2-3, 4-5, 7-8']`, live=`['Psalm 138:1-2']`, fix=`['Psalm 138:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ebaf52
+
+### ❌ 2027-10-26 — Tuesday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-02 23:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102627.cfm
+- **Status**: mismatch
+- **Lectionary**: 480
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/faf847f
