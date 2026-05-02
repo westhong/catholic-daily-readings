@@ -25251,5 +25251,75 @@
       ]
     },
     "checked_at": "2026-05-02T22:50:44+00:00"
+  },
+  "2024-01-31:0": {
+    "date": "2024-01-31",
+    "url": "https://bible.usccb.org/bible/readings/013124.cfm",
+    "lectionary_number": 325,
+    "feast": "Memorial of Saint John Bosco, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Sm 24:2, 9-17"
+        ],
+        "live": [
+          "2 Sm 24:2"
+        ],
+        "fix": [
+          "2 Sm 24:2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 32:1-2, 5, 6, 7"
+        ],
+        "live": [
+          "PS 32:1-2"
+        ],
+        "fix": [
+          "PS 32:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 10:27"
+        ],
+        "fix": [
+          "JN 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Sm 24:2"
+      ],
+      "responsorial_psalm": [
+        "PS 32:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 24:2"
+      ],
+      "responsorial_psalm": [
+        "PS 32:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ],
+      "gospel": [
+        "MK 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-02T22:55:57+00:00"
   }
 }

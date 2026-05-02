@@ -4928,3 +4928,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 72:1-2, 7-8, 10-11, 12-13']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 2:2']`, fix=`['Mt 2:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3e5af0
+
+### ❌ 2024-01-31 — Memorial of Saint John Bosco, Priest
+- **Checked**: 2026-05-02 22:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013124.cfm
+- **Status**: mismatch
+- **Lectionary**: 325
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 24:2, 9-17']`, live=`['2 Sm 24:2']`, fix=`['2 Sm 24:2']`
+  - **responsorial_psalm**: stored=`['PS 32:1-2, 5, 6, 7']`, live=`['PS 32:1-2']`, fix=`['PS 32:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 10:27']`, fix=`['JN 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d209b52
