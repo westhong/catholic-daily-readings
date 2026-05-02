@@ -5756,7 +5756,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 126:1-2, 2-3, 4-5, 6",
+            "citation": "Psalm 126:1-2",
             "sources": [
               "USCCB"
             ]
@@ -5781,7 +5781,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/040625-YearC.cfm",
       "date": "2025-04-06",
-      "mass": "YearC"
+      "mass": "YearC",
+      "mass_idx": 1
     }
   ],
   "2025-04-07": [
