@@ -3956,3 +3956,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 23: 1-3']`, live=`['Ps 23: 1']`, fix=`['Ps 23: 1']`
   - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3178819
+
+### ❌ 2024-06-22 — Saturday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-02 14:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062224.cfm
+- **Status**: mismatch
+- **Lectionary**: 370
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 89:4-5, 29-30, 31-32, 33-34']`, live=`['Ps 89:4-5']`, fix=`['Ps 89:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/048778b

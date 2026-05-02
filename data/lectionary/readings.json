@@ -20798,7 +20798,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 5-6, 12-13, 17",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -20820,15 +20820,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 4:4b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-23": [

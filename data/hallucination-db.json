@@ -20253,5 +20253,60 @@
       ]
     },
     "checked_at": "2026-05-02T14:25:18+00:00"
+  },
+  "2024-06-22:0": {
+    "date": "2024-06-22",
+    "url": "https://bible.usccb.org/bible/readings/062224.cfm",
+    "lectionary_number": 370,
+    "feast": "Saturday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 89:4-5, 29-30, 31-32, 33-34"
+        ],
+        "live": [
+          "Ps 89:4-5"
+        ],
+        "fix": [
+          "Ps 89:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 8:9"
+        ],
+        "fix": [
+          "2 Cor 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 89:4-5"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Chr 24:17-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:4-5"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ],
+      "gospel": [
+        "Mt 6:24-34"
+      ]
+    },
+    "checked_at": "2026-05-02T14:30:31+00:00"
   }
 }
