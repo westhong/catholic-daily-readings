@@ -18505,5 +18505,60 @@
       ]
     },
     "checked_at": "2026-05-02T11:30:27+00:00"
+  },
+  "2025-09-03:0": {
+    "date": "2025-09-03",
+    "url": "https://bible.usccb.org/bible/readings/090325.cfm",
+    "lectionary_number": 433,
+    "feast": "Memorial of Saint Gregory the Great, Pope and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 52:10, 11"
+        ],
+        "live": [
+          "Psalm 52:10"
+        ],
+        "fix": [
+          "Psalm 52:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 4:18"
+        ],
+        "fix": [
+          "Luke 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 52:10"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 1:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 52:10"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ],
+      "gospel": [
+        "Luke 4:38-44"
+      ]
+    },
+    "checked_at": "2026-05-02T11:35:41+00:00"
   }
 }

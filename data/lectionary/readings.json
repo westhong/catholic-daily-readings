@@ -8849,7 +8849,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 3:9-15, 20",
+            "citation": "Genesis 3:9-15",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Acts 1:12-14",
             "sources": [
               "USCCB"
             ]
@@ -8857,7 +8863,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 87:1-2, 3",
+            "citation": "Psalm 87:1-2",
             "sources": [
               "USCCB"
             ]
@@ -8871,7 +8877,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-10": [
