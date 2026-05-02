@@ -2514,3 +2514,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 69:3, 14, 30-31, 33-34']`, live=`['Psalm 69:3']`, fix=`['Psalm 69:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ef018a6
+
+### ❌ 2025-10-30 — Thursday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-02 02:17 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103025.cfm
+- **Status**: mismatch
+- **Lectionary**: 482
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 109:21-22, 26-27, 30-31']`, live=`['Psalm 109:21-22']`, fix=`['Psalm 109:21-22']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 19:38']`, fix=`['See Luke 19:38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6957e0f

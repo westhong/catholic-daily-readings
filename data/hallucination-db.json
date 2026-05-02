@@ -12711,5 +12711,60 @@
       ]
     },
     "checked_at": "2026-05-02T02:10:21+00:00"
+  },
+  "2025-10-30:0": {
+    "date": "2025-10-30",
+    "url": "https://bible.usccb.org/bible/readings/103025.cfm",
+    "lectionary_number": 482,
+    "feast": "Thursday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 109:21-22, 26-27, 30-31"
+        ],
+        "live": [
+          "Psalm 109:21-22"
+        ],
+        "fix": [
+          "Psalm 109:21-22"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 19:38"
+        ],
+        "fix": [
+          "See Luke 19:38"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 109:21-22"
+      ],
+      "alleluia_verse": [
+        "See Luke 19:38"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 8:31"
+      ],
+      "responsorial_psalm": [
+        "Psalm 109:21-22"
+      ],
+      "alleluia_verse": [
+        "See Luke 19:38"
+      ],
+      "gospel": [
+        "Luke 13:31-35"
+      ]
+    },
+    "checked_at": "2026-05-02T02:17:01+00:00"
   }
 }
