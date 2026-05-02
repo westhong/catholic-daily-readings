@@ -72319,7 +72319,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ex 11:10—12",
+            "citation": "Ex 11:10",
             "sources": [
               "USCCB"
             ]
@@ -72327,7 +72327,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 116:12-13, 15",
+            "citation": "Ps 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -72348,8 +72348,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-22": [

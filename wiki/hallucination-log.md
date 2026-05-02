@@ -2305,3 +2305,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/76be980
+
+### ❌ 2023-12-14 — Memorial of Saint John of the Cross, Priest and Doctor of the Church
+- **Checked**: 2026-05-02 00:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121423.cfm
+- **Status**: mismatch
+- **Lectionary**: 184
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Is 45:8']`, fix=`['See Is 45:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/219eb08
