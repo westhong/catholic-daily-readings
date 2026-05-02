@@ -4966,3 +4966,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 406
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/801.cfm`, live=fetch failed
+
+### ❌ 2025-06-24 — Solemnity of the Nativity of Saint John the Baptist Mass during the Day
+- **Checked**: 2026-05-02 23:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062425-Mass.cfm
+- **Status**: mismatch
+- **Lectionary**: 587
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:76']`, fix=`['See Luke 1:76']`
+  - **gospel**: stored=`['Luke 1:57-66, 80']`, live=`['Luke 1:57-66']`, fix=`['Luke 1:57-66']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/00b8003

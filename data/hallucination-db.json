@@ -25435,5 +25435,63 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T23:10:32+00:00"
+  },
+  "2025-06-24:1": {
+    "date": "2025-06-24",
+    "url": "https://bible.usccb.org/bible/readings/062425-Mass.cfm",
+    "lectionary_number": 587,
+    "feast": "Solemnity of the Nativity of Saint John the Baptist Mass during the Day",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 1:76"
+        ],
+        "fix": [
+          "See Luke 1:76"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 1:57-66, 80"
+        ],
+        "live": [
+          "Luke 1:57-66"
+        ],
+        "fix": [
+          "Luke 1:57-66"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Luke 1:76"
+      ],
+      "gospel": [
+        "Luke 1:57-66"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 49:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 139:1"
+      ],
+      "second_reading": [
+        "Acts 13:22-26"
+      ],
+      "alleluia_verse": [
+        "See Luke 1:76"
+      ],
+      "gospel": [
+        "Luke 1:57-66"
+      ]
+    },
+    "checked_at": "2026-05-02T23:15:47+00:00"
   }
 }
