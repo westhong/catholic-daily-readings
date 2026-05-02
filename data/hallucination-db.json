@@ -18021,5 +18021,78 @@
       ]
     },
     "checked_at": "2026-05-02T10:47:24+00:00"
+  },
+  "2024-05-05:0": {
+    "date": "2024-05-05",
+    "url": "https://bible.usccb.org/bible/readings/050524.cfm",
+    "lectionary_number": 56,
+    "feast": "Sixth Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 10:25-26, 34-35, 44-48"
+        ],
+        "live": [
+          "Acts 10:25-26"
+        ],
+        "fix": [
+          "Acts 10:25-26"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 2-3, 3-4"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 10:25-26"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 10:25-26"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "second_reading": [
+        "1 Jn 4:7-10"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Jn 15:9-17"
+      ]
+    },
+    "checked_at": "2026-05-02T10:50:38+00:00"
   }
 }

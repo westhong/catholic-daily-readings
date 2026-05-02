@@ -3529,3 +3529,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 96: 1-2, 2-3, 11-12, 13']`, live=`['Psalm 96: 1']`, fix=`['Psalm 96: 1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 2:10-11']`, fix=`['Luke 2:10-11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f5e089f
+
+### ❌ 2024-05-05 — Sixth Sunday of Easter
+- **Checked**: 2026-05-02 10:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050524.cfm
+- **Status**: mismatch
+- **Lectionary**: 56
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 10:25-26, 34-35, 44-48']`, live=`['Acts 10:25-26']`, fix=`['Acts 10:25-26']`
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3, 3-4']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63191c9

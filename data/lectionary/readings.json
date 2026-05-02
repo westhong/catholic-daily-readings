@@ -17556,7 +17556,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Zephaniah 3:1-2, 9-13",
+            "citation": "Zephaniah 3:1-2",
             "sources": [
               "USCCB"
             ]
@@ -17564,7 +17564,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2-3, 6-7, 17-18, 19",
+            "citation": "Psalm 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17578,7 +17578,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-17": [
