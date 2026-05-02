@@ -13811,5 +13811,60 @@
       ]
     },
     "checked_at": "2026-05-02T04:06:04+00:00"
+  },
+  "2026-06-18:0": {
+    "date": "2026-06-18",
+    "url": "https://bible.usccb.org/bible/readings/061826.cfm",
+    "lectionary_number": 368,
+    "feast": "Thursday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 97:1-2, 3-4, 5-6, 7"
+        ],
+        "live": [
+          "Psalm 97:1-2"
+        ],
+        "fix": [
+          "Psalm 97:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Romans 8:15"
+        ],
+        "fix": [
+          "Romans 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 97:1-2"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 48:1-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 97:1-2"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ],
+      "gospel": [
+        "Matthew 6:7-15"
+      ]
+    },
+    "checked_at": "2026-05-02T04:10:16+00:00"
   }
 }

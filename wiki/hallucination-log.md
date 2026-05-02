@@ -2736,3 +2736,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 7:1-2, 10, 25-30']`, live=`['John 7:1-2']`, fix=`['John 7:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7811253
+
+### ❌ 2026-06-18 — Thursday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-02 04:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061826.cfm
+- **Status**: mismatch
+- **Lectionary**: 368
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 97:1-2, 3-4, 5-6, 7']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/30dba76
