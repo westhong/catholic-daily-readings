@@ -2725,3 +2725,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 5-6, 23-24, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ca993f
+
+### ❌ 2027-03-12 — Friday of the Fourth Week of Lent
+- **Checked**: 2026-05-02 04:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031227.cfm
+- **Status**: mismatch
+- **Lectionary**: 248
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:17-18, 19-20, 21']`, live=`['Psalm 34:17-18']`, fix=`['Psalm 34:17-18']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 7:1-2, 10, 25-30']`, live=`['John 7:1-2']`, fix=`['John 7:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7811253

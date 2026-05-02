@@ -13748,5 +13748,68 @@
       ]
     },
     "checked_at": "2026-05-02T04:00:52+00:00"
+  },
+  "2027-03-12:0": {
+    "date": "2027-03-12",
+    "url": "https://bible.usccb.org/bible/readings/031227.cfm",
+    "lectionary_number": 248,
+    "feast": "Friday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:17-18, 19-20, 21"
+        ],
+        "live": [
+          "Psalm 34:17-18"
+        ],
+        "fix": [
+          "Psalm 34:17-18"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Matthew 4:4b"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 7:1-2, 10, 25-30"
+        ],
+        "live": [
+          "John 7:1-2"
+        ],
+        "fix": [
+          "John 7:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 34:17-18"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "John 7:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 2:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:17-18"
+      ],
+      "gospel": [
+        "John 7:1-2"
+      ]
+    },
+    "checked_at": "2026-05-02T04:06:04+00:00"
   }
 }
