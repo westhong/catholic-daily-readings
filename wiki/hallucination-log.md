@@ -2677,3 +2677,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 144:1, 2, 9-10']`, live=`['Psalm 144:1']`, fix=`['Psalm 144:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cb85cb1
+
+### ❌ 2025-10-15 — Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church
+- **Checked**: 2026-05-02 03:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101525.cfm
+- **Status**: mismatch
+- **Lectionary**: 469
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 62:2-3, 6-7, 9']`, live=`['Psalm 62:2-3']`, fix=`['Psalm 62:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03a4686
