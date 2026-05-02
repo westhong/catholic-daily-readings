@@ -4301,3 +4301,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 3:8-9']`, fix=`['Philippians 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/009d24a
+
+### ❌ 2024-10-08 — Tuesday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-02 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100824.cfm
+- **Status**: mismatch
+- **Lectionary**: 462
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87040b3

@@ -21996,5 +21996,45 @@
       ]
     },
     "checked_at": "2026-05-02T17:30:45+00:00"
+  },
+  "2024-10-08:0": {
+    "date": "2024-10-08",
+    "url": "https://bible.usccb.org/bible/readings/100824.cfm",
+    "lectionary_number": 462,
+    "feast": "Tuesday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 11:28"
+        ],
+        "fix": [
+          "LK 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "LK 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 1:13-24"
+      ],
+      "responsorial_psalm": [
+        "PS 139:1"
+      ],
+      "alleluia_verse": [
+        "LK 11:28"
+      ],
+      "gospel": [
+        "LK 10:38-42"
+      ]
+    },
+    "checked_at": "2026-05-02T17:35:57+00:00"
   }
 }
