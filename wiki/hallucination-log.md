@@ -2561,3 +2561,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Dn 3:75, 76, 77, 78, 79, 80, 81']`, live=`['Dn 3:75']`, fix=`['Dn 3:75']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:28']`, fix=`['Lk 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23f73b4
+
+### ❌ 2025-11-06 — Thursday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-02 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110625.cfm
+- **Status**: mismatch
+- **Lectionary**: 488
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6493b5b
