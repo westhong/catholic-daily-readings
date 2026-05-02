@@ -3041,3 +3041,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 85:9, 11-12, 13-14']`, live=`['Psalm 85:9']`, fix=`['Psalm 85:9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/753315e
+
+### ❌ 2023-01-19 — Thursday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-02 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011923.cfm
+- **Status**: mismatch
+- **Lectionary**: 314
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 7:25—8']`, live=`['Heb 7:25']`, fix=`['Heb 7:25']`
+  - **responsorial_psalm**: stored=`['40:7-8']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Tm 1:10']`, fix=`['2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98d6cde

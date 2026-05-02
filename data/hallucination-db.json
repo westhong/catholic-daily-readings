@@ -15505,5 +15505,66 @@
       ]
     },
     "checked_at": "2026-05-02T06:35:18+00:00"
+  },
+  "2023-01-19:0": {
+    "date": "2023-01-19",
+    "url": "https://bible.usccb.org/bible/readings/011923.cfm",
+    "lectionary_number": 314,
+    "feast": "Thursday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Heb 7:25—8"
+        ],
+        "live": [
+          "Heb 7:25"
+        ],
+        "fix": [
+          "Heb 7:25"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "40:7-8"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Tm 1:10"
+        ],
+        "fix": [
+          "2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Heb 7:25"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 7:25"
+      ],
+      "alleluia_verse": [
+        "2 Tm 1:10"
+      ],
+      "gospel": [
+        "Mk 3:7-12"
+      ]
+    },
+    "checked_at": "2026-05-02T06:40:31+00:00"
   }
 }
