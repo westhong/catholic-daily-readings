@@ -70788,7 +70788,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Cor 3:15—4",
+            "citation": "2 Cor 3:15",
             "sources": [
               "USCCB"
             ]
@@ -70817,8 +70817,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-16": [

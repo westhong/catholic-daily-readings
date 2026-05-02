@@ -12263,5 +12263,83 @@
       ]
     },
     "checked_at": "2026-05-02T01:20:31+00:00"
+  },
+  "2025-03-22:0": {
+    "date": "2025-03-22",
+    "url": "https://bible.usccb.org/bible/readings/032225.cfm",
+    "lectionary_number": 235,
+    "feast": "Saturday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Micah 7:14-15, 18-20"
+        ],
+        "live": [
+          "Micah 7:14-15"
+        ],
+        "fix": [
+          "Micah 7:14-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:1-2, 3-4, 9-10, 11-12"
+        ],
+        "live": [
+          "Psalm 103:1-2"
+        ],
+        "fix": [
+          "Psalm 103:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Luke 15:18"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 15:1-3, 11-32"
+        ],
+        "live": [
+          "Luke 15:1-3"
+        ],
+        "fix": [
+          "Luke 15:1-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Micah 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Luke 15:1-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Micah 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "gospel": [
+        "Luke 15:1-3"
+      ]
+    },
+    "checked_at": "2026-05-02T01:25:41+00:00"
   }
 }
