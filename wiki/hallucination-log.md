@@ -3770,3 +3770,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 12:31']`, fix=`['JN 12:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8f6c9c
+
+### ❌ 2025-12-24 — Wednesday of the Fourth Week of Advent Mass in the Morning
+- **Checked**: 2026-05-02 12:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122425.cfm
+- **Status**: mismatch
+- **Lectionary**: 200
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Samuel 7:1-5, 8']`, live=`['2 Samuel 7:1-5']`, fix=`['2 Samuel 7:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 89:2-3, 4-5, 27']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6facf22
