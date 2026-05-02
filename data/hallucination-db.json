@@ -21049,5 +21049,45 @@
       ]
     },
     "checked_at": "2026-05-02T15:45:29+00:00"
+  },
+  "2026-06-13:0": {
+    "date": "2026-06-13",
+    "url": "https://bible.usccb.org/bible/readings/061326.cfm",
+    "lectionary_number": 364,
+    "feast": "Saturday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:36"
+        ],
+        "fix": [
+          "Psalm 119:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Psalm 119:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 19:19-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 16:1"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:36"
+      ],
+      "gospel": [
+        "Matthew 5:33-37"
+      ]
+    },
+    "checked_at": "2026-05-02T15:50:44+00:00"
   }
 }

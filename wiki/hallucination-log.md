@@ -4111,3 +4111,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Timothy 1:1-8']`, live=`['2 Timothy 1:1-8', 'Titus 1:1-5']`, fix=`['2 Timothy 1:1-8', 'Titus 1:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/791442d
+
+### ❌ 2026-06-13 — Saturday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-02 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061326.cfm
+- **Status**: mismatch
+- **Lectionary**: 364
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/33bb255
