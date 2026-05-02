@@ -4518,3 +4518,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 89:4-5, 27-28, 29-30']`, live=`['Psalm 89:4-5']`, fix=`['Psalm 89:4-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/50c777c
+
+### 🚫 2026-12-15 — 
+- **Checked**: 2026-05-02 19:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261215.cfm
+- **Status**: url_dead
+- **Lectionary**: 188
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261215.cfm`, live=fetch failed

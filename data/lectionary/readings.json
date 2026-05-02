@@ -23306,7 +23306,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 2:1-3, 4-7a, 7b-9",
+            "citation": "Psalm 2:1-3",
             "sources": [
               "USCCB"
             ]
@@ -23327,8 +23327,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Colossians 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-14": [
