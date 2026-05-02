@@ -25081,7 +25081,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:10-11, 20-21",
+            "citation": "Psalm 68:10-11",
             "sources": [
               "USCCB"
             ]
@@ -25097,13 +25097,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 17:1-11a",
+            "citation": "John 17:1-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:16",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-20": [

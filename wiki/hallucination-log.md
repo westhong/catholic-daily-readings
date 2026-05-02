@@ -4720,3 +4720,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 69:14, 17, 30-31, 33-34, 36, 37']`, live=`['Psalm 69:14']`, fix=`['Psalm 69:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4822b88
+
+### ❌ 2025-12-22 — Monday of the Fourth Week of Advent
+- **Checked**: 2026-05-02 21:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122225.cfm
+- **Status**: mismatch
+- **Lectionary**: 198
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9520536

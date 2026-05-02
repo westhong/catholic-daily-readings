@@ -24167,5 +24167,44 @@
       ]
     },
     "checked_at": "2026-05-02T21:05:35+00:00"
+  },
+  "2025-12-22:0": {
+    "date": "2025-12-22",
+    "url": "https://bible.usccb.org/bible/readings/122225.cfm",
+    "lectionary_number": 198,
+    "feast": "Monday of the Fourth Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "1 Samuel 2:1, 4-5, 6-7, 8"
+        ],
+        "live": [
+          "1 Samuel 2:1"
+        ],
+        "fix": [
+          "1 Samuel 2:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "1 Samuel 2:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 1:24-28"
+      ],
+      "responsorial_psalm": [
+        "1 Samuel 2:1"
+      ],
+      "gospel": [
+        "Luke 1:46-56"
+      ]
+    },
+    "checked_at": "2026-05-02T21:10:47+00:00"
   }
 }
