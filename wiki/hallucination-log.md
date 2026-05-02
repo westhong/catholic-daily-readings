@@ -2655,3 +2655,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:13-14, 15-16, 17-18']`, live=`['Psalm 103:13-14']`, fix=`['Psalm 103:13-14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f5c84cc
+
+### ❌ 2023-12-09 — Saturday of the First Week of Advent
+- **Checked**: 2026-05-02 03:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120923.cfm
+- **Status**: mismatch
+- **Lectionary**: 180
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 30:19-21, 23-26']`, live=`['Is 30:19-21']`, fix=`['Is 30:19-21']`
+  - **responsorial_psalm**: stored=`['Ps 147:1-2, 3-4, 5-6']`, live=`['Ps 147:1-2']`, fix=`['Ps 147:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 33:22']`, fix=`['Is 33:22']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:35–10']`, fix=`['Mt 9:35–10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16a842a

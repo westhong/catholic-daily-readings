@@ -13372,5 +13372,90 @@
       ]
     },
     "checked_at": "2026-05-02T03:25:25+00:00"
+  },
+  "2023-12-09:0": {
+    "date": "2023-12-09",
+    "url": "https://bible.usccb.org/bible/readings/120923.cfm",
+    "lectionary_number": 180,
+    "feast": "Saturday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 30:19-21, 23-26"
+        ],
+        "live": [
+          "Is 30:19-21"
+        ],
+        "fix": [
+          "Is 30:19-21"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 147:1-2"
+        ],
+        "fix": [
+          "Ps 147:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Is 33:22"
+        ],
+        "fix": [
+          "Is 33:22"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "of the Kingdom, and curing every disease"
+        ],
+        "live": [
+          "Mt 9:35–10"
+        ],
+        "fix": [
+          "Mt 9:35–10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 30:19-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:1-2"
+      ],
+      "alleluia_verse": [
+        "Is 33:22"
+      ],
+      "gospel": [
+        "Mt 9:35–10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 30:19-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:1-2"
+      ],
+      "alleluia_verse": [
+        "Is 33:22"
+      ],
+      "gospel": [
+        "Mt 9:35–10"
+      ]
+    },
+    "checked_at": "2026-05-02T03:30:37+00:00"
   }
 }

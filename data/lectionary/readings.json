@@ -63471,7 +63471,7 @@
       "readings": {
         "responsorial_psalm": [
           {
-            "citation": "Psalm 144:1, 2, 9-10",
+            "citation": "Psalm 144:1",
             "sources": [
               "USCCB"
             ]
@@ -63492,8 +63492,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Tm 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-24": [
