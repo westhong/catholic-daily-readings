@@ -4740,3 +4740,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
   - **gospel**: stored=`['John 17:1-11a']`, live=`['John 17:1-11']`, fix=`['John 17:1-11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8492621
+
+### ❌ 2025-03-21 — Friday of the Second Week of Lent
+- **Checked**: 2026-05-02 21:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032125.cfm
+- **Status**: mismatch
+- **Lectionary**: 234
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 37:3-4, 12-13']`, live=`['Genesis 37:3-4']`, fix=`['Genesis 37:3-4']`
+  - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
+  - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 21:33-43, 45-46']`, live=`['Matthew 21:33-43']`, fix=`['Matthew 21:33-43']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3056a87
