@@ -15377,5 +15377,78 @@
       ]
     },
     "checked_at": "2026-05-02T06:25:27+00:00"
+  },
+  "2024-11-09:0": {
+    "date": "2024-11-09",
+    "url": "https://bible.usccb.org/bible/readings/110924.cfm",
+    "lectionary_number": 671,
+    "feast": "Feast of the Dedication of the Lateran Basilica in Rome",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ez 47:1-2, 8-9, 12"
+        ],
+        "live": [
+          "Ez 47:1-2"
+        ],
+        "fix": [
+          "Ez 47:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 46:2-3, 5-6, 8-9"
+        ],
+        "live": [
+          "Ps 46:2-3"
+        ],
+        "fix": [
+          "Ps 46:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Chr 7:16"
+        ],
+        "fix": [
+          "2 Chr 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ez 47:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 46:2-3"
+      ],
+      "alleluia_verse": [
+        "2 Chr 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 47:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 46:2-3"
+      ],
+      "second_reading": [
+        "1 Cor 3:9"
+      ],
+      "alleluia_verse": [
+        "2 Chr 7:16"
+      ],
+      "gospel": [
+        "Jn 2:13-22"
+      ]
+    },
+    "checked_at": "2026-05-02T06:31:04+00:00"
   }
 }

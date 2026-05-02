@@ -3020,3 +3020,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Philippians 3:17—4']`, live=`['Philippians 3:17']`, fix=`['Philippians 3:17']`
   - **verse_before_gospel**: stored=`['Matthew 17:5']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97693ac
+
+### ❌ 2024-11-09 — Feast of the Dedication of the Lateran Basilica in Rome
+- **Checked**: 2026-05-02 06:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110924.cfm
+- **Status**: mismatch
+- **Lectionary**: 671
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 47:1-2, 8-9, 12']`, live=`['Ez 47:1-2']`, fix=`['Ez 47:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Chr 7:16']`, fix=`['2 Chr 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a141ff5
