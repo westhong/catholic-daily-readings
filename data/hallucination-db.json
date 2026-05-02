@@ -12078,5 +12078,60 @@
       ]
     },
     "checked_at": "2026-05-02T01:00:15+00:00"
+  },
+  "2025-11-21:0": {
+    "date": "2025-11-21",
+    "url": "https://bible.usccb.org/bible/readings/112125.cfm",
+    "lectionary_number": 501,
+    "feast": "Memorial of the Presentation of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Maccabees 4:36-37, 52-59"
+        ],
+        "live": [
+          "1 Maccabees 4:36-37"
+        ],
+        "fix": [
+          "1 Maccabees 4:36-37"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Maccabees 4:36-37"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Maccabees 4:36-37"
+      ],
+      "responsorial_psalm": [
+        "1 Chronicles 29:10"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Luke 19:45-48"
+      ]
+    },
+    "checked_at": "2026-05-02T01:05:25+00:00"
   }
 }
