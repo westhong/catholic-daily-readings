@@ -2275,3 +2275,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 7-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a7187b
+
+### ❌ 2027-02-21 — Second Sunday of Lent
+- **Checked**: 2026-05-02 00:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022127.cfm
+- **Status**: mismatch
+- **Lectionary**: 26
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 22:1-2, 9']`, live=`['Genesis 22:1-2']`, fix=`['Genesis 22:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 116:10, 15, 16-17, 18-19']`, live=`['Psalm 116:10']`, fix=`['Psalm 116:10']`
+  - **verse_before_gospel**: stored=`['Cf. Matthew 17:5']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1c8346f

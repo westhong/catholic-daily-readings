@@ -11536,5 +11536,71 @@
       ]
     },
     "checked_at": "2026-05-02T00:00:08+00:00"
+  },
+  "2027-02-21:0": {
+    "date": "2027-02-21",
+    "url": "https://bible.usccb.org/bible/readings/022127.cfm",
+    "lectionary_number": 26,
+    "feast": "Second Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 22:1-2, 9"
+        ],
+        "live": [
+          "Genesis 22:1-2"
+        ],
+        "fix": [
+          "Genesis 22:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 116:10, 15, 16-17, 18-19"
+        ],
+        "live": [
+          "Psalm 116:10"
+        ],
+        "fix": [
+          "Psalm 116:10"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Cf. Matthew 17:5"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 22:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:10"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 22:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:10"
+      ],
+      "second_reading": [
+        "Romans 8:31"
+      ],
+      "gospel": [
+        "Mark 9:2-10"
+      ]
+    },
+    "checked_at": "2026-05-02T00:05:19+00:00"
   }
 }

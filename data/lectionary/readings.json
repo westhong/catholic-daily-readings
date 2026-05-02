@@ -40260,7 +40260,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 115:1-2, 3-4, 15-16",
+            "citation": "Psalm 115:1-2",
             "sources": [
               "USCCB"
             ]
@@ -40281,8 +40281,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-27": [
