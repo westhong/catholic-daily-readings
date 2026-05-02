@@ -3702,3 +3702,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 40:5, 7-8']`, live=`['Psalm 40:5']`, fix=`['Psalm 40:5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31cd3b7
+
+### ❌ 2023-08-29 — Memorial of the Passion of Saint John the Baptist
+- **Checked**: 2026-05-02 12:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082923.cfm
+- **Status**: mismatch
+- **Lectionary**: 426
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 139:1-3, 4-6']`, live=`['Ps 139:1-3']`, fix=`['Ps 139:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3343d4

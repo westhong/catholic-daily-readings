@@ -311,7 +311,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 126:1-2, 2-3, 4-5, 6",
+            "citation": "Ps 126:1-2",
             "sources": [
               "USCCB"
             ]
@@ -319,7 +319,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Phil 1:4-6, 8-11",
+            "citation": "Phil 1:4-6",
             "sources": [
               "USCCB"
             ]
@@ -340,8 +340,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 3:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-09": [
