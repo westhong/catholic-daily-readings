@@ -16491,5 +16491,44 @@
       ]
     },
     "checked_at": "2026-05-02T08:15:13+00:00"
+  },
+  "2023-03-28:0": {
+    "date": "2023-03-28",
+    "url": "https://bible.usccb.org/bible/readings/032823.cfm",
+    "lectionary_number": 252,
+    "feast": "Tuesday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 102:2-3, 16-18, 19-21"
+        ],
+        "live": [
+          "Ps 102:2-3"
+        ],
+        "fix": [
+          "Ps 102:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 102:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 21:4-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 102:2-3"
+      ],
+      "gospel": [
+        "Jn 8:21-30"
+      ]
+    },
+    "checked_at": "2026-05-02T08:20:25+00:00"
   }
 }
