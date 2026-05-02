@@ -9294,7 +9294,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 6:1-6, 16-18",
+            "citation": "Matthew 6:1-6",
             "sources": [
               "USCCB"
             ]
@@ -9307,8 +9307,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-19": [

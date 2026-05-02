@@ -4762,3 +4762,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 1:1-2, 3, 4']`, live=`['PS 1:1-2']`, fix=`['PS 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 8:12']`, fix=`['JN 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee4fdc0
+
+### ❌ 2024-02-09 — Friday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-02 21:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020924.cfm
+- **Status**: mismatch
+- **Lectionary**: 333
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/092180f

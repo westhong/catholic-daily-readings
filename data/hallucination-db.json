@@ -24409,5 +24409,45 @@
       ]
     },
     "checked_at": "2026-05-02T21:25:20+00:00"
+  },
+  "2024-02-09:0": {
+    "date": "2024-02-09",
+    "url": "https://bible.usccb.org/bible/readings/020924.cfm",
+    "lectionary_number": 333,
+    "feast": "Friday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Acts 16:14"
+        ],
+        "fix": [
+          "See Acts 16:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Acts 16:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 kgs 11:29-32"
+      ],
+      "responsorial_psalm": [
+        "PS 81:10-11"
+      ],
+      "alleluia_verse": [
+        "See Acts 16:14"
+      ],
+      "gospel": [
+        "Mk 7:31-37"
+      ]
+    },
+    "checked_at": "2026-05-02T21:30:32+00:00"
   }
 }
