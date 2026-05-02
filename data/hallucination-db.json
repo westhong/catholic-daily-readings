@@ -12451,5 +12451,36 @@
       ]
     },
     "checked_at": "2026-05-02T01:36:03+00:00"
+  },
+  "2026-07-12:0": {
+    "date": "2026-07-12",
+    "url": "https://bible.usccb.org/bible/readings/712.cfm",
+    "lectionary_number": 103,
+    "feast": "Fifteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/712.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T01:40:14+00:00"
+  },
+  "2024-05-12:0": {
+    "date": "2024-05-12",
+    "url": "https://bible.usccb.org/bible/readings/051224.cfm",
+    "lectionary_number": 58,
+    "feast": "Seventh Sunday of Easter - Ascension",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T01:45:28+00:00"
   }
 }

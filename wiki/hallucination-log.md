@@ -2452,3 +2452,17 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
   - **gospel**: stored=`['Luke 14:1, 7-11']`, live=`['Luke 14:1']`, fix=`['Luke 14:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f832103
+
+### 🚫 2026-07-12 — Fifteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 01:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/712.cfm
+- **Status**: url_dead
+- **Lectionary**: 103
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/712.cfm`, live=fetch failed
+
+### ✅ 2024-05-12 — Seventh Sunday of Easter - Ascension
+- **Checked**: 2026-05-02 01:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051224.cfm
+- **Status**: ok
+- **Lectionary**: 58

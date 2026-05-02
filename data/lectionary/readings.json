@@ -44916,7 +44916,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ruth 1:1, 3-6, 14",
+            "citation": "Ruth 1:1",
             "sources": [
               "USCCB"
             ]
@@ -44937,8 +44937,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 25:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-21": [
