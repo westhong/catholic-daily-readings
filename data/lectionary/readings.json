@@ -6053,23 +6053,16 @@
       "readings": {
         "gospel": [
           {
-            "citation": "Luke 22:14—23",
+            "citation": "Luke 22:14",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "first_reading": [
-          {
-            "citation": "Isaiah 50:4-7",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 22:8-9, 17-18, 19-20, 23-24",
+            "citation": "Psalm 22:8-9",
             "sources": [
               "USCCB"
             ]
@@ -6083,15 +6076,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Philippians 2:8-9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-04-14": [

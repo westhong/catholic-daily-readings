@@ -2957,3 +2957,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 24:1-2, 3-4']`, live=`['Ps 24:1-2']`, fix=`['Ps 24:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9629e
+
+### ❌ 2026-01-09 — Friday after Epiphany
+- **Checked**: 2026-05-02 06:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010926.cfm
+- **Status**: mismatch
+- **Lectionary**: 216
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7e3e5c7
