@@ -22185,5 +22185,60 @@
       ]
     },
     "checked_at": "2026-05-02T17:50:36+00:00"
+  },
+  "2027-03-30:0": {
+    "date": "2027-03-30",
+    "url": "https://bible.usccb.org/bible/readings/033027.cfm",
+    "lectionary_number": 262,
+    "feast": "Tuesday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 33:4-5, 18-19, 20"
+        ],
+        "live": [
+          "Psalm 33:4-5"
+        ],
+        "fix": [
+          "Psalm 33:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 118:24"
+        ],
+        "fix": [
+          "Psalm 118:24"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 33:4-5"
+      ],
+      "alleluia_verse": [
+        "Psalm 118:24"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:36-41"
+      ],
+      "responsorial_psalm": [
+        "Psalm 33:4-5"
+      ],
+      "alleluia_verse": [
+        "Psalm 118:24"
+      ],
+      "gospel": [
+        "John 20:11-18"
+      ]
+    },
+    "checked_at": "2026-05-02T17:55:49+00:00"
   }
 }
