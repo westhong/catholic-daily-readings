@@ -3361,3 +3361,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/360ea35
+
+### ❌ 2025-11-27 — Thanksgiving Day Thanksgiving Day [In the Dioceses of the United States]
+- **Checked**: 2026-05-02 09:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112725-Thanksgiving.cfm
+- **Status**: mismatch
+- **Lectionary**: 943
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:2-3, 4-5, 6-7, 8-9, 10-11']`, live=`['Psalm 145:2-3']`, fix=`['Psalm 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 5:18']`, fix=`['1 Thessalonians 5:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3eef2f

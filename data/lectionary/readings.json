@@ -52840,14 +52840,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "18:2-3",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 10:31-42",
@@ -52856,15 +52849,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jn 6:63c, 68c",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-23": [
