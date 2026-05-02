@@ -2979,3 +2979,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Luke 22:14—23']`, live=`['Luke 22:14']`, fix=`['Luke 22:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/409d9c7
+
+### ❌ 2026-01-05 — Memorial of St. John Neumann, Bishop
+- **Checked**: 2026-05-02 06:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010526.cfm
+- **Status**: mismatch
+- **Lectionary**: 212
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 4:12-17']`, fix=`['Matthew 4:12-17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/14850fb

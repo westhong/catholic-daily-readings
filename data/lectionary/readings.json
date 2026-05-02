@@ -9566,7 +9566,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 15:1-12, 17-18",
+            "citation": "Genesis 15:1-12",
             "sources": [
               "USCCB"
             ]
@@ -9574,7 +9574,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+            "citation": "Psalm 105:1-2",
             "sources": [
               "USCCB"
             ]
@@ -9595,8 +9595,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-26": [
