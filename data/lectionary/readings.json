@@ -19735,7 +19735,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:4-5, 27-28, 29-30",
+            "citation": "Psalm 89:4-5",
             "sources": [
               "USCCB"
             ]
@@ -19749,7 +19749,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-29": [
