@@ -3903,3 +3903,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 429
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/828.cfm`, live=fetch failed
+
+### ❌ 2024-02-15 — Thursday after Ash Wednesday
+- **Checked**: 2026-05-02 14:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021524.cfm
+- **Status**: mismatch
+- **Lectionary**: 220
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 1:1-2, 3, 4']`, live=`['PS 1:1-2']`, fix=`['PS 1:1-2']`
+  - **verse_before_gospel**: stored=`['Mt 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b521885

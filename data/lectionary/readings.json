@@ -58658,7 +58658,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jer 15:10, 16-21",
+            "citation": "Jer 15:10",
             "sources": [
               "USCCB"
             ]
@@ -58666,7 +58666,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 59:2-3, 4, 10-11, 17, 18",
+            "citation": "Ps 59:2-3",
             "sources": [
               "USCCB"
             ]
@@ -58687,8 +58687,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-01": [
