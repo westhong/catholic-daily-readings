@@ -15729,5 +15729,44 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T07:01:26+00:00"
+  },
+  "2027-07-27:0": {
+    "date": "2027-07-27",
+    "url": "https://bible.usccb.org/bible/readings/072727.cfm",
+    "lectionary_number": 402,
+    "feast": "Tuesday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:6-7, 8-9, 10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 103:6-7"
+        ],
+        "fix": [
+          "Psalm 103:6-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:6-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 33:7-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:6-7"
+      ],
+      "gospel": [
+        "Matthew 13:36-43"
+      ]
+    },
+    "checked_at": "2026-05-02T07:05:43+00:00"
   }
 }

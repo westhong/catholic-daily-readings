@@ -58899,7 +58899,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 112:1-2, 5-6, 7-8, 9",
+            "citation": "PS 112:1-2",
             "sources": [
               "USCCB"
             ]
@@ -58920,8 +58920,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-11": [
