@@ -25493,5 +25493,45 @@
       ]
     },
     "checked_at": "2026-05-02T23:15:47+00:00"
+  },
+  "2027-10-15:0": {
+    "date": "2027-10-15",
+    "url": "https://bible.usccb.org/bible/readings/101527.cfm",
+    "lectionary_number": 471,
+    "feast": "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 33:22"
+        ],
+        "fix": [
+          "Psalm 33:22"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Psalm 33:22"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 32:1"
+      ],
+      "alleluia_verse": [
+        "Psalm 33:22"
+      ],
+      "gospel": [
+        "Luke 12:1-7"
+      ]
+    },
+    "checked_at": "2026-05-02T23:20:59+00:00"
   }
 }

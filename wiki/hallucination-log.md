@@ -4976,3 +4976,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:76']`, fix=`['See Luke 1:76']`
   - **gospel**: stored=`['Luke 1:57-66, 80']`, live=`['Luke 1:57-66']`, fix=`['Luke 1:57-66']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/00b8003
+
+### ❌ 2027-10-15 — Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church
+- **Checked**: 2026-05-02 23:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101527.cfm
+- **Status**: mismatch
+- **Lectionary**: 471
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 33:22']`, fix=`['Psalm 33:22']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a1643da

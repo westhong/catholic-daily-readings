@@ -73968,7 +73968,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Kgs 3:5, 7-12",
+            "citation": "1 Kgs 3:5",
             "sources": [
               "USCCB"
             ]
@@ -73976,7 +73976,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:57, 72, 76-77, 127-128, 129-130",
+            "citation": "Ps 119:57",
             "sources": [
               "USCCB"
             ]
@@ -74006,7 +74006,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-31": [
