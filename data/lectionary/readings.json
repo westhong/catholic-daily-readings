@@ -57419,7 +57419,7 @@
         ],
         "gospel": [
           {
-            "citation": "MT 7:6, 12-14",
+            "citation": "MT 7:6",
             "sources": [
               "USCCB"
             ]
@@ -57432,8 +57432,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-26": [

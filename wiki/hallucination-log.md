@@ -4771,3 +4771,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/092180f
+
+### ❌ 2025-06-18 — Wednesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-02 21:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061825.cfm
+- **Status**: mismatch
+- **Lectionary**: 367
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+  - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ecbb22
