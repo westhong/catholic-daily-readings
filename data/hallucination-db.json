@@ -21941,5 +21941,60 @@
       ]
     },
     "checked_at": "2026-05-02T17:25:33+00:00"
+  },
+  "2027-10-21:0": {
+    "date": "2027-10-21",
+    "url": "https://bible.usccb.org/bible/readings/102127.cfm",
+    "lectionary_number": 476,
+    "feast": "Thursday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Psalm 1:1-2"
+        ],
+        "fix": [
+          "Psalm 1:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Philippians 3:8-9"
+        ],
+        "fix": [
+          "Philippians 3:8-9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "alleluia_verse": [
+        "Philippians 3:8-9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 6:19-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "alleluia_verse": [
+        "Philippians 3:8-9"
+      ],
+      "gospel": [
+        "Luke 12:49-53"
+      ]
+    },
+    "checked_at": "2026-05-02T17:30:45+00:00"
   }
 }
