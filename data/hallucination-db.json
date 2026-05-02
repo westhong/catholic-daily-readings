@@ -20059,5 +20059,75 @@
       ]
     },
     "checked_at": "2026-05-02T14:10:31+00:00"
+  },
+  "2025-09-27:0": {
+    "date": "2025-09-27",
+    "url": "https://bible.usccb.org/bible/readings/092725.cfm",
+    "lectionary_number": 454,
+    "feast": "Memorial of Saint Vincent de Paul, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Zechariah 2:5-9, 14-15"
+        ],
+        "live": [
+          "Zechariah 2:5-9"
+        ],
+        "fix": [
+          "Zechariah 2:5-9"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Jeremiah 31:10, 11-12"
+        ],
+        "live": [
+          "Jeremiah 31:10"
+        ],
+        "fix": [
+          "Jeremiah 31:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Timothy 1:10"
+        ],
+        "fix": [
+          "See 2 Timothy 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Zechariah 2:5-9"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "alleluia_verse": [
+        "See 2 Timothy 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zechariah 2:5-9"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "alleluia_verse": [
+        "See 2 Timothy 1:10"
+      ],
+      "gospel": [
+        "Luke 9:43"
+      ]
+    },
+    "checked_at": "2026-05-02T14:15:46+00:00"
   }
 }
