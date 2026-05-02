@@ -22097,5 +22097,45 @@
       ]
     },
     "checked_at": "2026-05-02T17:40:08+00:00"
+  },
+  "2025-06-05:0": {
+    "date": "2025-06-05",
+    "url": "https://bible.usccb.org/bible/readings/060525.cfm",
+    "lectionary_number": 300,
+    "feast": "Memorial of Saint Boniface, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 17:21"
+        ],
+        "fix": [
+          "John 17:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 17:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 22:30"
+      ],
+      "responsorial_psalm": [
+        "Psalm 16:1-2"
+      ],
+      "alleluia_verse": [
+        "John 17:21"
+      ],
+      "gospel": [
+        "John 17:20-26"
+      ]
+    },
+    "checked_at": "2026-05-02T17:45:24+00:00"
   }
 }

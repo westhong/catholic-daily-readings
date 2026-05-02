@@ -5844,7 +5844,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 13:1-9, 15-17, 19-30, 33-62",
+            "citation": "Daniel 13:1-9",
             "sources": [
               "USCCB"
             ]
@@ -5866,15 +5866,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ezekiel 33:11",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-04-08": [

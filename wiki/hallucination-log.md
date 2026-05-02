@@ -4320,3 +4320,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3, 3-4, 5-6']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **gospel**: stored=`['John 1:1-18']`, live=`['John 1:1-18', 'John 1:1-5']`, fix=`['John 1:1-18', 'John 1:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92a09ed
+
+### ❌ 2025-06-05 — Memorial of Saint Boniface, Bishop and Martyr
+- **Checked**: 2026-05-02 17:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060525.cfm
+- **Status**: mismatch
+- **Lectionary**: 300
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:21']`, fix=`['John 17:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644449d
