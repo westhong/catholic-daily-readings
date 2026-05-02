@@ -2905,3 +2905,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c14aeb1
+
+### ❌ 2023-10-22 — Twenty-ninth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102223.cfm
+- **Status**: mismatch
+- **Lectionary**: 145
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 45:1, 4-6']`, live=`['Is 45:1']`, fix=`['Is 45:1']`
+  - **responsorial_psalm**: stored=`['Ps 96:1, 3, 4-5, 7-8, 9-10']`, live=`['Ps 96:1']`, fix=`['Ps 96:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d91f759

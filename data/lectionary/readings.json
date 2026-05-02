@@ -2133,7 +2133,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 4:1-5, 11",
+            "citation": "Hebrews 4:1-5",
             "sources": [
               "USCCB"
             ]
@@ -2162,8 +2162,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-18": [
