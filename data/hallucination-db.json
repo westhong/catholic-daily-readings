@@ -13604,5 +13604,75 @@
       ]
     },
     "checked_at": "2026-05-02T03:45:14+00:00"
+  },
+  "2025-07-11:0": {
+    "date": "2025-07-11",
+    "url": "https://bible.usccb.org/bible/readings/071125.cfm",
+    "lectionary_number": 387,
+    "feast": "Memorial of Saint Benedict, Abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 46:1-7, 28-30"
+        ],
+        "live": [
+          "Genesis 46:1-7"
+        ],
+        "fix": [
+          "Genesis 46:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 37:3-4, 18-19, 27-28, 39-40"
+        ],
+        "live": [
+          "Psalm 37:3-4"
+        ],
+        "fix": [
+          "Psalm 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 16:13"
+        ],
+        "fix": [
+          "John 16:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 46:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "John 16:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 46:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "John 16:13"
+      ],
+      "gospel": [
+        "Matthew 10:16-23"
+      ]
+    },
+    "checked_at": "2026-05-02T03:51:22+00:00"
   }
 }

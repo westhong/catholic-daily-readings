@@ -2696,3 +2696,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8047076
+
+### ❌ 2025-07-11 — Memorial of Saint Benedict, Abbot
+- **Checked**: 2026-05-02 03:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071125.cfm
+- **Status**: mismatch
+- **Lectionary**: 387
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 46:1-7, 28-30']`, live=`['Genesis 46:1-7']`, fix=`['Genesis 46:1-7']`
+  - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 16:13']`, fix=`['John 16:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/346c29a
