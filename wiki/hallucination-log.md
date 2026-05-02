@@ -4421,3 +4421,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Heb 10:11-14, 18']`, live=`['Heb 10:11-14']`, fix=`['Heb 10:11-14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b56756
+
+### ❌ 2027-03-03 — Wednesday of the Third Week of Lent
+- **Checked**: 2026-05-02 18:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030327.cfm
+- **Status**: mismatch
+- **Lectionary**: 239
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 4:1, 5-9']`, live=`['Deuteronomy 4:1']`, fix=`['Deuteronomy 4:1']`
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ecccd4

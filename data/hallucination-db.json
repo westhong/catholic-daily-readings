@@ -22652,5 +22652,68 @@
       ]
     },
     "checked_at": "2026-05-02T18:30:43+00:00"
+  },
+  "2027-03-03:0": {
+    "date": "2027-03-03",
+    "url": "https://bible.usccb.org/bible/readings/030327.cfm",
+    "lectionary_number": 239,
+    "feast": "Wednesday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Deuteronomy 4:1, 5-9"
+        ],
+        "live": [
+          "Deuteronomy 4:1"
+        ],
+        "fix": [
+          "Deuteronomy 4:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 15-16, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See John 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Deuteronomy 4:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 4:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "gospel": [
+        "Matthew 5:17-19"
+      ]
+    },
+    "checked_at": "2026-05-02T18:35:55+00:00"
   }
 }
