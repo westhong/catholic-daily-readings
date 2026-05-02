@@ -24354,5 +24354,60 @@
       ]
     },
     "checked_at": "2026-05-02T21:20:08+00:00"
+  },
+  "2024-11-18:0": {
+    "date": "2024-11-18",
+    "url": "https://bible.usccb.org/bible/readings/111824.cfm",
+    "lectionary_number": 497,
+    "feast": "Monday of the Thirty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 1:1-2, 3, 4"
+        ],
+        "live": [
+          "PS 1:1-2"
+        ],
+        "fix": [
+          "PS 1:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 8:12"
+        ],
+        "fix": [
+          "JN 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 1:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "RV 1:1-4"
+      ],
+      "responsorial_psalm": [
+        "PS 1:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 8:12"
+      ],
+      "gospel": [
+        "LK 18:35-43"
+      ]
+    },
+    "checked_at": "2026-05-02T21:25:20+00:00"
   }
 }
