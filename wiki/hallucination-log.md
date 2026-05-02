@@ -3895,3 +3895,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['103:1-2, 3-4, 9-10, 11-12']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 2:19']`, fix=`['See Lk 2:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84c7c46
+
+### 🚫 2026-08-28 — 
+- **Checked**: 2026-05-02 14:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/828.cfm
+- **Status**: url_dead
+- **Lectionary**: 429
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/828.cfm`, live=fetch failed

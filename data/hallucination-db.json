@@ -19922,5 +19922,24 @@
       ]
     },
     "checked_at": "2026-05-02T13:55:48+00:00"
+  },
+  "2026-08-28:0": {
+    "date": "2026-08-28",
+    "url": "https://bible.usccb.org/bible/readings/828.cfm",
+    "lectionary_number": 429,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/828.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T14:00:52+00:00"
   }
 }
