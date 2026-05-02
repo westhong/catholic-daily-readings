@@ -4400,3 +4400,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 90:12-13, 14-15, 16-17']`, live=`['Ps 90:12-13']`, fix=`['Ps 90:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ca95ae
+
+### ❌ 2027-01-09 — Saturday after Epiphany
+- **Checked**: 2026-05-02 18:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010927.cfm
+- **Status**: mismatch
+- **Lectionary**: 217
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 149:1-2, 3-4, 5-6']`, live=`['Psalm 149:1-2']`, fix=`['Psalm 149:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2305271

@@ -63926,7 +63926,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 16:5, 8, 9-10, 11",
+            "citation": "Ps 16:5",
             "sources": [
               "USCCB"
             ]
@@ -63934,7 +63934,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Heb 10:11-14, 18",
+            "citation": "Heb 10:11-14",
             "sources": [
               "USCCB"
             ]
@@ -63955,8 +63955,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 21:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-18": [

@@ -22524,5 +22524,60 @@
       ]
     },
     "checked_at": "2026-05-02T18:20:53+00:00"
+  },
+  "2027-01-09:0": {
+    "date": "2027-01-09",
+    "url": "https://bible.usccb.org/bible/readings/010927.cfm",
+    "lectionary_number": 217,
+    "feast": "Saturday after Epiphany",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 149:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 149:1-2"
+        ],
+        "fix": [
+          "Psalm 149:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:16"
+        ],
+        "fix": [
+          "Matthew 4:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 149:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 John 5:14-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 149:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:16"
+      ],
+      "gospel": [
+        "John 3:22-30"
+      ]
+    },
+    "checked_at": "2026-05-02T18:26:04+00:00"
   }
 }
