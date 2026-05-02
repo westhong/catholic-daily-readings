@@ -19274,5 +19274,45 @@
       ]
     },
     "checked_at": "2026-05-02T12:45:23+00:00"
+  },
+  "2024-10-11:0": {
+    "date": "2024-10-11",
+    "url": "https://bible.usccb.org/bible/readings/101124.cfm",
+    "lectionary_number": 465,
+    "feast": "Friday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 12:31"
+        ],
+        "fix": [
+          "JN 12:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "JN 12:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 3:7-14"
+      ],
+      "responsorial_psalm": [
+        "PS 111:1"
+      ],
+      "alleluia_verse": [
+        "JN 12:31"
+      ],
+      "gospel": [
+        "LK 11:15-26"
+      ]
+    },
+    "checked_at": "2026-05-02T12:50:39+00:00"
   }
 }

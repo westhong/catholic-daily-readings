@@ -3761,3 +3761,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/edf5d21
+
+### ❌ 2024-10-11 — Friday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-02 12:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101124.cfm
+- **Status**: mismatch
+- **Lectionary**: 465
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 12:31']`, fix=`['JN 12:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8f6c9c

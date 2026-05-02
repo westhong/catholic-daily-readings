@@ -17898,7 +17898,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 7:1-5, 8",
+            "citation": "2 Samuel 7:1-5",
             "sources": [
               "USCCB"
             ]
@@ -17906,7 +17906,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 4-5, 27",
+            "citation": "Psalm 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17920,7 +17920,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-25": [
