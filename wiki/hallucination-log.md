@@ -4410,3 +4410,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 149:1-2, 3-4, 5-6']`, live=`['Psalm 149:1-2']`, fix=`['Psalm 149:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2305271
+
+### ❌ 2024-11-17 — Thirty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-02 18:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111724.cfm
+- **Status**: mismatch
+- **Lectionary**: 158
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 16:5, 8, 9-10, 11']`, live=`['Ps 16:5']`, fix=`['Ps 16:5']`
+  - **second_reading**: stored=`['Heb 10:11-14, 18']`, live=`['Heb 10:11-14']`, fix=`['Heb 10:11-14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b56756

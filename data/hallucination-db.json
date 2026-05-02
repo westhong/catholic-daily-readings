@@ -22579,5 +22579,78 @@
       ]
     },
     "checked_at": "2026-05-02T18:26:04+00:00"
+  },
+  "2024-11-17:0": {
+    "date": "2024-11-17",
+    "url": "https://bible.usccb.org/bible/readings/111724.cfm",
+    "lectionary_number": 158,
+    "feast": "Thirty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 16:5, 8, 9-10, 11"
+        ],
+        "live": [
+          "Ps 16:5"
+        ],
+        "fix": [
+          "Ps 16:5"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Heb 10:11-14, 18"
+        ],
+        "live": [
+          "Heb 10:11-14"
+        ],
+        "fix": [
+          "Heb 10:11-14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 21:36"
+        ],
+        "fix": [
+          "Lk 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 16:5"
+      ],
+      "second_reading": [
+        "Heb 10:11-14"
+      ],
+      "alleluia_verse": [
+        "Lk 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 12:1-3"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:5"
+      ],
+      "second_reading": [
+        "Heb 10:11-14"
+      ],
+      "alleluia_verse": [
+        "Lk 21:36"
+      ],
+      "gospel": [
+        "Mk 13:24-32"
+      ]
+    },
+    "checked_at": "2026-05-02T18:30:43+00:00"
   }
 }
