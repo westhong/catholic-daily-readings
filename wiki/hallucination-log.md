@@ -4163,3 +4163,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 89:2-3, 4-5, 27, 29']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 1:38']`, fix=`['Lk 1:38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8f1b932
+
+### ❌ 2024-06-14 — Friday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-02 16:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061424.cfm
+- **Status**: mismatch
+- **Lectionary**: 363
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1d1b05

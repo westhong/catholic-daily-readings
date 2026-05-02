@@ -21272,5 +21272,45 @@
       ]
     },
     "checked_at": "2026-05-02T16:15:37+00:00"
+  },
+  "2024-06-14:0": {
+    "date": "2024-06-14",
+    "url": "https://bible.usccb.org/bible/readings/061424.cfm",
+    "lectionary_number": 363,
+    "feast": "Friday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Phil 2:15"
+        ],
+        "fix": [
+          "Phil 2:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Phil 2:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 19:9"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:7-8"
+      ],
+      "alleluia_verse": [
+        "Phil 2:15"
+      ],
+      "gospel": [
+        "Mt 5:27-32"
+      ]
+    },
+    "checked_at": "2026-05-02T16:20:49+00:00"
   }
 }
