@@ -4642,3 +4642,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 22:26-27, 28, 30, 31-32']`, live=`['Ps 22:26-27']`, fix=`['Ps 22:26-27']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4313f56
+
+### ❌ 2027-07-10 — Saturday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 20:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071027.cfm
+- **Status**: mismatch
+- **Lectionary**: 388
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 4:14']`, fix=`['1 Peter 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3d3e73

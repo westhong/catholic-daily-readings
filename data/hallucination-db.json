@@ -23758,5 +23758,60 @@
       ]
     },
     "checked_at": "2026-05-02T20:26:03+00:00"
+  },
+  "2027-07-10:0": {
+    "date": "2027-07-10",
+    "url": "https://bible.usccb.org/bible/readings/071027.cfm",
+    "lectionary_number": 388,
+    "feast": "Saturday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:1-2, 3-4, 6-7"
+        ],
+        "live": [
+          "Psalm 105:1-2"
+        ],
+        "fix": [
+          "Psalm 105:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Peter 4:14"
+        ],
+        "fix": [
+          "1 Peter 4:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 105:1-2"
+      ],
+      "alleluia_verse": [
+        "1 Peter 4:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 49:29-32"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:1-2"
+      ],
+      "alleluia_verse": [
+        "1 Peter 4:14"
+      ],
+      "gospel": [
+        "Matthew 10:24-33"
+      ]
+    },
+    "checked_at": "2026-05-02T20:30:14+00:00"
   }
 }
