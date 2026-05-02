@@ -2343,3 +2343,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 119:29, 43, 79, 80, 95, 102']`, live=`['PS 119:29']`, fix=`['PS 119:29']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/854f80b
+
+### ❌ 2023-08-08 — Memorial of Saint Dominic, Priest
+- **Checked**: 2026-05-02 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080823.cfm
+- **Status**: mismatch
+- **Lectionary**: 408
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 51:3-4, 5-6']`, live=`['Ps 51:3-4']`, fix=`['Ps 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:49']`, fix=`['Jn 1:49']`
+  - **gospel**: stored=`['is read on Monday. Some Pharisees and sc']`, live=`['Mt 14:22-36']`, fix=`['Mt 14:22-36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf8708c

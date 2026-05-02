@@ -11881,5 +11881,75 @@
       ]
     },
     "checked_at": "2026-05-02T00:35:10+00:00"
+  },
+  "2023-08-08:0": {
+    "date": "2023-08-08",
+    "url": "https://bible.usccb.org/bible/readings/080823.cfm",
+    "lectionary_number": 408,
+    "feast": "Memorial of Saint Dominic, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 51:3-4, 5-6"
+        ],
+        "live": [
+          "Ps 51:3-4"
+        ],
+        "fix": [
+          "Ps 51:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 1:49"
+        ],
+        "fix": [
+          "Jn 1:49"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "is read on Monday. Some Pharisees and sc"
+        ],
+        "live": [
+          "Mt 14:22-36"
+        ],
+        "fix": [
+          "Mt 14:22-36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 1:49"
+      ],
+      "gospel": [
+        "Mt 14:22-36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 12:1-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 1:49"
+      ],
+      "gospel": [
+        "Mt 14:22-36"
+      ]
+    },
+    "checked_at": "2026-05-02T00:45:42+00:00"
   }
 }

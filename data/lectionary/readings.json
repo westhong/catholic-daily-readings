@@ -11742,7 +11742,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 18:1-5, 10, 12-14",
+            "citation": "Matthew 18:1-5",
             "sources": [
               "USCCB"
             ]
@@ -11755,8 +11755,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-13": [
