@@ -24125,5 +24125,47 @@
       ]
     },
     "checked_at": "2026-05-02T21:00:23+00:00"
+  },
+  "2025-07-13:0": {
+    "date": "2025-07-13",
+    "url": "https://bible.usccb.org/bible/readings/071325.cfm",
+    "lectionary_number": 105,
+    "feast": "Fifteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 69:14, 17, 30-31, 33-34, 36, 37"
+        ],
+        "live": [
+          "Psalm 69:14"
+        ],
+        "fix": [
+          "Psalm 69:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 69:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 30:10-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 69:14"
+      ],
+      "second_reading": [
+        "Colossians 1:15-20"
+      ],
+      "gospel": [
+        "Luke 10:25-37"
+      ]
+    },
+    "checked_at": "2026-05-02T21:05:35+00:00"
   }
 }
