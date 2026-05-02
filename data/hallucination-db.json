@@ -20971,5 +20971,24 @@
       ]
     },
     "checked_at": "2026-05-02T15:35:59+00:00"
+  },
+  "2026-07-18:0": {
+    "date": "2026-07-18",
+    "url": "https://bible.usccb.org/bible/readings/718.cfm",
+    "lectionary_number": 394,
+    "feast": "Saturday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/718.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T15:40:12+00:00"
   }
 }

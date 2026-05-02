@@ -4093,3 +4093,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 136:1-3, 16-18, 21-22']`, live=`['Ps 136:1-3']`, fix=`['Ps 136:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thes 2:13']`, fix=`['See 1 Thes 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/630c2e4
+
+### 🚫 2026-07-18 — Saturday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 15:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/718.cfm
+- **Status**: url_dead
+- **Lectionary**: 394
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/718.cfm`, live=fetch failed
