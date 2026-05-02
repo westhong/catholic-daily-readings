@@ -3594,3 +3594,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de9b2f5
+
+### 🚫 2026-12-06 — 
+- **Checked**: 2026-05-02 11:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261206.cfm
+- **Status**: url_dead
+- **Lectionary**: 5
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261206.cfm`, live=fetch failed
