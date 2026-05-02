@@ -4584,3 +4584,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 114:1-2, 3-4, 5-6']`, live=`['Ps 114:1-2']`, fix=`['Ps 114:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:135']`, fix=`['Ps 119:135']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c000c50
+
+### ❌ 2025-11-25 — Tuesday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 20:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112525.cfm
+- **Status**: mismatch
+- **Lectionary**: 504
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Daniel 3:57, 58, 59, 60, 61']`, live=`['Daniel 3:57']`, fix=`['Daniel 3:57']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Revelation 2:10']`, fix=`['Revelation 2:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/745fb07

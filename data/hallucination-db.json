@@ -23456,5 +23456,60 @@
       ]
     },
     "checked_at": "2026-05-02T19:55:54+00:00"
+  },
+  "2025-11-25:0": {
+    "date": "2025-11-25",
+    "url": "https://bible.usccb.org/bible/readings/112525.cfm",
+    "lectionary_number": 504,
+    "feast": "Tuesday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:57, 58, 59, 60, 61"
+        ],
+        "live": [
+          "Daniel 3:57"
+        ],
+        "fix": [
+          "Daniel 3:57"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Revelation 2:10"
+        ],
+        "fix": [
+          "Revelation 2:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Daniel 3:57"
+      ],
+      "alleluia_verse": [
+        "Revelation 2:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 2:31-45"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:57"
+      ],
+      "alleluia_verse": [
+        "Revelation 2:10"
+      ],
+      "gospel": [
+        "Luke 21:5-11"
+      ]
+    },
+    "checked_at": "2026-05-02T20:00:05+00:00"
   }
 }
