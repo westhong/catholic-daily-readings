@@ -11737,5 +11737,75 @@
       ]
     },
     "checked_at": "2026-05-02T00:20:33+00:00"
+  },
+  "2023-07-21:0": {
+    "date": "2023-07-21",
+    "url": "https://bible.usccb.org/bible/readings/072123.cfm",
+    "lectionary_number": 393,
+    "feast": "Friday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 11:10—12"
+        ],
+        "live": [
+          "Ex 11:10"
+        ],
+        "fix": [
+          "Ex 11:10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 116:12-13, 15"
+        ],
+        "live": [
+          "Ps 116:12-13"
+        ],
+        "fix": [
+          "Ps 116:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 11:10"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 11:10"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mt 12:1-8"
+      ]
+    },
+    "checked_at": "2026-05-02T00:25:45+00:00"
   }
 }

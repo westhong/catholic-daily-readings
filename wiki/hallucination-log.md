@@ -2314,3 +2314,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Is 45:8']`, fix=`['See Is 45:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/219eb08
+
+### ❌ 2023-07-21 — Friday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 00:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072123.cfm
+- **Status**: mismatch
+- **Lectionary**: 393
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 11:10—12']`, live=`['Ex 11:10']`, fix=`['Ex 11:10']`
+  - **responsorial_psalm**: stored=`['Ps 116:12-13, 15']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/173e850
