@@ -42736,7 +42736,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 99:5, 6, 7, 8, 9",
+            "citation": "Psalm 99:5",
             "sources": [
               "USCCB"
             ]
@@ -42749,8 +42749,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 25:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-10": [

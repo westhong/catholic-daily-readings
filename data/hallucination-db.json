@@ -24966,5 +24966,78 @@
       ]
     },
     "checked_at": "2026-05-02T22:20:32+00:00"
+  },
+  "2027-08-08:0": {
+    "date": "2027-08-08",
+    "url": "https://bible.usccb.org/bible/readings/080827.cfm",
+    "lectionary_number": 116,
+    "feast": "Nineteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 34:2-3"
+        ],
+        "fix": [
+          "Psalm 34:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Ephesians 4:30—5"
+        ],
+        "live": [
+          "Ephesians 4:30"
+        ],
+        "fix": [
+          "Ephesians 4:30"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:51"
+        ],
+        "fix": [
+          "John 6:51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "Ephesians 4:30"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 19:4-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "Ephesians 4:30"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ],
+      "gospel": [
+        "John 6:41-51"
+      ]
+    },
+    "checked_at": "2026-05-02T22:25:43+00:00"
   }
 }

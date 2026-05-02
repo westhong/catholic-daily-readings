@@ -4870,3 +4870,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:40']`, fix=`['See John 6:40']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e971f3a
+
+### ❌ 2027-08-08 — Nineteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 22:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080827.cfm
+- **Status**: mismatch
+- **Lectionary**: 116
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **second_reading**: stored=`['Ephesians 4:30—5']`, live=`['Ephesians 4:30']`, fix=`['Ephesians 4:30']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0fa8db4
