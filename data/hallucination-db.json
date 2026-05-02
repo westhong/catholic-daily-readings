@@ -24810,5 +24810,60 @@
       ]
     },
     "checked_at": "2026-05-02T22:05:58+00:00"
+  },
+  "2023-02-13:0": {
+    "date": "2023-02-13",
+    "url": "https://bible.usccb.org/bible/readings/021323.cfm",
+    "lectionary_number": 335,
+    "feast": "Monday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 4:1-15, 25"
+        ],
+        "live": [
+          "Gn 4:1-15"
+        ],
+        "fix": [
+          "Gn 4:1-15"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 4:1-15"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 4:1-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 50:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Mk 8:11-13"
+      ]
+    },
+    "checked_at": "2026-05-02T22:10:09+00:00"
   }
 }

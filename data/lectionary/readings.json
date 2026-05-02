@@ -658,20 +658,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Nm 24:2-7, 15-17",
+            "citation": "Nm 24:2-7",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "25:4-5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 21:23-27",
@@ -687,8 +680,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 85:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-17": [

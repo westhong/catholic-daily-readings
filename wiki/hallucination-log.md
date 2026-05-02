@@ -4840,3 +4840,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad7c6e
+
+### ❌ 2023-02-13 — Monday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-02 22:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021323.cfm
+- **Status**: mismatch
+- **Lectionary**: 335
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 4:1-15, 25']`, live=`['Gn 4:1-15']`, fix=`['Gn 4:1-15']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3193ea0
