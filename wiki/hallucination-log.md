@@ -4005,3 +4005,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d65b72
+
+### ❌ 2025-09-16 — Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+- **Checked**: 2026-05-02 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091625.cfm
+- **Status**: mismatch
+- **Lectionary**: 444
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/527c438

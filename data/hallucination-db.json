@@ -20509,5 +20509,45 @@
       ]
     },
     "checked_at": "2026-05-02T14:50:37+00:00"
+  },
+  "2025-09-16:0": {
+    "date": "2025-09-16",
+    "url": "https://bible.usccb.org/bible/readings/091625.cfm",
+    "lectionary_number": 444,
+    "feast": "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Luke 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 3:1-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 101:1"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Luke 7:11-17"
+      ]
+    },
+    "checked_at": "2026-05-02T14:55:50+00:00"
   }
 }

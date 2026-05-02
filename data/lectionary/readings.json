@@ -76827,14 +76827,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "9:2-3, 6",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 11:15-26",
@@ -76850,8 +76843,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 12:31",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-14": [
