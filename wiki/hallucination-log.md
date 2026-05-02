@@ -5005,3 +5005,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4e40f88
+
+### ❌ 2025-02-09 — Fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 23:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020925.cfm
+- **Status**: mismatch
+- **Lectionary**: 75
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 138:1-2, 2-3, 4-5, 7-8']`, live=`['Psalm 138:1-2']`, fix=`['Psalm 138:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ebaf52
