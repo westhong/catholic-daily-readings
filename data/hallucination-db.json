@@ -11657,5 +11657,45 @@
       ]
     },
     "checked_at": "2026-05-02T00:10:11+00:00"
+  },
+  "2024-07-16:0": {
+    "date": "2024-07-16",
+    "url": "https://bible.usccb.org/bible/readings/071624.cfm",
+    "lectionary_number": 390,
+    "feast": "Tuesday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 95:8"
+        ],
+        "fix": [
+          "Ps 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 7:1-9"
+      ],
+      "responsorial_psalm": [
+        "PS 48:2-3"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ],
+      "gospel": [
+        "Mt 11:20-24"
+      ]
+    },
+    "checked_at": "2026-05-02T00:15:23+00:00"
   }
 }

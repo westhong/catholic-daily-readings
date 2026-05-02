@@ -2296,3 +2296,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 115:1-2, 3-4, 15-16']`, live=`['Psalm 115:1-2']`, fix=`['Psalm 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e16d2b
+
+### ❌ 2024-07-16 — Tuesday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 00:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071624.cfm
+- **Status**: mismatch
+- **Lectionary**: 390
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/76be980
