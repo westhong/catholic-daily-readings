@@ -20549,5 +20549,51 @@
       ]
     },
     "checked_at": "2026-05-02T14:55:50+00:00"
+  },
+  "2023-10-13:0": {
+    "date": "2023-10-13",
+    "url": "https://bible.usccb.org/bible/readings/101323.cfm",
+    "lectionary_number": 465,
+    "feast": "Friday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "9:2-3, 6"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 12:31"
+        ],
+        "fix": [
+          "Jn 12:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 12:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jl 1:13-15"
+      ],
+      "alleluia_verse": [
+        "Jn 12:31"
+      ],
+      "gospel": [
+        "Lk 11:15-26"
+      ]
+    },
+    "checked_at": "2026-05-02T15:00:04+00:00"
   }
 }
