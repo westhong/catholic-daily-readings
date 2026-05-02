@@ -37294,7 +37294,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 22:1-2, 9",
+            "citation": "Genesis 22:1-2",
             "sources": [
               "USCCB"
             ]
@@ -37302,7 +37302,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 116:10, 15, 16-17, 18-19",
+            "citation": "Psalm 116:10",
             "sources": [
               "USCCB"
             ]
@@ -37324,15 +37324,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Cf. Matthew 17:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-22": [
