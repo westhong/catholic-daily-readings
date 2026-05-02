@@ -25321,5 +25321,45 @@
       ]
     },
     "checked_at": "2026-05-02T22:55:57+00:00"
+  },
+  "2027-08-26:0": {
+    "date": "2027-08-26",
+    "url": "https://bible.usccb.org/bible/readings/082627.cfm",
+    "lectionary_number": 428,
+    "feast": "Thursday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 24:42"
+        ],
+        "fix": [
+          "Matthew 24:42"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 24:42"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thessalonians 3:7-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 90:3-5"
+      ],
+      "alleluia_verse": [
+        "Matthew 24:42"
+      ],
+      "gospel": [
+        "Matthew 24:42-51"
+      ]
+    },
+    "checked_at": "2026-05-02T23:00:08+00:00"
   }
 }

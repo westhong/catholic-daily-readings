@@ -4939,3 +4939,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 32:1-2, 5, 6, 7']`, live=`['PS 32:1-2']`, fix=`['PS 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 10:27']`, fix=`['JN 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d209b52
+
+### ❌ 2027-08-26 — Thursday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-02 23:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082627.cfm
+- **Status**: mismatch
+- **Lectionary**: 428
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9efcf9
