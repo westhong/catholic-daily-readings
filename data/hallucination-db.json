@@ -21678,5 +21678,24 @@
       ]
     },
     "checked_at": "2026-05-02T16:55:37+00:00"
+  },
+  "2026-03-07:0": {
+    "date": "2026-03-07",
+    "url": "https://bible.usccb.org/bible/readings/030726.cfm",
+    "lectionary_number": 235,
+    "feast": "Saturday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/030726.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T17:00:48+00:00"
   }
 }

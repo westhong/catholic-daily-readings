@@ -4241,3 +4241,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:8, 10, 12-13, 14']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
   - **gospel**: stored=`['Mk 9:38-43, 45, 47-48']`, live=`['Mk 9:38-43']`, fix=`['Mk 9:38-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e9e55c
+
+### 🚫 2026-03-07 — Saturday of the Second Week of Lent
+- **Checked**: 2026-05-02 17:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030726.cfm
+- **Status**: url_dead
+- **Lectionary**: 235
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/030726.cfm`, live=fetch failed
