@@ -4603,3 +4603,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/721899e
+
+### ❌ 2027-04-13 — Tuesday of the Third Week of Easter
+- **Checked**: 2026-05-02 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041327.cfm
+- **Status**: mismatch
+- **Lectionary**: 274
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 7:51—8']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:35']`, fix=`['John 6:35']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40d82ca

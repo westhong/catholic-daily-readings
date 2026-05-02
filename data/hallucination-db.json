@@ -23551,5 +23551,60 @@
       ]
     },
     "checked_at": "2026-05-02T20:05:17+00:00"
+  },
+  "2027-04-13:0": {
+    "date": "2027-04-13",
+    "url": "https://bible.usccb.org/bible/readings/041327.cfm",
+    "lectionary_number": 274,
+    "feast": "Tuesday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 7:51—8"
+        ],
+        "live": [
+          "Acts 7:51"
+        ],
+        "fix": [
+          "Acts 7:51"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:35"
+        ],
+        "fix": [
+          "John 6:35"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 7:51"
+      ],
+      "alleluia_verse": [
+        "John 6:35"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 7:51"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:3"
+      ],
+      "alleluia_verse": [
+        "John 6:35"
+      ],
+      "gospel": [
+        "John 6:30-35"
+      ]
+    },
+    "checked_at": "2026-05-02T20:10:29+00:00"
   }
 }

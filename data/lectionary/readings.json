@@ -3506,7 +3506,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:2, 3-4",
+            "citation": "Psalm 90:2",
             "sources": [
               "USCCB"
             ]
@@ -3527,8 +3527,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-16": [
