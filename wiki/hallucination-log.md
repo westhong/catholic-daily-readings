@@ -3630,3 +3630,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 52:10, 11']`, live=`['Psalm 52:10']`, fix=`['Psalm 52:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/070e4fb
+
+### ❌ 2025-06-09 — Memorial of the Blessed Virgin Mary, Mother of the Church
+- **Checked**: 2026-05-02 11:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060925.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15', 'Acts 1:12-14']`, fix=`['Genesis 3:9-15', 'Acts 1:12-14']`
+  - **responsorial_psalm**: stored=`['Psalm 87:1-2, 3']`, live=`['Psalm 87:1-2']`, fix=`['Psalm 87:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e6d971a

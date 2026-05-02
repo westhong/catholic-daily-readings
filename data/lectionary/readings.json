@@ -61521,7 +61521,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jb 38:1, 12-21",
+            "citation": "Jb 38:1",
             "sources": [
               "USCCB"
             ]
@@ -61529,7 +61529,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 139:1-3, 7-8, 9-10, 13-14",
+            "citation": "Ps 139:1-3",
             "sources": [
               "USCCB"
             ]
@@ -61550,8 +61550,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-05": [
