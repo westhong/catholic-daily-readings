@@ -3976,3 +3976,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6, 12-13, 17']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2a4145
+
+### ❌ 2025-11-29 — Saturday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 14:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112925.cfm
+- **Status**: mismatch
+- **Lectionary**: 508
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Daniel 3:82, 83, 84, 85, 86, 87']`, live=`['Daniel 3:82']`, fix=`['Daniel 3:82']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75cf8ee

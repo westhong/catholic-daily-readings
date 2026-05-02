@@ -20359,5 +20359,60 @@
       ]
     },
     "checked_at": "2026-05-02T14:35:54+00:00"
+  },
+  "2025-11-29:0": {
+    "date": "2025-11-29",
+    "url": "https://bible.usccb.org/bible/readings/112925.cfm",
+    "lectionary_number": 508,
+    "feast": "Saturday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:82, 83, 84, 85, 86, 87"
+        ],
+        "live": [
+          "Daniel 3:82"
+        ],
+        "fix": [
+          "Daniel 3:82"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:36"
+        ],
+        "fix": [
+          "Luke 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Daniel 3:82"
+      ],
+      "alleluia_verse": [
+        "Luke 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 7:15-27"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:82"
+      ],
+      "alleluia_verse": [
+        "Luke 21:36"
+      ],
+      "gospel": [
+        "Luke 21:34-36"
+      ]
+    },
+    "checked_at": "2026-05-02T14:40:08+00:00"
   }
 }
