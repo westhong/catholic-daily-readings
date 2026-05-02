@@ -40055,7 +40055,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:23-24, 26-27, 29-30",
+            "citation": "Psalm 119:23-24",
             "sources": [
               "USCCB"
             ]
@@ -40076,8 +40076,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-13": [
