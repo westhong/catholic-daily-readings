@@ -19489,5 +19489,60 @@
       ]
     },
     "checked_at": "2026-05-02T13:05:19+00:00"
+  },
+  "2025-10-08:0": {
+    "date": "2025-10-08",
+    "url": "https://bible.usccb.org/bible/readings/100825.cfm",
+    "lectionary_number": 463,
+    "feast": "Wednesday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 86:3-4, 5-6, 9-10"
+        ],
+        "live": [
+          "Psalm 86:3-4"
+        ],
+        "fix": [
+          "Psalm 86:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Romans 8:15"
+        ],
+        "fix": [
+          "Romans 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 86:3-4"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jonah 4:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 86:3-4"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ],
+      "gospel": [
+        "Luke 11:1-4"
+      ]
+    },
+    "checked_at": "2026-05-02T13:10:35+00:00"
   }
 }

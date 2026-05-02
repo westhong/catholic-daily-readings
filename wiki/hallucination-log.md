@@ -3801,3 +3801,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 84:5']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 1:16, 18-21, 24']`, live=`['Matthew 1:16']`, fix=`['Matthew 1:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d4e687a
+
+### ❌ 2025-10-08 — Wednesday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-02 13:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100825.cfm
+- **Status**: mismatch
+- **Lectionary**: 463
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 86:3-4, 5-6, 9-10']`, live=`['Psalm 86:3-4']`, fix=`['Psalm 86:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6bc5db9
