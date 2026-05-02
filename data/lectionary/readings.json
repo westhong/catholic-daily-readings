@@ -42996,7 +42996,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Luke 1:46-47, 48-49, 50",
+            "citation": "Luke 1:46-47",
             "sources": [
               "USCCB"
             ]
@@ -43009,8 +43009,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-27": [

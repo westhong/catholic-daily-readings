@@ -3189,3 +3189,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 21:33-43, 45-46']`, live=`['Matthew 21:33-43']`, fix=`['Matthew 21:33-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee1ffc0
+
+### ❌ 2023-07-20 — Thursday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 07:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072023.cfm
+- **Status**: mismatch
+- **Lectionary**: 392
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8447896
