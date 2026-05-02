@@ -2967,3 +2967,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7e3e5c7
+
+### ❌ 2025-04-13 — Palm Sunday of the Lord&#039;s Passion
+- **Checked**: 2026-05-02 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041325.cfm
+- **Status**: mismatch
+- **Lectionary**: 37
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 50:4-7']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Psalm 22:8-9, 17-18, 19-20, 23-24']`, live=`['Psalm 22:8-9']`, fix=`['Psalm 22:8-9']`
+  - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Luke 22:14—23']`, live=`['Luke 22:14']`, fix=`['Luke 22:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/409d9c7

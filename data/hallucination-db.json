@@ -15080,5 +15080,77 @@
       ]
     },
     "checked_at": "2026-05-02T06:00:23+00:00"
+  },
+  "2025-04-13:0": {
+    "date": "2025-04-13",
+    "url": "https://bible.usccb.org/bible/readings/041325.cfm",
+    "lectionary_number": 37,
+    "feast": "Palm Sunday of the Lord&#039;s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 50:4-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 22:8-9, 17-18, 19-20, 23-24"
+        ],
+        "live": [
+          "Psalm 22:8-9"
+        ],
+        "fix": [
+          "Psalm 22:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Philippians 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 22:14—23"
+        ],
+        "live": [
+          "Luke 22:14"
+        ],
+        "fix": [
+          "Luke 22:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Luke 22:14"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "second_reading": [
+        "Philippians 2:6-11"
+      ],
+      "gospel": [
+        "Luke 22:14"
+      ]
+    },
+    "checked_at": "2026-05-02T06:05:35+00:00"
   }
 }
