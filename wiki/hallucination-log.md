@@ -4211,3 +4211,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 505
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261125.cfm`, live=fetch failed
+
+### ❌ 2025-01-22 — Day of Prayer for the Legal Protection of Unborn Children
+- **Checked**: 2026-05-02 16:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012225.cfm
+- **Status**: mismatch
+- **Lectionary**: 313
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 7:1-3, 15-17']`, live=`['Hebrews 7:1-3']`, fix=`['Hebrews 7:1-3']`
+  - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/786bb39
