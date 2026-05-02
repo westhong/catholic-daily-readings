@@ -16354,5 +16354,47 @@
       ]
     },
     "checked_at": "2026-05-02T08:00:40+00:00"
+  },
+  "2023-09-03:0": {
+    "date": "2023-09-03",
+    "url": "https://bible.usccb.org/bible/readings/090323.cfm",
+    "lectionary_number": 124,
+    "feast": "Twenty-second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 63:2, 3-4, 5-6, 8-9"
+        ],
+        "live": [
+          "Ps 63:2"
+        ],
+        "fix": [
+          "Ps 63:2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 20:7-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "second_reading": [
+        "Rom 12:1-2"
+      ],
+      "gospel": [
+        "Mt 16:21-27"
+      ]
+    },
+    "checked_at": "2026-05-02T08:05:42+00:00"
   }
 }

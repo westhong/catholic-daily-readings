@@ -3208,3 +3208,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aec534e
+
+### ❌ 2023-09-03 — Twenty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-02 08:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090323.cfm
+- **Status**: mismatch
+- **Lectionary**: 124
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 8-9']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a13ae70
