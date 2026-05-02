@@ -13007,20 +13007,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:3-4, 5-6, 12-13, 14",
+            "citation": "Psalm 90:3-4",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "second_reading": [
-          {
-            "citation": "Philemon 9-10, 12-17 I, Paul, an old man",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "second_reading": [],
         "gospel": [
           {
             "citation": "Luke 14:25-33",
@@ -13036,8 +13029,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 119:135",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-08": [

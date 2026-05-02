@@ -15933,5 +15933,53 @@
       ]
     },
     "checked_at": "2026-05-02T07:20:23+00:00"
+  },
+  "2025-03-15:0": {
+    "date": "2025-03-15",
+    "url": "https://bible.usccb.org/bible/readings/031525.cfm",
+    "lectionary_number": 229,
+    "feast": "Saturday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:1-2, 4-5, 7-8"
+        ],
+        "live": [
+          "Psalm 119:1-2"
+        ],
+        "fix": [
+          "Psalm 119:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "2 Corinthians 6:2b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 26:16-19"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:1-2"
+      ],
+      "gospel": [
+        "Matthew 5:43-48"
+      ]
+    },
+    "checked_at": "2026-05-02T07:25:36+00:00"
   }
 }
