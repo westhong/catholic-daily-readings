@@ -2476,3 +2476,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ruth 1:1, 3-6, 14']`, live=`['Ruth 1:1']`, fix=`['Ruth 1:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d73c4e7
+
+### ❌ 2024-08-09 — Friday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 01:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080924.cfm
+- **Status**: mismatch
+- **Lectionary**: 411
+- **Mismatches**:
+  - **first_reading**: stored=`['NA 2:1, 3']`, live=`['NA 2:1']`, fix=`['NA 2:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MATTHEW 5:10']`, fix=`['MATTHEW 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d8807e5
