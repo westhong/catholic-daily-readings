@@ -2895,3 +2895,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 16:1-5, 9-15']`, live=`['Exodus 16:1-5']`, fix=`['Exodus 16:1-5']`
   - **responsorial_psalm**: stored=`['Psalm 78:18-19, 23-24, 25-26, 27-28']`, live=`['Psalm 78:18-19']`, fix=`['Psalm 78:18-19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ca403e
+
+### ❌ 2027-04-28 — Wednesday of the Fifth Week of Easter
+- **Checked**: 2026-05-02 05:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042827.cfm
+- **Status**: mismatch
+- **Lectionary**: 287
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c14aeb1

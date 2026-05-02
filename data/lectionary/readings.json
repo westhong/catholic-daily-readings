@@ -76734,7 +76734,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 45:1, 4-6",
+            "citation": "Is 45:1",
             "sources": [
               "USCCB"
             ]
@@ -76742,7 +76742,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 96:1, 3, 4-5, 7-8, 9-10",
+            "citation": "Ps 96:1",
             "sources": [
               "USCCB"
             ]
@@ -76771,8 +76771,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Phil 2:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-23": [
