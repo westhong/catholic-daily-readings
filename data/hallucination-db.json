@@ -14247,5 +14247,60 @@
       ]
     },
     "checked_at": "2026-05-02T04:50:59+00:00"
+  },
+  "2023-09-20:0": {
+    "date": "2023-09-20",
+    "url": "https://bible.usccb.org/bible/readings/092023.cfm",
+    "lectionary_number": 445,
+    "feast": "Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 111:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 111:1-2"
+        ],
+        "fix": [
+          "Ps 111:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 6:63"
+        ],
+        "fix": [
+          "See Jn 6:63"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 111:1-2"
+      ],
+      "alleluia_verse": [
+        "See Jn 6:63"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Tm 3:14-16"
+      ],
+      "responsorial_psalm": [
+        "Ps 111:1-2"
+      ],
+      "alleluia_verse": [
+        "See Jn 6:63"
+      ],
+      "gospel": [
+        "Lk 7:31-35"
+      ]
+    },
+    "checked_at": "2026-05-02T04:55:14+00:00"
   }
 }
