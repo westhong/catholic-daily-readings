@@ -25794,5 +25794,24 @@
       ]
     },
     "checked_at": "2026-05-02T23:46:00+00:00"
+  },
+  "2023-03-04:0": {
+    "date": "2023-03-04",
+    "url": "https://bible.usccb.org/bible/readings/030423.cfm",
+    "lectionary_number": 229,
+    "feast": "Saturday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/030423.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T23:50:12+00:00"
   }
 }

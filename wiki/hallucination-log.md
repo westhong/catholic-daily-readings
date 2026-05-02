@@ -5034,3 +5034,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 112:4-5, 6-7, 8-9']`, live=`['Ps 112:4-5']`, fix=`['Ps 112:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6853650
+
+### 🚫 2023-03-04 — Saturday of the First Week of Lent
+- **Checked**: 2026-05-02 23:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030423.cfm
+- **Status**: url_dead
+- **Lectionary**: 229
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/030423.cfm`, live=fetch failed
