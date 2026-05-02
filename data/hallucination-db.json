@@ -18923,5 +18923,60 @@
       ]
     },
     "checked_at": "2026-05-02T12:05:20+00:00"
+  },
+  "2025-08-21:0": {
+    "date": "2025-08-21",
+    "url": "https://bible.usccb.org/bible/readings/082125.cfm",
+    "lectionary_number": 422,
+    "feast": "Memorial of Saint Pius X, Pope",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 40:5, 7-8"
+        ],
+        "live": [
+          "Psalm 40:5"
+        ],
+        "fix": [
+          "Psalm 40:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 95:8"
+        ],
+        "fix": [
+          "Psalm 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 40:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Judges 11:29-39"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ],
+      "gospel": [
+        "Matthew 22:1-14"
+      ]
+    },
+    "checked_at": "2026-05-02T12:10:33+00:00"
   }
 }

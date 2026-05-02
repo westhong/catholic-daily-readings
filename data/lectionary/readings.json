@@ -74649,7 +74649,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 139:1-3, 4-6",
+            "citation": "Ps 139:1-3",
             "sources": [
               "USCCB"
             ]
@@ -74662,8 +74662,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-30": [
