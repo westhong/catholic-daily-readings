@@ -14101,5 +14101,44 @@
       ]
     },
     "checked_at": "2026-05-02T04:30:11+00:00"
+  },
+  "2025-04-08:0": {
+    "date": "2025-04-08",
+    "url": "https://bible.usccb.org/bible/readings/040825.cfm",
+    "lectionary_number": 252,
+    "feast": "Tuesday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 102:2-3, 16-18, 19-21"
+        ],
+        "live": [
+          "Psalm 102:2-3"
+        ],
+        "fix": [
+          "Psalm 102:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 102:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Numbers 21:4-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 102:2-3"
+      ],
+      "gospel": [
+        "John 8:21-30"
+      ]
+    },
+    "checked_at": "2026-05-02T04:35:23+00:00"
   }
 }
