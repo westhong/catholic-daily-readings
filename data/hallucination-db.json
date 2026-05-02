@@ -16396,5 +16396,60 @@
       ]
     },
     "checked_at": "2026-05-02T08:05:42+00:00"
+  },
+  "2025-09-19:0": {
+    "date": "2025-09-19",
+    "url": "https://bible.usccb.org/bible/readings/091925.cfm",
+    "lectionary_number": 447,
+    "feast": "Friday of the Twenty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 49:6-7, 8-10, 17-18, 19-20"
+        ],
+        "live": [
+          "Psalm 49:6-7"
+        ],
+        "fix": [
+          "Psalm 49:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 11:25"
+        ],
+        "fix": [
+          "See Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 49:6-7"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 6:2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 49:6-7"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ],
+      "gospel": [
+        "Luke 8:1-3"
+      ]
+    },
+    "checked_at": "2026-05-02T08:10:57+00:00"
   }
 }

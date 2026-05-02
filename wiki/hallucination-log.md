@@ -3217,3 +3217,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 8-9']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a13ae70
+
+### ❌ 2025-09-19 — Friday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 08:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091925.cfm
+- **Status**: mismatch
+- **Lectionary**: 447
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 49:6-7, 8-10, 17-18, 19-20']`, live=`['Psalm 49:6-7']`, fix=`['Psalm 49:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94fd4be
