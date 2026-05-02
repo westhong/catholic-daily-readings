@@ -48466,7 +48466,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:2-3, 11-12, 20-21",
+            "citation": "Ps 33:2-3",
             "sources": [
               "USCCB"
             ]
@@ -48480,7 +48480,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-22": [

@@ -2364,3 +2364,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
   - **gospel**: stored=`['Matthew 18:1-5, 10, 12-14']`, live=`['Matthew 18:1-5']`, fix=`['Matthew 18:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88e4c83
+
+### ❌ 2025-03-28 — Friday of the Third Week of Lent
+- **Checked**: 2026-05-02 00:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032825.cfm
+- **Status**: mismatch
+- **Lectionary**: 241
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62e4222
