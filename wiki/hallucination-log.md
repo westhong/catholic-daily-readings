@@ -4958,3 +4958,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 68:29-30, 33-35']`, live=`['Psalm 68:29-30']`, fix=`['Psalm 68:29-30']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 17:17']`, fix=`['See John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ce2aba1
+
+### 🚫 2026-08-01 — 
+- **Checked**: 2026-05-02 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/801.cfm
+- **Status**: url_dead
+- **Lectionary**: 406
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/801.cfm`, live=fetch failed

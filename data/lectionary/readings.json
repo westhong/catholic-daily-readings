@@ -9654,7 +9654,15 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 1:57-66, 80",
+            "citation": "Luke 1:57-66",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Luke 1:76",
             "sources": [
               "USCCB"
             ]
@@ -9663,7 +9671,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/062425-Mass.cfm",
       "date": "2025-06-24",
-      "mass": "Mass"
+      "mass": "Mass",
+      "mass_idx": 1
     }
   ],
   "2025-06-25": [
