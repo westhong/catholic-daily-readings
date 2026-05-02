@@ -16658,5 +16658,45 @@
       ]
     },
     "checked_at": "2026-05-02T08:30:50+00:00"
+  },
+  "2023-09-23:0": {
+    "date": "2023-09-23",
+    "url": "https://bible.usccb.org/bible/readings/092323.cfm",
+    "lectionary_number": 448,
+    "feast": "Memorial of Saint Pius of Pietrelcina, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Lk 8:15"
+        ],
+        "fix": [
+          "See Lk 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Lk 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Tm 6:13-16"
+      ],
+      "responsorial_psalm": [
+        "Ps 100:1"
+      ],
+      "alleluia_verse": [
+        "See Lk 8:15"
+      ],
+      "gospel": [
+        "Lk 8:4-15"
+      ]
+    },
+    "checked_at": "2026-05-02T08:35:06+00:00"
   }
 }

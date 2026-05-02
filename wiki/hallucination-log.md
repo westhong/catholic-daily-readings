@@ -3266,3 +3266,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
   - **gospel**: stored=`['Matthew 9:36—10']`, live=`['Matthew 9:36']`, fix=`['Matthew 9:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97bcdb4
+
+### ❌ 2023-09-23 — Memorial of Saint Pius of Pietrelcina, Priest
+- **Checked**: 2026-05-02 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092323.cfm
+- **Status**: mismatch
+- **Lectionary**: 448
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 8:15']`, fix=`['See Lk 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/555f93f
