@@ -3311,3 +3311,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['ZEC 2:14-17']`, live=`['ZEC 2:14-17', 'Rv 11:19']`, fix=`['ZEC 2:14-17', 'Rv 11:19']`
   - **gospel**: stored=`['LK 1:26-38']`, live=`['LK 1:26-38', 'Lk 1:39-47']`, fix=`['LK 1:26-38', 'Lk 1:39-47']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e8e4e4
+
+### ❌ 2027-07-29 — Memorial of Saints Martha, Mary, and Lazarus
+- **Checked**: 2026-05-02 09:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072927.cfm
+- **Status**: mismatch
+- **Lectionary**: 404
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 40:16-21, 34-38']`, live=`['Exodus 40:16-21']`, fix=`['Exodus 40:16-21']`
+  - **responsorial_psalm**: stored=`['Psalm 84:3, 4, 5-6']`, live=`['Psalm 84:3']`, fix=`['Psalm 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24ac90a

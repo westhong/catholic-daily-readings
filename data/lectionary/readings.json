@@ -17422,7 +17422,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 146:6-7, 8-9, 9-10",
+            "citation": "Psalm 146:6-7",
             "sources": [
               "USCCB"
             ]
@@ -17451,8 +17451,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Isaiah 61:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-15": [

@@ -16853,5 +16853,75 @@
       ]
     },
     "checked_at": "2026-05-02T08:55:13+00:00"
+  },
+  "2027-07-29:0": {
+    "date": "2027-07-29",
+    "url": "https://bible.usccb.org/bible/readings/072927.cfm",
+    "lectionary_number": 404,
+    "feast": "Memorial of Saints Martha, Mary, and Lazarus",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 40:16-21, 34-38"
+        ],
+        "live": [
+          "Exodus 40:16-21"
+        ],
+        "fix": [
+          "Exodus 40:16-21"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 84:3, 4, 5-6"
+        ],
+        "live": [
+          "Psalm 84:3"
+        ],
+        "fix": [
+          "Psalm 84:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 40:16-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 84:3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 40:16-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 84:3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "John 11:19-27"
+      ]
+    },
+    "checked_at": "2026-05-02T09:00:25+00:00"
   }
 }
