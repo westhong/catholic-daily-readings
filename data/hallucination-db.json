@@ -17192,5 +17192,66 @@
       ]
     },
     "checked_at": "2026-05-02T09:25:15+00:00"
+  },
+  "2024-03-22:0": {
+    "date": "2024-03-22",
+    "url": "https://bible.usccb.org/bible/readings/032224.cfm",
+    "lectionary_number": 255,
+    "feast": "Friday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "18:2-3"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jn 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 20:10-13"
+      ],
+      "gospel": [
+        "Jn 10:31-42"
+      ]
+    },
+    "checked_at": "2026-05-02T09:30:30+00:00"
+  },
+  "2023-12-11:0": {
+    "date": "2023-12-11",
+    "url": "https://bible.usccb.org/bible/readings/121123.cfm",
+    "lectionary_number": 181,
+    "feast": "Monday of the Second Week of Advent",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {
+      "first_reading": [
+        "Is 35:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 85:9"
+      ],
+      "gospel": [
+        "Lk 5:17-26"
+      ]
+    },
+    "checked_at": "2026-05-02T09:35:43+00:00"
   }
 }

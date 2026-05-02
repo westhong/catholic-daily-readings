@@ -3371,3 +3371,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:2-3, 4-5, 6-7, 8-9, 10-11']`, live=`['Psalm 145:2-3']`, fix=`['Psalm 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 5:18']`, fix=`['1 Thessalonians 5:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3eef2f
+
+### ❌ 2024-03-22 — Friday of the Fifth Week of Lent
+- **Checked**: 2026-05-02 09:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032224.cfm
+- **Status**: mismatch
+- **Lectionary**: 255
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['18:2-3']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8183639
+
+### ✅ 2023-12-11 — Monday of the Second Week of Advent
+- **Checked**: 2026-05-02 09:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121123.cfm
+- **Status**: ok
+- **Lectionary**: 181

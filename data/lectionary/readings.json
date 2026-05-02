@@ -22484,54 +22484,39 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 52:13—53:12",
+            "citation": "Isaiah 52:13",
             "sources": [
-              "USCCB",
-              "CatholicGallery",
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 31:2, 6, 12-13, 15-16, 17, 25",
+            "citation": "Psalm 31:2",
             "sources": [
-              "USCCB",
-              "CatholicGallery",
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ],
         "second_reading": [
           {
-            "citation": "Hebrews 4:14-16; 5:7-9",
+            "citation": "Hebrews 4:14-16",
             "sources": [
-              "USCCB",
-              "CatholicGallery",
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Philippians 2:8-9",
-            "sources": [
-              "USCCB",
-              "CatholicGallery"
-            ]
-          }
-        ],
+        "verse_before_gospel": [],
         "gospel": [
           {
-            "citation": "John 18:1—19:42",
+            "citation": "John 18:1",
             "sources": [
-              "USCCB",
-              "CatholicGallery",
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-04": [
