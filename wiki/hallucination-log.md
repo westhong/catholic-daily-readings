@@ -4432,3 +4432,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ecccd4
+
+### 🚫 2026-08-21 — 
+- **Checked**: 2026-05-02 18:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/821.cfm
+- **Status**: url_dead
+- **Lectionary**: 423
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/821.cfm`, live=fetch failed
