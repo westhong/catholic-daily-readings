@@ -3501,3 +3501,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['31:5-6, 14, 15-16']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c82d3bf
+
+### ❌ 2023-12-19 — Tuesday of the Third Week of Advent
+- **Checked**: 2026-05-02 10:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121923.cfm
+- **Status**: mismatch
+- **Lectionary**: 195
+- **Mismatches**:
+  - **first_reading**: stored=`['Jgs 13:2-7, 24-25']`, live=`['Jgs 13:2-7']`, fix=`['Jgs 13:2-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b055659

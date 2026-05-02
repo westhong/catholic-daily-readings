@@ -17884,5 +17884,44 @@
       ]
     },
     "checked_at": "2026-05-02T10:30:55+00:00"
+  },
+  "2023-12-19:0": {
+    "date": "2023-12-19",
+    "url": "https://bible.usccb.org/bible/readings/121923.cfm",
+    "lectionary_number": 195,
+    "feast": "Tuesday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jgs 13:2-7, 24-25"
+        ],
+        "live": [
+          "Jgs 13:2-7"
+        ],
+        "fix": [
+          "Jgs 13:2-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jgs 13:2-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jgs 13:2-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 71:3-4"
+      ],
+      "gospel": [
+        "Lk 1:5-25"
+      ]
+    },
+    "checked_at": "2026-05-02T10:35:09+00:00"
   }
 }
