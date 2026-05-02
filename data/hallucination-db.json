@@ -23269,5 +23269,24 @@
       ]
     },
     "checked_at": "2026-05-02T19:36:01+00:00"
+  },
+  "2026-09-13:0": {
+    "date": "2026-09-13",
+    "url": "https://bible.usccb.org/bible/readings/913.cfm",
+    "lectionary_number": 130,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/913.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T19:40:13+00:00"
   }
 }

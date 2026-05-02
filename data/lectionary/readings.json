@@ -11430,7 +11430,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:3-4, 5-6, 12-13, 14",
+            "citation": "Psalm 90:3-4",
             "sources": [
               "USCCB"
             ]
@@ -11438,7 +11438,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Colossians 3:1-5, 9-11",
+            "citation": "Colossians 3:1-5",
             "sources": [
               "USCCB"
             ]
@@ -11459,8 +11459,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-04": [

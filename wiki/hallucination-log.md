@@ -4546,3 +4546,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 92:2-3, 13-14, 15-16']`, live=`['Psalm 92:2-3']`, fix=`['Psalm 92:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75db673
+
+### 🚫 2026-09-13 — 
+- **Checked**: 2026-05-02 19:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/913.cfm
+- **Status**: url_dead
+- **Lectionary**: 130
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/913.cfm`, live=fetch failed
