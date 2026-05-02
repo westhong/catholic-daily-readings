@@ -3451,3 +3451,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 103:1-2, 11-12, 19-20']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:26']`, fix=`['Jn 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a34aa2f
+
+### ❌ 2027-01-22 — Day of Prayer for the Legal Protection of Unborn Children
+- **Checked**: 2026-05-02 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012227.cfm
+- **Status**: mismatch
+- **Lectionary**: 315
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a909551

@@ -17639,5 +17639,45 @@
       ]
     },
     "checked_at": "2026-05-02T10:05:36+00:00"
+  },
+  "2027-01-22:0": {
+    "date": "2027-01-22",
+    "url": "https://bible.usccb.org/bible/readings/012227.cfm",
+    "lectionary_number": 315,
+    "feast": "Day of Prayer for the Legal Protection of Unborn Children",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 5:19"
+        ],
+        "fix": [
+          "2 Corinthians 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 8:6-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 85:8"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ],
+      "gospel": [
+        "Mark 3:13-19"
+      ]
+    },
+    "checked_at": "2026-05-02T10:10:52+00:00"
   }
 }
