@@ -37414,7 +37414,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 5-6",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -37428,15 +37428,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Amos 5:14",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-13": [

@@ -4801,3 +4801,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 5:27-32, 40']`, live=`['Acts 5:27-32']`, fix=`['Acts 5:27-32']`
   - **responsorial_psalm**: stored=`['Psalm 30:2, 4, 5-6, 11-12, 13']`, live=`['Psalm 30:2']`, fix=`['Psalm 30:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/640cd61
+
+### ❌ 2027-03-07 — Fourth Sunday of Lent Year B
+- **Checked**: 2026-05-02 21:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030727-YearB.cfm
+- **Status**: mismatch
+- **Lectionary**: 32
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Chronicles 36:14-16, 19-23']`, live=`['2 Chronicles 36:14-16']`, fix=`['2 Chronicles 36:14-16']`
+  - **responsorial_psalm**: stored=`['137:1-2, 3, 4-5, 6']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8982008

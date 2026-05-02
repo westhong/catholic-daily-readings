@@ -24616,5 +24616,53 @@
       ]
     },
     "checked_at": "2026-05-02T21:45:09+00:00"
+  },
+  "2027-03-07:1": {
+    "date": "2027-03-07",
+    "url": "https://bible.usccb.org/bible/readings/030727-YearB.cfm",
+    "lectionary_number": 32,
+    "feast": "Fourth Sunday of Lent Year B",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Chronicles 36:14-16, 19-23"
+        ],
+        "live": [
+          "2 Chronicles 36:14-16"
+        ],
+        "fix": [
+          "2 Chronicles 36:14-16"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "137:1-2, 3, 4-5, 6"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Chronicles 36:14-16"
+      ],
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Chronicles 36:14-16"
+      ],
+      "second_reading": [
+        "Ephesians 2:4-10"
+      ],
+      "gospel": [
+        "John 3:14-21"
+      ]
+    },
+    "checked_at": "2026-05-02T21:50:21+00:00"
   }
 }
