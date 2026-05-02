@@ -3583,3 +3583,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Lk 15:18']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Lk 15:1-3, 11-32']`, live=`['Lk 15:1-3']`, fix=`['Lk 15:1-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ddcef8e
+
+### ❌ 2026-03-17 — Tuesday of the Fourth Week of Lent
+- **Checked**: 2026-05-02 11:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031726.cfm
+- **Status**: mismatch
+- **Lectionary**: 245
+- **Mismatches**:
+  - **first_reading**: stored=`['Ezekiel 47:1-9, 12']`, live=`['Ezekiel 47:1-9']`, fix=`['Ezekiel 47:1-9']`
+  - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
+  - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de9b2f5
