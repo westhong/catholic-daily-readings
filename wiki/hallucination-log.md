@@ -3008,3 +3008,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 434
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/090524.cfm`, live=fetch failed
+
+### ❌ 2025-03-16 — Second Sunday of Lent
+- **Checked**: 2026-05-02 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031625.cfm
+- **Status**: mismatch
+- **Lectionary**: 27
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 15:5-12, 17-18']`, live=`['Genesis 15:5-12']`, fix=`['Genesis 15:5-12']`
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 7-8, 8-9, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **second_reading**: stored=`['Philippians 3:17—4']`, live=`['Philippians 3:17']`, fix=`['Philippians 3:17']`
+  - **verse_before_gospel**: stored=`['Matthew 17:5']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97693ac

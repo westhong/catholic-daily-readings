@@ -62955,7 +62955,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ez 47:1-2, 8-9, 12",
+            "citation": "Ez 47:1-2",
             "sources": [
               "USCCB"
             ]
@@ -62963,7 +62963,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 46:2-3, 5-6, 8-9",
+            "citation": "Ps 46:2-3",
             "sources": [
               "USCCB"
             ]
@@ -62992,8 +62992,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Chr 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-10": [
