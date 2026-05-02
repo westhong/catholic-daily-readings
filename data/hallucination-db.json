@@ -16087,5 +16087,60 @@
       ]
     },
     "checked_at": "2026-05-02T07:35:29+00:00"
+  },
+  "2025-01-30:0": {
+    "date": "2025-01-30",
+    "url": "https://bible.usccb.org/bible/readings/013025.cfm",
+    "lectionary_number": 320,
+    "feast": "Thursday of the Third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 24:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 24:1-2"
+        ],
+        "fix": [
+          "Psalm 24:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:105"
+        ],
+        "fix": [
+          "Psalm 119:105"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 24:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 10:19-25"
+      ],
+      "responsorial_psalm": [
+        "Psalm 24:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ],
+      "gospel": [
+        "Mark 4:21-25"
+      ]
+    },
+    "checked_at": "2026-05-02T07:40:42+00:00"
   }
 }

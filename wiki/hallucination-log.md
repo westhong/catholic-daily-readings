@@ -3158,3 +3158,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 104:1, 24, 29-30, 31, 34']`, live=`['Psalm 104:1']`, fix=`['Psalm 104:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a07702d
+
+### ❌ 2025-01-30 — Thursday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-02 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013025.cfm
+- **Status**: mismatch
+- **Lectionary**: 320
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 24:1-2, 3-4']`, live=`['Psalm 24:1-2']`, fix=`['Psalm 24:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98064bd
