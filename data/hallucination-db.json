@@ -24504,5 +24504,60 @@
       ]
     },
     "checked_at": "2026-05-02T21:35:44+00:00"
+  },
+  "2024-06-25:0": {
+    "date": "2024-06-25",
+    "url": "https://bible.usccb.org/bible/readings/062524.cfm",
+    "lectionary_number": 372,
+    "feast": "Tuesday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 8:12"
+        ],
+        "fix": [
+          "JN 8:12"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "MT 7:6, 12-14"
+        ],
+        "live": [
+          "MT 7:6"
+        ],
+        "fix": [
+          "MT 7:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "JN 8:12"
+      ],
+      "gospel": [
+        "MT 7:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 KGS 19:9"
+      ],
+      "responsorial_psalm": [
+        "PS 48:2-3"
+      ],
+      "alleluia_verse": [
+        "JN 8:12"
+      ],
+      "gospel": [
+        "MT 7:6"
+      ]
+    },
+    "checked_at": "2026-05-02T21:40:56+00:00"
   }
 }

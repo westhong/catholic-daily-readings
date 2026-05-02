@@ -4781,3 +4781,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
   - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ecbb22
+
+### ❌ 2024-06-25 — Tuesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-02 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062524.cfm
+- **Status**: mismatch
+- **Lectionary**: 372
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 8:12']`, fix=`['JN 8:12']`
+  - **gospel**: stored=`['MT 7:6, 12-14']`, live=`['MT 7:6']`, fix=`['MT 7:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03faa49
