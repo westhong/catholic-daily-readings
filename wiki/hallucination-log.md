@@ -2541,3 +2541,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 605
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/725.cfm`, live=fetch failed
+
+### ❌ 2026-03-04 — Wednesday of the Second Week of Lent
+- **Checked**: 2026-05-02 02:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030426.cfm
+- **Status**: mismatch
+- **Lectionary**: 232
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 31:5-6, 14, 15-16']`, live=`['Psalm 31:5-6']`, fix=`['Psalm 31:5-6']`
+  - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9456c2f
