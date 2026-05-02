@@ -23668,7 +23668,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 2:14a, 36-41",
+            "citation": "Acts 2:14",
             "sources": [
               "USCCB"
             ]
@@ -23676,7 +23676,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 23:1-3a, 3b4, 5, 6",
+            "citation": "Psalm 23: 1",
             "sources": [
               "USCCB"
             ]
@@ -23684,7 +23684,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Peter 2:20b-25",
+            "citation": "1 Peter 2:20",
             "sources": [
               "USCCB"
             ]
@@ -23705,8 +23705,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-27": [

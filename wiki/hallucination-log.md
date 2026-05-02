@@ -2916,3 +2916,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 96:1, 3, 4-5, 7-8, 9-10']`, live=`['Ps 96:1']`, fix=`['Ps 96:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d91f759
+
+### ❌ 2025-01-17 — Memorial of Saint Anthony, Abbot
+- **Checked**: 2026-05-02 05:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011725.cfm
+- **Status**: mismatch
+- **Lectionary**: 309
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 4:1-5, 11']`, live=`['Hebrews 4:1-5']`, fix=`['Hebrews 4:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9f6d922

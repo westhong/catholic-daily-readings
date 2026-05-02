@@ -14788,5 +14788,60 @@
       ]
     },
     "checked_at": "2026-05-02T05:35:16+00:00"
+  },
+  "2025-01-17:0": {
+    "date": "2025-01-17",
+    "url": "https://bible.usccb.org/bible/readings/011725.cfm",
+    "lectionary_number": 309,
+    "feast": "Memorial of Saint Anthony, Abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hebrews 4:1-5, 11"
+        ],
+        "live": [
+          "Hebrews 4:1-5"
+        ],
+        "fix": [
+          "Hebrews 4:1-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hebrews 4:1-5"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 4:1-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 78:3"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Mark 2:1-12"
+      ]
+    },
+    "checked_at": "2026-05-02T05:40:30+00:00"
   }
 }
