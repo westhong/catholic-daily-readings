@@ -3275,3 +3275,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 8:15']`, fix=`['See Lk 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/555f93f
+
+### 🚫 2026-12-11 — 
+- **Checked**: 2026-05-02 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261211.cfm
+- **Status**: url_dead
+- **Lectionary**: 185
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261211.cfm`, live=fetch failed
