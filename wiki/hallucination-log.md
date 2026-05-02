@@ -2938,3 +2938,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Peter 2:20b-25']`, live=`['1 Peter 2:20']`, fix=`['1 Peter 2:20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f601b25
+
+### ❌ 2023-05-15 — Monday of the Sixth Week of Easter
+- **Checked**: 2026-05-02 05:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051523.cfm
+- **Status**: mismatch
+- **Lectionary**: 291
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+  - **gospel**: stored=`['Jn 15:26—16']`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/86447a0
