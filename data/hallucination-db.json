@@ -19033,5 +19033,78 @@
       ]
     },
     "checked_at": "2026-05-02T12:15:47+00:00"
+  },
+  "2024-12-08:0": {
+    "date": "2024-12-08",
+    "url": "https://bible.usccb.org/bible/readings/120824.cfm",
+    "lectionary_number": 6,
+    "feast": "Second Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 126:1-2, 2-3, 4-5, 6"
+        ],
+        "live": [
+          "Ps 126:1-2"
+        ],
+        "fix": [
+          "Ps 126:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Phil 1:4-6, 8-11"
+        ],
+        "live": [
+          "Phil 1:4-6"
+        ],
+        "fix": [
+          "Phil 1:4-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 3:4"
+        ],
+        "fix": [
+          "Lk 3:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 126:1-2"
+      ],
+      "second_reading": [
+        "Phil 1:4-6"
+      ],
+      "alleluia_verse": [
+        "Lk 3:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Bar 5:1-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 126:1-2"
+      ],
+      "second_reading": [
+        "Phil 1:4-6"
+      ],
+      "alleluia_verse": [
+        "Lk 3:4"
+      ],
+      "gospel": [
+        "Lk 3:1-6"
+      ]
+    },
+    "checked_at": "2026-05-02T12:25:18+00:00"
   }
 }

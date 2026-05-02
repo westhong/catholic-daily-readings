@@ -3712,3 +3712,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 139:1-3, 4-6']`, live=`['Ps 139:1-3']`, fix=`['Ps 139:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3343d4
+
+### ❌ 2024-12-08 — Second Sunday of Advent
+- **Checked**: 2026-05-02 12:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120824.cfm
+- **Status**: mismatch
+- **Lectionary**: 6
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 126:1-2, 2-3, 4-5, 6']`, live=`['Ps 126:1-2']`, fix=`['Ps 126:1-2']`
+  - **second_reading**: stored=`['Phil 1:4-6, 8-11']`, live=`['Phil 1:4-6']`, fix=`['Phil 1:4-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d699626
