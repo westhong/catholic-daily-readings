@@ -21312,5 +21312,75 @@
       ]
     },
     "checked_at": "2026-05-02T16:20:49+00:00"
+  },
+  "2023-07-31:0": {
+    "date": "2023-07-31",
+    "url": "https://bible.usccb.org/bible/readings/073123.cfm",
+    "lectionary_number": 401,
+    "feast": "Memorial of Saint Ignatius of Loyola, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 32:15-24, 30-34"
+        ],
+        "live": [
+          "Ex 32:15-24"
+        ],
+        "fix": [
+          "Ex 32:15-24"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 106:19-20, 21-22, 23"
+        ],
+        "live": [
+          "Ps 106:19-20"
+        ],
+        "fix": [
+          "Ps 106:19-20"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jas 1:18"
+        ],
+        "fix": [
+          "Jas 1:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 32:15-24"
+      ],
+      "responsorial_psalm": [
+        "Ps 106:19-20"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 32:15-24"
+      ],
+      "responsorial_psalm": [
+        "Ps 106:19-20"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ],
+      "gospel": [
+        "Mt 13:31-35"
+      ]
+    },
+    "checked_at": "2026-05-02T16:26:00+00:00"
   }
 }

@@ -4172,3 +4172,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1d1b05
+
+### ❌ 2023-07-31 — Memorial of Saint Ignatius of Loyola, Priest
+- **Checked**: 2026-05-02 16:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073123.cfm
+- **Status**: mismatch
+- **Lectionary**: 401
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 32:15-24, 30-34']`, live=`['Ex 32:15-24']`, fix=`['Ex 32:15-24']`
+  - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:18']`, fix=`['Jas 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ad9722
