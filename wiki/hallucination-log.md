@@ -2926,3 +2926,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 4:1-5, 11']`, live=`['Hebrews 4:1-5']`, fix=`['Hebrews 4:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9f6d922
+
+### ❌ 2026-04-26 — Fourth Sunday of Easter
+- **Checked**: 2026-05-02 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042626.cfm
+- **Status**: mismatch
+- **Lectionary**: 47
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 2:14a, 36-41']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
+  - **responsorial_psalm**: stored=`['Psalm 23:1-3a, 3b4, 5, 6']`, live=`['Psalm 23: 1']`, fix=`['Psalm 23: 1']`
+  - **second_reading**: stored=`['1 Peter 2:20b-25']`, live=`['1 Peter 2:20']`, fix=`['1 Peter 2:20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f601b25
