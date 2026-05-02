@@ -3510,3 +3510,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **first_reading**: stored=`['Jgs 13:2-7, 24-25']`, live=`['Jgs 13:2-7']`, fix=`['Jgs 13:2-7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b055659
+
+### ❌ 2023-06-05 — Memorial of Saint Boniface, Bishop and Martyr
+- **Checked**: 2026-05-02 10:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060523.cfm
+- **Status**: mismatch
+- **Lectionary**: 353
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c854699
