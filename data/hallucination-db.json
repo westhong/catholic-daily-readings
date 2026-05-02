@@ -17679,5 +17679,53 @@
       ]
     },
     "checked_at": "2026-05-02T10:10:52+00:00"
+  },
+  "2025-04-02:0": {
+    "date": "2025-04-02",
+    "url": "https://bible.usccb.org/bible/readings/040225.cfm",
+    "lectionary_number": 246,
+    "feast": "Wednesday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 145:8-9, 13"
+        ],
+        "live": [
+          "Psalm 145:8-9"
+        ],
+        "fix": [
+          "Psalm 145:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 11:25a, 26"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 145:8-9"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 49:8-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:8-9"
+      ],
+      "gospel": [
+        "John 5:17-30"
+      ]
+    },
+    "checked_at": "2026-05-02T10:15:16+00:00"
   }
 }

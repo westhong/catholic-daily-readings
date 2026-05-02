@@ -3460,3 +3460,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a909551
+
+### ❌ 2025-04-02 — Wednesday of the Fourth Week of Lent
+- **Checked**: 2026-05-02 10:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040225.cfm
+- **Status**: mismatch
+- **Lectionary**: 246
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:8-9, 13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
+  - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b929ae0
