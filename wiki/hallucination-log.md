@@ -4379,3 +4379,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['47:2-3, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57ccb41
+
+### ❌ 2023-11-20 — Monday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-02 18:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112023.cfm
+- **Status**: mismatch
+- **Lectionary**: 497
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Mc 1:10-15, 41-43, 54-57, 62-63']`, live=`['1 Mc 1:10-15']`, fix=`['1 Mc 1:10-15']`
+  - **responsorial_psalm**: stored=`['Ps 119:53, 61, 134, 150, 155, 158']`, live=`['Ps 119:53']`, fix=`['Ps 119:53']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d60aa0

@@ -62284,7 +62284,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 90:12-13, 14-15, 16-17",
+            "citation": "Ps 90:12-13",
             "sources": [
               "USCCB"
             ]
@@ -62313,8 +62313,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-14": [

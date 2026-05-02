@@ -22396,5 +22396,75 @@
       ]
     },
     "checked_at": "2026-05-02T18:10:25+00:00"
+  },
+  "2023-11-20:0": {
+    "date": "2023-11-20",
+    "url": "https://bible.usccb.org/bible/readings/112023.cfm",
+    "lectionary_number": 497,
+    "feast": "Monday of the Thirty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Mc 1:10-15, 41-43, 54-57, 62-63"
+        ],
+        "live": [
+          "1 Mc 1:10-15"
+        ],
+        "fix": [
+          "1 Mc 1:10-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:53, 61, 134, 150, 155, 158"
+        ],
+        "live": [
+          "Ps 119:53"
+        ],
+        "fix": [
+          "Ps 119:53"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:12"
+        ],
+        "fix": [
+          "Jn 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Mc 1:10-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:53"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Mc 1:10-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:53"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ],
+      "gospel": [
+        "Lk 18:35-43"
+      ]
+    },
+    "checked_at": "2026-05-02T18:16:41+00:00"
   }
 }
