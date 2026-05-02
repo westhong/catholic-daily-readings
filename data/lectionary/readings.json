@@ -59577,7 +59577,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 51:12-13, 14-15, 18-19",
+            "citation": "PS 51:12-13",
             "sources": [
               "USCCB"
             ]
@@ -59598,8 +59598,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-23": [

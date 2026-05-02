@@ -3640,3 +3640,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15', 'Acts 1:12-14']`, fix=`['Genesis 3:9-15', 'Acts 1:12-14']`
   - **responsorial_psalm**: stored=`['Psalm 87:1-2, 3']`, live=`['Psalm 87:1-2']`, fix=`['Psalm 87:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e6d971a
+
+### ❌ 2024-10-04 — Memorial of Saint Francis of Assisi
+- **Checked**: 2026-05-02 11:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100424.cfm
+- **Status**: mismatch
+- **Lectionary**: 459
+- **Mismatches**:
+  - **first_reading**: stored=`['Jb 38:1, 12-21']`, live=`['Jb 38:1']`, fix=`['Jb 38:1']`
+  - **responsorial_psalm**: stored=`['Ps 139:1-3, 7-8, 9-10, 13-14']`, live=`['Ps 139:1-3']`, fix=`['Ps 139:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fed8c84
