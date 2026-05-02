@@ -16530,5 +16530,60 @@
       ]
     },
     "checked_at": "2026-05-02T08:20:25+00:00"
+  },
+  "2027-08-24:0": {
+    "date": "2027-08-24",
+    "url": "https://bible.usccb.org/bible/readings/082427.cfm",
+    "lectionary_number": 629,
+    "feast": "Feast of Saint Bartholomew, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 145:10-11, 12-13, 17-18"
+        ],
+        "live": [
+          "Psalm 145:10-11"
+        ],
+        "fix": [
+          "Psalm 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 1:49"
+        ],
+        "fix": [
+          "John 1:49"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "alleluia_verse": [
+        "John 1:49"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Revelation 21:9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "alleluia_verse": [
+        "John 1:49"
+      ],
+      "gospel": [
+        "John 1:45-51"
+      ]
+    },
+    "checked_at": "2026-05-02T08:25:37+00:00"
   }
 }

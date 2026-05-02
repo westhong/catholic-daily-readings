@@ -3245,3 +3245,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 102:2-3, 16-18, 19-21']`, live=`['Ps 102:2-3']`, fix=`['Ps 102:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d06d2db
+
+### ❌ 2027-08-24 — Feast of Saint Bartholomew, Apostle
+- **Checked**: 2026-05-02 08:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082427.cfm
+- **Status**: mismatch
+- **Lectionary**: 629
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84ae979
