@@ -2589,3 +2589,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e721d1d
+
+### ❌ 2027-07-18 — Sixteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 02:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071827.cfm
+- **Status**: mismatch
+- **Lectionary**: 107
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 23:1-3, 3-4, 5, 6']`, live=`['Psalm 23:1-3']`, fix=`['Psalm 23:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbb25c9

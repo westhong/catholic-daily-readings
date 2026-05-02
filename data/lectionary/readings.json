@@ -4499,7 +4499,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:4-5, 6-7, 16-17, 18-19",
+            "citation": "Psalm 34:4-5",
             "sources": [
               "USCCB"
             ]
@@ -4513,15 +4513,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 4:4b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-12": [
