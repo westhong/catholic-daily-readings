@@ -3820,3 +3820,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c81a3b
+
+### 🚫 2026-11-03 — 
+- **Checked**: 2026-05-02 13:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261103.cfm
+- **Status**: url_dead
+- **Lectionary**: 486
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261103.cfm`, live=fetch failed
