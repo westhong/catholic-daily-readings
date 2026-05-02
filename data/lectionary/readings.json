@@ -10286,7 +10286,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 46:1-7, 28-30",
+            "citation": "Genesis 46:1-7",
             "sources": [
               "USCCB"
             ]
@@ -10294,7 +10294,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 37:3-4, 18-19, 27-28, 39-40",
+            "citation": "Psalm 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -10315,8 +10315,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 16:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-12": [

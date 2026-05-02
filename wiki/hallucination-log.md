@@ -2687,3 +2687,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 62:2-3, 6-7, 9']`, live=`['Psalm 62:2-3']`, fix=`['Psalm 62:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03a4686
+
+### ❌ 2023-11-07 — Tuesday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-02 03:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110723.cfm
+- **Status**: mismatch
+- **Lectionary**: 486
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8047076
