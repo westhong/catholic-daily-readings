@@ -17790,5 +17790,60 @@
       ]
     },
     "checked_at": "2026-05-02T10:20:29+00:00"
+  },
+  "2024-10-09:0": {
+    "date": "2024-10-09",
+    "url": "https://bible.usccb.org/bible/readings/100924.cfm",
+    "lectionary_number": 463,
+    "feast": "Wednesday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gal 2:1-2, 7-14"
+        ],
+        "live": [
+          "Gal 2:1-2"
+        ],
+        "fix": [
+          "Gal 2:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Rom 8:15"
+        ],
+        "fix": [
+          "Rom 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gal 2:1-2"
+      ],
+      "alleluia_verse": [
+        "Rom 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gal 2:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 117:1"
+      ],
+      "alleluia_verse": [
+        "Rom 8:15"
+      ],
+      "gospel": [
+        "Lk 11:1-4"
+      ]
+    },
+    "checked_at": "2026-05-02T10:25:42+00:00"
   }
 }

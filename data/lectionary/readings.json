@@ -67004,14 +67004,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "31:5-6, 14, 15-16",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 20:17-28",
@@ -67020,15 +67013,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jn 8:12",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-09": [

@@ -3481,3 +3481,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92cdeb7
+
+### ❌ 2024-10-09 — Wednesday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-02 10:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100924.cfm
+- **Status**: mismatch
+- **Lectionary**: 463
+- **Mismatches**:
+  - **first_reading**: stored=`['Gal 2:1-2, 7-14']`, live=`['Gal 2:1-2']`, fix=`['Gal 2:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Rom 8:15']`, fix=`['Rom 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/53b1a48
