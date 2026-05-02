@@ -47570,13 +47570,22 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 14:1, 7-11",
+            "citation": "Luke 14:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:29",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-31": [

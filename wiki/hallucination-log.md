@@ -2432,3 +2432,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Luke 15:18']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Luke 15:1-3, 11-32']`, live=`['Luke 15:1-3']`, fix=`['Luke 15:1-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c29ab2c
+
+### ❌ 2023-06-15 — Thursday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-02 01:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061523.cfm
+- **Status**: mismatch
+- **Lectionary**: 362
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Cor 3:15—4']`, live=`['2 Cor 3:15']`, fix=`['2 Cor 3:15']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de1ec94

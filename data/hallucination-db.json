@@ -12341,5 +12341,60 @@
       ]
     },
     "checked_at": "2026-05-02T01:25:41+00:00"
+  },
+  "2023-06-15:0": {
+    "date": "2023-06-15",
+    "url": "https://bible.usccb.org/bible/readings/061523.cfm",
+    "lectionary_number": 362,
+    "feast": "Thursday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Cor 3:15—4"
+        ],
+        "live": [
+          "2 Cor 3:15"
+        ],
+        "fix": [
+          "2 Cor 3:15"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Cor 3:15"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 3:15"
+      ],
+      "responsorial_psalm": [
+        "Ps 85:9"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-02T01:30:52+00:00"
   }
 }
