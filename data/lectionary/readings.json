@@ -56942,7 +56942,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 89:4-5, 29-30, 31-32, 33-34",
+            "citation": "Ps 89:4-5",
             "sources": [
               "USCCB"
             ]
@@ -56963,8 +56963,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Cor 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-23": [

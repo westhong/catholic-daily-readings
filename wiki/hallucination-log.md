@@ -3946,3 +3946,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 9']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 17:5']`, fix=`['Matthew 17:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a7189ea
+
+### ❌ 2023-03-19 — Fourth Sunday of Lent
+- **Checked**: 2026-05-02 14:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031923.cfm
+- **Status**: mismatch
+- **Lectionary**: 31
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 23: 1-3']`, live=`['Ps 23: 1']`, fix=`['Ps 23: 1']`
+  - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3178819
