@@ -3811,3 +3811,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 86:3-4, 5-6, 9-10']`, live=`['Psalm 86:3-4']`, fix=`['Psalm 86:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6bc5db9
+
+### ❌ 2024-04-22 — Monday of the Fourth Week of Easter
+- **Checked**: 2026-05-02 13:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042224.cfm
+- **Status**: mismatch
+- **Lectionary**: 279
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c81a3b

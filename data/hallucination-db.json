@@ -19544,5 +19544,45 @@
       ]
     },
     "checked_at": "2026-05-02T13:10:35+00:00"
+  },
+  "2024-04-22:0": {
+    "date": "2024-04-22",
+    "url": "https://bible.usccb.org/bible/readings/042224.cfm",
+    "lectionary_number": 279,
+    "feast": "Monday of the Fourth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:14"
+        ],
+        "fix": [
+          "Jn 10:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 10:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 11:1-18"
+      ],
+      "responsorial_psalm": [
+        "Ps 42:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 10:14"
+      ],
+      "gospel": [
+        "Jn 10:1-10"
+      ]
+    },
+    "checked_at": "2026-05-02T13:15:49+00:00"
   }
 }
