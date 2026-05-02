@@ -51208,7 +51208,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 24:2, 9-17",
+            "citation": "2 Sm 24:2",
             "sources": [
               "USCCB"
             ]
@@ -51216,7 +51216,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 32:1-2, 5, 6, 7",
+            "citation": "PS 32:1-2",
             "sources": [
               "USCCB"
             ]
@@ -51237,8 +51237,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-01": [

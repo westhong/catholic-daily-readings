@@ -4918,3 +4918,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 638
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/914.cfm`, live=fetch failed
+
+### ❌ 2023-01-08 — The Epiphany of the Lord
+- **Checked**: 2026-05-02 22:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010823.cfm
+- **Status**: mismatch
+- **Lectionary**: 20
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 72:1-2, 7-8, 10-11, 12-13']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 2:2']`, fix=`['Mt 2:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3e5af0
