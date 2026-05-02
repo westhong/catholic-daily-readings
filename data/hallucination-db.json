@@ -12873,5 +12873,60 @@
       ]
     },
     "checked_at": "2026-05-02T02:30:35+00:00"
+  },
+  "2023-12-01:0": {
+    "date": "2023-12-01",
+    "url": "https://bible.usccb.org/bible/readings/120123.cfm",
+    "lectionary_number": 507,
+    "feast": "Friday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Dn 3:75, 76, 77, 78, 79, 80, 81"
+        ],
+        "live": [
+          "Dn 3:75"
+        ],
+        "fix": [
+          "Dn 3:75"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 21:28"
+        ],
+        "fix": [
+          "Lk 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Dn 3:75"
+      ],
+      "alleluia_verse": [
+        "Lk 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 7:2-14"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:75"
+      ],
+      "alleluia_verse": [
+        "Lk 21:28"
+      ],
+      "gospel": [
+        "Lk 21:29-33"
+      ]
+    },
+    "checked_at": "2026-05-02T02:35:45+00:00"
   }
 }

@@ -2551,3 +2551,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 31:5-6, 14, 15-16']`, live=`['Psalm 31:5-6']`, fix=`['Psalm 31:5-6']`
   - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9456c2f
+
+### ❌ 2023-12-01 — Friday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 02:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120123.cfm
+- **Status**: mismatch
+- **Lectionary**: 507
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Dn 3:75, 76, 77, 78, 79, 80, 81']`, live=`['Dn 3:75']`, fix=`['Dn 3:75']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:28']`, fix=`['Lk 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23f73b4
