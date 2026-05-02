@@ -3227,3 +3227,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 49:6-7, 8-10, 17-18, 19-20']`, live=`['Psalm 49:6-7']`, fix=`['Psalm 49:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94fd4be
+
+### ❌ 2026-02-14 — Memorial of Saints Cyril, Monk, and Methodius, Bishop
+- **Checked**: 2026-05-02 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021426.cfm
+- **Status**: mismatch
+- **Lectionary**: 334
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0967863
