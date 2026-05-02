@@ -4681,3 +4681,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-7']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3cec55
+
+### ❌ 2026-01-20 — Tuesday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-02 20:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012026.cfm
+- **Status**: mismatch
+- **Lectionary**: 312
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:20, 21-22, 27-28']`, live=`['Psalm 89:20']`, fix=`['Psalm 89:20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Ephesians 1:17-18']`, fix=`['See Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a0bdf8

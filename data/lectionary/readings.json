@@ -22493,7 +22493,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 71:1-2, 3-4",
+            "citation": "Psalm 71:1-2",
             "sources": [
               "USCCB"
             ]
@@ -22501,13 +22501,14 @@
         ],
         "gospel": [
           {
-            "citation": "John 13:21-33, 36-38",
+            "citation": "John 13:21-33",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-01": [
