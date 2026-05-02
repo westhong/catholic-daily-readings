@@ -4729,3 +4729,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9520536
+
+### ❌ 2026-05-19 — Tuesday of the Seventh Week of Easter
+- **Checked**: 2026-05-02 21:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051926.cfm
+- **Status**: mismatch
+- **Lectionary**: 298
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 68:10-11, 20-21']`, live=`['Psalm 68:10-11']`, fix=`['Psalm 68:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
+  - **gospel**: stored=`['John 17:1-11a']`, live=`['John 17:1-11']`, fix=`['John 17:1-11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8492621
