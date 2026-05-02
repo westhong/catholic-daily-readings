@@ -13317,5 +13317,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T03:20:08+00:00"
+  },
+  "2025-03-01:0": {
+    "date": "2025-03-01",
+    "url": "https://bible.usccb.org/bible/readings/030125.cfm",
+    "lectionary_number": 346,
+    "feast": "Saturday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:13-14, 15-16, 17-18"
+        ],
+        "live": [
+          "Psalm 103:13-14"
+        ],
+        "fix": [
+          "Psalm 103:13-14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:25"
+        ],
+        "fix": [
+          "Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:13-14"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 17:1-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:13-14"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 10:13-16"
+      ]
+    },
+    "checked_at": "2026-05-02T03:25:25+00:00"
   }
 }
