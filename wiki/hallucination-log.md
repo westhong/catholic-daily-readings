@@ -3387,3 +3387,16 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/121123.cfm
 - **Status**: ok
 - **Lectionary**: 181
+
+### ❌ 2026-04-03 — Good Friday
+- **Checked**: 2026-05-02 09:42 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040326.cfm
+- **Status**: mismatch
+- **Lectionary**: 40
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 52:13—53:12']`, live=`['Isaiah 52:13']`, fix=`['Isaiah 52:13']`
+  - **responsorial_psalm**: stored=`['Psalm 31:2, 6, 12-13, 15-16, 17, 25']`, live=`['Psalm 31:2']`, fix=`['Psalm 31:2']`
+  - **second_reading**: stored=`['Hebrews 4:14-16; 5:7-9']`, live=`['Hebrews 4:14-16']`, fix=`['Hebrews 4:14-16']`
+  - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 18:1—19:42']`, live=`['John 18:1']`, fix=`['John 18:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a399fa
