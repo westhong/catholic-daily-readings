@@ -25533,5 +25533,62 @@
       ]
     },
     "checked_at": "2026-05-02T23:20:59+00:00"
+  },
+  "2023-07-30:0": {
+    "date": "2023-07-30",
+    "url": "https://bible.usccb.org/bible/readings/073023.cfm",
+    "lectionary_number": 109,
+    "feast": "Seventeenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kgs 3:5, 7-12"
+        ],
+        "live": [
+          "1 Kgs 3:5"
+        ],
+        "fix": [
+          "1 Kgs 3:5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:57, 72, 76-77, 127-128, 129-130"
+        ],
+        "live": [
+          "Ps 119:57"
+        ],
+        "fix": [
+          "Ps 119:57"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Kgs 3:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:57"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 3:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:57"
+      ],
+      "second_reading": [
+        "Rom 8:28-30"
+      ],
+      "gospel": [
+        "Mt 13:44-52"
+      ]
+    },
+    "checked_at": "2026-05-02T23:25:09+00:00"
   }
 }

@@ -4985,3 +4985,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 33:22']`, fix=`['Psalm 33:22']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a1643da
+
+### ❌ 2023-07-30 — Seventeenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 23:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073023.cfm
+- **Status**: mismatch
+- **Lectionary**: 109
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kgs 3:5, 7-12']`, live=`['1 Kgs 3:5']`, fix=`['1 Kgs 3:5']`
+  - **responsorial_psalm**: stored=`['Ps 119:57, 72, 76-77, 127-128, 129-130']`, live=`['Ps 119:57']`, fix=`['Ps 119:57']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c0d082
