@@ -4881,3 +4881,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Ephesians 4:30—5']`, live=`['Ephesians 4:30']`, fix=`['Ephesians 4:30']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0fa8db4
+
+### ❌ 2027-06-09 — Wednesday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-02 22:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060927.cfm
+- **Status**: mismatch
+- **Lectionary**: 361
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 99:5, 6, 7, 8, 9']`, live=`['Psalm 99:5']`, fix=`['Psalm 99:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/671a2bd

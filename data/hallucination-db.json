@@ -25039,5 +25039,60 @@
       ]
     },
     "checked_at": "2026-05-02T22:25:43+00:00"
+  },
+  "2027-06-09:0": {
+    "date": "2027-06-09",
+    "url": "https://bible.usccb.org/bible/readings/060927.cfm",
+    "lectionary_number": 361,
+    "feast": "Wednesday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 99:5, 6, 7, 8, 9"
+        ],
+        "live": [
+          "Psalm 99:5"
+        ],
+        "fix": [
+          "Psalm 99:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 25:4"
+        ],
+        "fix": [
+          "Psalm 25:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 99:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 25:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 3:4-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 99:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 25:4"
+      ],
+      "gospel": [
+        "Matthew 5:17-19"
+      ]
+    },
+    "checked_at": "2026-05-02T22:30:54+00:00"
   }
 }
