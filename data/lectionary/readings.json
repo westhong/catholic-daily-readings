@@ -23201,20 +23201,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 118:1 and 14-15ab, 16-18, 19-21",
+            "citation": "Psalm 118:1",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "sequence": [
-          {
-            "citation": "Victimae paschali laudes (optional, liturgical text)",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "sequence": [],
         "alleluia": [
           {
             "citation": "Psalm 118:24",
@@ -23230,8 +23223,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-12": [

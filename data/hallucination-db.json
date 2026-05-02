@@ -22921,5 +22921,63 @@
       ]
     },
     "checked_at": "2026-05-02T19:00:34+00:00"
+  },
+  "2024-07-28:0": {
+    "date": "2024-07-28",
+    "url": "https://bible.usccb.org/bible/readings/072824.cfm",
+    "lectionary_number": 110,
+    "feast": "Seventeenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:10-11, 15-16, 17-18"
+        ],
+        "live": [
+          "Ps 145:10-11"
+        ],
+        "fix": [
+          "Ps 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 4:42-44"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "second_reading": [
+        "Eph 4:1-6"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Jn 6:1-15"
+      ]
+    },
+    "checked_at": "2026-05-02T19:05:46+00:00"
   }
 }
