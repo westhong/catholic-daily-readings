@@ -2486,3 +2486,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['NA 2:1, 3']`, live=`['NA 2:1']`, fix=`['NA 2:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MATTHEW 5:10']`, fix=`['MATTHEW 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d8807e5
+
+### 🚫 2026-11-24 — 
+- **Checked**: 2026-05-02 02:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261124.cfm
+- **Status**: url_dead
+- **Lectionary**: 504
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261124.cfm`, live=fetch failed

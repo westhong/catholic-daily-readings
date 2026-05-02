@@ -683,20 +683,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 49:2, 8-10",
+            "citation": "Gn 49:2",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "72:1-2, 3-4",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 1:1-17",
@@ -705,7 +698,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-18": [
