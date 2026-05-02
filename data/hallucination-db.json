@@ -11602,5 +11602,60 @@
       ]
     },
     "checked_at": "2026-05-02T00:05:19+00:00"
+  },
+  "2027-04-26:0": {
+    "date": "2027-04-26",
+    "url": "https://bible.usccb.org/bible/readings/042627.cfm",
+    "lectionary_number": 285,
+    "feast": "Monday of the Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 115:1-2, 3-4, 15-16"
+        ],
+        "live": [
+          "Psalm 115:1-2"
+        ],
+        "fix": [
+          "Psalm 115:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:26"
+        ],
+        "fix": [
+          "John 14:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 115:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 14:5-18"
+      ],
+      "responsorial_psalm": [
+        "Psalm 115:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ],
+      "gospel": [
+        "John 14:21-26"
+      ]
+    },
+    "checked_at": "2026-05-02T00:10:11+00:00"
   }
 }
