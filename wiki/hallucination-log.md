@@ -4152,3 +4152,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/032824.cfm
 - **Status**: ok
 - **Lectionary**: 260
+
+### ❌ 2023-12-24 — Fourth Sunday of Advent
+- **Checked**: 2026-05-02 16:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122423.cfm
+- **Status**: mismatch
+- **Lectionary**: 11
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 7:1-5, 8']`, live=`['2 Sm 7:1-5']`, fix=`['2 Sm 7:1-5']`
+  - **responsorial_psalm**: stored=`['Ps 89:2-3, 4-5, 27, 29']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 1:38']`, fix=`['Lk 1:38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8f1b932
