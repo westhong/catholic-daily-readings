@@ -4203,3 +4203,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 145:2-3, 4-5, 6-7, 8-9']`, live=`['PS 145:2-3']`, fix=`['PS 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/232850f
+
+### 🚫 2026-11-25 — 
+- **Checked**: 2026-05-02 16:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261125.cfm
+- **Status**: url_dead
+- **Lectionary**: 505
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261125.cfm`, live=fetch failed
