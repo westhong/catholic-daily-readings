@@ -4623,3 +4623,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 90:2, 3-4']`, live=`['Psalm 90:2']`, fix=`['Psalm 90:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cec470b
+
+### ❌ 2023-02-16 — Thursday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-02 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021623.cfm
+- **Status**: mismatch
+- **Lectionary**: 338
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 102:16-18, 19-21, 29']`, live=`['Ps 102:16-18']`, fix=`['Ps 102:16-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ad3240
