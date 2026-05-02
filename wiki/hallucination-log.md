@@ -4526,3 +4526,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 188
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261215.cfm`, live=fetch failed
+
+### ❌ 2026-04-13 — Monday of the Second Week of Easter
+- **Checked**: 2026-05-02 19:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041326.cfm
+- **Status**: mismatch
+- **Lectionary**: 267
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 2:1-3, 4-7a, 7b-9']`, live=`['Psalm 2:1-3']`, fix=`['Psalm 2:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8738553
