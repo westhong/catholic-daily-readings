@@ -3081,3 +3081,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 80:2-3, 5-7']`, live=`['Psalm 80:2-3']`, fix=`['Psalm 80:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4c2067c
+
+### 🚫 2026-10-16 — 
+- **Checked**: 2026-05-02 07:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1016.cfm
+- **Status**: url_dead
+- **Lectionary**: 471
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1016.cfm`, live=fetch failed

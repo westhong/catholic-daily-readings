@@ -15710,5 +15710,24 @@
       ]
     },
     "checked_at": "2026-05-02T06:55:12+00:00"
+  },
+  "2026-10-16:0": {
+    "date": "2026-10-16",
+    "url": "https://bible.usccb.org/bible/readings/1016.cfm",
+    "lectionary_number": 471,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1016.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T07:01:26+00:00"
   }
 }
