@@ -4192,3 +4192,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b4a522d
+
+### ❌ 2024-07-08 — Monday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070824.cfm
+- **Status**: mismatch
+- **Lectionary**: 383
+- **Mismatches**:
+  - **first_reading**: stored=`['Hos 2:16, 17']`, live=`['Hos 2:16']`, fix=`['Hos 2:16']`
+  - **responsorial_psalm**: stored=`['PS 145:2-3, 4-5, 6-7, 8-9']`, live=`['PS 145:2-3']`, fix=`['PS 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/232850f

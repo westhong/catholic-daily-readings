@@ -21422,5 +21422,75 @@
       ]
     },
     "checked_at": "2026-05-02T16:30:13+00:00"
+  },
+  "2024-07-08:0": {
+    "date": "2024-07-08",
+    "url": "https://bible.usccb.org/bible/readings/070824.cfm",
+    "lectionary_number": 383,
+    "feast": "Monday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hos 2:16, 17"
+        ],
+        "live": [
+          "Hos 2:16"
+        ],
+        "fix": [
+          "Hos 2:16"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 145:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "PS 145:2-3"
+        ],
+        "fix": [
+          "PS 145:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hos 2:16"
+      ],
+      "responsorial_psalm": [
+        "PS 145:2-3"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 2:16"
+      ],
+      "responsorial_psalm": [
+        "PS 145:2-3"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Mt 9:18-26"
+      ]
+    },
+    "checked_at": "2026-05-02T16:35:24+00:00"
   }
 }
