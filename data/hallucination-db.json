@@ -12396,5 +12396,60 @@
       ]
     },
     "checked_at": "2026-05-02T01:30:52+00:00"
+  },
+  "2027-10-30:0": {
+    "date": "2027-10-30",
+    "url": "https://bible.usccb.org/bible/readings/103027.cfm",
+    "lectionary_number": 484,
+    "feast": "Saturday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:29"
+        ],
+        "fix": [
+          "Matthew 11:29"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 14:1, 7-11"
+        ],
+        "live": [
+          "Luke 14:1"
+        ],
+        "fix": [
+          "Luke 14:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ],
+      "gospel": [
+        "Luke 14:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 11:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 94:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ],
+      "gospel": [
+        "Luke 14:1"
+      ]
+    },
+    "checked_at": "2026-05-02T01:36:03+00:00"
   }
 }

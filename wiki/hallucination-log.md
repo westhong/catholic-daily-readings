@@ -2442,3 +2442,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Cor 3:15—4']`, live=`['2 Cor 3:15']`, fix=`['2 Cor 3:15']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de1ec94
+
+### ❌ 2027-10-30 — Saturday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-02 01:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103027.cfm
+- **Status**: mismatch
+- **Lectionary**: 484
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
+  - **gospel**: stored=`['Luke 14:1, 7-11']`, live=`['Luke 14:1']`, fix=`['Luke 14:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f832103
