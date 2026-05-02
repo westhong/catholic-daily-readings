@@ -24016,5 +24016,59 @@
       ]
     },
     "checked_at": "2026-05-02T20:51:01+00:00"
+  },
+  "2026-03-31:0": {
+    "date": "2026-03-31",
+    "url": "https://bible.usccb.org/bible/readings/033126.cfm",
+    "lectionary_number": 258,
+    "feast": "Tuesday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 71:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 71:1-2"
+        ],
+        "fix": [
+          "Psalm 71:1-2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 13:21-33, 36-38"
+        ],
+        "live": [
+          "John 13:21-33"
+        ],
+        "fix": [
+          "John 13:21-33"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 71:1-2"
+      ],
+      "gospel": [
+        "John 13:21-33"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 49:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 71:1-2"
+      ],
+      "gospel": [
+        "John 13:21-33"
+      ]
+    },
+    "checked_at": "2026-05-02T20:55:12+00:00"
   }
 }

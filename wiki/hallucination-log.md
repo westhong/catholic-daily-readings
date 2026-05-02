@@ -4691,3 +4691,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 89:20, 21-22, 27-28']`, live=`['Psalm 89:20']`, fix=`['Psalm 89:20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Ephesians 1:17-18']`, fix=`['See Ephesians 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a0bdf8
+
+### ❌ 2026-03-31 — Tuesday of Holy Week
+- **Checked**: 2026-05-02 20:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033126.cfm
+- **Status**: mismatch
+- **Lectionary**: 258
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
+  - **gospel**: stored=`['John 13:21-33, 36-38']`, live=`['John 13:21-33']`, fix=`['John 13:21-33']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e631552

@@ -47083,7 +47083,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 7:9-10, 13-14",
+            "citation": "Daniel 7:9-10",
             "sources": [
               "USCCB"
             ]
@@ -47104,8 +47104,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 103:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-30": [
