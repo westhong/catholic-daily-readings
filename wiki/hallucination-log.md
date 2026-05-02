@@ -4899,3 +4899,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 427
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/826.cfm`, live=fetch failed
+
+### ❌ 2023-09-06 — Wednesday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-02 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090623.cfm
+- **Status**: mismatch
+- **Lectionary**: 433
+- **Mismatches**:
+  - **first_reading**: stored=`['Col 1:1-8']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Ps 52:10, 11']`, live=`['Ps 52:10']`, fix=`['Ps 52:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e00334b

@@ -25113,5 +25113,66 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-02T22:35:05+00:00"
+  },
+  "2023-09-06:0": {
+    "date": "2023-09-06",
+    "url": "https://bible.usccb.org/bible/readings/090623.cfm",
+    "lectionary_number": 433,
+    "feast": "Wednesday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Col 1:1-8"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 52:10, 11"
+        ],
+        "live": [
+          "Ps 52:10"
+        ],
+        "fix": [
+          "Ps 52:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 4:18"
+        ],
+        "fix": [
+          "Lk 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Ps 52:10"
+      ],
+      "alleluia_verse": [
+        "Lk 4:18"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Ps 52:10"
+      ],
+      "alleluia_verse": [
+        "Lk 4:18"
+      ],
+      "gospel": [
+        "Lk 4:38-44"
+      ]
+    },
+    "checked_at": "2026-05-02T22:40:17+00:00"
   }
 }
