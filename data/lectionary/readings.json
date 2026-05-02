@@ -21703,7 +21703,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ezekiel 47:1-9, 12",
+            "citation": "Ezekiel 47:1-9",
             "sources": [
               "USCCB"
             ]
@@ -21711,7 +21711,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 46:2-3, 5-6, 8-9",
+            "citation": "Psalm 46:2-3",
             "sources": [
               "USCCB"
             ]
@@ -21725,15 +21725,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Psalm 51:12a, 14a",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-18": [

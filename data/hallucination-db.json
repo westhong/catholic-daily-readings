@@ -18271,5 +18271,83 @@
       ]
     },
     "checked_at": "2026-05-02T11:05:20+00:00"
+  },
+  "2023-03-11:0": {
+    "date": "2023-03-11",
+    "url": "https://bible.usccb.org/bible/readings/031123.cfm",
+    "lectionary_number": 235,
+    "feast": "Saturday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Mi 7:14-15, 18-20"
+        ],
+        "live": [
+          "Mi 7:14-15"
+        ],
+        "fix": [
+          "Mi 7:14-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 3-4, 9-10, 11-12"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Lk 15:18"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Lk 15:1-3, 11-32"
+        ],
+        "live": [
+          "Lk 15:1-3"
+        ],
+        "fix": [
+          "Lk 15:1-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Mi 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Lk 15:1-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mi 7:14-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "gospel": [
+        "Lk 15:1-3"
+      ]
+    },
+    "checked_at": "2026-05-02T11:10:34+00:00"
   }
 }

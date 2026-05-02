@@ -3571,3 +3571,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65622b6
+
+### ❌ 2023-03-11 — Saturday of the Second Week of Lent
+- **Checked**: 2026-05-02 11:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031123.cfm
+- **Status**: mismatch
+- **Lectionary**: 235
+- **Mismatches**:
+  - **first_reading**: stored=`['Mi 7:14-15, 18-20']`, live=`['Mi 7:14-15']`, fix=`['Mi 7:14-15']`
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 9-10, 11-12']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **verse_before_gospel**: stored=`['Lk 15:18']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Lk 15:1-3, 11-32']`, live=`['Lk 15:1-3']`, fix=`['Lk 15:1-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ddcef8e
