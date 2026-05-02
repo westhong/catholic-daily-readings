@@ -39438,7 +39438,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:4-5, 18-19, 20",
+            "citation": "Psalm 33:4-5",
             "sources": [
               "USCCB"
             ]
@@ -39459,8 +39459,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-31": [

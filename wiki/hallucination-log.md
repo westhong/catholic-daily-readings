@@ -4329,3 +4329,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:21']`, fix=`['John 17:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644449d
+
+### ❌ 2025-04-07 — Monday of the Fifth Week of Lent
+- **Checked**: 2026-05-02 17:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040725.cfm
+- **Status**: mismatch
+- **Lectionary**: 251
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 13:1-9, 15-17, 19-30, 33-62']`, live=`['Daniel 13:1-9']`, fix=`['Daniel 13:1-9']`
+  - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e26e8a7
