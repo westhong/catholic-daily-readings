@@ -70807,7 +70807,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dt 8:2-3, 14",
+            "citation": "Dt 8:2-3",
             "sources": [
               "USCCB"
             ]
@@ -70815,7 +70815,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 147:12-13, 14-15, 19-20",
+            "citation": "Ps 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -70844,8 +70844,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-12": [
