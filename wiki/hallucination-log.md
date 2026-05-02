@@ -3291,3 +3291,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 198
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261222.cfm`, live=fetch failed
+
+### ❌ 2027-04-03 — Saturday in the Octave of Easter
+- **Checked**: 2026-05-02 08:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040327.cfm
+- **Status**: mismatch
+- **Lectionary**: 266
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+  - **gospel**: stored=`['to every creature.” En Español View Cale']`, live=`['Mark 16:9-15']`, fix=`['Mark 16:9-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6cf2a63
