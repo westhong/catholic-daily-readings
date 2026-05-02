@@ -58804,7 +58804,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 51:12-13, 14-15, 18-19",
+            "citation": "Ps 51:12-13",
             "sources": [
               "USCCB"
             ]
@@ -58825,8 +58825,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 16:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-09": [
