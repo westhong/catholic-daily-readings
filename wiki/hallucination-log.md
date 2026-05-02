@@ -4632,3 +4632,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 102:16-18, 19-21, 29']`, live=`['Ps 102:16-18']`, fix=`['Ps 102:16-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ad3240
+
+### ❌ 2024-04-28 — Fifth Sunday of Easter
+- **Checked**: 2026-05-02 20:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042824.cfm
+- **Status**: mismatch
+- **Lectionary**: 53
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 22:26-27, 28, 30, 31-32']`, live=`['Ps 22:26-27']`, fix=`['Ps 22:26-27']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4313f56
