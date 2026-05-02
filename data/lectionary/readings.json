@@ -70358,7 +70358,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 103:1-2, 11-12, 19-20",
+            "citation": "Ps 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -70379,8 +70379,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-05-27": [

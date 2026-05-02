@@ -17514,5 +17514,75 @@
       ]
     },
     "checked_at": "2026-05-02T09:56:01+00:00"
+  },
+  "2023-05-27:0": {
+    "date": "2023-05-27",
+    "url": "https://bible.usccb.org/bible/readings/052723.cfm",
+    "lectionary_number": 302,
+    "feast": "Saturday of the Seventh Week of Easter - Mass in the Morning",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 28:16-20, 30-31"
+        ],
+        "live": [
+          "Acts 28:16-20"
+        ],
+        "fix": [
+          "Acts 28:16-20"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 11:4, 5"
+        ],
+        "live": [
+          "Ps 11:4"
+        ],
+        "fix": [
+          "Ps 11:4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 16:7"
+        ],
+        "fix": [
+          "Jn 16:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 28:16-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 11:4"
+      ],
+      "alleluia_verse": [
+        "Jn 16:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 28:16-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 11:4"
+      ],
+      "alleluia_verse": [
+        "Jn 16:7"
+      ],
+      "gospel": [
+        "Jn 21:20-25"
+      ]
+    },
+    "checked_at": "2026-05-02T10:00:17+00:00"
   }
 }
