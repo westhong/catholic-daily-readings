@@ -16791,5 +16791,67 @@
       ]
     },
     "checked_at": "2026-05-02T08:51:00+00:00"
+  },
+  "2023-12-12:0": {
+    "date": "2023-12-12",
+    "url": "https://bible.usccb.org/bible/readings/121223.cfm",
+    "lectionary_number": 690,
+    "feast": "Feast of Our Lady of Guadalupe",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "ZEC 2:14-17"
+        ],
+        "live": [
+          "ZEC 2:14-17",
+          "Rv 11:19"
+        ],
+        "fix": [
+          "ZEC 2:14-17",
+          "Rv 11:19"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "LK 1:26-38"
+        ],
+        "live": [
+          "LK 1:26-38",
+          "Lk 1:39-47"
+        ],
+        "fix": [
+          "LK 1:26-38",
+          "Lk 1:39-47"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "ZEC 2:14-17",
+        "Rv 11:19"
+      ],
+      "gospel": [
+        "LK 1:26-38",
+        "Lk 1:39-47"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "ZEC 2:14-17",
+        "Rv 11:19"
+      ],
+      "responsorial_psalm": [
+        "JUDITH 13:18"
+      ],
+      "gospel": [
+        "LK 1:26-38",
+        "Lk 1:39-47"
+      ]
+    },
+    "checked_at": "2026-05-02T08:55:13+00:00"
   }
 }

@@ -44328,7 +44328,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 40:16-21, 34-38",
+            "citation": "Exodus 40:16-21",
             "sources": [
               "USCCB"
             ]
@@ -44336,7 +44336,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 84:3, 4, 5-6",
+            "citation": "Psalm 84:3",
             "sources": [
               "USCCB"
             ]
@@ -44349,8 +44349,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-30": [

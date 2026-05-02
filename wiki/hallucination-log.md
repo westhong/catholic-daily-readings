@@ -3301,3 +3301,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
   - **gospel**: stored=`['to every creature.” En Español View Cale']`, live=`['Mark 16:9-15']`, fix=`['Mark 16:9-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6cf2a63
+
+### ❌ 2023-12-12 — Feast of Our Lady of Guadalupe
+- **Checked**: 2026-05-02 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121223.cfm
+- **Status**: mismatch
+- **Lectionary**: 690
+- **Mismatches**:
+  - **first_reading**: stored=`['ZEC 2:14-17']`, live=`['ZEC 2:14-17', 'Rv 11:19']`, fix=`['ZEC 2:14-17', 'Rv 11:19']`
+  - **gospel**: stored=`['LK 1:26-38']`, live=`['LK 1:26-38', 'Lk 1:39-47']`, fix=`['LK 1:26-38', 'Lk 1:39-47']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e8e4e4
