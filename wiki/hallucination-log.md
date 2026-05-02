@@ -3149,3 +3149,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Philemon 9-10, 12-17 I, Paul, an old man']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:135']`, fix=`['Psalm 119:135']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bda275a
+
+### ❌ 2027-05-16 — Pentecost Sunday - Mass during the Day
+- **Checked**: 2026-05-02 07:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051627-Day.cfm
+- **Status**: mismatch
+- **Lectionary**: 63
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 104:1, 24, 29-30, 31, 34']`, live=`['Psalm 104:1']`, fix=`['Psalm 104:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a07702d

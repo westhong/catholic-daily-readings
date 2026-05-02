@@ -16045,5 +16045,47 @@
       ]
     },
     "checked_at": "2026-05-02T07:30:51+00:00"
+  },
+  "2027-05-16:1": {
+    "date": "2027-05-16",
+    "url": "https://bible.usccb.org/bible/readings/051627-Day.cfm",
+    "lectionary_number": 63,
+    "feast": "Pentecost Sunday - Mass during the Day",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 104:1, 24, 29-30, 31, 34"
+        ],
+        "live": [
+          "Psalm 104:1"
+        ],
+        "fix": [
+          "Psalm 104:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 104:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 104:1"
+      ],
+      "second_reading": [
+        "1 Corinthians 12:3"
+      ],
+      "gospel": [
+        "John 20:19-23"
+      ]
+    },
+    "checked_at": "2026-05-02T07:35:29+00:00"
   }
 }
