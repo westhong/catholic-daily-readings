@@ -2715,3 +2715,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 647
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/929.cfm`, live=fetch failed
+
+### ❌ 2025-01-31 — Memorial of Saint John Bosco, Priest
+- **Checked**: 2026-05-02 04:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013125.cfm
+- **Status**: mismatch
+- **Lectionary**: 321
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 37:3-4, 5-6, 23-24, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ca993f
