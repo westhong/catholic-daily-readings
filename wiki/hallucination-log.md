@@ -3996,3 +3996,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Heb 13:15-17, 20-21']`, live=`['Heb 13:15-17']`, fix=`['Heb 13:15-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d82bd5
+
+### ❌ 2024-11-11 — Memorial of Saint Martin of Tours, Bishop
+- **Checked**: 2026-05-02 14:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111124.cfm
+- **Status**: mismatch
+- **Lectionary**: 491
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d65b72
