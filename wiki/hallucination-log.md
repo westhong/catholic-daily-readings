@@ -3913,3 +3913,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 1:1-2, 3, 4']`, live=`['PS 1:1-2']`, fix=`['PS 1:1-2']`
   - **verse_before_gospel**: stored=`['Mt 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b521885
+
+### ❌ 2024-07-31 — Memorial of Saint Ignatius of Loyola, Priest
+- **Checked**: 2026-05-02 14:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073124.cfm
+- **Status**: mismatch
+- **Lectionary**: 403
+- **Mismatches**:
+  - **first_reading**: stored=`['Jer 15:10, 16-21']`, live=`['Jer 15:10']`, fix=`['Jer 15:10']`
+  - **responsorial_psalm**: stored=`['Ps 59:2-3, 4, 10-11, 17, 18']`, live=`['Ps 59:2-3']`, fix=`['Ps 59:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:15']`, fix=`['Jn 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d91a6c6

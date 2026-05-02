@@ -19989,5 +19989,75 @@
       ]
     },
     "checked_at": "2026-05-02T14:05:15+00:00"
+  },
+  "2024-07-31:0": {
+    "date": "2024-07-31",
+    "url": "https://bible.usccb.org/bible/readings/073124.cfm",
+    "lectionary_number": 403,
+    "feast": "Memorial of Saint Ignatius of Loyola, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jer 15:10, 16-21"
+        ],
+        "live": [
+          "Jer 15:10"
+        ],
+        "fix": [
+          "Jer 15:10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 59:2-3, 4, 10-11, 17, 18"
+        ],
+        "live": [
+          "Ps 59:2-3"
+        ],
+        "fix": [
+          "Ps 59:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:15"
+        ],
+        "fix": [
+          "Jn 15:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jer 15:10"
+      ],
+      "responsorial_psalm": [
+        "Ps 59:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 15:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 15:10"
+      ],
+      "responsorial_psalm": [
+        "Ps 59:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 15:15"
+      ],
+      "gospel": [
+        "Mt 13:44-46"
+      ]
+    },
+    "checked_at": "2026-05-02T14:10:31+00:00"
   }
 }
