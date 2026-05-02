@@ -4390,3 +4390,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:53, 61, 134, 150, 155, 158']`, live=`['Ps 119:53']`, fix=`['Ps 119:53']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d60aa0
+
+### ❌ 2024-10-13 — Twenty-eighth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 18:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101324.cfm
+- **Status**: mismatch
+- **Lectionary**: 143
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 90:12-13, 14-15, 16-17']`, live=`['Ps 90:12-13']`, fix=`['Ps 90:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3ca95ae
