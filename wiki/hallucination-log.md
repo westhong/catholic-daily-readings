@@ -3070,3 +3070,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/427b95e
+
+### ❌ 2026-01-24 — Memorial of Saint Francis de Sales, Bishop and Doctor of the Church
+- **Checked**: 2026-05-02 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012426.cfm
+- **Status**: mismatch
+- **Lectionary**: 316
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Samuel 1:1-4, 11-12, 19, 23-27']`, live=`['2 Samuel 1:1-4']`, fix=`['2 Samuel 1:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 80:2-3, 5-7']`, live=`['Psalm 80:2-3']`, fix=`['Psalm 80:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4c2067c
