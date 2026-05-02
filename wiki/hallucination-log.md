@@ -2854,3 +2854,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:2-3, 16-17, 18-19, 20-21']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:63']`, fix=`['Jn 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c4adafb
+
+### ❌ 2023-08-02 — Wednesday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-02 05:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080223.cfm
+- **Status**: mismatch
+- **Lectionary**: 403
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 99:5, 6, 7, 9']`, live=`['Ps 99:5']`, fix=`['Ps 99:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:15']`, fix=`['Jn 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d6e55f0

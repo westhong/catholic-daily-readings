@@ -51465,7 +51465,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 34:4-5, 6-7, 16-17, 18-19",
+            "citation": "PS 34:4-5",
             "sources": [
               "USCCB"
             ]
@@ -51479,15 +51479,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Mt 4:4b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-21": [
