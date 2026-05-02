@@ -3411,3 +3411,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/af58744
+
+### ❌ 2025-06-02 — Monday of the Seventh Week of Easter
+- **Checked**: 2026-05-02 09:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060225.cfm
+- **Status**: mismatch
+- **Lectionary**: 297
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/557048a

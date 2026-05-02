@@ -7576,7 +7576,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 21-22, 25",
+            "citation": "Psalm 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -7597,8 +7597,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Revelation 1:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-16": [
