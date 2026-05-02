@@ -3400,3 +3400,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 18:1—19:42']`, live=`['John 18:1']`, fix=`['John 18:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a399fa
+
+### ❌ 2027-01-30 — Saturday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-02 09:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013027.cfm
+- **Status**: mismatch
+- **Lectionary**: 322
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 11:1-2, 8-19']`, live=`['Hebrews 11:1-2']`, fix=`['Hebrews 11:1-2']`
+  - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/af58744
