@@ -2989,3 +2989,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 4:12-17']`, fix=`['Matthew 4:12-17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/14850fb
+
+### ❌ 2025-06-25 — Wednesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-02 06:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062525.cfm
+- **Status**: mismatch
+- **Lectionary**: 373
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 15:1-12, 17-18']`, live=`['Genesis 15:1-12']`, fix=`['Genesis 15:1-12']`
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb5caac

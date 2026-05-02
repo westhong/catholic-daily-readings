@@ -15207,5 +15207,75 @@
       ]
     },
     "checked_at": "2026-05-02T06:10:48+00:00"
+  },
+  "2025-06-25:0": {
+    "date": "2025-06-25",
+    "url": "https://bible.usccb.org/bible/readings/062525.cfm",
+    "lectionary_number": 373,
+    "feast": "Wednesday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 15:1-12, 17-18"
+        ],
+        "live": [
+          "Genesis 15:1-12"
+        ],
+        "fix": [
+          "Genesis 15:1-12"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:1-2, 3-4, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 105:1-2"
+        ],
+        "fix": [
+          "Psalm 105:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:4"
+        ],
+        "fix": [
+          "John 15:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 15:1-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:1-2"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 15:1-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:1-2"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ],
+      "gospel": [
+        "Matthew 7:15-20"
+      ]
+    },
+    "checked_at": "2026-05-02T06:15:59+00:00"
   }
 }
