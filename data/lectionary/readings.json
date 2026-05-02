@@ -59486,7 +59486,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 34:2-3, 16-17, 18-19, 20-21",
+            "citation": "Ps 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -59515,8 +59515,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 6:63",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-26": [

@@ -2833,3 +2833,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 111:1-2, 3-4, 5-6']`, live=`['Ps 111:1-2']`, fix=`['Ps 111:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:63']`, fix=`['See Jn 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/426d314
+
+### ❌ 2026-04-22 — Wednesday of the Third Week of Easter
+- **Checked**: 2026-05-02 05:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042226.cfm
+- **Status**: mismatch
+- **Lectionary**: 276
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 8:1b-8']`, live=`['Acts 8:1']`, fix=`['Acts 8:1']`
+  - **responsorial_psalm**: stored=`['Psalm 66:1-3a, 4-5, 6-7a']`, live=`['Psalm 66:1-3']`, fix=`['Psalm 66:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:40']`, fix=`['See John 6:40']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65d4670
