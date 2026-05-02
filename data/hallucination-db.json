@@ -21581,5 +21581,45 @@
       ]
     },
     "checked_at": "2026-05-02T16:45:11+00:00"
+  },
+  "2025-07-19:0": {
+    "date": "2025-07-19",
+    "url": "https://bible.usccb.org/bible/readings/071925.cfm",
+    "lectionary_number": 394,
+    "feast": "Saturday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 5:19"
+        ],
+        "fix": [
+          "2 Corinthians 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 12:37-42"
+      ],
+      "responsorial_psalm": [
+        "Psalm 136:1"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ],
+      "gospel": [
+        "Matthew 12:14-21"
+      ]
+    },
+    "checked_at": "2026-05-02T16:50:24+00:00"
   }
 }

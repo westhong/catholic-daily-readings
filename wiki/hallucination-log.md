@@ -4222,3 +4222,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/786bb39
+
+### ❌ 2025-07-19 — Saturday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 16:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071925.cfm
+- **Status**: mismatch
+- **Lectionary**: 394
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c5710e

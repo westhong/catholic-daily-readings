@@ -61563,7 +61563,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 19:8, 10, 12-13, 14",
+            "citation": "Ps 19:8",
             "sources": [
               "USCCB"
             ]
@@ -61579,7 +61579,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mk 9:38-43, 45, 47-48",
+            "citation": "Mk 9:38-43",
             "sources": [
               "USCCB"
             ]
@@ -61593,7 +61593,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-30": [
