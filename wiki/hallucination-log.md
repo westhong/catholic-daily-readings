@@ -3744,3 +3744,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf76b0f
+
+### 🚫 2026-07-09 — Thursday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 12:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/79.cfm
+- **Status**: url_dead
+- **Lectionary**: 386
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/79.cfm`, live=fetch failed
