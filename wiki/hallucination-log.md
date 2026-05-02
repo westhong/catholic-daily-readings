@@ -2524,3 +2524,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 109:21-22, 26-27, 30-31']`, live=`['Psalm 109:21-22']`, fix=`['Psalm 109:21-22']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 19:38']`, fix=`['See Luke 19:38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6957e0f
+
+### ❌ 2027-05-01 — Saturday of the Fifth Week of Easter
+- **Checked**: 2026-05-02 02:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050127.cfm
+- **Status**: mismatch
+- **Lectionary**: 290
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a3c75c
