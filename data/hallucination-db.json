@@ -22335,5 +22335,66 @@
       ]
     },
     "checked_at": "2026-05-02T18:05:11+00:00"
+  },
+  "2023-01-21:0": {
+    "date": "2023-01-21",
+    "url": "https://bible.usccb.org/bible/readings/012123.cfm",
+    "lectionary_number": 316,
+    "feast": "Memorial of Saint Agnes, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Heb 9:2-3, 11-14"
+        ],
+        "live": [
+          "Heb 9:2-3"
+        ],
+        "fix": [
+          "Heb 9:2-3"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "47:2-3, 6-7, 8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Acts 16:14"
+        ],
+        "fix": [
+          "See Acts 16:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Heb 9:2-3"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Acts 16:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 9:2-3"
+      ],
+      "alleluia_verse": [
+        "See Acts 16:14"
+      ],
+      "gospel": [
+        "Mk 3:20-21"
+      ]
+    },
+    "checked_at": "2026-05-02T18:10:25+00:00"
   }
 }

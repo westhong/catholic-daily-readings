@@ -4368,3 +4368,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:157, 160, 161, 165, 166, 168']`, live=`['Psalm 119:157']`, fix=`['Psalm 119:157']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/da15479
+
+### ❌ 2023-01-21 — Memorial of Saint Agnes, Virgin and Martyr
+- **Checked**: 2026-05-02 18:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012123.cfm
+- **Status**: mismatch
+- **Lectionary**: 316
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 9:2-3, 11-14']`, live=`['Heb 9:2-3']`, fix=`['Heb 9:2-3']`
+  - **responsorial_psalm**: stored=`['47:2-3, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57ccb41
