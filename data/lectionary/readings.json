@@ -72989,7 +72989,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ex 1:8-14, 22",
+            "citation": "Ex 1:8-14",
             "sources": [
               "USCCB"
             ]
@@ -73005,7 +73005,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 10:34—11",
+            "citation": "Mt 10:34",
             "sources": [
               "USCCB"
             ]
@@ -73018,8 +73018,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-18": [
