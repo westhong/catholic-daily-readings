@@ -21621,5 +21621,62 @@
       ]
     },
     "checked_at": "2026-05-02T16:50:24+00:00"
+  },
+  "2024-09-29:0": {
+    "date": "2024-09-29",
+    "url": "https://bible.usccb.org/bible/readings/092924.cfm",
+    "lectionary_number": 137,
+    "feast": "Twenty-sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:8, 10, 12-13, 14"
+        ],
+        "live": [
+          "Ps 19:8"
+        ],
+        "fix": [
+          "Ps 19:8"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mk 9:38-43, 45, 47-48"
+        ],
+        "live": [
+          "Mk 9:38-43"
+        ],
+        "fix": [
+          "Mk 9:38-43"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "gospel": [
+        "Mk 9:38-43"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 11:25-29"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "second_reading": [
+        "Jas 5:1-6"
+      ],
+      "gospel": [
+        "Mk 9:38-43"
+      ]
+    },
+    "checked_at": "2026-05-02T16:55:37+00:00"
   }
 }

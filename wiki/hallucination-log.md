@@ -4231,3 +4231,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c5710e
+
+### ❌ 2024-09-29 — Twenty-sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 16:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092924.cfm
+- **Status**: mismatch
+- **Lectionary**: 137
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 19:8, 10, 12-13, 14']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
+  - **gospel**: stored=`['Mk 9:38-43, 45, 47-48']`, live=`['Mk 9:38-43']`, fix=`['Mk 9:38-43']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e9e55c
