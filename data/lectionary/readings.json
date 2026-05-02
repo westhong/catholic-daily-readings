@@ -4737,7 +4737,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 15:5-12, 17-18",
+            "citation": "Genesis 15:5-12",
             "sources": [
               "USCCB"
             ]
@@ -4745,7 +4745,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 7-8, 8-9, 13-14",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -4753,7 +4753,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Philippians 3:17—4",
+            "citation": "Philippians 3:17",
             "sources": [
               "USCCB"
             ]
@@ -4767,15 +4767,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 17:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-17": [

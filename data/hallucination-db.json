@@ -15277,5 +15277,24 @@
       ]
     },
     "checked_at": "2026-05-02T06:15:59+00:00"
+  },
+  "2024-09-05:0": {
+    "date": "2024-09-05",
+    "url": "https://bible.usccb.org/bible/readings/090524.cfm",
+    "lectionary_number": 434,
+    "feast": "Thursday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/090524.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T06:20:11+00:00"
   }
 }

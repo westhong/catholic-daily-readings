@@ -3000,3 +3000,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb5caac
+
+### 🚫 2024-09-05 — Thursday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-02 06:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090524.cfm
+- **Status**: url_dead
+- **Lectionary**: 434
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/090524.cfm`, live=fetch failed
