@@ -8761,7 +8761,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 104:1-2, 24",
+            "citation": "Psalm 104:1-2",
             "sources": [
               "USCCB"
             ]
@@ -8794,7 +8794,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/060825-ExtendedVigil.cfm",
       "date": "2025-06-08",
-      "mass": "ExtendedVigil"
+      "mass": "ExtendedVigil",
+      "mass_idx": 1
     },
     {
       "lectionary_number": 63,

@@ -3550,3 +3550,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Zephaniah 3:1-2, 9-13']`, live=`['Zephaniah 3:1-2']`, fix=`['Zephaniah 3:1-2']`
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 6-7, 17-18, 19']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/346028d
+
+### ❌ 2024-02-14 — Ash Wednesday
+- **Checked**: 2026-05-02 11:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021424.cfm
+- **Status**: mismatch
+- **Lectionary**: 219
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 51:3-4, 5-6']`, live=`['Ps 51:3-4']`, fix=`['Ps 51:3-4']`
+  - **second_reading**: stored=`['2 Cor 5:20—6']`, live=`['2 Cor 5:20']`, fix=`['2 Cor 5:20']`
+  - **verse_before_gospel**: stored=`['See Ps 95:8']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/117fd01

@@ -18148,5 +18148,86 @@
       ]
     },
     "checked_at": "2026-05-02T10:55:52+00:00"
+  },
+  "2024-02-14:0": {
+    "date": "2024-02-14",
+    "url": "https://bible.usccb.org/bible/readings/021424.cfm",
+    "lectionary_number": 219,
+    "feast": "Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 51:3-4, 5-6"
+        ],
+        "live": [
+          "Ps 51:3-4"
+        ],
+        "fix": [
+          "Ps 51:3-4"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Cor 5:20—6"
+        ],
+        "live": [
+          "2 Cor 5:20"
+        ],
+        "fix": [
+          "2 Cor 5:20"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Ps 95:8"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 6:1-6, 16-18"
+        ],
+        "live": [
+          "Mt 6:1-6"
+        ],
+        "fix": [
+          "Mt 6:1-6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "second_reading": [
+        "2 Cor 5:20"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mt 6:1-6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jl 2:12-18"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "second_reading": [
+        "2 Cor 5:20"
+      ],
+      "gospel": [
+        "Mt 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-02T11:00:06+00:00"
   }
 }
