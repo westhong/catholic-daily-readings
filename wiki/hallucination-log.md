@@ -2410,3 +2410,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 126:1-2, 2-3, 4-5, 6']`, live=`['Psalm 126:1-2']`, fix=`['Psalm 126:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4fdc4fc
+
+### ❌ 2023-03-30 — Thursday of the Fifth Week of Lent
+- **Checked**: 2026-05-02 01:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033023.cfm
+- **Status**: mismatch
+- **Lectionary**: 254
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 105:4-5, 6-7, 8-9']`, live=`['Ps 105:4-5']`, fix=`['Ps 105:4-5']`
+  - **verse_before_gospel**: stored=`['Ps 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3d10222

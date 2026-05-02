@@ -4980,7 +4980,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Micah 7:14-15, 18-20",
+            "citation": "Micah 7:14-15",
             "sources": [
               "USCCB"
             ]
@@ -4988,7 +4988,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+            "citation": "Psalm 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -4996,21 +4996,15 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 15:1-3, 11-32",
+            "citation": "Luke 15:1-3",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Luke 15:18",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-23": [
