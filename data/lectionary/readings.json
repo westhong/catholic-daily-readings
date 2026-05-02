@@ -72977,7 +72977,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ex 3:1-6, 9-12",
+            "citation": "Ex 3:1-6",
             "sources": [
               "USCCB"
             ]
@@ -73006,8 +73006,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-20": [
