@@ -2746,3 +2746,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 3-4, 5-6, 7']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/30dba76
+
+### ❌ 2027-07-12 — Monday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071227.cfm
+- **Status**: mismatch
+- **Lectionary**: 389
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 1:8-14, 22']`, live=`['Exodus 1:8-14']`, fix=`['Exodus 1:8-14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
+  - **gospel**: stored=`['Matthew 10:34—11']`, live=`['Matthew 10:34']`, fix=`['Matthew 10:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15663fc

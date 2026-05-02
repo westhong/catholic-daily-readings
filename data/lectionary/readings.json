@@ -24154,7 +24154,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 96:1-2a, 2b-3, 10",
+            "citation": "Psalm 96:1-2",
             "sources": [
               "USCCB"
             ]
@@ -24175,8 +24175,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-08": [
