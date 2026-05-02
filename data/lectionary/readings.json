@@ -26131,7 +26131,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3",
+            "citation": "Psalm 98:1",
             "sources": [
               "USCCB"
             ]
@@ -26152,8 +26152,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-12": [
