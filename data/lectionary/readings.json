@@ -54744,7 +54744,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 10:25-26, 34-35, 44-48",
+            "citation": "Acts 10:25-26",
             "sources": [
               "USCCB"
             ]
@@ -54752,7 +54752,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 98:1, 2-3, 3-4",
+            "citation": "Ps 98:1",
             "sources": [
               "USCCB"
             ]
@@ -54781,8 +54781,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-06": [

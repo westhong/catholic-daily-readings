@@ -3519,3 +3519,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c854699
+
+### ❌ 2025-12-25 — The Nativity of the Lord (Christmas) Mass during the Night
+- **Checked**: 2026-05-02 10:47 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122525-Night.cfm
+- **Status**: mismatch
+- **Lectionary**: 14
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 96: 1-2, 2-3, 11-12, 13']`, live=`['Psalm 96: 1']`, fix=`['Psalm 96: 1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 2:10-11']`, fix=`['Luke 2:10-11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f5e089f
