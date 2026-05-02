@@ -3733,3 +3733,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e5bfd5
+
+### ❌ 2023-03-27 — Monday of the Fifth Week of Lent
+- **Checked**: 2026-05-02 12:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032723.cfm
+- **Status**: mismatch
+- **Lectionary**: 251
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 13:1-9, 15-17, 19-30, 33-62']`, live=`['Dn 13:1-9']`, fix=`['Dn 13:1-9']`
+  - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf76b0f
