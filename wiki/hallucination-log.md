@@ -3562,3 +3562,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['See Ps 95:8']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/117fd01
+
+### ❌ 2025-06-08 — Pentecost Sunday - Extended Vigil
+- **Checked**: 2026-05-02 11:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060825-ExtendedVigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 62
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65622b6
