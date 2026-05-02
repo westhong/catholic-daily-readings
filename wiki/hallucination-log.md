@@ -3986,3 +3986,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:82, 83, 84, 85, 86, 87']`, live=`['Daniel 3:82']`, fix=`['Daniel 3:82']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75cf8ee
+
+### ❌ 2023-02-04 — Saturday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-02 14:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020423.cfm
+- **Status**: mismatch
+- **Lectionary**: 328
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 13:15-17, 20-21']`, live=`['Heb 13:15-17']`, fix=`['Heb 13:15-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d82bd5
