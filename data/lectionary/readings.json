@@ -71522,14 +71522,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "103:1-2, 3-4, 9-10, 11-12",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 2:41-51",
@@ -71545,8 +71538,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Lk 2:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-18": [
