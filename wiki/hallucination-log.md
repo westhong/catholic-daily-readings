@@ -3108,3 +3108,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 112:1-2, 5-6, 7-8, 9']`, live=`['PS 112:1-2']`, fix=`['PS 112:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 8:12']`, fix=`['JN 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/195d6ef
+
+### ❌ 2024-08-08 — Memorial of Saint Dominic, priest
+- **Checked**: 2026-05-02 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080824.cfm
+- **Status**: mismatch
+- **Lectionary**: 410
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 51:12-13, 14-15, 18-19']`, live=`['Ps 51:12-13']`, fix=`['Ps 51:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 16:18']`, fix=`['Mt 16:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/427317c

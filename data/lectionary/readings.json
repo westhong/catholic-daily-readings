@@ -54683,7 +54683,7 @@
         ],
         "gospel": [
           {
-            "citation": "Jn 15:26—16",
+            "citation": "Jn 15:26",
             "sources": [
               "USCCB"
             ]
@@ -54696,8 +54696,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-07": [

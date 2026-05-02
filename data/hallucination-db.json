@@ -15823,5 +15823,60 @@
       ]
     },
     "checked_at": "2026-05-02T07:10:56+00:00"
+  },
+  "2024-08-08:0": {
+    "date": "2024-08-08",
+    "url": "https://bible.usccb.org/bible/readings/080824.cfm",
+    "lectionary_number": 410,
+    "feast": "Memorial of Saint Dominic, priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 51:12-13, 14-15, 18-19"
+        ],
+        "live": [
+          "Ps 51:12-13"
+        ],
+        "fix": [
+          "Ps 51:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 16:18"
+        ],
+        "fix": [
+          "Mt 16:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 51:12-13"
+      ],
+      "alleluia_verse": [
+        "Mt 16:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 31:31-34"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:12-13"
+      ],
+      "alleluia_verse": [
+        "Mt 16:18"
+      ],
+      "gospel": [
+        "Mt 16:13-23"
+      ]
+    },
+    "checked_at": "2026-05-02T07:15:10+00:00"
   }
 }
