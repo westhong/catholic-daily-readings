@@ -68388,7 +68388,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 27:1, 2, 3, 13-14",
+            "citation": "Ps 27:1",
             "sources": [
               "USCCB"
             ]
@@ -68402,7 +68402,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-04": [

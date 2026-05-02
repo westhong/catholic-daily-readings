@@ -4120,3 +4120,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/33bb255
+
+### ❌ 2027-09-11 — Saturday of the Twenty-Third Week in Ordinary Time
+- **Checked**: 2026-05-02 15:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091127.cfm
+- **Status**: mismatch
+- **Lectionary**: 442
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9632440
