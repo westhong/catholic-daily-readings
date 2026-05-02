@@ -4101,3 +4101,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 394
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/718.cfm`, live=fetch failed
+
+### ❌ 2027-01-26 — Memorial of Saints Timothy and Titus, Bishops
+- **Checked**: 2026-05-02 15:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012627.cfm
+- **Status**: mismatch
+- **Lectionary**: 520
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Timothy 1:1-8']`, live=`['2 Timothy 1:1-8', 'Titus 1:1-5']`, fix=`['2 Timothy 1:1-8', 'Titus 1:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/791442d
