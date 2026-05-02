@@ -4468,3 +4468,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 66:1-3, 4-5, 6-7, 16, 20']`, live=`['Ps 66:1-3']`, fix=`['Ps 66:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/773ca07
+
+### ❌ 2027-04-12 — Monday of the Third Week of Easter
+- **Checked**: 2026-05-02 19:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041227.cfm
+- **Status**: mismatch
+- **Lectionary**: 273
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:23-24, 26-27, 29-30']`, live=`['Psalm 119:23-24']`, fix=`['Psalm 119:23-24']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1039f6

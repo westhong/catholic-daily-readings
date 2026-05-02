@@ -22866,5 +22866,60 @@
       ]
     },
     "checked_at": "2026-05-02T18:55:22+00:00"
+  },
+  "2027-04-12:0": {
+    "date": "2027-04-12",
+    "url": "https://bible.usccb.org/bible/readings/041227.cfm",
+    "lectionary_number": 273,
+    "feast": "Monday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:23-24, 26-27, 29-30"
+        ],
+        "live": [
+          "Psalm 119:23-24"
+        ],
+        "fix": [
+          "Psalm 119:23-24"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:4"
+        ],
+        "fix": [
+          "Matthew 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:23-24"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 6:8-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:23-24"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ],
+      "gospel": [
+        "John 6:22-29"
+      ]
+    },
+    "checked_at": "2026-05-02T19:00:34+00:00"
   }
 }
