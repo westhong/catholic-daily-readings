@@ -3723,3 +3723,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Phil 1:4-6, 8-11']`, live=`['Phil 1:4-6']`, fix=`['Phil 1:4-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d699626
+
+### ❌ 2027-03-31 — Wednesday in the Octave of Easter
+- **Checked**: 2026-05-02 12:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033127.cfm
+- **Status**: mismatch
+- **Lectionary**: 263
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e5bfd5
