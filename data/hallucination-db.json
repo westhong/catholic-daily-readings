@@ -18688,5 +18688,60 @@
       ]
     },
     "checked_at": "2026-05-02T11:45:09+00:00"
+  },
+  "2024-08-22:0": {
+    "date": "2024-08-22",
+    "url": "https://bible.usccb.org/bible/readings/082224.cfm",
+    "lectionary_number": 422,
+    "feast": "Memorial of the Queenship of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 51:12-13, 14-15, 18-19"
+        ],
+        "live": [
+          "PS 51:12-13"
+        ],
+        "fix": [
+          "PS 51:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 95:8"
+        ],
+        "fix": [
+          "Ps 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 51:12-13"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 36:23-28"
+      ],
+      "responsorial_psalm": [
+        "PS 51:12-13"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ],
+      "gospel": [
+        "Mt 22:1-14"
+      ]
+    },
+    "checked_at": "2026-05-02T11:50:40+00:00"
   }
 }

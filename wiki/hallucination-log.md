@@ -3651,3 +3651,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 139:1-3, 7-8, 9-10, 13-14']`, live=`['Ps 139:1-3']`, fix=`['Ps 139:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fed8c84
+
+### ❌ 2024-08-22 — Memorial of the Queenship of the Blessed Virgin Mary
+- **Checked**: 2026-05-02 11:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082224.cfm
+- **Status**: mismatch
+- **Lectionary**: 422
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 51:12-13, 14-15, 18-19']`, live=`['PS 51:12-13']`, fix=`['PS 51:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8dff6c

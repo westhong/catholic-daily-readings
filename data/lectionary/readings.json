@@ -48053,7 +48053,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Dn 3:82, 83, 84, 85, 86, 87",
+            "citation": "Dn 3:82",
             "sources": [
               "USCCB"
             ]
@@ -48074,8 +48074,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 21:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-03": [
