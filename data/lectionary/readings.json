@@ -63007,7 +63007,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 27:1, 4, 13-14",
+            "citation": "PS 27:1",
             "sources": [
               "USCCB"
             ]
@@ -63028,8 +63028,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 PT 4:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-07": [
