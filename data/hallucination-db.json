@@ -24070,5 +24070,60 @@
       ]
     },
     "checked_at": "2026-05-02T20:55:12+00:00"
+  },
+  "2027-09-29:0": {
+    "date": "2027-09-29",
+    "url": "https://bible.usccb.org/bible/readings/092927.cfm",
+    "lectionary_number": 647,
+    "feast": "Feast of Saints Michael, Gabriel, and Raphael, Archangels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Daniel 7:9-10, 13-14"
+        ],
+        "live": [
+          "Daniel 7:9-10"
+        ],
+        "fix": [
+          "Daniel 7:9-10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 103:21"
+        ],
+        "fix": [
+          "Psalm 103:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Daniel 7:9-10"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 7:9-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 138:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 103:21"
+      ],
+      "gospel": [
+        "John 1:47-51"
+      ]
+    },
+    "checked_at": "2026-05-02T21:00:23+00:00"
   }
 }

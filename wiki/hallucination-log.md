@@ -4701,3 +4701,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
   - **gospel**: stored=`['John 13:21-33, 36-38']`, live=`['John 13:21-33']`, fix=`['John 13:21-33']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e631552
+
+### ❌ 2027-09-29 — Feast of Saints Michael, Gabriel, and Raphael, Archangels
+- **Checked**: 2026-05-02 21:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092927.cfm
+- **Status**: mismatch
+- **Lectionary**: 647
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 7:9-10, 13-14']`, live=`['Daniel 7:9-10']`, fix=`['Daniel 7:9-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 103:21']`, fix=`['Psalm 103:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b102631

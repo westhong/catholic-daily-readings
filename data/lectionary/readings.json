@@ -10509,7 +10509,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:14, 17, 30-31, 33-34, 36, 37",
+            "citation": "Psalm 69:14",
             "sources": [
               "USCCB"
             ]
@@ -10539,7 +10539,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-14": [
