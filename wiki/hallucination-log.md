@@ -3255,3 +3255,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84ae979
+
+### ❌ 2026-06-14 — Eleventh Sunday in Ordinary Time
+- **Checked**: 2026-05-02 08:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061426.cfm
+- **Status**: mismatch
+- **Lectionary**: 91
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 100:1-2, 3, 5']`, live=`['Psalm 100:1-2']`, fix=`['Psalm 100:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+  - **gospel**: stored=`['Matthew 9:36—10']`, live=`['Matthew 9:36']`, fix=`['Matthew 9:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97bcdb4

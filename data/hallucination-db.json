@@ -16585,5 +16585,78 @@
       ]
     },
     "checked_at": "2026-05-02T08:25:37+00:00"
+  },
+  "2026-06-14:0": {
+    "date": "2026-06-14",
+    "url": "https://bible.usccb.org/bible/readings/061426.cfm",
+    "lectionary_number": 91,
+    "feast": "Eleventh Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 100:1-2, 3, 5"
+        ],
+        "live": [
+          "Psalm 100:1-2"
+        ],
+        "fix": [
+          "Psalm 100:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 1:15"
+        ],
+        "fix": [
+          "Mark 1:15"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 9:36—10"
+        ],
+        "live": [
+          "Matthew 9:36"
+        ],
+        "fix": [
+          "Matthew 9:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 100:1-2"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Matthew 9:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 19:2-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1-2"
+      ],
+      "second_reading": [
+        "Romans 5:6-11"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Matthew 9:36"
+      ]
+    },
+    "checked_at": "2026-05-02T08:30:50+00:00"
   }
 }
