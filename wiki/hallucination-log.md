@@ -2533,3 +2533,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a3c75c
+
+### 🚫 2026-07-25 — 
+- **Checked**: 2026-05-02 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/725.cfm
+- **Status**: url_dead
+- **Lectionary**: 605
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/725.cfm`, live=fetch failed
