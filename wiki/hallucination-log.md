@@ -2354,3 +2354,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:49']`, fix=`['Jn 1:49']`
   - **gospel**: stored=`['is read on Monday. Some Pharisees and sc']`, live=`['Mt 14:22-36']`, fix=`['Mt 14:22-36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf8708c
+
+### ❌ 2025-08-12 — Tuesday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 00:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081225.cfm
+- **Status**: mismatch
+- **Lectionary**: 414
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
+  - **gospel**: stored=`['Matthew 18:1-5, 10, 12-14']`, live=`['Matthew 18:1-5']`, fix=`['Matthew 18:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88e4c83

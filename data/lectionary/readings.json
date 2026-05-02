@@ -5309,15 +5309,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 4:17",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-29": [

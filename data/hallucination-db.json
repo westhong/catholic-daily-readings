@@ -11951,5 +11951,60 @@
       ]
     },
     "checked_at": "2026-05-02T00:45:42+00:00"
+  },
+  "2025-08-12:0": {
+    "date": "2025-08-12",
+    "url": "https://bible.usccb.org/bible/readings/081225.cfm",
+    "lectionary_number": 414,
+    "feast": "Tuesday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:29"
+        ],
+        "fix": [
+          "Matthew 11:29"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 18:1-5, 10, 12-14"
+        ],
+        "live": [
+          "Matthew 18:1-5"
+        ],
+        "fix": [
+          "Matthew 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 31:1-8"
+      ],
+      "responsorial_psalm": [
+        "Deuteronomy 32:3-4"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ],
+      "gospel": [
+        "Matthew 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-02T00:50:54+00:00"
   }
 }
