@@ -4509,3 +4509,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Timothy 1:1-2, 12-14']`, live=`['1 Timothy 1:1-2']`, fix=`['1 Timothy 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 17:17']`, fix=`['See John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/366fdbf
+
+### ❌ 2026-01-28 — Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church
+- **Checked**: 2026-05-02 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012826.cfm
+- **Status**: mismatch
+- **Lectionary**: 319
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:4-5, 27-28, 29-30']`, live=`['Psalm 89:4-5']`, fix=`['Psalm 89:4-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/50c777c

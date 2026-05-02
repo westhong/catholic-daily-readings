@@ -23098,5 +23098,44 @@
       ]
     },
     "checked_at": "2026-05-02T19:15:10+00:00"
+  },
+  "2026-01-28:0": {
+    "date": "2026-01-28",
+    "url": "https://bible.usccb.org/bible/readings/012826.cfm",
+    "lectionary_number": 319,
+    "feast": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 89:4-5, 27-28, 29-30"
+        ],
+        "live": [
+          "Psalm 89:4-5"
+        ],
+        "fix": [
+          "Psalm 89:4-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 89:4-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 7:4-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 89:4-5"
+      ],
+      "gospel": [
+        "Mark 4:1-20"
+      ]
+    },
+    "checked_at": "2026-05-02T19:20:22+00:00"
   }
 }
