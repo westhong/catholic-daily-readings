@@ -2629,3 +2629,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c2da896
+
+### 🚫 2026-12-02 — 
+- **Checked**: 2026-05-02 03:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261202.cfm
+- **Status**: url_dead
+- **Lectionary**: 177
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261202.cfm`, live=fetch failed
