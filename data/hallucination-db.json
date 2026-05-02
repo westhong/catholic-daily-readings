@@ -16181,5 +16181,83 @@
       ]
     },
     "checked_at": "2026-05-02T07:45:57+00:00"
+  },
+  "2027-02-26:0": {
+    "date": "2027-02-26",
+    "url": "https://bible.usccb.org/bible/readings/022627.cfm",
+    "lectionary_number": 234,
+    "feast": "Friday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 37:3-4, 12-13"
+        ],
+        "live": [
+          "Genesis 37:3-4"
+        ],
+        "fix": [
+          "Genesis 37:3-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:16-17, 18-19, 20-21"
+        ],
+        "live": [
+          "Psalm 105:16-17"
+        ],
+        "fix": [
+          "Psalm 105:16-17"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 3:16"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 21:33-43, 45-46"
+        ],
+        "live": [
+          "Matthew 21:33-43"
+        ],
+        "fix": [
+          "Matthew 21:33-43"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 37:3-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:16-17"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Matthew 21:33-43"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 37:3-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:16-17"
+      ],
+      "gospel": [
+        "Matthew 21:33-43"
+      ]
+    },
+    "checked_at": "2026-05-02T07:50:10+00:00"
   }
 }

@@ -3177,3 +3177,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 33:2-3, 11-12, 20-21']`, live=`['Ps 33:2-3']`, fix=`['Ps 33:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3caf26c
+
+### ❌ 2027-02-26 — Friday of the Second Week of Lent
+- **Checked**: 2026-05-02 07:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022627.cfm
+- **Status**: mismatch
+- **Lectionary**: 234
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 37:3-4, 12-13']`, live=`['Genesis 37:3-4']`, fix=`['Genesis 37:3-4']`
+  - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
+  - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 21:33-43, 45-46']`, live=`['Matthew 21:33-43']`, fix=`['Matthew 21:33-43']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee1ffc0
