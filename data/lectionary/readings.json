@@ -71114,7 +71114,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 25:2-3, 4-5",
+            "citation": "Ps 25:2-3",
             "sources": [
               "USCCB"
             ]
@@ -71135,8 +71135,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-08": [
