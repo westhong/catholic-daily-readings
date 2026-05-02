@@ -4574,3 +4574,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/840e8f4
+
+### ❌ 2023-08-17 — Thursday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-02 19:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081723.cfm
+- **Status**: mismatch
+- **Lectionary**: 416
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 114:1-2, 3-4, 5-6']`, live=`['Ps 114:1-2']`, fix=`['Ps 114:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:135']`, fix=`['Ps 119:135']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c000c50

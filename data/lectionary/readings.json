@@ -16748,7 +16748,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:57, 58, 59, 60, 61",
+            "citation": "Daniel 3:57",
             "sources": [
               "USCCB"
             ]
@@ -16769,8 +16769,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Revelation 2:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-26": [

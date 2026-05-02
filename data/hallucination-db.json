@@ -23401,5 +23401,60 @@
       ]
     },
     "checked_at": "2026-05-02T19:50:43+00:00"
+  },
+  "2023-08-17:0": {
+    "date": "2023-08-17",
+    "url": "https://bible.usccb.org/bible/readings/081723.cfm",
+    "lectionary_number": 416,
+    "feast": "Thursday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 114:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 114:1-2"
+        ],
+        "fix": [
+          "Ps 114:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 119:135"
+        ],
+        "fix": [
+          "Ps 119:135"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 114:1-2"
+      ],
+      "alleluia_verse": [
+        "Ps 119:135"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jos 3:7-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 114:1-2"
+      ],
+      "alleluia_verse": [
+        "Ps 119:135"
+      ],
+      "gospel": [
+        "Mt 18:21–19"
+      ]
+    },
+    "checked_at": "2026-05-02T19:55:54+00:00"
   }
 }
