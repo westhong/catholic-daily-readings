@@ -23871,5 +23871,47 @@
       ]
     },
     "checked_at": "2026-05-02T20:35:26+00:00"
+  },
+  "2024-07-14:0": {
+    "date": "2024-07-14",
+    "url": "https://bible.usccb.org/bible/readings/071424.cfm",
+    "lectionary_number": 104,
+    "feast": "Fifteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 85:9-10, 11-12, 13-14"
+        ],
+        "live": [
+          "Ps 85:9-10"
+        ],
+        "fix": [
+          "Ps 85:9-10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 85:9-10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Am 7:12-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 85:9-10"
+      ],
+      "second_reading": [
+        "Eph 1:3-14"
+      ],
+      "gospel": [
+        "Mk 6:7-13"
+      ]
+    },
+    "checked_at": "2026-05-02T20:40:37+00:00"
   }
 }

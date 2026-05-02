@@ -4662,3 +4662,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 24:7, 8, 9, 10']`, live=`['Psalm 24:7']`, fix=`['Psalm 24:7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 2:32']`, fix=`['Luke 2:32']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dcb9674
+
+### ❌ 2024-07-14 — Fifteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-02 20:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071424.cfm
+- **Status**: mismatch
+- **Lectionary**: 104
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 85:9-10, 11-12, 13-14']`, live=`['Ps 85:9-10']`, fix=`['Ps 85:9-10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a02150
