@@ -16913,7 +16913,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:82, 83, 84, 85, 86, 87",
+            "citation": "Daniel 3:82",
             "sources": [
               "USCCB"
             ]
@@ -16934,8 +16934,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-30": [

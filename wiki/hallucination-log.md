@@ -3966,3 +3966,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 89:4-5, 29-30, 31-32, 33-34']`, live=`['Ps 89:4-5']`, fix=`['Ps 89:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/048778b
+
+### ❌ 2026-02-22 — First Sunday of Lent
+- **Checked**: 2026-05-02 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022226.cfm
+- **Status**: mismatch
+- **Lectionary**: 22
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6, 12-13, 17']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2a4145
