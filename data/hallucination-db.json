@@ -18798,5 +18798,75 @@
       ]
     },
     "checked_at": "2026-05-02T11:55:54+00:00"
+  },
+  "2025-09-23:0": {
+    "date": "2025-09-23",
+    "url": "https://bible.usccb.org/bible/readings/092325.cfm",
+    "lectionary_number": 450,
+    "feast": "Memorial of Saint Pius of Pietrelcina, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ezra 6:7-8, 12"
+        ],
+        "live": [
+          "Ezra 6:7-8"
+        ],
+        "fix": [
+          "Ezra 6:7-8"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 122:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 122:1-2"
+        ],
+        "fix": [
+          "Psalm 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 11:28"
+        ],
+        "fix": [
+          "Luke 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ezra 6:7-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "Luke 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ezra 6:7-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "Luke 11:28"
+      ],
+      "gospel": [
+        "Luke 8:19-21"
+      ]
+    },
+    "checked_at": "2026-05-02T12:00:06+00:00"
   }
 }

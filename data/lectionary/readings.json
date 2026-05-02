@@ -41210,7 +41210,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:29-30, 33-35",
+            "citation": "Psalm 68:29-30",
             "sources": [
               "USCCB"
             ]
@@ -41231,8 +41231,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 17:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-13": [

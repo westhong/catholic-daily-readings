@@ -3671,3 +3671,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Dn 3:82, 83, 84, 85, 86, 87']`, live=`['Dn 3:82']`, fix=`['Dn 3:82']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/04f8cb8
+
+### ❌ 2025-09-23 — Memorial of Saint Pius of Pietrelcina, Priest
+- **Checked**: 2026-05-02 12:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092325.cfm
+- **Status**: mismatch
+- **Lectionary**: 450
+- **Mismatches**:
+  - **first_reading**: stored=`['Ezra 6:7-8, 12']`, live=`['Ezra 6:7-8']`, fix=`['Ezra 6:7-8']`
+  - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ad3726
