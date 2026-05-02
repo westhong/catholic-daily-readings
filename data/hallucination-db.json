@@ -11807,5 +11807,24 @@
       ]
     },
     "checked_at": "2026-05-02T00:25:45+00:00"
+  },
+  "2026-08-14:0": {
+    "date": "2026-08-14",
+    "url": "https://bible.usccb.org/bible/readings/814.cfm",
+    "lectionary_number": 417,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/814.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-02T00:30:57+00:00"
   }
 }

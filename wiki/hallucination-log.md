@@ -2325,3 +2325,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 116:12-13, 15']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/173e850
+
+### 🚫 2026-08-14 — 
+- **Checked**: 2026-05-02 00:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/814.cfm
+- **Status**: url_dead
+- **Lectionary**: 417
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/814.cfm`, live=fetch failed
