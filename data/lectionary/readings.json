@@ -61897,7 +61897,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 90:3-4, 5-6, 12-13, 14",
+            "citation": "PS 90:3-4",
             "sources": [
               "USCCB"
             ]
@@ -61918,8 +61918,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-27": [
