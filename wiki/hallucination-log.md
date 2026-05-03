@@ -6768,3 +6768,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 25:4-5, 6-7, 8-9']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/117878d
+
+### 🚫 2026-11-05 — 
+- **Checked**: 2026-05-03 13:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261105.cfm
+- **Status**: url_dead
+- **Lectionary**: 488
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261105.cfm`, live=fetch failed

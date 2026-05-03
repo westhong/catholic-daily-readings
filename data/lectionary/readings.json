@@ -4706,14 +4706,7 @@
       "feast": "Thursday of the First Week in Lent",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "Esther C:12, 14-16, 23-25 Queen Esther,",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
             "citation": "Psalm 138:1-2",
@@ -4730,15 +4723,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Psalm 51:12a, 14a",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-14": [

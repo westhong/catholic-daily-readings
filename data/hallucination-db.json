@@ -34449,5 +34449,24 @@
       ]
     },
     "checked_at": "2026-05-03T13:05:20+00:00"
+  },
+  "2026-11-05:0": {
+    "date": "2026-11-05",
+    "url": "https://bible.usccb.org/bible/readings/261105.cfm",
+    "lectionary_number": 488,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261105.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T13:10:36+00:00"
   }
 }
