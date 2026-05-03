@@ -34468,5 +34468,44 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T13:10:36+00:00"
+  },
+  "2025-03-13:0": {
+    "date": "2025-03-13",
+    "url": "https://bible.usccb.org/bible/readings/031325.cfm",
+    "lectionary_number": 227,
+    "feast": "Thursday of the First Week in Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Esther C:12, 14-16, 23-25 Queen Esther,"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Psalm 51:12a, 14a"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 138:1-2"
+      ],
+      "gospel": [
+        "Matthew 7:7-12"
+      ]
+    },
+    "checked_at": "2026-05-03T13:15:50+00:00"
   }
 }
