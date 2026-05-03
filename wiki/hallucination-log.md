@@ -6165,3 +6165,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jonah 2:3, 4, 5, 8']`, live=`['Jonah 2:3']`, fix=`['Jonah 2:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/015144d
+
+### ❌ 2027-06-30 — Wednesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 08:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/063027.cfm
+- **Status**: mismatch
+- **Lectionary**: 379
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 21:5, 8-20']`, live=`['Genesis 21:5']`, fix=`['Genesis 21:5']`
+  - **responsorial_psalm**: stored=`['Psalm 34:7-8, 10-11, 12-13']`, live=`['Psalm 34:7-8']`, fix=`['Psalm 34:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/36bb0b1
