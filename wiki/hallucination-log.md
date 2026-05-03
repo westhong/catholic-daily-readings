@@ -7609,3 +7609,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
   - **gospel**: stored=`['to every creature.” LISTEN PODCAST VIEW']`, live=`['Mark 16:9-15']`, fix=`['Mark 16:9-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c361da
+
+### ❌ 2023-08-30 — Wednesday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-03 20:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083023.cfm
+- **Status**: mismatch
+- **Lectionary**: 427
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 139:7-8, 9-10, 11-12']`, live=`['Ps 139:7-8']`, fix=`['Ps 139:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9b3fcb3

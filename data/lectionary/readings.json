@@ -37049,7 +37049,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jonah 3:1-5, 10",
+            "citation": "Jonah 3:1-5",
             "sources": [
               "USCCB"
             ]
@@ -37057,7 +37057,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 25:4-5, 6-7, 8-9",
+            "citation": "Psalm 25:4-5",
             "sources": [
               "USCCB"
             ]
@@ -37086,8 +37086,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-25": [
