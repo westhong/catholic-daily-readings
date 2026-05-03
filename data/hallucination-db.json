@@ -36562,5 +36562,60 @@
       ]
     },
     "checked_at": "2026-05-03T16:40:36+00:00"
+  },
+  "2025-06-21:0": {
+    "date": "2025-06-21",
+    "url": "https://bible.usccb.org/bible/readings/062125.cfm",
+    "lectionary_number": 370,
+    "feast": "Memorial of Saint Aloysius Gonzaga, Religious",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:8-9, 10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 34:8-9"
+        ],
+        "fix": [
+          "Psalm 34:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 8:9"
+        ],
+        "fix": [
+          "2 Corinthians 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 34:8-9"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 12:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:8-9"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ],
+      "gospel": [
+        "Matthew 6:24-34"
+      ]
+    },
+    "checked_at": "2026-05-03T16:45:49+00:00"
   }
 }

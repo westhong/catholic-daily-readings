@@ -56088,7 +56088,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 17:15, 22—18",
+            "citation": "Acts 17:15",
             "sources": [
               "USCCB"
             ]
@@ -56096,7 +56096,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 148:1-2, 11-12, 13, 14",
+            "citation": "Ps 148:1-2",
             "sources": [
               "USCCB"
             ]
@@ -56117,8 +56117,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-09": [

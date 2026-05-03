@@ -7189,3 +7189,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/42f95b0
+
+### ❌ 2025-06-21 — Memorial of Saint Aloysius Gonzaga, Religious
+- **Checked**: 2026-05-03 16:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062125.cfm
+- **Status**: mismatch
+- **Lectionary**: 370
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:8-9, 10-11, 12-13']`, live=`['Psalm 34:8-9']`, fix=`['Psalm 34:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f985625
