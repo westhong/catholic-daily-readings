@@ -6524,3 +6524,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ca6b03
+
+### ❌ 2023-10-21 — Saturday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-03 11:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102123.cfm
+- **Status**: mismatch
+- **Lectionary**: 472
+- **Mismatches**:
+  - **first_reading**: stored=`['Rom 4:13, 16-18']`, live=`['Rom 4:13']`, fix=`['Rom 4:13']`
+  - **responsorial_psalm**: stored=`['PS 105:6-7, 8-9, 42-43']`, live=`['PS 105:6-7']`, fix=`['PS 105:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/762c809

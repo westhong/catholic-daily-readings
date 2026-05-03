@@ -33170,5 +33170,75 @@
       ]
     },
     "checked_at": "2026-05-03T11:00:06+00:00"
+  },
+  "2023-10-21:0": {
+    "date": "2023-10-21",
+    "url": "https://bible.usccb.org/bible/readings/102123.cfm",
+    "lectionary_number": 472,
+    "feast": "Saturday of the Twenty-eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Rom 4:13, 16-18"
+        ],
+        "live": [
+          "Rom 4:13"
+        ],
+        "fix": [
+          "Rom 4:13"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 105:6-7, 8-9, 42-43"
+        ],
+        "live": [
+          "PS 105:6-7"
+        ],
+        "fix": [
+          "PS 105:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:26"
+        ],
+        "fix": [
+          "Jn 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Rom 4:13"
+      ],
+      "responsorial_psalm": [
+        "PS 105:6-7"
+      ],
+      "alleluia_verse": [
+        "Jn 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 4:13"
+      ],
+      "responsorial_psalm": [
+        "PS 105:6-7"
+      ],
+      "alleluia_verse": [
+        "Jn 15:26"
+      ],
+      "gospel": [
+        "Lk 12:8-12"
+      ]
+    },
+    "checked_at": "2026-05-03T11:05:25+00:00"
   }
 }

@@ -50281,7 +50281,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sir 3:2-6, 12-14",
+            "citation": "Sir 3:2-6",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Gn 15:1-6",
             "sources": [
               "USCCB"
             ]
@@ -50289,7 +50295,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 128:1-2, 3, 4-5",
+            "citation": "Ps 128:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Ps 105:1-2",
             "sources": [
               "USCCB"
             ]
@@ -50301,11 +50313,23 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Heb 11:8",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "gospel": [
           {
             "citation": "LK 2:22-40",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Lk 2:22",
             "sources": [
               "USCCB"
             ]
@@ -50324,8 +50348,23 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Col 3:15",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Heb 1:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-01": [
