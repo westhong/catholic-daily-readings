@@ -7808,3 +7808,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6aff204
+
+### ❌ 2023-04-16 — Second Sunday of Easter (or Sunday of Divine Mercy)
+- **Checked**: 2026-05-03 22:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041623.cfm
+- **Status**: mismatch
+- **Lectionary**: 43
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 118:2-4, 13-15, 22-24']`, live=`['Ps 118:2-4']`, fix=`['Ps 118:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cfee130
