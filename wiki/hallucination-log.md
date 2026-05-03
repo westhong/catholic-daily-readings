@@ -7932,3 +7932,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:1-2, 4-5, 18-19']`, live=`['Ps 33:1-2']`, fix=`['Ps 33:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/be6903a
+
+### ❌ 2027-03-13 — Saturday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031327.cfm
+- **Status**: mismatch
+- **Lectionary**: 249
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 7:2-3, 9']`, live=`['Psalm 7:2-3']`, fix=`['Psalm 7:2-3']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f8f405
