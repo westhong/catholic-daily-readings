@@ -39553,5 +39553,47 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T21:50:20+00:00"
+  },
+  "2024-06-16:0": {
+    "date": "2024-06-16",
+    "url": "https://bible.usccb.org/bible/readings/061624.cfm",
+    "lectionary_number": 92,
+    "feast": "Eleventh Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 92:2-3, 13-14, 15-16"
+        ],
+        "live": [
+          "Ps 92:2-3"
+        ],
+        "fix": [
+          "Ps 92:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 92:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 17:22-24"
+      ],
+      "responsorial_psalm": [
+        "Ps 92:2-3"
+      ],
+      "second_reading": [
+        "2 Cor 5:6-10"
+      ],
+      "gospel": [
+        "Mk 4:26-34"
+      ]
+    },
+    "checked_at": "2026-05-03T21:55:35+00:00"
   }
 }
