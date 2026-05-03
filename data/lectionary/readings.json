@@ -36462,7 +36462,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 40:2, 4, 7-8, 8-9, 10",
+            "citation": "Psalm 40:2",
             "sources": [
               "USCCB"
             ]
@@ -36491,8 +36491,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 1:41",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-18": [

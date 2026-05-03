@@ -6235,3 +6235,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
   - **gospel**: stored=`['Mt 18:1-5, 10, 12-14']`, live=`['Mt 18:1-5']`, fix=`['Mt 18:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4011002
+
+### ❌ 2024-06-19 — Wednesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-03 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061924.cfm
+- **Status**: mismatch
+- **Lectionary**: 367
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kgs 2:1, 6-14']`, live=`['2 Kgs 2:1']`, fix=`['2 Kgs 2:1']`
+  - **responsorial_psalm**: stored=`['Ps 31:20, 21, 24']`, live=`['Ps 31:20']`, fix=`['Ps 31:20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+  - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7c36b37

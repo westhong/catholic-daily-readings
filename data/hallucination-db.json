@@ -31631,5 +31631,90 @@
       ]
     },
     "checked_at": "2026-05-03T08:35:06+00:00"
+  },
+  "2024-06-19:0": {
+    "date": "2024-06-19",
+    "url": "https://bible.usccb.org/bible/readings/061924.cfm",
+    "lectionary_number": 367,
+    "feast": "Wednesday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kgs 2:1, 6-14"
+        ],
+        "live": [
+          "2 Kgs 2:1"
+        ],
+        "fix": [
+          "2 Kgs 2:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 31:20, 21, 24"
+        ],
+        "live": [
+          "Ps 31:20"
+        ],
+        "fix": [
+          "Ps 31:20"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 6:1-6, 16-18"
+        ],
+        "live": [
+          "Mt 6:1-6"
+        ],
+        "fix": [
+          "Mt 6:1-6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kgs 2:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 31:20"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Mt 6:1-6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 2:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 31:20"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Mt 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-03T08:40:20+00:00"
   }
 }
