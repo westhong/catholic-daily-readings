@@ -28972,5 +28972,45 @@
       ]
     },
     "checked_at": "2026-05-03T04:15:22+00:00"
+  },
+  "2024-10-03:0": {
+    "date": "2024-10-03",
+    "url": "https://bible.usccb.org/bible/readings/100324.cfm",
+    "lectionary_number": 458,
+    "feast": "Thursday of the Twenty-sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MK 1:15"
+        ],
+        "fix": [
+          "MK 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "MK 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "JB 19:21-27"
+      ],
+      "responsorial_psalm": [
+        "PS 27:7-8"
+      ],
+      "alleluia_verse": [
+        "MK 1:15"
+      ],
+      "gospel": [
+        "LK 10:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T04:20:33+00:00"
   }
 }
