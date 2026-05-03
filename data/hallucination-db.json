@@ -38517,5 +38517,60 @@
       ]
     },
     "checked_at": "2026-05-03T20:10:13+00:00"
+  },
+  "2024-08-27:0": {
+    "date": "2024-08-27",
+    "url": "https://bible.usccb.org/bible/readings/082724.cfm",
+    "lectionary_number": 426,
+    "feast": "Memorial of Saint Monica",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 96:10, 11-12, 13"
+        ],
+        "live": [
+          "PS 96:10"
+        ],
+        "fix": [
+          "PS 96:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "HEBREWS 4:12"
+        ],
+        "fix": [
+          "HEBREWS 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 96:10"
+      ],
+      "alleluia_verse": [
+        "HEBREWS 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 THES 2:1-3"
+      ],
+      "responsorial_psalm": [
+        "PS 96:10"
+      ],
+      "alleluia_verse": [
+        "HEBREWS 4:12"
+      ],
+      "gospel": [
+        "MT 23:23-26"
+      ]
+    },
+    "checked_at": "2026-05-03T20:15:25+00:00"
   }
 }

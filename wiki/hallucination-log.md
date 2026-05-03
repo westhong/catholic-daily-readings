@@ -7589,3 +7589,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d428e03
+
+### ❌ 2024-08-27 — Memorial of Saint Monica
+- **Checked**: 2026-05-03 20:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082724.cfm
+- **Status**: mismatch
+- **Lectionary**: 426
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 96:10, 11-12, 13']`, live=`['PS 96:10']`, fix=`['PS 96:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['HEBREWS 4:12']`, fix=`['HEBREWS 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b90cb2
