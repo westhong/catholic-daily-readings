@@ -7873,3 +7873,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ezekiel 33:11']`, fix=`['Ezekiel 33:11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3cee6cb
+
+### ❌ 2024-01-15 — Monday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-03 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011524.cfm
+- **Status**: mismatch
+- **Lectionary**: 311
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['50:8-9, 16']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hb 4:12']`, fix=`['Hb 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e90431

@@ -39943,5 +39943,51 @@
       ]
     },
     "checked_at": "2026-05-03T22:35:06+00:00"
+  },
+  "2024-01-15:0": {
+    "date": "2024-01-15",
+    "url": "https://bible.usccb.org/bible/readings/011524.cfm",
+    "lectionary_number": 311,
+    "feast": "Monday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "50:8-9, 16"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Hb 4:12"
+        ],
+        "fix": [
+          "Hb 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Hb 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 15:16-23"
+      ],
+      "alleluia_verse": [
+        "Hb 4:12"
+      ],
+      "gospel": [
+        "Mk 2:18-22"
+      ]
+    },
+    "checked_at": "2026-05-03T22:40:17+00:00"
   }
 }
