@@ -5133,3 +5133,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 4:12-17']`, fix=`['Matthew 4:12-17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ddd9f7e
+
+### ❌ 2026-01-03 — Christmas Weekday
+- **Checked**: 2026-05-03 00:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010326.cfm
+- **Status**: mismatch
+- **Lectionary**: 206
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1106c77
