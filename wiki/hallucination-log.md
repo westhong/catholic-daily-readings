@@ -8010,3 +8010,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c88de1
+
+### ❌ 2025-08-06 — Feast of the Transfiguration of the Lord
+- **Checked**: 2026-05-03 23:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080625.cfm
+- **Status**: mismatch
+- **Lectionary**: 614
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 7:9-10, 13-14']`, live=`['Daniel 7:9-10']`, fix=`['Daniel 7:9-10']`
+  - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 9']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 17:5']`, fix=`['Matthew 17:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/405ac70

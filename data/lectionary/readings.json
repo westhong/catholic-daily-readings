@@ -50790,7 +50790,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 67:2-3, 5, 6, 8",
+            "citation": "Ps 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -50819,8 +50819,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Heb 1:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-02": [
