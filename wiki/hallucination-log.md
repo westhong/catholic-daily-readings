@@ -7673,3 +7673,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 84:3, 4, 5 and 10, 11']`, live=`['PS 84:3']`, fix=`['PS 84:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:36']`, fix=`['Ps 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84c9f94
+
+### ❌ 2024-10-28 — Feast of Saints Simon and Jude, Apostles
+- **Checked**: 2026-05-03 20:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102824.cfm
+- **Status**: mismatch
+- **Lectionary**: 666
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e27c1e5

@@ -39009,5 +39009,44 @@
       ]
     },
     "checked_at": "2026-05-03T20:50:51+00:00"
+  },
+  "2024-10-28:0": {
+    "date": "2024-10-28",
+    "url": "https://bible.usccb.org/bible/readings/102824.cfm",
+    "lectionary_number": 666,
+    "feast": "Feast of Saints Simon and Jude, Apostles",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:2-3, 4-5"
+        ],
+        "live": [
+          "Ps 19:2-3"
+        ],
+        "fix": [
+          "Ps 19:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Eph 2:19-22"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "gospel": [
+        "Lk 6:12-16"
+      ]
+    },
+    "checked_at": "2026-05-03T20:56:04+00:00"
   }
 }
