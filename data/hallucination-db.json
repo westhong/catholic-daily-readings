@@ -36468,5 +36468,60 @@
       ]
     },
     "checked_at": "2026-05-03T16:30:09+00:00"
+  },
+  "2027-06-01:0": {
+    "date": "2027-06-01",
+    "url": "https://bible.usccb.org/bible/readings/060127.cfm",
+    "lectionary_number": 354,
+    "feast": "Memorial of Saint Justin, Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 112:1-2, 7-8, 9"
+        ],
+        "live": [
+          "Psalm 112:1-2"
+        ],
+        "fix": [
+          "Psalm 112:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Ephesians 1:17-18"
+        ],
+        "fix": [
+          "See Ephesians 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See Ephesians 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Tobit 2:9-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See Ephesians 1:17-18"
+      ],
+      "gospel": [
+        "Mark 12:13-17"
+      ]
+    },
+    "checked_at": "2026-05-03T16:35:23+00:00"
   }
 }

@@ -7170,3 +7170,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 43:1, 2, 3, 4']`, live=`['Psalm 43:1']`, fix=`['Psalm 43:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88cb9b3
+
+### ❌ 2027-06-01 — Memorial of Saint Justin, Martyr
+- **Checked**: 2026-05-03 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060127.cfm
+- **Status**: mismatch
+- **Lectionary**: 354
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 112:1-2, 7-8, 9']`, live=`['Psalm 112:1-2']`, fix=`['Psalm 112:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Ephesians 1:17-18']`, fix=`['See Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c7694c8
