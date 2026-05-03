@@ -28376,5 +28376,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:26:30+00:00"
+  },
+  "2024-08-15:0": {
+    "date": "2024-08-15",
+    "url": "https://bible.usccb.org/bible/readings/081524.cfm",
+    "lectionary_number": 621,
+    "feast": "Solemnity of the Assumption of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/081524.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:26:31+00:00"
   }
 }

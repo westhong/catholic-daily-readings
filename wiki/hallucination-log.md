@@ -5603,3 +5603,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 502
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/112523.cfm`, live=fetch failed
+
+### 🚫 2024-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary
+- **Checked**: 2026-05-03 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081524.cfm
+- **Status**: url_dead
+- **Lectionary**: 621
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/081524.cfm`, live=fetch failed
