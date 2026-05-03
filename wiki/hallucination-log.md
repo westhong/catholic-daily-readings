@@ -7514,3 +7514,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 465
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1009.cfm`, live=fetch failed
+
+### ❌ 2025-06-10 — Tuesday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-03 19:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061025.cfm
+- **Status**: mismatch
+- **Lectionary**: 360
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:129, 130, 131, 132, 133, 135']`, live=`['Psalm 119:129']`, fix=`['Psalm 119:129']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7c66b34

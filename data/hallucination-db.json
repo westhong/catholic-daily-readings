@@ -38155,5 +38155,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T19:30:35+00:00"
+  },
+  "2025-06-10:0": {
+    "date": "2025-06-10",
+    "url": "https://bible.usccb.org/bible/readings/061025.cfm",
+    "lectionary_number": 360,
+    "feast": "Tuesday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:129, 130, 131, 132, 133, 135"
+        ],
+        "live": [
+          "Psalm 119:129"
+        ],
+        "fix": [
+          "Psalm 119:129"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:16"
+        ],
+        "fix": [
+          "Matthew 5:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:129"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 1:18-22"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:129"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:16"
+      ],
+      "gospel": [
+        "Matthew 5:13-16"
+      ]
+    },
+    "checked_at": "2026-05-03T19:35:46+00:00"
   }
 }
