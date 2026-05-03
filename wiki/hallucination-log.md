@@ -5072,3 +5072,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 7-8, 9']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca883e7
+
+### ❌ 2024-03-25 — Monday of Holy Week
+- **Checked**: 2026-05-03 00:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032524.cfm
+- **Status**: mismatch
+- **Lectionary**: 257
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 27:1, 2, 3, 13-14']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f3d1c63

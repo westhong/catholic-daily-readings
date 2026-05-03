@@ -20833,7 +20833,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 1:1-2, 3, 4",
+            "citation": "Psalm 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -20847,15 +20847,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 4:17",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-20": [

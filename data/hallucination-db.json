@@ -25969,5 +25969,44 @@
       ]
     },
     "checked_at": "2026-05-03T00:05:49+00:00"
+  },
+  "2024-03-25:0": {
+    "date": "2024-03-25",
+    "url": "https://bible.usccb.org/bible/readings/032524.cfm",
+    "lectionary_number": 257,
+    "feast": "Monday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 27:1, 2, 3, 13-14"
+        ],
+        "live": [
+          "Ps 27:1"
+        ],
+        "fix": [
+          "Ps 27:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 42:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "gospel": [
+        "Jn 12:1-11"
+      ]
+    },
+    "checked_at": "2026-05-03T00:11:01+00:00"
   }
 }
