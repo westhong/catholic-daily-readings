@@ -6720,3 +6720,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 45:11-12, 14-15, 16-17']`, live=`['Ps 45:11-12']`, fix=`['Ps 45:11-12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 6:23']`, fix=`['Lk 6:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/86944af
+
+### 🚫 2026-12-18 — 
+- **Checked**: 2026-05-03 12:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261218.cfm
+- **Status**: url_dead
+- **Lectionary**: 194
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261218.cfm`, live=fetch failed
