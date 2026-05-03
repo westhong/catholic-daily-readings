@@ -70160,7 +70160,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 118:1-2, 16-17, 22-23",
+            "citation": "Ps 118:1-2",
             "sources": [
               "USCCB"
             ]
@@ -70190,7 +70190,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-10": [
