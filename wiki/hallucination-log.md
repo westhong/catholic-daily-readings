@@ -6871,3 +6871,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a07e0d5
+
+### ❌ 2024-03-30 — Holy Saturday At the Easter Vigil in the Holy Night of Easter Easter Sunday The Resurrection of the Lord
+- **Checked**: 2026-05-03 14:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033024.cfm
+- **Status**: mismatch
+- **Lectionary**: 41
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 1:1—2']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Ps 16:5, 8, 9-10, 11']`, live=`['Ps 118:1-2']`, fix=`['Ps 118:1-2']`
+  - **second_reading**: stored=`['Gn 22:1-18']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bef9066

@@ -34911,5 +34911,59 @@
       ]
     },
     "checked_at": "2026-05-03T14:01:05+00:00"
+  },
+  "2024-03-30:0": {
+    "date": "2024-03-30",
+    "url": "https://bible.usccb.org/bible/readings/033024.cfm",
+    "lectionary_number": 41,
+    "feast": "Holy Saturday At the Easter Vigil in the Holy Night of Easter Easter Sunday The Resurrection of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 1:1—2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 16:5, 8, 9-10, 11"
+        ],
+        "live": [
+          "Ps 118:1-2"
+        ],
+        "fix": [
+          "Ps 118:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Gn 22:1-18"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "second_reading": []
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "gospel": [
+        "Mark 16:1-7"
+      ]
+    },
+    "checked_at": "2026-05-03T14:05:19+00:00"
   }
 }
