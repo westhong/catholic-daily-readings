@@ -35396,5 +35396,63 @@
       ]
     },
     "checked_at": "2026-05-03T14:45:26+00:00"
+  },
+  "2027-10-10:0": {
+    "date": "2027-10-10",
+    "url": "https://bible.usccb.org/bible/readings/101027.cfm",
+    "lectionary_number": 143,
+    "feast": "Twenty-eighth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 90:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Psalm 90:12-13"
+        ],
+        "fix": [
+          "Psalm 90:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 90:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 7:7-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 90:12-13"
+      ],
+      "second_reading": [
+        "Hebrews 4:12-13"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Mark 10:17-30"
+      ]
+    },
+    "checked_at": "2026-05-03T14:50:40+00:00"
   }
 }

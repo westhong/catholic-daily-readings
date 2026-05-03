@@ -6962,3 +6962,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['40:2']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a6a624f
+
+### ❌ 2027-10-10 — Twenty-eighth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 14:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101027.cfm
+- **Status**: mismatch
+- **Lectionary**: 143
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 90:12-13, 14-15, 16-17']`, live=`['Psalm 90:12-13']`, fix=`['Psalm 90:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b5ad9b
