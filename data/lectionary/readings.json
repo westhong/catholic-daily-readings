@@ -58036,7 +58036,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Am 2:6-10, 13-16",
+            "citation": "Am 2:6-10",
             "sources": [
               "USCCB"
             ]
@@ -58065,8 +58065,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-02": [

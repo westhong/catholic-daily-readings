@@ -6029,3 +6029,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Dn 3:25, 34-43']`, live=`['Dn 3:25']`, fix=`['Dn 3:25']`
   - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e573b9
+
+### ❌ 2027-07-31 — Memorial of Saint Ignatius of Loyola, Priest
+- **Checked**: 2026-05-03 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073127.cfm
+- **Status**: mismatch
+- **Lectionary**: 406
+- **Mismatches**:
+  - **first_reading**: stored=`['Leviticus 25:1, 8-17']`, live=`['Leviticus 25:1']`, fix=`['Leviticus 25:1']`
+  - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 7-8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/35035bc
