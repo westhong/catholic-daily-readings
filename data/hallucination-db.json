@@ -39272,5 +39272,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T21:21:03+00:00"
+  },
+  "2024-08-28:0": {
+    "date": "2024-08-28",
+    "url": "https://bible.usccb.org/bible/readings/082824.cfm",
+    "lectionary_number": 427,
+    "feast": "Memorial of Saint Augustine, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 THES 3:6-10, 16-18"
+        ],
+        "live": [
+          "2 THES 3:6-10"
+        ],
+        "fix": [
+          "2 THES 3:6-10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 128:1-2, 4-5"
+        ],
+        "live": [
+          "PS 128:1-2"
+        ],
+        "fix": [
+          "PS 128:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 JOHN 2:5"
+        ],
+        "fix": [
+          "1 JOHN 2:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 THES 3:6-10"
+      ],
+      "responsorial_psalm": [
+        "PS 128:1-2"
+      ],
+      "alleluia_verse": [
+        "1 JOHN 2:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 THES 3:6-10"
+      ],
+      "responsorial_psalm": [
+        "PS 128:1-2"
+      ],
+      "alleluia_verse": [
+        "1 JOHN 2:5"
+      ],
+      "gospel": [
+        "MT 23:27-32"
+      ]
+    },
+    "checked_at": "2026-05-03T21:25:16+00:00"
   }
 }

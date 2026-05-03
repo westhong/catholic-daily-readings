@@ -7730,3 +7730,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 430
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/829.cfm`, live=fetch failed
+
+### ❌ 2024-08-28 — Memorial of Saint Augustine, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 21:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082824.cfm
+- **Status**: mismatch
+- **Lectionary**: 427
+- **Mismatches**:
+  - **first_reading**: stored=`['2 THES 3:6-10, 16-18']`, live=`['2 THES 3:6-10']`, fix=`['2 THES 3:6-10']`
+  - **responsorial_psalm**: stored=`['PS 128:1-2, 4-5']`, live=`['PS 128:1-2']`, fix=`['PS 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 JOHN 2:5']`, fix=`['1 JOHN 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e11204a
