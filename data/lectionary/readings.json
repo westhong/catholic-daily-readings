@@ -57573,7 +57573,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Kgs 2:1, 6-14",
+            "citation": "2 Kgs 2:1",
             "sources": [
               "USCCB"
             ]
@@ -57581,7 +57581,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 31:20, 21, 24",
+            "citation": "Ps 31:20",
             "sources": [
               "USCCB"
             ]
@@ -57589,7 +57589,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 6:1-6, 16-18",
+            "citation": "Mt 6:1-6",
             "sources": [
               "USCCB"
             ]
@@ -57602,8 +57602,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-20": [

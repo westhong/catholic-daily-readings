@@ -31546,5 +31546,90 @@
       ]
     },
     "checked_at": "2026-05-03T08:30:52+00:00"
+  },
+  "2024-08-13:0": {
+    "date": "2024-08-13",
+    "url": "https://bible.usccb.org/bible/readings/081324.cfm",
+    "lectionary_number": 414,
+    "feast": "Tuesday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ez 2:8—3"
+        ],
+        "live": [
+          "Ez 2:8"
+        ],
+        "fix": [
+          "Ez 2:8"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:14, 24, 72, 103, 111, 131"
+        ],
+        "live": [
+          "PS 119:14"
+        ],
+        "fix": [
+          "PS 119:14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:29"
+        ],
+        "fix": [
+          "Mt 11:29"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 18:1-5, 10, 12-14"
+        ],
+        "live": [
+          "Mt 18:1-5"
+        ],
+        "fix": [
+          "Mt 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ez 2:8"
+      ],
+      "responsorial_psalm": [
+        "PS 119:14"
+      ],
+      "alleluia_verse": [
+        "Mt 11:29"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 2:8"
+      ],
+      "responsorial_psalm": [
+        "PS 119:14"
+      ],
+      "alleluia_verse": [
+        "Mt 11:29"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-03T08:35:06+00:00"
   }
 }

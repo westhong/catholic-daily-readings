@@ -6223,3 +6223,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['105:4-5, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ps 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0e6e165
+
+### ❌ 2024-08-13 — Tuesday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081324.cfm
+- **Status**: mismatch
+- **Lectionary**: 414
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 2:8—3']`, live=`['Ez 2:8']`, fix=`['Ez 2:8']`
+  - **responsorial_psalm**: stored=`['PS 119:14, 24, 72, 103, 111, 131']`, live=`['PS 119:14']`, fix=`['PS 119:14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
+  - **gospel**: stored=`['Mt 18:1-5, 10, 12-14']`, live=`['Mt 18:1-5']`, fix=`['Mt 18:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4011002
