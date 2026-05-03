@@ -5475,3 +5475,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 480
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/102924.cfm`, live=fetch failed
+
+### 🚫 2024-12-18 — Wednesday of the Third Week of Advent
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121824.cfm
+- **Status**: url_dead
+- **Lectionary**: 194
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/121824.cfm`, live=fetch failed

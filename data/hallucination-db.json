@@ -28072,5 +28072,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:14+00:00"
+  },
+  "2024-12-18:0": {
+    "date": "2024-12-18",
+    "url": "https://bible.usccb.org/bible/readings/121824.cfm",
+    "lectionary_number": 194,
+    "feast": "Wednesday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/121824.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:18+00:00"
   }
 }
