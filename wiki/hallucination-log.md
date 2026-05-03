@@ -5846,3 +5846,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 62:2-3, 6-7, 9']`, live=`['Psalm 62:2-3']`, fix=`['Psalm 62:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b7d2f38
+
+### ❌ 2026-02-04 — Wednesday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-03 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020426.cfm
+- **Status**: mismatch
+- **Lectionary**: 325
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Samuel 24:2, 9-17']`, live=`['2 Samuel 24:2']`, fix=`['2 Samuel 24:2']`
+  - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aaa01f0

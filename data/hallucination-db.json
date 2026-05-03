@@ -29600,5 +29600,75 @@
       ]
     },
     "checked_at": "2026-05-03T05:15:55+00:00"
+  },
+  "2026-02-04:0": {
+    "date": "2026-02-04",
+    "url": "https://bible.usccb.org/bible/readings/020426.cfm",
+    "lectionary_number": 325,
+    "feast": "Wednesday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Samuel 24:2, 9-17"
+        ],
+        "live": [
+          "2 Samuel 24:2"
+        ],
+        "fix": [
+          "2 Samuel 24:2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 32:1-2, 5, 6, 7"
+        ],
+        "live": [
+          "Psalm 32:1-2"
+        ],
+        "fix": [
+          "Psalm 32:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Samuel 24:2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 32:1-2"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 24:2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 32:1-2"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Mark 6:1-6"
+      ]
+    },
+    "checked_at": "2026-05-03T05:20:07+00:00"
   }
 }
