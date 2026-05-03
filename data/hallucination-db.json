@@ -32251,5 +32251,60 @@
       ]
     },
     "checked_at": "2026-05-03T09:30:42+00:00"
+  },
+  "2024-01-27:0": {
+    "date": "2024-01-27",
+    "url": "https://bible.usccb.org/bible/readings/012724.cfm",
+    "lectionary_number": 322,
+    "feast": "Saturday of the Third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 51:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "PS 51:12-13"
+        ],
+        "fix": [
+          "PS 51:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 3:16"
+        ],
+        "fix": [
+          "JN 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 51:12-13"
+      ],
+      "alleluia_verse": [
+        "JN 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 12:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 51:12-13"
+      ],
+      "alleluia_verse": [
+        "JN 3:16"
+      ],
+      "gospel": [
+        "Mk 4:35-41"
+      ]
+    },
+    "checked_at": "2026-05-03T09:35:54+00:00"
   }
 }

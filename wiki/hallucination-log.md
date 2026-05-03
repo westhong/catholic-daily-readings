@@ -6347,3 +6347,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Isaiah 42:1-4, 6-7']`, live=`['Isaiah 42:1-4']`, fix=`['Isaiah 42:1-4']`
   - **responsorial_psalm**: stored=`['Psalm 29:1-2, 3-4, 3, 9-10']`, live=`['Psalm 29:1-2']`, fix=`['Psalm 29:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/45a0f49
+
+### ❌ 2024-01-27 — Saturday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-03 09:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012724.cfm
+- **Status**: mismatch
+- **Lectionary**: 322
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 51:12-13, 14-15, 16-17']`, live=`['PS 51:12-13']`, fix=`['PS 51:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 3:16']`, fix=`['JN 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d9e304
