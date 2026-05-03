@@ -5051,3 +5051,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2adf9d1
+
+### ❌ 2024-01-13 — Saturday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 00:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011324.cfm
+- **Status**: mismatch
+- **Lectionary**: 310
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Sm 9:1-4, 17-19']`, live=`['1 Sm 9:1-4']`, fix=`['1 Sm 9:1-4']`
+  - **responsorial_psalm**: stored=`['21:2-3, 4-5, 6-7']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/89ab927

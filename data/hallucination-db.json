@@ -25853,5 +25853,66 @@
       ]
     },
     "checked_at": "2026-05-02T23:55:26+00:00"
+  },
+  "2024-01-13:0": {
+    "date": "2024-01-13",
+    "url": "https://bible.usccb.org/bible/readings/011324.cfm",
+    "lectionary_number": 310,
+    "feast": "Saturday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Sm 9:1-4, 17-19"
+        ],
+        "live": [
+          "1 Sm 9:1-4"
+        ],
+        "fix": [
+          "1 Sm 9:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "21:2-3, 4-5, 6-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 4:18"
+        ],
+        "fix": [
+          "Lk 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Sm 9:1-4"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Lk 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 9:1-4"
+      ],
+      "alleluia_verse": [
+        "Lk 4:18"
+      ],
+      "gospel": [
+        "Mk 2:13-17"
+      ]
+    },
+    "checked_at": "2026-05-03T00:00:37+00:00"
   }
 }
