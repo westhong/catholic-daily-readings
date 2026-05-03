@@ -39817,5 +39817,51 @@
       ]
     },
     "checked_at": "2026-05-03T22:20:33+00:00"
+  },
+  "2023-08-21:0": {
+    "date": "2023-08-21",
+    "url": "https://bible.usccb.org/bible/readings/082123.cfm",
+    "lectionary_number": 419,
+    "feast": "Memorial of Saint Pius X, Pope",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "106:34-35, 36-37, 39-40, 43"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:3"
+        ],
+        "fix": [
+          "Mt 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jgs 2:11-19"
+      ],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ],
+      "gospel": [
+        "Mt 19:16-22"
+      ]
+    },
+    "checked_at": "2026-05-03T22:25:43+00:00"
   }
 }
