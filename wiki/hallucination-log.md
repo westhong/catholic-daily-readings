@@ -5305,3 +5305,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 99:5, 6, 7, 9']`, live=`['Psalm 99:5']`, fix=`['Psalm 99:5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e8f8b6
+
+### ❌ 2026-02-06 — Memorial of Saint Paul Miki and Companions, Martyrs
+- **Checked**: 2026-05-03 02:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020626.cfm
+- **Status**: mismatch
+- **Lectionary**: 327
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 18:31, 47']`, live=`['Psalm 18:31']`, fix=`['Psalm 18:31']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc75242
+
+### ✅ 2024-06-29 — Solemnity of Saints Peter and Paul, Apostles
+- **Checked**: 2026-05-03 02:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062924.cfm
+- **Status**: ok
+- **Lectionary**: 590

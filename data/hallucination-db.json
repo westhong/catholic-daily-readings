@@ -27237,5 +27237,72 @@
       ]
     },
     "checked_at": "2026-05-03T02:01:03+00:00"
+  },
+  "2026-02-06:0": {
+    "date": "2026-02-06",
+    "url": "https://bible.usccb.org/bible/readings/020626.cfm",
+    "lectionary_number": 327,
+    "feast": "Memorial of Saint Paul Miki and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 18:31, 47"
+        ],
+        "live": [
+          "Psalm 18:31"
+        ],
+        "fix": [
+          "Psalm 18:31"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 8:15"
+        ],
+        "fix": [
+          "See Luke 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 18:31"
+      ],
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 47:2-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 18:31"
+      ],
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ],
+      "gospel": [
+        "Mark 6:14-29"
+      ]
+    },
+    "checked_at": "2026-05-03T02:05:13+00:00"
+  },
+  "2024-06-29:0": {
+    "date": "2024-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062924.cfm",
+    "lectionary_number": 590,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T02:10:24+00:00"
   }
 }
