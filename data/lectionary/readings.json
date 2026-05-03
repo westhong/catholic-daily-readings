@@ -48342,7 +48342,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:10-11, 12-13, 17-18",
+            "citation": "Psalm 145:10-11",
             "sources": [
               "USCCB"
             ]
@@ -48355,8 +48355,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-19": [

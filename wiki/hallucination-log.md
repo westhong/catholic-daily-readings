@@ -6505,3 +6505,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 81:12-13, 14-15, 16-17']`, live=`['Ps 81:12-13']`, fix=`['Ps 81:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/61ec1e0
+
+### ❌ 2023-08-16 — Wednesday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 10:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081623.cfm
+- **Status**: mismatch
+- **Lectionary**: 415
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d0124f
