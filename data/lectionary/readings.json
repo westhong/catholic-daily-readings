@@ -43855,7 +43855,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 21:5, 8-20",
+            "citation": "Genesis 21:5",
             "sources": [
               "USCCB"
             ]
@@ -43863,7 +43863,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:7-8, 10-11, 12-13",
+            "citation": "Psalm 34:7-8",
             "sources": [
               "USCCB"
             ]
@@ -43876,8 +43876,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "James 1:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-01": [
