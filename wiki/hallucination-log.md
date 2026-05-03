@@ -6111,3 +6111,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['2 Corinthians 4:13—5']`, live=`['2 Corinthians 4:13']`, fix=`['2 Corinthians 4:13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 12:31']`, fix=`['John 12:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b8ee1f1
+
+### ❌ 2024-03-14 — Thursday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 07:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031424.cfm
+- **Status**: mismatch
+- **Lectionary**: 247
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
+  - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a5a091

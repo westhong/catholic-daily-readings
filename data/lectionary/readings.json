@@ -78408,7 +78408,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Rom 5:12, 15",
+            "citation": "Rom 5:12",
             "sources": [
               "USCCB"
             ]
@@ -78437,8 +78437,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 21:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-25": [
