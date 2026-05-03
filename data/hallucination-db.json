@@ -35949,5 +35949,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T15:35:45+00:00"
+  },
+  "2026-05-14:1": {
+    "date": "2026-05-14",
+    "url": "https://bible.usccb.org/bible/readings/051426-Thursday.cfm",
+    "lectionary_number": 564,
+    "feast": "Feast of Saint Matthias, Apostle",
+    "mass_idx": 1,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/051426-Thursday.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T15:41:03+00:00"
   }
 }

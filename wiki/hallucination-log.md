@@ -7063,3 +7063,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 184
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261210.cfm`, live=fetch failed
+
+### 🚫 2026-05-14 — Feast of Saint Matthias, Apostle
+- **Checked**: 2026-05-03 15:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051426-Thursday.cfm
+- **Status**: url_dead
+- **Lectionary**: 564
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/051426-Thursday.cfm`, live=fetch failed
