@@ -30152,5 +30152,53 @@
       ]
     },
     "checked_at": "2026-05-03T06:05:14+00:00"
+  },
+  "2025-04-03:0": {
+    "date": "2025-04-03",
+    "url": "https://bible.usccb.org/bible/readings/040325.cfm",
+    "lectionary_number": 247,
+    "feast": "Thursday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 106:19-20, 21-22, 23"
+        ],
+        "live": [
+          "Psalm 106:19-20"
+        ],
+        "fix": [
+          "Psalm 106:19-20"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 3:16"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 106:19-20"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 32:7-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 106:19-20"
+      ],
+      "gospel": [
+        "John 5:31-47"
+      ]
+    },
+    "checked_at": "2026-05-03T06:10:26+00:00"
   }
 }

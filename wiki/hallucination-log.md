@@ -5947,3 +5947,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 7:25—8']`, live=`['Hebrews 7:25']`, fix=`['Hebrews 7:25']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeebdfd
+
+### ❌ 2025-04-03 — Thursday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 06:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040325.cfm
+- **Status**: mismatch
+- **Lectionary**: 247
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
+  - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39c94cd

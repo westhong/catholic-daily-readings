@@ -58897,7 +58897,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 10:1-2, 3-4, 7-8, 14",
+            "citation": "Ps 10:1-2",
             "sources": [
               "USCCB"
             ]
@@ -58918,8 +58918,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Cor 5:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-21": [
