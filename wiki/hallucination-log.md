@@ -5563,3 +5563,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 214
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/010726.cfm`, live=fetch failed
+
+### 🚫 2027-07-11 — Fifteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071127.cfm
+- **Status**: url_dead
+- **Lectionary**: 104
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/071127.cfm`, live=fetch failed

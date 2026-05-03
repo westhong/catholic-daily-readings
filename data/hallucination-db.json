@@ -28281,5 +28281,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:41+00:00"
+  },
+  "2027-07-11:0": {
+    "date": "2027-07-11",
+    "url": "https://bible.usccb.org/bible/readings/071127.cfm",
+    "lectionary_number": 104,
+    "feast": "Fifteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/071127.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:42+00:00"
   }
 }
