@@ -6736,3 +6736,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 392
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/716.cfm`, live=fetch failed
+
+### ❌ 2026-06-19 — Friday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-03 12:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061926.cfm
+- **Status**: mismatch
+- **Lectionary**: 369
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kings 11:1-4, 9-18, 20']`, live=`['2 Kings 11:1-4']`, fix=`['2 Kings 11:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 132:11, 12, 13-14, 17-18']`, live=`['Psalm 132:11']`, fix=`['Psalm 132:11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a15f55

@@ -34251,5 +34251,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T12:50:29+00:00"
+  },
+  "2026-06-19:0": {
+    "date": "2026-06-19",
+    "url": "https://bible.usccb.org/bible/readings/061926.cfm",
+    "lectionary_number": 369,
+    "feast": "Friday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kings 11:1-4, 9-18, 20"
+        ],
+        "live": [
+          "2 Kings 11:1-4"
+        ],
+        "fix": [
+          "2 Kings 11:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 132:11, 12, 13-14, 17-18"
+        ],
+        "live": [
+          "Psalm 132:11"
+        ],
+        "fix": [
+          "Psalm 132:11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kings 11:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 132:11"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kings 11:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 132:11"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Matthew 6:19-23"
+      ]
+    },
+    "checked_at": "2026-05-03T12:55:52+00:00"
   }
 }
