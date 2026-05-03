@@ -5254,3 +5254,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a4e4e1
+
+### ❌ 2024-08-01 — Memorial of Saint Alphonsus Liguori, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 01:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080124.cfm
+- **Status**: mismatch
+- **Lectionary**: 404
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Acts 16:14']`, fix=`['Acts 16:14']`
+  - **gospel**: stored=`['Mt 13:47-53']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0758b9

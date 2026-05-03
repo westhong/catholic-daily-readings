@@ -26962,5 +26962,51 @@
       ]
     },
     "checked_at": "2026-05-03T01:35:07+00:00"
+  },
+  "2024-08-01:0": {
+    "date": "2024-08-01",
+    "url": "https://bible.usccb.org/bible/readings/080124.cfm",
+    "lectionary_number": 404,
+    "feast": "Memorial of Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Acts 16:14"
+        ],
+        "fix": [
+          "Acts 16:14"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 13:47-53"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Acts 16:14"
+      ],
+      "gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 18:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 146:1"
+      ],
+      "alleluia_verse": [
+        "Acts 16:14"
+      ]
+    },
+    "checked_at": "2026-05-03T01:40:18+00:00"
   }
 }

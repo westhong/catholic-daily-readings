@@ -76961,7 +76961,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 25:4-5, 6-7, 8-9",
+            "citation": "Ps 25:4-5",
             "sources": [
               "USCCB"
             ]
@@ -76990,8 +76990,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-02": [
