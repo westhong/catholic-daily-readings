@@ -7090,3 +7090,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['33:1-2, 4-5, 18-19']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f907db
+
+### ❌ 2023-09-09 — Memorial of Saint Peter Claver, Priest
+- **Checked**: 2026-05-03 15:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090923.cfm
+- **Status**: mismatch
+- **Lectionary**: 436
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 54:3-4, 6']`, live=`['Ps 54:3-4']`, fix=`['Ps 54:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/748f115

@@ -64797,14 +64797,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "23:1",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 17:11-19",
@@ -64820,8 +64813,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Thes 5:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-14": [

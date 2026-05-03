@@ -36053,5 +36053,60 @@
       ]
     },
     "checked_at": "2026-05-03T15:50:30+00:00"
+  },
+  "2023-09-09:0": {
+    "date": "2023-09-09",
+    "url": "https://bible.usccb.org/bible/readings/090923.cfm",
+    "lectionary_number": 436,
+    "feast": "Memorial of Saint Peter Claver, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 54:3-4, 6"
+        ],
+        "live": [
+          "Ps 54:3-4"
+        ],
+        "fix": [
+          "Ps 54:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 54:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Col 1:21-23"
+      ],
+      "responsorial_psalm": [
+        "Ps 54:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Lk 6:1-5"
+      ]
+    },
+    "checked_at": "2026-05-03T15:55:42+00:00"
   }
 }
