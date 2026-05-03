@@ -6535,3 +6535,16 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 105:6-7, 8-9, 42-43']`, live=`['PS 105:6-7']`, fix=`['PS 105:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/762c809
+
+### ❌ 2023-12-31 — Feast of the Holy Family of Jesus, Mary and Joseph
+- **Checked**: 2026-05-03 11:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123123.cfm
+- **Status**: mismatch
+- **Lectionary**: 17
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 3:2-6, 12-14']`, live=`['Sir 3:2-6', 'Gn 15:1-6']`, fix=`['Sir 3:2-6', 'Gn 15:1-6']`
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2', 'Ps 105:1-2']`, fix=`['Ps 128:1-2', 'Ps 105:1-2']`
+  - **second_reading**: stored=`['Col 3:12-21']`, live=`['Col 3:12-21', 'Heb 11:8']`, fix=`['Col 3:12-21', 'Heb 11:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:15', 'Heb 1:1-2']`, fix=`['Col 3:15', 'Heb 1:1-2']`
+  - **gospel**: stored=`['LK 2:22-40']`, live=`['LK 2:22-40', 'Lk 2:22']`, fix=`['LK 2:22-40', 'Lk 2:22']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee75c7f

@@ -33240,5 +33240,128 @@
       ]
     },
     "checked_at": "2026-05-03T11:05:25+00:00"
+  },
+  "2023-12-31:0": {
+    "date": "2023-12-31",
+    "url": "https://bible.usccb.org/bible/readings/123123.cfm",
+    "lectionary_number": 17,
+    "feast": "Feast of the Holy Family of Jesus, Mary and Joseph",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sir 3:2-6, 12-14"
+        ],
+        "live": [
+          "Sir 3:2-6",
+          "Gn 15:1-6"
+        ],
+        "fix": [
+          "Sir 3:2-6",
+          "Gn 15:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 128:1-2, 3, 4-5"
+        ],
+        "live": [
+          "Ps 128:1-2",
+          "Ps 105:1-2"
+        ],
+        "fix": [
+          "Ps 128:1-2",
+          "Ps 105:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Col 3:12-21"
+        ],
+        "live": [
+          "Col 3:12-21",
+          "Heb 11:8"
+        ],
+        "fix": [
+          "Col 3:12-21",
+          "Heb 11:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Col 3:15",
+          "Heb 1:1-2"
+        ],
+        "fix": [
+          "Col 3:15",
+          "Heb 1:1-2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "LK 2:22-40"
+        ],
+        "live": [
+          "LK 2:22-40",
+          "Lk 2:22"
+        ],
+        "fix": [
+          "LK 2:22-40",
+          "Lk 2:22"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sir 3:2-6",
+        "Gn 15:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 128:1-2",
+        "Ps 105:1-2"
+      ],
+      "second_reading": [
+        "Col 3:12-21",
+        "Heb 11:8"
+      ],
+      "alleluia_verse": [
+        "Col 3:15",
+        "Heb 1:1-2"
+      ],
+      "gospel": [
+        "LK 2:22-40",
+        "Lk 2:22"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 3:2-6",
+        "Gn 15:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 128:1-2",
+        "Ps 105:1-2"
+      ],
+      "second_reading": [
+        "Col 3:12-21",
+        "Heb 11:8"
+      ],
+      "alleluia_verse": [
+        "Col 3:15",
+        "Heb 1:1-2"
+      ],
+      "gospel": [
+        "LK 2:22-40",
+        "Lk 2:22"
+      ]
+    },
+    "checked_at": "2026-05-03T11:10:41+00:00"
   }
 }
