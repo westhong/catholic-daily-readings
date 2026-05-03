@@ -5978,3 +5978,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 84:3, 4, 5-6']`, live=`['Psalm 84:3']`, fix=`['Psalm 84:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31abe8c
+
+### ❌ 2026-06-25 — Thursday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-03 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062526.cfm
+- **Status**: mismatch
+- **Lectionary**: 374
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e17fd7
