@@ -5438,3 +5438,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 90:3-4, 5-6, 12-13, 14']`, live=`['PS 90:3-4']`, fix=`['PS 90:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 14:6']`, fix=`['JN 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f4604c3
+
+### ❌ 2023-01-28 — Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church
+- **Checked**: 2026-05-03 03:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012823.cfm
+- **Status**: mismatch
+- **Lectionary**: 322
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 11:1-2, 8-19']`, live=`['Heb 11:1-2']`, fix=`['Heb 11:1-2']`
+  - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21fa455

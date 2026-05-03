@@ -27909,5 +27909,75 @@
       ]
     },
     "checked_at": "2026-05-03T03:10:35+00:00"
+  },
+  "2023-01-28:0": {
+    "date": "2023-01-28",
+    "url": "https://bible.usccb.org/bible/readings/012823.cfm",
+    "lectionary_number": 322,
+    "feast": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Heb 11:1-2, 8-19"
+        ],
+        "live": [
+          "Heb 11:1-2"
+        ],
+        "fix": [
+          "Heb 11:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Luke 1:69-70, 71-72, 73-75"
+        ],
+        "live": [
+          "Luke 1:69-70"
+        ],
+        "fix": [
+          "Luke 1:69-70"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 3:16"
+        ],
+        "fix": [
+          "Jn 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Heb 11:1-2"
+      ],
+      "responsorial_psalm": [
+        "Luke 1:69-70"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 11:1-2"
+      ],
+      "responsorial_psalm": [
+        "Luke 1:69-70"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ],
+      "gospel": [
+        "Mk 4:35-41"
+      ]
+    },
+    "checked_at": "2026-05-03T03:15:46+00:00"
   }
 }
