@@ -6176,3 +6176,20 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:7-8, 10-11, 12-13']`, live=`['Psalm 34:7-8']`, fix=`['Psalm 34:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/36bb0b1
+
+### ❌ 2025-09-02 — Tuesday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-03 08:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090225.cfm
+- **Status**: mismatch
+- **Lectionary**: 432
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Thessalonians 5:1-6, 9-11']`, live=`['1 Thessalonians 5:1-6']`, fix=`['1 Thessalonians 5:1-6']`
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/798d4c2
+
+### ✅ 2023-05-28 — Pentecost Sunday
+- **Checked**: 2026-05-03 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052823.cfm
+- **Status**: ok
+- **Lectionary**: 62

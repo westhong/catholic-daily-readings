@@ -1373,14 +1373,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "96:1-2, 11-12, 13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 1:1-18",
@@ -1396,8 +1389,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 1:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-01": [
