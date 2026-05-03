@@ -31403,5 +31403,51 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T08:15:16+00:00"
+  },
+  "2024-12-31:0": {
+    "date": "2024-12-31",
+    "url": "https://bible.usccb.org/bible/readings/123124.cfm",
+    "lectionary_number": 204,
+    "feast": "The Seventh Day in the Octave of Christmas",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "96:1-2, 11-12, 13"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 1:14"
+        ],
+        "fix": [
+          "Jn 1:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 1:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Jn 2:18-21"
+      ],
+      "alleluia_verse": [
+        "Jn 1:14"
+      ],
+      "gospel": [
+        "Jn 1:1-18"
+      ]
+    },
+    "checked_at": "2026-05-03T08:20:26+00:00"
   }
 }

@@ -6193,3 +6193,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/052823.cfm
 - **Status**: ok
 - **Lectionary**: 62
+
+### ❌ 2024-12-31 — The Seventh Day in the Octave of Christmas
+- **Checked**: 2026-05-03 08:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123124.cfm
+- **Status**: mismatch
+- **Lectionary**: 204
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['96:1-2, 11-12, 13']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:14']`, fix=`['Jn 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85f0432
