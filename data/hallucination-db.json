@@ -38085,5 +38085,56 @@
       ]
     },
     "checked_at": "2026-05-03T19:20:12+00:00"
+  },
+  "2023-03-05:0": {
+    "date": "2023-03-05",
+    "url": "https://bible.usccb.org/bible/readings/030523.cfm",
+    "lectionary_number": 25,
+    "feast": "Second Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:4-5, 18-19, 20, 22"
+        ],
+        "live": [
+          "Ps 33:4-5"
+        ],
+        "fix": [
+          "Ps 33:4-5"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Cf. Mt 17:5"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 12:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "second_reading": [
+        "2 Tm 1:8"
+      ],
+      "gospel": [
+        "Mt 17:1-9"
+      ]
+    },
+    "checked_at": "2026-05-03T19:25:24+00:00"
   }
 }

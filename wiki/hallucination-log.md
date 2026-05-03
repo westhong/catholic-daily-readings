@@ -7496,3 +7496,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Dn 3:52, 53, 54, 55, 56']`, live=`['Dn 3:52']`, fix=`['Dn 3:52']`
   - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1788bcb
+
+### ❌ 2023-03-05 — Second Sunday of Lent
+- **Checked**: 2026-05-03 19:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030523.cfm
+- **Status**: mismatch
+- **Lectionary**: 25
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:4-5, 18-19, 20, 22']`, live=`['Ps 33:4-5']`, fix=`['Ps 33:4-5']`
+  - **verse_before_gospel**: stored=`['Cf. Mt 17:5']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/11089eb
