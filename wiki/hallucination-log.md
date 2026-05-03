@@ -5192,3 +5192,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e0181cc
+
+### ❌ 2023-09-15 — Memorial of Our Lady of Sorrows
+- **Checked**: 2026-05-03 01:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091523.cfm
+- **Status**: mismatch
+- **Lectionary**: 441
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Tm 1:1-2, 12-14']`, live=`['1 Tm 1:1-2']`, fix=`['1 Tm 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6488cbc

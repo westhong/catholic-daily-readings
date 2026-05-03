@@ -26619,5 +26619,44 @@
       ]
     },
     "checked_at": "2026-05-03T01:05:04+00:00"
+  },
+  "2023-09-15:0": {
+    "date": "2023-09-15",
+    "url": "https://bible.usccb.org/bible/readings/091523.cfm",
+    "lectionary_number": 441,
+    "feast": "Memorial of Our Lady of Sorrows",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Tm 1:1-2, 12-14"
+        ],
+        "live": [
+          "1 Tm 1:1-2"
+        ],
+        "fix": [
+          "1 Tm 1:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Tm 1:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Tm 1:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:1"
+      ],
+      "gospel": [
+        "Jn 19:25-27"
+      ]
+    },
+    "checked_at": "2026-05-03T01:10:14+00:00"
   }
 }
