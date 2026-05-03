@@ -7991,3 +7991,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fcfaa1f
+
+### ❌ 2027-02-25 — Thursday of the Second Week of Lent
+- **Checked**: 2026-05-03 23:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022527.cfm
+- **Status**: mismatch
+- **Lectionary**: 233
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ea1e0f9
