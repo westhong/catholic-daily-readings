@@ -6247,3 +6247,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
   - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7c36b37
+
+### ❌ 2027-01-17 — Second Sunday in Ordinary Time
+- **Checked**: 2026-05-03 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011727.cfm
+- **Status**: mismatch
+- **Lectionary**: 65
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 40:2, 4, 7-8, 8-9, 10']`, live=`['Psalm 40:2']`, fix=`['Psalm 40:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:41']`, fix=`['John 1:41']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ae7acc

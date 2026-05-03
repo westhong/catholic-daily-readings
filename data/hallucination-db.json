@@ -31716,5 +31716,63 @@
       ]
     },
     "checked_at": "2026-05-03T08:40:20+00:00"
+  },
+  "2027-01-17:0": {
+    "date": "2027-01-17",
+    "url": "https://bible.usccb.org/bible/readings/011727.cfm",
+    "lectionary_number": 65,
+    "feast": "Second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 40:2, 4, 7-8, 8-9, 10"
+        ],
+        "live": [
+          "Psalm 40:2"
+        ],
+        "fix": [
+          "Psalm 40:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 1:41"
+        ],
+        "fix": [
+          "John 1:41"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "alleluia_verse": [
+        "John 1:41"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 3:3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "second_reading": [
+        "1 Corinthians 6:13"
+      ],
+      "alleluia_verse": [
+        "John 1:41"
+      ],
+      "gospel": [
+        "John 1:35-42"
+      ]
+    },
+    "checked_at": "2026-05-03T08:45:35+00:00"
   }
 }
