@@ -6833,3 +6833,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 50:8-9, 16']`, live=`['Ps 50:8-9']`, fix=`['Ps 50:8-9']`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/989d181
+
+### ❌ 2023-06-04 — The Solemnity of the Most Holy Trinity
+- **Checked**: 2026-05-03 13:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060423.cfm
+- **Status**: mismatch
+- **Lectionary**: 164
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Dn 3:52, 53, 54, 55, 56']`, live=`['Dn 3:52']`, fix=`['Dn 3:52']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ecc2dd

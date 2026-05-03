@@ -34716,5 +34716,47 @@
       ]
     },
     "checked_at": "2026-05-03T13:41:01+00:00"
+  },
+  "2023-06-04:0": {
+    "date": "2023-06-04",
+    "url": "https://bible.usccb.org/bible/readings/060423.cfm",
+    "lectionary_number": 164,
+    "feast": "The Solemnity of the Most Holy Trinity",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Dn 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Dn 3:52"
+        ],
+        "fix": [
+          "Dn 3:52"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 34:4"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ],
+      "second_reading": [
+        "2 Cor 13:11-13"
+      ],
+      "gospel": [
+        "Jn 3:16-18"
+      ]
+    },
+    "checked_at": "2026-05-03T13:45:16+00:00"
   }
 }
