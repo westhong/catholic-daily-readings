@@ -6786,3 +6786,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Esther C:12, 14-16, 23-25 Queen Esther,']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/09d174d
+
+### 🚫 2026-10-18 — 
+- **Checked**: 2026-05-03 13:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1018.cfm
+- **Status**: url_dead
+- **Lectionary**: 145
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1018.cfm`, live=fetch failed
