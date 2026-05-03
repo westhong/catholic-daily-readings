@@ -7855,3 +7855,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['106:34-35, 36-37, 39-40, 43']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94e9c64
+
+### ❌ 2027-09-18 — Saturday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-03 22:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091827.cfm
+- **Status**: mismatch
+- **Lectionary**: 448
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/950e534
