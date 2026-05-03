@@ -6121,3 +6121,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 106:19-20, 21-22, 23']`, live=`['Ps 106:19-20']`, fix=`['Ps 106:19-20']`
   - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a5a091
+
+### ❌ 2023-10-24 — Tuesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102423.cfm
+- **Status**: mismatch
+- **Lectionary**: 474
+- **Mismatches**:
+  - **first_reading**: stored=`['Rom 5:12, 15']`, live=`['Rom 5:12']`, fix=`['Rom 5:12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f08bed
