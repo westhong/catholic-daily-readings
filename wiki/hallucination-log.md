@@ -7960,3 +7960,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Numbers 24:2-7, 15-17']`, live=`['Numbers 24:2-7']`, fix=`['Numbers 24:2-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 85:8']`, fix=`['Psalm 85:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26a27e5
+
+### ❌ 2027-09-15 — Memorial of Our Lady of Sorrows
+- **Checked**: 2026-05-03 23:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091527.cfm
+- **Status**: mismatch
+- **Lectionary**: 445
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 111:1-2, 3-4, 5-6']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
+  - **gospel**: stored=`['John 19:25-27']`, live=`['John 19:25-27', 'Luke 2:33-35']`, fix=`['John 19:25-27', 'Luke 2:33-35']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f7c442

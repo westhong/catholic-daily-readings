@@ -64996,20 +64996,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ti 2:1-8, 11-14",
+            "citation": "Ti 2:1-8",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "37:3-4, 18",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 17:7-10",
@@ -65025,8 +65018,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-13": [

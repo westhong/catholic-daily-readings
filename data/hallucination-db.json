@@ -40360,5 +40360,63 @@
       ]
     },
     "checked_at": "2026-05-03T23:20:50+00:00"
+  },
+  "2027-09-15:0": {
+    "date": "2027-09-15",
+    "url": "https://bible.usccb.org/bible/readings/091527.cfm",
+    "lectionary_number": 445,
+    "feast": "Memorial of Our Lady of Sorrows",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 111:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 111:1-2"
+        ],
+        "fix": [
+          "Psalm 111:1-2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 19:25-27"
+        ],
+        "live": [
+          "John 19:25-27",
+          "Luke 2:33-35"
+        ],
+        "fix": [
+          "John 19:25-27",
+          "Luke 2:33-35"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 111:1-2"
+      ],
+      "gospel": [
+        "John 19:25-27",
+        "Luke 2:33-35"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 3:14-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 111:1-2"
+      ],
+      "gospel": [
+        "John 19:25-27",
+        "Luke 2:33-35"
+      ]
+    },
+    "checked_at": "2026-05-03T23:26:01+00:00"
   }
 }
