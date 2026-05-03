@@ -33991,5 +33991,93 @@
       ]
     },
     "checked_at": "2026-05-03T12:20:06+00:00"
+  },
+  "2025-10-26:0": {
+    "date": "2025-10-26",
+    "url": "https://bible.usccb.org/bible/readings/102625.cfm",
+    "lectionary_number": 150,
+    "feast": "Thirtieth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sirach 35:12-14, 16-18"
+        ],
+        "live": [
+          "Sirach 35:12-14"
+        ],
+        "fix": [
+          "Sirach 35:12-14"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:2-3, 17-18, 19, 23"
+        ],
+        "live": [
+          "Psalm 34:2-3"
+        ],
+        "fix": [
+          "Psalm 34:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Timothy 4:6-8, 16-18"
+        ],
+        "live": [
+          "2 Timothy 4:6-8"
+        ],
+        "fix": [
+          "2 Timothy 4:6-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 5:19"
+        ],
+        "fix": [
+          "2 Corinthians 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sirach 35:12-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "2 Timothy 4:6-8"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 35:12-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "2 Timothy 4:6-8"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ],
+      "gospel": [
+        "Luke 18:9-14"
+      ]
+    },
+    "checked_at": "2026-05-03T12:25:19+00:00"
   }
 }

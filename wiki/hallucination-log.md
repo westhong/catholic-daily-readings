@@ -6680,3 +6680,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jonah 2:3, 4, 5, 8']`, live=`['Jonah 2:3']`, fix=`['Jonah 2:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e60353
+
+### ❌ 2025-10-26 — Thirtieth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 12:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102625.cfm
+- **Status**: mismatch
+- **Lectionary**: 150
+- **Mismatches**:
+  - **first_reading**: stored=`['Sirach 35:12-14, 16-18']`, live=`['Sirach 35:12-14']`, fix=`['Sirach 35:12-14']`
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 17-18, 19, 23']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **second_reading**: stored=`['2 Timothy 4:6-8, 16-18']`, live=`['2 Timothy 4:6-8']`, fix=`['2 Timothy 4:6-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f54e48
