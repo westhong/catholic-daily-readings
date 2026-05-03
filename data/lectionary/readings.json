@@ -43743,7 +43743,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 17:1, 9-10, 15-22",
+            "citation": "Genesis 17:1",
             "sources": [
               "USCCB"
             ]
@@ -43751,7 +43751,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 128:1-2, 3, 4-5",
+            "citation": "Psalm 128:1-2",
             "sources": [
               "USCCB"
             ]
@@ -43764,8 +43764,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-26": [

@@ -6639,3 +6639,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d99c847
+
+### ❌ 2027-07-04 — Fourteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 12:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070427.cfm
+- **Status**: mismatch
+- **Lectionary**: 101
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 123:1-2, 2, 3-4']`, live=`['Psalm 123:1-2']`, fix=`['Psalm 123:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/467d0cf
