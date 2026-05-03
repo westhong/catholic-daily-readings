@@ -26254,5 +26254,60 @@
       ]
     },
     "checked_at": "2026-05-03T00:30:48+00:00"
+  },
+  "2027-01-04:0": {
+    "date": "2027-01-04",
+    "url": "https://bible.usccb.org/bible/readings/010427.cfm",
+    "lectionary_number": 212,
+    "feast": "Memorial of Saint Elizabeth Ann Seton, Religious",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 4:23"
+        ],
+        "fix": [
+          "See Matthew 4:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "of the Kingdom, and curing every disease"
+        ],
+        "live": [
+          "Matthew 4:12-17"
+        ],
+        "fix": [
+          "Matthew 4:12-17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ],
+      "gospel": [
+        "Matthew 4:12-17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 John 3:22–4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 2:7"
+      ],
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ],
+      "gospel": [
+        "Matthew 4:12-17"
+      ]
+    },
+    "checked_at": "2026-05-03T00:35:59+00:00"
   }
 }

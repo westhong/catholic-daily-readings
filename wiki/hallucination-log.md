@@ -5123,3 +5123,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
   - **gospel**: stored=`['Mark 14:12-16, 22-26']`, live=`['Mark 14:12-16']`, fix=`['Mark 14:12-16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a67e28
+
+### ❌ 2027-01-04 — Memorial of Saint Elizabeth Ann Seton, Religious
+- **Checked**: 2026-05-03 00:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010427.cfm
+- **Status**: mismatch
+- **Lectionary**: 212
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 4:12-17']`, fix=`['Matthew 4:12-17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ddd9f7e
