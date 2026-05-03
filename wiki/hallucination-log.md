@@ -5274,3 +5274,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 25:4-5, 6-7, 8-9']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e8ffaf
+
+### ❌ 2023-07-01 — Saturday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-03 01:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070123.cfm
+- **Status**: mismatch
+- **Lectionary**: 376
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/787a1d4

@@ -27066,5 +27066,60 @@
       ]
     },
     "checked_at": "2026-05-03T01:45:30+00:00"
+  },
+  "2023-07-01:0": {
+    "date": "2023-07-01",
+    "url": "https://bible.usccb.org/bible/readings/070123.cfm",
+    "lectionary_number": 376,
+    "feast": "Saturday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Luke 1:46-47, 48-49, 50"
+        ],
+        "live": [
+          "Luke 1:46-47"
+        ],
+        "fix": [
+          "Luke 1:46-47"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 8:17"
+        ],
+        "fix": [
+          "Mt 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Luke 1:46-47"
+      ],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 18:1-15"
+      ],
+      "responsorial_psalm": [
+        "Luke 1:46-47"
+      ],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ],
+      "gospel": [
+        "Mt 8:5-17"
+      ]
+    },
+    "checked_at": "2026-05-03T01:50:40+00:00"
   }
 }
