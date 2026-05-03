@@ -11801,7 +11801,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 7:9-10, 13-14",
+            "citation": "Daniel 7:9-10",
             "sources": [
               "USCCB"
             ]
@@ -11809,7 +11809,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 97:1-2, 5-6, 9",
+            "citation": "Psalm 97:1-2",
             "sources": [
               "USCCB"
             ]
@@ -11838,8 +11838,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 17:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-07": [

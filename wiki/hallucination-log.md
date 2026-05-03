@@ -8001,3 +8001,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ea1e0f9
+
+### ❌ 2027-08-07 — Saturday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 23:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080727.cfm
+- **Status**: mismatch
+- **Lectionary**: 412
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c88de1
