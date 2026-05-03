@@ -38290,5 +38290,60 @@
       ]
     },
     "checked_at": "2026-05-03T19:45:09+00:00"
+  },
+  "2023-11-14:0": {
+    "date": "2023-11-14",
+    "url": "https://bible.usccb.org/bible/readings/111423.cfm",
+    "lectionary_number": 492,
+    "feast": "Tuesday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 16-17, 18-19"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 2:23–3"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Lk 17:7-10"
+      ]
+    },
+    "checked_at": "2026-05-03T19:50:19+00:00"
   }
 }

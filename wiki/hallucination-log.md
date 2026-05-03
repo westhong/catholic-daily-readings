@@ -7542,3 +7542,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abb2d3a
+
+### ❌ 2023-11-14 — Tuesday of the Thirty-second Week in Ordinary Time
+- **Checked**: 2026-05-03 19:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111423.cfm
+- **Status**: mismatch
+- **Lectionary**: 492
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 16-17, 18-19']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/519b56f
