@@ -5331,3 +5331,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 2:6-7, 8-9, 10-11']`, live=`['Ps 2:6-7']`, fix=`['Ps 2:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3a82d2a
+
+### ❌ 2025-08-29 — Memorial of the Passion of Saint John the Baptist
+- **Checked**: 2026-05-03 02:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082925.cfm
+- **Status**: mismatch
+- **Lectionary**: 429
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c07af40

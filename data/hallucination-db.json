@@ -27359,5 +27359,45 @@
       ]
     },
     "checked_at": "2026-05-03T02:15:33+00:00"
+  },
+  "2025-08-29:0": {
+    "date": "2025-08-29",
+    "url": "https://bible.usccb.org/bible/readings/082925.cfm",
+    "lectionary_number": 429,
+    "feast": "Memorial of the Passion of Saint John the Baptist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:10"
+        ],
+        "fix": [
+          "Matthew 5:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Matthew 5:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thessalonians 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 97:1"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:10"
+      ],
+      "gospel": [
+        "Mark 6:17-29"
+      ]
+    },
+    "checked_at": "2026-05-03T02:20:43+00:00"
   }
 }
