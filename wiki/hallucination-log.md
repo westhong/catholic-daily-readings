@@ -5284,3 +5284,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/787a1d4
+
+### ❌ 2024-04-01 — Monday in the Octave of Easter
+- **Checked**: 2026-05-03 01:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040124.cfm
+- **Status**: mismatch
+- **Lectionary**: 261
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
+  - **responsorial_psalm**: stored=`['16:1-2']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a01911

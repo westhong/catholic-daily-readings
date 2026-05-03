@@ -11307,7 +11307,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 99:5, 6, 7, 9",
+            "citation": "Psalm 99:5",
             "sources": [
               "USCCB"
             ]
@@ -11328,8 +11328,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-31": [
