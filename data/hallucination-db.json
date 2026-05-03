@@ -32006,5 +32006,60 @@
       ]
     },
     "checked_at": "2026-05-03T09:10:48+00:00"
+  },
+  "2026-06-06:0": {
+    "date": "2026-06-06",
+    "url": "https://bible.usccb.org/bible/readings/060626.cfm",
+    "lectionary_number": 358,
+    "feast": "Saturday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 71:8-9, 14-15"
+        ],
+        "live": [
+          "Psalm 71:8-9"
+        ],
+        "fix": [
+          "Psalm 71:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:3"
+        ],
+        "fix": [
+          "Matthew 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 71:8-9"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Timothy 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 71:8-9"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:3"
+      ],
+      "gospel": [
+        "Mark 12:38-44"
+      ]
+    },
+    "checked_at": "2026-05-03T09:16:00+00:00"
   }
 }

@@ -6305,3 +6305,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 91:1-2, 3-4, 14-15']`, live=`['Psalm 91:1-2']`, fix=`['Psalm 91:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2e011d
+
+### ❌ 2026-06-06 — Saturday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 09:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060626.cfm
+- **Status**: mismatch
+- **Lectionary**: 358
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 71:8-9, 14-15']`, live=`['Psalm 71:8-9']`, fix=`['Psalm 71:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40bacaf
