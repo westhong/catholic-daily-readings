@@ -39253,5 +39253,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T21:15:50+00:00"
+  },
+  "2026-08-29:0": {
+    "date": "2026-08-29",
+    "url": "https://bible.usccb.org/bible/readings/829.cfm",
+    "lectionary_number": 430,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/829.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T21:21:03+00:00"
   }
 }

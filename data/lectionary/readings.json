@@ -61382,7 +61382,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 THES 3:6-10, 16-18",
+            "citation": "2 THES 3:6-10",
             "sources": [
               "USCCB"
             ]
@@ -61390,7 +61390,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 128:1-2, 4-5",
+            "citation": "PS 128:1-2",
             "sources": [
               "USCCB"
             ]
@@ -61411,8 +61411,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 JOHN 2:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-29": [
