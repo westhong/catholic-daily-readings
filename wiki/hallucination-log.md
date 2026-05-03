@@ -7599,3 +7599,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 96:10, 11-12, 13']`, live=`['PS 96:10']`, fix=`['PS 96:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['HEBREWS 4:12']`, fix=`['HEBREWS 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b90cb2
+
+### ❌ 2025-04-26 — Saturday in the Octave of Easter
+- **Checked**: 2026-05-03 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042625.cfm
+- **Status**: mismatch
+- **Lectionary**: 266
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+  - **gospel**: stored=`['to every creature.” LISTEN PODCAST VIEW']`, live=`['Mark 16:9-15']`, fix=`['Mark 16:9-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c361da
