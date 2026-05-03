@@ -7818,3 +7818,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 118:2-4, 13-15, 22-24']`, live=`['Ps 118:2-4']`, fix=`['Ps 118:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cfee130
+
+### 🚫 2026-05-24 — Pentecost Sunday (Mass during the Day)
+- **Checked**: 2026-05-03 22:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052426-Day.cfm
+- **Status**: url_dead
+- **Lectionary**: 63
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/052426-Day.cfm`, live=fetch failed

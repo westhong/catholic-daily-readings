@@ -39701,5 +39701,24 @@
       ]
     },
     "checked_at": "2026-05-03T22:05:57+00:00"
+  },
+  "2026-05-24:0": {
+    "date": "2026-05-24",
+    "url": "https://bible.usccb.org/bible/readings/052426-Day.cfm",
+    "lectionary_number": 63,
+    "feast": "Pentecost Sunday (Mass during the Day)",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/052426-Day.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T22:10:07+00:00"
   }
 }
