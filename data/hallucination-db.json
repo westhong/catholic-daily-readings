@@ -36617,5 +36617,75 @@
       ]
     },
     "checked_at": "2026-05-03T16:45:49+00:00"
+  },
+  "2024-05-08:0": {
+    "date": "2024-05-08",
+    "url": "https://bible.usccb.org/bible/readings/050824.cfm",
+    "lectionary_number": 293,
+    "feast": "Wednesday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 17:15, 22—18"
+        ],
+        "live": [
+          "Acts 17:15"
+        ],
+        "fix": [
+          "Acts 17:15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 148:1-2, 11-12, 13, 14"
+        ],
+        "live": [
+          "Ps 148:1-2"
+        ],
+        "fix": [
+          "Ps 148:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:16"
+        ],
+        "fix": [
+          "Jn 14:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 17:15"
+      ],
+      "responsorial_psalm": [
+        "Ps 148:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 14:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 17:15"
+      ],
+      "responsorial_psalm": [
+        "Ps 148:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 14:16"
+      ],
+      "gospel": [
+        "Jn 16:12-15"
+      ]
+    },
+    "checked_at": "2026-05-03T16:51:03+00:00"
   }
 }

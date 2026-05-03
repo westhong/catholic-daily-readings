@@ -7199,3 +7199,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:8-9, 10-11, 12-13']`, live=`['Psalm 34:8-9']`, fix=`['Psalm 34:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f985625
+
+### ❌ 2024-05-08 — Wednesday of the Sixth Week of Easter
+- **Checked**: 2026-05-03 16:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050824.cfm
+- **Status**: mismatch
+- **Lectionary**: 293
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 17:15, 22—18']`, live=`['Acts 17:15']`, fix=`['Acts 17:15']`
+  - **responsorial_psalm**: stored=`['Ps 148:1-2, 11-12, 13, 14']`, live=`['Ps 148:1-2']`, fix=`['Ps 148:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:16']`, fix=`['Jn 14:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b930f3
