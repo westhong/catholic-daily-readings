@@ -7386,3 +7386,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 102:16-18, 19-21, 29']`, live=`['Psalm 102:16-18']`, fix=`['Psalm 102:16-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a7c61b
+
+### ❌ 2024-11-02 — The Commemoration of All the Faithful Departed (All Souls)
+- **Checked**: 2026-05-03 18:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110224.cfm
+- **Status**: mismatch
+- **Lectionary**: 668
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 25:34']`, fix=`['Mt 25:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c72a83
