@@ -5381,3 +5381,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab']`, live=`['Psalm 31:3']`, fix=`['Psalm 31:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:35']`, fix=`['John 6:35']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8aac480
+
+### 🚫 2023-08-31 — Thursday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-03 02:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083123.cfm
+- **Status**: url_dead
+- **Lectionary**: 428
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/083123.cfm`, live=fetch failed

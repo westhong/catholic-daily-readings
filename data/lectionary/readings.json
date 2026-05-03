@@ -14504,7 +14504,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 6-7, 8-9",
+            "citation": "Psalm 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -14512,7 +14512,7 @@
         ],
         "second_reading": [
           {
-            "citation": "2 Timothy 1:6-8, 13-14",
+            "citation": "2 Timothy 1:6-8",
             "sources": [
               "USCCB"
             ]
@@ -14533,8 +14533,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Peter 1:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-06": [
