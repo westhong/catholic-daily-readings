@@ -5826,3 +5826,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 116:12-13, 14-15, 18-19']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0161bd6
+
+### ❌ 2025-06-26 — Thursday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-03 05:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062625.cfm
+- **Status**: mismatch
+- **Lectionary**: 374
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 16:1-12, 15-16']`, live=`['Genesis 16:1-12']`, fix=`['Genesis 16:1-12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e77285e
