@@ -5756,3 +5756,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 21:33-43, 45-46']`, live=`['Mt 21:33-43']`, fix=`['Mt 21:33-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24c7322
+
+### ❌ 2027-08-16 — Monday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-03 04:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081627.cfm
+- **Status**: mismatch
+- **Lectionary**: 419
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 106:34-35, 36-37, 39-40, 43']`, live=`['Psalm 106:34-35']`, fix=`['Psalm 106:34-35']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0783a5c

@@ -60449,7 +60449,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 145:10-11, 12-13, 17-18",
+            "citation": "Ps 145:10-11",
             "sources": [
               "USCCB"
             ]
@@ -60470,8 +60470,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 1:49",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-25": [
