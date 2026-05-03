@@ -5937,3 +5937,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:45']`, fix=`['See Luke 1:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/536ae2a
+
+### ❌ 2027-01-21 — Memorial of Saint Agnes, Virgin and Martyr
+- **Checked**: 2026-05-03 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012127.cfm
+- **Status**: mismatch
+- **Lectionary**: 314
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 7:25—8']`, live=`['Hebrews 7:25']`, fix=`['Hebrews 7:25']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeebdfd

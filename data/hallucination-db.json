@@ -30097,5 +30097,60 @@
       ]
     },
     "checked_at": "2026-05-03T06:00:59+00:00"
+  },
+  "2027-01-21:0": {
+    "date": "2027-01-21",
+    "url": "https://bible.usccb.org/bible/readings/012127.cfm",
+    "lectionary_number": 314,
+    "feast": "Memorial of Saint Agnes, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hebrews 7:25—8"
+        ],
+        "live": [
+          "Hebrews 7:25"
+        ],
+        "fix": [
+          "Hebrews 7:25"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Timothy 1:10"
+        ],
+        "fix": [
+          "2 Timothy 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hebrews 7:25"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 7:25"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:7-8"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ],
+      "gospel": [
+        "Mark 3:7-12"
+      ]
+    },
+    "checked_at": "2026-05-03T06:05:14+00:00"
   }
 }
