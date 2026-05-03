@@ -7714,3 +7714,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d7d7fcf
+
+### 🚫 2026-07-27 — 
+- **Checked**: 2026-05-03 21:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/727.cfm
+- **Status**: url_dead
+- **Lectionary**: 401
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/727.cfm`, live=fetch failed
