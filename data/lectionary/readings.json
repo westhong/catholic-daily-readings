@@ -51357,7 +51357,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jon 3:1-5, 10",
+            "citation": "Jon 3:1-5",
             "sources": [
               "USCCB"
             ]
@@ -51365,7 +51365,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 25:4-5, 6-7, 8-9",
+            "citation": "Ps 25:4-5",
             "sources": [
               "USCCB"
             ]
@@ -51394,8 +51394,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-22": [

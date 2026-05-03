@@ -6747,3 +6747,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 132:11, 12, 13-14, 17-18']`, live=`['Psalm 132:11']`, fix=`['Psalm 132:11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a15f55
+
+### ❌ 2025-04-30 — Wednesday of the Second Week of Easter
+- **Checked**: 2026-05-03 13:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/043025.cfm
+- **Status**: mismatch
+- **Lectionary**: 269
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cde7c39
