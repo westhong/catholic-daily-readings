@@ -38057,15 +38057,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Matthew 16:18",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-23": [

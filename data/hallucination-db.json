@@ -29954,5 +29954,60 @@
       ]
     },
     "checked_at": "2026-05-03T05:45:19+00:00"
+  },
+  "2024-06-18:0": {
+    "date": "2024-06-18",
+    "url": "https://bible.usccb.org/bible/readings/061824.cfm",
+    "lectionary_number": 366,
+    "feast": "Tuesday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 51:3-4, 5-6"
+        ],
+        "live": [
+          "Ps 51:3-4"
+        ],
+        "fix": [
+          "Ps 51:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 21:17-29"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 5:43-48"
+      ]
+    },
+    "checked_at": "2026-05-03T05:50:33+00:00"
   }
 }
