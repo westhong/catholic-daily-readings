@@ -19968,7 +19968,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 8:23—9",
+            "citation": "Isaiah 8:23",
             "sources": [
               "USCCB"
             ]
@@ -19976,7 +19976,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 4, 13-14",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -19984,7 +19984,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Corinthians 1:10-13, 17",
+            "citation": "1 Corinthians 1:10-13",
             "sources": [
               "USCCB"
             ]
@@ -20005,8 +20005,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-26": [

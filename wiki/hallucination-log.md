@@ -7445,3 +7445,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 104:1, 24, 29-30, 31, 34']`, live=`['Psalm 104:1']`, fix=`['Psalm 104:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2943af9
+
+### 🚫 2026-09-24 — 
+- **Checked**: 2026-05-03 19:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/924.cfm
+- **Status**: url_dead
+- **Lectionary**: 452
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/924.cfm`, live=fetch failed
