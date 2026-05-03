@@ -60165,7 +60165,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ez 2:8—3",
+            "citation": "Ez 2:8",
             "sources": [
               "USCCB"
             ]
@@ -60173,7 +60173,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:14, 24, 72, 103, 111, 131",
+            "citation": "PS 119:14",
             "sources": [
               "USCCB"
             ]
@@ -60181,7 +60181,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 18:1-5, 10, 12-14",
+            "citation": "Mt 18:1-5",
             "sources": [
               "USCCB"
             ]
@@ -60194,8 +60194,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-14": [

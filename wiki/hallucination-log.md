@@ -6213,3 +6213,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 118:1, 8-9, 21-23, 26, 28, 29']`, live=`['Psalm 118:1']`, fix=`['Psalm 118:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d4827bb
+
+### ❌ 2024-03-21 — Thursday of the Fifth Week of Lent
+- **Checked**: 2026-05-03 08:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032124.cfm
+- **Status**: mismatch
+- **Lectionary**: 254
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['105:4-5, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Ps 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0e6e165

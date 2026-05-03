@@ -31507,5 +31507,44 @@
       ]
     },
     "checked_at": "2026-05-03T08:25:38+00:00"
+  },
+  "2024-03-21:0": {
+    "date": "2024-03-21",
+    "url": "https://bible.usccb.org/bible/readings/032124.cfm",
+    "lectionary_number": 254,
+    "feast": "Thursday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "105:4-5, 6-7, 8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ps 95:8"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 17:3-9"
+      ],
+      "gospel": [
+        "Jn 8:51-59"
+      ]
+    },
+    "checked_at": "2026-05-03T08:30:52+00:00"
   }
 }
