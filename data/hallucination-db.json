@@ -36857,5 +36857,44 @@
       ]
     },
     "checked_at": "2026-05-03T17:10:52+00:00"
+  },
+  "2023-12-18:0": {
+    "date": "2023-12-18",
+    "url": "https://bible.usccb.org/bible/readings/121823.cfm",
+    "lectionary_number": 194,
+    "feast": "Monday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 72:1-2, 12-13, 18-19"
+        ],
+        "live": [
+          "Ps 72:1-2"
+        ],
+        "fix": [
+          "Ps 72:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 72:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 23:5-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 72:1-2"
+      ],
+      "gospel": [
+        "Mt 1:18-25"
+      ]
+    },
+    "checked_at": "2026-05-03T17:15:04+00:00"
   }
 }

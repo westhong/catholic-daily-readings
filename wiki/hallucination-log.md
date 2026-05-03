@@ -7245,3 +7245,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a79114d
+
+### ❌ 2023-12-18 — Monday of the Third Week of Advent
+- **Checked**: 2026-05-03 17:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121823.cfm
+- **Status**: mismatch
+- **Lectionary**: 194
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 72:1-2, 12-13, 18-19']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/130f2bf
