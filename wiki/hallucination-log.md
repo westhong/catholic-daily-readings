@@ -7425,3 +7425,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/715e666
+
+### ❌ 2026-05-20 — Wednesday of the Seventh Week of Easter
+- **Checked**: 2026-05-03 18:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052026.cfm
+- **Status**: mismatch
+- **Lectionary**: 299
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 68:29-30, 33-35a, 35bc-36ab']`, live=`['Psalm 68:29-30']`, fix=`['Psalm 68:29-30']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
+  - **gospel**: stored=`['John 17:11b-19']`, live=`['John 17:11']`, fix=`['John 17:11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78d4663
