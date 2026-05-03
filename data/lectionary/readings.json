@@ -42566,7 +42566,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Isaiah 12:2-3, 4",
+            "citation": "Isaiah 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -42587,8 +42587,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Luke 1:45",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-01": [
