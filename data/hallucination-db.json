@@ -29893,5 +29893,66 @@
       ]
     },
     "checked_at": "2026-05-03T05:40:05+00:00"
+  },
+  "2024-01-30:0": {
+    "date": "2024-01-30",
+    "url": "https://bible.usccb.org/bible/readings/013024.cfm",
+    "lectionary_number": 324,
+    "feast": "Tuesday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Sm 18:9-10, 14"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 86:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "PS 86:1-2"
+        ],
+        "fix": [
+          "PS 86:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 8:17"
+        ],
+        "fix": [
+          "MT 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "PS 86:1-2"
+      ],
+      "alleluia_verse": [
+        "MT 8:17"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "PS 86:1-2"
+      ],
+      "alleluia_verse": [
+        "MT 8:17"
+      ],
+      "gospel": [
+        "Mk 5:21-43"
+      ]
+    },
+    "checked_at": "2026-05-03T05:45:19+00:00"
   }
 }

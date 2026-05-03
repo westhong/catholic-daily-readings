@@ -57414,7 +57414,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 51:3-4, 5-6",
+            "citation": "Ps 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -57435,8 +57435,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-19": [

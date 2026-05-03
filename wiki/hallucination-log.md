@@ -5897,3 +5897,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Acts 13:16-17, 22-25']`, live=`['Acts 13:16-17']`, fix=`['Acts 13:16-17']`
   - **gospel**: stored=`['Matthew 1:1-25']`, live=`['Matthew 1:1-25', 'Matthew 1:18-25']`, fix=`['Matthew 1:1-25', 'Matthew 1:18-25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/384f931
+
+### ❌ 2024-01-30 — Tuesday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-03 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013024.cfm
+- **Status**: mismatch
+- **Lectionary**: 324
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 18:9-10, 14']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['PS 86:1-2, 3-4, 5-6']`, live=`['PS 86:1-2']`, fix=`['PS 86:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 8:17']`, fix=`['MT 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3fe11de
