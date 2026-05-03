@@ -5736,3 +5736,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['MK 1:15']`, fix=`['MK 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/922c4f5
+
+### 🚫 2023-06-09 — Friday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 04:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060923.cfm
+- **Status**: url_dead
+- **Lectionary**: 357
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/060923.cfm`, live=fetch failed
