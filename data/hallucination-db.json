@@ -34158,5 +34158,60 @@
       ]
     },
     "checked_at": "2026-05-03T12:35:48+00:00"
+  },
+  "2024-09-11:0": {
+    "date": "2024-09-11",
+    "url": "https://bible.usccb.org/bible/readings/091124.cfm",
+    "lectionary_number": 439,
+    "feast": "Wednesday of the Twenty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 45:11-12, 14-15, 16-17"
+        ],
+        "live": [
+          "Ps 45:11-12"
+        ],
+        "fix": [
+          "Ps 45:11-12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 6:23"
+        ],
+        "fix": [
+          "Lk 6:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 45:11-12"
+      ],
+      "alleluia_verse": [
+        "Lk 6:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 7:25-31"
+      ],
+      "responsorial_psalm": [
+        "Ps 45:11-12"
+      ],
+      "alleluia_verse": [
+        "Lk 6:23"
+      ],
+      "gospel": [
+        "Lk 6:20-26"
+      ]
+    },
+    "checked_at": "2026-05-03T12:41:02+00:00"
   }
 }
