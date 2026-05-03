@@ -51368,14 +51368,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "50:8-9, 16",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 2:18-22",
@@ -51391,8 +51384,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Hb 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-16": [

@@ -7864,3 +7864,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/950e534
+
+### ❌ 2025-10-25 — Saturday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 22:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102525.cfm
+- **Status**: mismatch
+- **Lectionary**: 478
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ezekiel 33:11']`, fix=`['Ezekiel 33:11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3cee6cb
