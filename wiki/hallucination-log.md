@@ -6757,3 +6757,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cde7c39
+
+### ❌ 2024-01-21 — Third Sunday in Ordinary Time
+- **Checked**: 2026-05-03 13:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012124.cfm
+- **Status**: mismatch
+- **Lectionary**: 68
+- **Mismatches**:
+  - **first_reading**: stored=`['Jon 3:1-5, 10']`, live=`['Jon 3:1-5']`, fix=`['Jon 3:1-5']`
+  - **responsorial_psalm**: stored=`['Ps 25:4-5, 6-7, 8-9']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/117878d
