@@ -25914,5 +25914,60 @@
       ]
     },
     "checked_at": "2026-05-03T00:00:37+00:00"
+  },
+  "2023-09-02:0": {
+    "date": "2023-09-02",
+    "url": "https://bible.usccb.org/bible/readings/090223.cfm",
+    "lectionary_number": 430,
+    "feast": "Saturday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 7-8, 9"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thes 4:9-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 25:14-30"
+      ]
+    },
+    "checked_at": "2026-05-03T00:05:49+00:00"
   }
 }

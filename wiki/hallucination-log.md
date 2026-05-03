@@ -5062,3 +5062,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['21:2-3, 4-5, 6-7']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/89ab927
+
+### ❌ 2023-09-02 — Saturday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-03 00:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090223.cfm
+- **Status**: mismatch
+- **Lectionary**: 430
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 7-8, 9']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca883e7
