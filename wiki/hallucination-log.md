@@ -6420,3 +6420,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e567988
+
+### 🚫 2023-11-23 — Thursday of the Thirty-third Week in Ordinary Time-Thanksgiving
+- **Checked**: 2026-05-03 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112323.cfm
+- **Status**: url_dead
+- **Lectionary**: 506
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/112323.cfm`, live=fetch failed

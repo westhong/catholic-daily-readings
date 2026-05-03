@@ -32667,5 +32667,24 @@
       ]
     },
     "checked_at": "2026-05-03T10:05:26+00:00"
+  },
+  "2023-11-23:0": {
+    "date": "2023-11-23",
+    "url": "https://bible.usccb.org/bible/readings/112323.cfm",
+    "lectionary_number": 506,
+    "feast": "Thursday of the Thirty-third Week in Ordinary Time-Thanksgiving",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/112323.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T10:10:41+00:00"
   }
 }
