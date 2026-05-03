@@ -37946,7 +37946,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 12-13, 18-19",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -37960,15 +37960,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Joel 2:12-13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-18": [

@@ -6368,3 +6368,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 8:4-5, 6-7, 8-9']`, live=`['Psalm 8:4-5']`, fix=`['Psalm 8:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalms 119:36']`, fix=`['Psalms 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c048215
+
+### ❌ 2027-03-14 — Fifth Sunday of Lent Year A
+- **Checked**: 2026-05-03 09:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031427-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 34
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **gospel**: stored=`['John 11:1-45']`, live=`['John 11:1-45', 'John 11:3-7']`, fix=`['John 11:1-45', 'John 11:3-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/da389c4
