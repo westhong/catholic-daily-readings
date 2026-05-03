@@ -6267,3 +6267,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 86:1-2, 3-4, 5-6']`, live=`['PS 86:1-2']`, fix=`['PS 86:1-2']`
   - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3aa6cd
+
+### ❌ 2023-04-27 — Thursday of the Third Week of Easter
+- **Checked**: 2026-05-03 08:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042723.cfm
+- **Status**: mismatch
+- **Lectionary**: 276
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 66:8-9, 16-17, 20']`, live=`['Ps 66:8-9']`, fix=`['Ps 66:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63d7df7
