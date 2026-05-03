@@ -48138,7 +48138,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 90:12-13, 14-15, 16-17",
+            "citation": "Psalm 90:12-13",
             "sources": [
               "USCCB"
             ]
@@ -48159,8 +48159,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-11": [

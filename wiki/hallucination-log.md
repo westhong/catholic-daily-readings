@@ -6951,3 +6951,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 260
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/041725-Chrism.cfm`, live=fetch failed
+
+### ❌ 2024-01-10 — Wednesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 14:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011024.cfm
+- **Status**: mismatch
+- **Lectionary**: 307
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Sm 3:1-10, 19-20']`, live=`['1 Sm 3:1-10']`, fix=`['1 Sm 3:1-10']`
+  - **responsorial_psalm**: stored=`['40:2']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a6a624f

@@ -35335,5 +35335,66 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T14:40:09+00:00"
+  },
+  "2024-01-10:0": {
+    "date": "2024-01-10",
+    "url": "https://bible.usccb.org/bible/readings/011024.cfm",
+    "lectionary_number": 307,
+    "feast": "Wednesday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Sm 3:1-10, 19-20"
+        ],
+        "live": [
+          "1 Sm 3:1-10"
+        ],
+        "fix": [
+          "1 Sm 3:1-10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "40:2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Sm 3:1-10"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 3:1-10"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mk 1:29-39"
+      ]
+    },
+    "checked_at": "2026-05-03T14:45:26+00:00"
   }
 }
