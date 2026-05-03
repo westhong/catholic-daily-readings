@@ -29164,5 +29164,60 @@
       ]
     },
     "checked_at": "2026-05-03T04:35:17+00:00"
+  },
+  "2024-08-24:0": {
+    "date": "2024-08-24",
+    "url": "https://bible.usccb.org/bible/readings/082424.cfm",
+    "lectionary_number": 629,
+    "feast": "Feast of Saint Bartholomew, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:10-11, 12-13, 17-18"
+        ],
+        "live": [
+          "Ps 145:10-11"
+        ],
+        "fix": [
+          "Ps 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 1:49"
+        ],
+        "fix": [
+          "Jn 1:49"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "Jn 1:49"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rv 21:9"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "Jn 1:49"
+      ],
+      "gospel": [
+        "Jn 1:45-51"
+      ]
+    },
+    "checked_at": "2026-05-03T04:40:29+00:00"
   }
 }
