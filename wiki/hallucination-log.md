@@ -5776,3 +5776,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13, 17-18']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:49']`, fix=`['Jn 1:49']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bbf05e4
+
+### ❌ 2024-02-29 — Thursday of the Second Week of Lent
+- **Checked**: 2026-05-03 04:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022924.cfm
+- **Status**: mismatch
+- **Lectionary**: 233
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
+  - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a4c91a

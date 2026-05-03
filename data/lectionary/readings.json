@@ -70613,7 +70613,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 115:1-2, 3-4, 15-16",
+            "citation": "Ps 115:1-2",
             "sources": [
               "USCCB"
             ]
@@ -70634,8 +70634,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-05-09": [

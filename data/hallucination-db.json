@@ -29219,5 +29219,53 @@
       ]
     },
     "checked_at": "2026-05-03T04:40:29+00:00"
+  },
+  "2024-02-29:0": {
+    "date": "2024-02-29",
+    "url": "https://bible.usccb.org/bible/readings/022924.cfm",
+    "lectionary_number": 233,
+    "feast": "Thursday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Ps 1:1-2"
+        ],
+        "fix": [
+          "Ps 1:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Lk 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 17:5-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ],
+      "gospel": [
+        "Lk 16:19-31"
+      ]
+    },
+    "checked_at": "2026-05-03T04:45:42+00:00"
   }
 }
