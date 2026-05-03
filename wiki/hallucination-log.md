@@ -6933,3 +6933,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 21:2-3, 4-5, 6-7']`, live=`['Psalm 21:2-3']`, fix=`['Psalm 21:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a24d00
+
+### ❌ 2026-06-16 — Tuesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-03 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061626.cfm
+- **Status**: mismatch
+- **Lectionary**: 366
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644c545

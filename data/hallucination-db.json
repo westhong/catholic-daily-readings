@@ -35261,5 +35261,60 @@
       ]
     },
     "checked_at": "2026-05-03T14:30:38+00:00"
+  },
+  "2026-06-16:0": {
+    "date": "2026-06-16",
+    "url": "https://bible.usccb.org/bible/readings/061626.cfm",
+    "lectionary_number": 366,
+    "feast": "Tuesday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 51:3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 51:3-4"
+        ],
+        "fix": [
+          "Psalm 51:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 13:34"
+        ],
+        "fix": [
+          "John 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 21:17-29"
+      ],
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ],
+      "gospel": [
+        "Matthew 5:43-48"
+      ]
+    },
+    "checked_at": "2026-05-03T14:35:54+00:00"
   }
 }
