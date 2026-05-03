@@ -39048,5 +39048,66 @@
       ]
     },
     "checked_at": "2026-05-03T20:56:04+00:00"
+  },
+  "2023-01-13:0": {
+    "date": "2023-01-13",
+    "url": "https://bible.usccb.org/bible/readings/011323.cfm",
+    "lectionary_number": 309,
+    "feast": "Friday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hebrews 4:1-5, 11"
+        ],
+        "live": [
+          "Hebrews 4:1-5"
+        ],
+        "fix": [
+          "Hebrews 4:1-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "78:3"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hebrews 4:1-5"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 4:1-5"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mk 2:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T21:00:14+00:00"
   }
 }
