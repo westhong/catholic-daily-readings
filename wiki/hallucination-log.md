@@ -6803,3 +6803,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 102:2-3, 16-18, 19-21']`, live=`['Psalm 102:2-3']`, fix=`['Psalm 102:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/767246d
+
+### ❌ 2025-04-11 — Friday of the Fifth Week of Lent
+- **Checked**: 2026-05-03 13:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041125.cfm
+- **Status**: mismatch
+- **Lectionary**: 255
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de5087c

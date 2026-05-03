@@ -34565,5 +34565,38 @@
       ]
     },
     "checked_at": "2026-05-03T13:25:20+00:00"
+  },
+  "2025-04-11:0": {
+    "date": "2025-04-11",
+    "url": "https://bible.usccb.org/bible/readings/041125.cfm",
+    "lectionary_number": 255,
+    "feast": "Friday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See John 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 20:10-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 18:2-3"
+      ],
+      "gospel": [
+        "John 10:31-42"
+      ]
+    },
+    "checked_at": "2026-05-03T13:30:32+00:00"
   }
 }
