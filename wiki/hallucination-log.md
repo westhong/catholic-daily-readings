@@ -6315,3 +6315,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 71:8-9, 14-15']`, live=`['Psalm 71:8-9']`, fix=`['Psalm 71:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40bacaf
+
+### ❌ 2023-10-07 — Memorial of Our Lady of the Rosary
+- **Checked**: 2026-05-03 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100723.cfm
+- **Status**: mismatch
+- **Lectionary**: 460
+- **Mismatches**:
+  - **first_reading**: stored=`['Bar 4:5-12, 27-29']`, live=`['Bar 4:5-12']`, fix=`['Bar 4:5-12']`
+  - **responsorial_psalm**: stored=`['Ps 69:33-35, 36-37']`, live=`['Ps 69:33-35']`, fix=`['Ps 69:33-35']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a81f4d

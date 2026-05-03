@@ -32061,5 +32061,75 @@
       ]
     },
     "checked_at": "2026-05-03T09:16:00+00:00"
+  },
+  "2023-10-07:0": {
+    "date": "2023-10-07",
+    "url": "https://bible.usccb.org/bible/readings/100723.cfm",
+    "lectionary_number": 460,
+    "feast": "Memorial of Our Lady of the Rosary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Bar 4:5-12, 27-29"
+        ],
+        "live": [
+          "Bar 4:5-12"
+        ],
+        "fix": [
+          "Bar 4:5-12"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 69:33-35, 36-37"
+        ],
+        "live": [
+          "Ps 69:33-35"
+        ],
+        "fix": [
+          "Ps 69:33-35"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Bar 4:5-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 69:33-35"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Bar 4:5-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 69:33-35"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Lk 10:17-24"
+      ]
+    },
+    "checked_at": "2026-05-03T09:20:14+00:00"
   }
 }
