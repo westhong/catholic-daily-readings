@@ -33640,5 +33640,24 @@
       ]
     },
     "checked_at": "2026-05-03T11:45:31+00:00"
+  },
+  "2023-05-25:0": {
+    "date": "2023-05-25",
+    "url": "https://bible.usccb.org/bible/readings/230525.cfm",
+    "lectionary_number": 300,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/230525.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T11:50:44+00:00"
   }
 }

@@ -6612,3 +6612,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['RV 3:1-6, 14-22']`, live=`['RV 3:1-6']`, fix=`['RV 3:1-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 JN 4:10']`, fix=`['1 JN 4:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/30ec8c3
+
+### 🚫 2023-05-25 — 
+- **Checked**: 2026-05-03 11:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/230525.cfm
+- **Status**: url_dead
+- **Lectionary**: 300
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/230525.cfm`, live=fetch failed
