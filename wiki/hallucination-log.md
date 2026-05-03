@@ -7770,3 +7770,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 16:5, 8, 9-10, 11']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
   - **second_reading**: stored=`['Genesis 22:1-18']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0eea383
+
+### ❌ 2023-08-05 — Saturday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-03 21:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080523.cfm
+- **Status**: mismatch
+- **Lectionary**: 406
+- **Mismatches**:
+  - **first_reading**: stored=`['Lv 25:1, 8-17']`, live=`['Lv 25:1']`, fix=`['Lv 25:1']`
+  - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 7-8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15030ca

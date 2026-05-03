@@ -39464,5 +39464,75 @@
       ]
     },
     "checked_at": "2026-05-03T21:40:56+00:00"
+  },
+  "2023-08-05:0": {
+    "date": "2023-08-05",
+    "url": "https://bible.usccb.org/bible/readings/080523.cfm",
+    "lectionary_number": 406,
+    "feast": "Saturday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Lv 25:1, 8-17"
+        ],
+        "live": [
+          "Lv 25:1"
+        ],
+        "fix": [
+          "Lv 25:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 67:2-3, 5, 7-8"
+        ],
+        "live": [
+          "Ps 67:2-3"
+        ],
+        "fix": [
+          "Ps 67:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:10"
+        ],
+        "fix": [
+          "Mt 5:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Lv 25:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Lv 25:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ],
+      "gospel": [
+        "Mt 14:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T21:45:09+00:00"
   }
 }
