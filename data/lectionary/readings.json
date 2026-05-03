@@ -26236,7 +26236,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 71:8-9, 14-15",
+            "citation": "Psalm 71:8-9",
             "sources": [
               "USCCB"
             ]
@@ -26257,8 +26257,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-07": [
