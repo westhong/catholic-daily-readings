@@ -45630,7 +45630,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 106:34-35, 36-37, 39-40, 43",
+            "citation": "Psalm 106:34-35",
             "sources": [
               "USCCB"
             ]
@@ -45643,8 +45643,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-17": [

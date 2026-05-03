@@ -29031,5 +29031,83 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T04:25:44+00:00"
+  },
+  "2023-03-10:0": {
+    "date": "2023-03-10",
+    "url": "https://bible.usccb.org/bible/readings/031023.cfm",
+    "lectionary_number": 234,
+    "feast": "Friday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 37:3-4, 12-13"
+        ],
+        "live": [
+          "Gn 37:3-4"
+        ],
+        "fix": [
+          "Gn 37:3-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 105:16-17, 18-19, 20-21"
+        ],
+        "live": [
+          "Ps 105:16-17"
+        ],
+        "fix": [
+          "Ps 105:16-17"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jn 3:16"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 21:33-43, 45-46"
+        ],
+        "live": [
+          "Mt 21:33-43"
+        ],
+        "fix": [
+          "Mt 21:33-43"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 37:3-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 105:16-17"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mt 21:33-43"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 37:3-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 105:16-17"
+      ],
+      "gospel": [
+        "Mt 21:33-43"
+      ]
+    },
+    "checked_at": "2026-05-03T04:30:05+00:00"
   }
 }
