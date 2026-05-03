@@ -6004,3 +6004,18 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 181
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261207.cfm`, live=fetch failed
+
+### ❌ 2025-07-25 — Feast of Saint James, Apostle
+- **Checked**: 2026-05-03 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072525.cfm
+- **Status**: mismatch
+- **Lectionary**: 605
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1e3e854
+
+### ✅ 2023-05-21 — Seventh Sunday of Easter - Ascension
+- **Checked**: 2026-05-03 06:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052123.cfm
+- **Status**: ok
+- **Lectionary**: 58
