@@ -5687,3 +5687,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Eph 4:1-7, 11-13']`, live=`['Eph 4:1-7']`, fix=`['Eph 4:1-7']`
   - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3db7ffc
+
+### ❌ 2026-03-14 — Saturday of the Third Week of Lent
+- **Checked**: 2026-05-03 04:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031426.cfm
+- **Status**: mismatch
+- **Lectionary**: 242
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 18-19, 20-21']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/59273cf
