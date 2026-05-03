@@ -7703,3 +7703,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Samuel 3:1-10, 19-20']`, live=`['1 Samuel 3:1-10']`, fix=`['1 Samuel 3:1-10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79311e8
+
+### ❌ 2025-11-24 — Memorial of Saint Andrew Dŭng-Lạc, Priest, and Companions, Martyrs
+- **Checked**: 2026-05-03 21:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112425.cfm
+- **Status**: mismatch
+- **Lectionary**: 503
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 1:1-6, 8-20']`, live=`['Daniel 1:1-6']`, fix=`['Daniel 1:1-6']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d7d7fcf

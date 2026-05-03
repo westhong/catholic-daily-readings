@@ -39164,5 +39164,75 @@
       ]
     },
     "checked_at": "2026-05-03T21:05:26+00:00"
+  },
+  "2025-11-24:0": {
+    "date": "2025-11-24",
+    "url": "https://bible.usccb.org/bible/readings/112425.cfm",
+    "lectionary_number": 503,
+    "feast": "Memorial of Saint Andrew Dŭng-Lạc, Priest, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Daniel 1:1-6, 8-20"
+        ],
+        "live": [
+          "Daniel 1:1-6"
+        ],
+        "fix": [
+          "Daniel 1:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Daniel 3:52"
+        ],
+        "fix": [
+          "Daniel 3:52"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 24:42"
+        ],
+        "fix": [
+          "Matthew 24:42"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Daniel 1:1-6"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "Matthew 24:42"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 1:1-6"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "Matthew 24:42"
+      ],
+      "gospel": [
+        "Luke 21:1-4"
+      ]
+    },
+    "checked_at": "2026-05-03T21:10:38+00:00"
   }
 }
