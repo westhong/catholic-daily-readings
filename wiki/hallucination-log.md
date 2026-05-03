@@ -6574,3 +6574,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 160
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261122.cfm`, live=fetch failed
+
+### ❌ 2024-08-21 — Memorial of Saint Pius X, Pope
+- **Checked**: 2026-05-03 11:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082124.cfm
+- **Status**: mismatch
+- **Lectionary**: 421
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5b70759
