@@ -5619,3 +5619,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 17
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/122825.cfm`, live=fetch failed
+
+### 🚫 2027-02-08 — Monday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020827.cfm
+- **Status**: url_dead
+- **Lectionary**: 329
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/020827.cfm`, live=fetch failed
