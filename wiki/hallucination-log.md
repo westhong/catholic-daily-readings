@@ -5183,3 +5183,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['67:2-3, 5, 6']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39fe6f3
+
+### ❌ 2027-08-14 — Memorial of Saint Maximilian Kolbe, Priest and Martyr
+- **Checked**: 2026-05-03 01:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081427.cfm
+- **Status**: mismatch
+- **Lectionary**: 418
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e0181cc

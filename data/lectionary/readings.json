@@ -76194,7 +76194,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Tm 1:1-2, 12-14",
+            "citation": "1 Tm 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -76216,7 +76216,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-16": [
