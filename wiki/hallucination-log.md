@@ -5370,3 +5370,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 4:1-5, 11']`, live=`['Hebrews 4:1-5']`, fix=`['Hebrews 4:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0361d45
+
+### ❌ 2026-04-21 — Tuesday of the Third Week of Easter
+- **Checked**: 2026-05-03 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042126.cfm
+- **Status**: mismatch
+- **Lectionary**: 275
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 7:51-8:1a']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
+  - **responsorial_psalm**: stored=`['Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab']`, live=`['Psalm 31:3']`, fix=`['Psalm 31:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:35']`, fix=`['John 6:35']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8aac480

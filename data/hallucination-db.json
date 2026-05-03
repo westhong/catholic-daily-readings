@@ -27570,5 +27570,75 @@
       ]
     },
     "checked_at": "2026-05-03T02:35:15+00:00"
+  },
+  "2026-04-21:0": {
+    "date": "2026-04-21",
+    "url": "https://bible.usccb.org/bible/readings/042126.cfm",
+    "lectionary_number": 275,
+    "feast": "Tuesday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 7:51-8:1a"
+        ],
+        "live": [
+          "Acts 7:51"
+        ],
+        "fix": [
+          "Acts 7:51"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab"
+        ],
+        "live": [
+          "Psalm 31:3"
+        ],
+        "fix": [
+          "Psalm 31:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:35"
+        ],
+        "fix": [
+          "John 6:35"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 7:51"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:3"
+      ],
+      "alleluia_verse": [
+        "John 6:35"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 7:51"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:3"
+      ],
+      "alleluia_verse": [
+        "John 6:35"
+      ],
+      "gospel": [
+        "John 6:30-35"
+      ]
+    },
+    "checked_at": "2026-05-03T02:40:26+00:00"
   }
 }
