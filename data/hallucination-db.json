@@ -28186,5 +28186,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:29+00:00"
+  },
+  "2026-11-21:0": {
+    "date": "2026-11-21",
+    "url": "https://bible.usccb.org/bible/readings/261121.cfm",
+    "lectionary_number": 502,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261121.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:35+00:00"
   }
 }

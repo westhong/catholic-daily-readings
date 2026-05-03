@@ -5523,3 +5523,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 264
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/040127.cfm`, live=fetch failed
+
+### 🚫 2026-11-21 — 
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261121.cfm
+- **Status**: url_dead
+- **Lectionary**: 502
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261121.cfm`, live=fetch failed
