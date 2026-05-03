@@ -27242,7 +27242,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Kings 4:8-11, 14-16",
+            "citation": "2 Kings 4:8-11",
             "sources": [
               "USCCB"
             ]
@@ -27250,7 +27250,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 16-17, 18-19",
+            "citation": "Psalm 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -27258,7 +27258,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Romans 6:3-4, 8-11",
+            "citation": "Romans 6:3-4",
             "sources": [
               "USCCB"
             ]
@@ -27279,8 +27279,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Peter 2:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-29": [
