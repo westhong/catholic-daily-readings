@@ -30405,5 +30405,24 @@
       ]
     },
     "checked_at": "2026-05-03T06:30:18+00:00"
+  },
+  "2026-12-07:0": {
+    "date": "2026-12-07",
+    "url": "https://bible.usccb.org/bible/readings/261207.cfm",
+    "lectionary_number": 181,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261207.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T06:35:30+00:00"
   }
 }

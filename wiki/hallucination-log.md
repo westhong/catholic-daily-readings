@@ -5996,3 +5996,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a50e171
+
+### 🚫 2026-12-07 — 
+- **Checked**: 2026-05-03 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261207.cfm
+- **Status**: url_dead
+- **Lectionary**: 181
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261207.cfm`, live=fetch failed
