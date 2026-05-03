@@ -6583,3 +6583,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5b70759
+
+### 🚫 2026-05-24 — Pentecost Sunday (Extended Form)
+- **Checked**: 2026-05-03 11:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052426-Extended.cfm
+- **Status**: url_dead
+- **Lectionary**: 62
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/052426-Extended.cfm`, live=fetch failed
