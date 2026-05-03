@@ -6923,3 +6923,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 71:8-9, 14-15']`, live=`['Ps 71:8-9']`, fix=`['Ps 71:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 2:19']`, fix=`['See Lk 2:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a22aaff
+
+### ❌ 2027-08-18 — Wednesday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-03 14:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081827.cfm
+- **Status**: mismatch
+- **Lectionary**: 421
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 21:2-3, 4-5, 6-7']`, live=`['Psalm 21:2-3']`, fix=`['Psalm 21:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a24d00
