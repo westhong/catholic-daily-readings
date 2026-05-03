@@ -28053,5 +28053,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:09+00:00"
+  },
+  "2024-10-29:0": {
+    "date": "2024-10-29",
+    "url": "https://bible.usccb.org/bible/readings/102924.cfm",
+    "lectionary_number": 480,
+    "feast": "Tuesday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/102924.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:14+00:00"
   }
 }
