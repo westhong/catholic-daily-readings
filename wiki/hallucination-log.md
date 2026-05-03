@@ -7798,3 +7798,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 92:2-3, 13-14, 15-16']`, live=`['Ps 92:2-3']`, fix=`['Ps 92:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f499c66
+
+### ❌ 2027-02-11 — Thursday after Ash Wednesday
+- **Checked**: 2026-05-03 22:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021127.cfm
+- **Status**: mismatch
+- **Lectionary**: 220
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6aff204
