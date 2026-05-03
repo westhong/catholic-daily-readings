@@ -27008,5 +27008,63 @@
       ]
     },
     "checked_at": "2026-05-03T01:40:18+00:00"
+  },
+  "2023-10-01:0": {
+    "date": "2023-10-01",
+    "url": "https://bible.usccb.org/bible/readings/100123.cfm",
+    "lectionary_number": 136,
+    "feast": "Twenty-sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 25:4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 25:4-5"
+        ],
+        "fix": [
+          "Ps 25:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 18:25-28"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "second_reading": [
+        "Phil 2:1-11"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mt 21:28-32"
+      ]
+    },
+    "checked_at": "2026-05-03T01:45:30+00:00"
   }
 }
