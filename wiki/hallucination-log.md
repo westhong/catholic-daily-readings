@@ -7274,3 +7274,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 106:3-4, 35-36, 37']`, live=`['PS 106:3-4']`, fix=`['PS 106:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9444a1
+
+### ❌ 2025-03-17 — Monday of the Second Week in Lent
+- **Checked**: 2026-05-03 17:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031725.cfm
+- **Status**: mismatch
+- **Lectionary**: 230
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 79:8, 9, 11']`, live=`['Psalm 79:8']`, fix=`['Psalm 79:8']`
+  - **verse_before_gospel**: stored=`['John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/663fd4f
