@@ -32891,5 +32891,60 @@
       ]
     },
     "checked_at": "2026-05-03T10:30:42+00:00"
+  },
+  "2025-07-04:0": {
+    "date": "2025-07-04",
+    "url": "https://bible.usccb.org/bible/readings/070425.cfm",
+    "lectionary_number": 381,
+    "feast": "Friday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 23:1-4, 19"
+        ],
+        "live": [
+          "Genesis 23:1-4"
+        ],
+        "fix": [
+          "Genesis 23:1-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:28"
+        ],
+        "fix": [
+          "Matthew 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 23:1-4"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 23:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 106:1"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:28"
+      ],
+      "gospel": [
+        "Matthew 9:9-13"
+      ]
+    },
+    "checked_at": "2026-05-03T10:35:55+00:00"
   }
 }

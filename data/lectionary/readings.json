@@ -7201,7 +7201,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 7:51—8",
+            "citation": "Acts 7:51",
             "sources": [
               "USCCB"
             ]
@@ -7230,8 +7230,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 6:35",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-07": [

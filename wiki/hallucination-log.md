@@ -6467,3 +6467,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:2-3, 4-5, 10-11']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 9:6']`, fix=`['Mk 9:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d98321f
+
+### ❌ 2025-07-04 — Friday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 10:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070425.cfm
+- **Status**: mismatch
+- **Lectionary**: 381
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 23:1-4, 19']`, live=`['Genesis 23:1-4']`, fix=`['Genesis 23:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/533f875
