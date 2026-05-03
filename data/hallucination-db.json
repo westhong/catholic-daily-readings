@@ -35063,5 +35063,93 @@
       ]
     },
     "checked_at": "2026-05-03T14:15:53+00:00"
+  },
+  "2027-02-07:0": {
+    "date": "2027-02-07",
+    "url": "https://bible.usccb.org/bible/readings/020727.cfm",
+    "lectionary_number": 74,
+    "feast": "Fifth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Job 7:1-4, 6-7"
+        ],
+        "live": [
+          "Job 7:1-4"
+        ],
+        "fix": [
+          "Job 7:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 147:1-2"
+        ],
+        "fix": [
+          "Psalm 147:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Corinthians 9:16-19, 22-23"
+        ],
+        "live": [
+          "1 Corinthians 9:16-19"
+        ],
+        "fix": [
+          "1 Corinthians 9:16-19"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 8:17"
+        ],
+        "fix": [
+          "Matthew 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Job 7:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:1-2"
+      ],
+      "second_reading": [
+        "1 Corinthians 9:16-19"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Job 7:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:1-2"
+      ],
+      "second_reading": [
+        "1 Corinthians 9:16-19"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ],
+      "gospel": [
+        "Mark 1:29-39"
+      ]
+    },
+    "checked_at": "2026-05-03T14:20:08+00:00"
   }
 }

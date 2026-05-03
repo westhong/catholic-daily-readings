@@ -57313,7 +57313,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 71:8-9, 14-15",
+            "citation": "Ps 71:8-9",
             "sources": [
               "USCCB"
             ]
@@ -57334,8 +57334,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Lk 2:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-09": [
