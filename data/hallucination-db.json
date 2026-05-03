@@ -30744,5 +30744,60 @@
       ]
     },
     "checked_at": "2026-05-03T07:10:09+00:00"
+  },
+  "2023-02-21:0": {
+    "date": "2023-02-21",
+    "url": "https://bible.usccb.org/bible/readings/022123.cfm",
+    "lectionary_number": 342,
+    "feast": "Tuesday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 37:3-4, 18-19, 27-28, 39-40"
+        ],
+        "live": [
+          "Ps 37:3-4"
+        ],
+        "fix": [
+          "Ps 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Gal 6:14"
+        ],
+        "fix": [
+          "Gal 6:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 2:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ],
+      "gospel": [
+        "Mk 9:30-37"
+      ]
+    },
+    "checked_at": "2026-05-03T07:15:23+00:00"
   }
 }

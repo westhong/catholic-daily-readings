@@ -6069,3 +6069,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:12']`, fix=`['Matthew 5:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63a3949
+
+### ❌ 2023-02-21 — Tuesday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-03 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022123.cfm
+- **Status**: mismatch
+- **Lectionary**: 342
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 37:3-4, 18-19, 27-28, 39-40']`, live=`['Ps 37:3-4']`, fix=`['Ps 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Gal 6:14']`, fix=`['Gal 6:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4bea5c9

@@ -11770,7 +11770,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 77:12-13, 14-15, 16",
+            "citation": "Psalm 77:12-13",
             "sources": [
               "USCCB"
             ]
@@ -11791,8 +11791,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-09": [
