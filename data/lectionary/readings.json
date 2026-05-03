@@ -73072,7 +73072,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 145:1-2, 8-9, 10-11, 13-14",
+            "citation": "Ps 145:1-2",
             "sources": [
               "USCCB"
             ]
@@ -73080,7 +73080,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Rom 8:9, 11-13",
+            "citation": "Rom 8:9",
             "sources": [
               "USCCB"
             ]
@@ -73102,7 +73102,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-10": [
