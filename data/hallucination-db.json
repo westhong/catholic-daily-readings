@@ -34965,5 +34965,63 @@
       ]
     },
     "checked_at": "2026-05-03T14:05:19+00:00"
+  },
+  "2023-01-29:0": {
+    "date": "2023-01-29",
+    "url": "https://bible.usccb.org/bible/readings/012923.cfm",
+    "lectionary_number": 70,
+    "feast": "Fourth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 146:6-7, 8-9, 9-10"
+        ],
+        "live": [
+          "Ps 146:6-7"
+        ],
+        "fix": [
+          "Ps 146:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:12"
+        ],
+        "fix": [
+          "Mt 5:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 146:6-7"
+      ],
+      "alleluia_verse": [
+        "Mt 5:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zep 2:3"
+      ],
+      "responsorial_psalm": [
+        "Ps 146:6-7"
+      ],
+      "second_reading": [
+        "1 Cor 1:26-31"
+      ],
+      "alleluia_verse": [
+        "Mt 5:12"
+      ],
+      "gospel": [
+        "Mt 5:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T14:10:37+00:00"
   }
 }
