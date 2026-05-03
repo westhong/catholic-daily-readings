@@ -36023,5 +36023,35 @@
       ]
     },
     "checked_at": "2026-05-03T15:45:16+00:00"
+  },
+  "2023-04-22:0": {
+    "date": "2023-04-22",
+    "url": "https://bible.usccb.org/bible/readings/042223.cfm",
+    "lectionary_number": 272,
+    "feast": "Saturday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "33:1-2, 4-5, 18-19"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 6:1-7"
+      ],
+      "gospel": [
+        "Jn 6:16-21"
+      ]
+    },
+    "checked_at": "2026-05-03T15:50:30+00:00"
   }
 }

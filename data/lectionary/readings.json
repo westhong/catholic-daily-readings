@@ -76829,7 +76829,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 54:3-4, 6",
+            "citation": "Ps 54:3-4",
             "sources": [
               "USCCB"
             ]
@@ -76842,8 +76842,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-10": [

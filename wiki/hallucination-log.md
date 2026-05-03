@@ -7081,3 +7081,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 55:6']`, fix=`['Is 55:6']`
   - **gospel**: stored=`['Mt 7:21, 24-27']`, live=`['Mt 7:21']`, fix=`['Mt 7:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/584aa91
+
+### ❌ 2023-04-22 — Saturday of the Second Week of Easter
+- **Checked**: 2026-05-03 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042223.cfm
+- **Status**: mismatch
+- **Lectionary**: 272
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['33:1-2, 4-5, 18-19']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f907db
