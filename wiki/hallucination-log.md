@@ -7741,3 +7741,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 128:1-2, 4-5']`, live=`['PS 128:1-2']`, fix=`['PS 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 JOHN 2:5']`, fix=`['1 JOHN 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e11204a
+
+### 🚫 2026-07-06 — Monday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 21:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/76.cfm
+- **Status**: url_dead
+- **Lectionary**: 383
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/76.cfm`, live=fetch failed

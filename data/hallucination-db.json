@@ -39342,5 +39342,24 @@
       ]
     },
     "checked_at": "2026-05-03T21:25:16+00:00"
+  },
+  "2026-07-06:0": {
+    "date": "2026-07-06",
+    "url": "https://bible.usccb.org/bible/readings/76.cfm",
+    "lectionary_number": 383,
+    "feast": "Monday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/76.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T21:30:28+00:00"
   }
 }

@@ -56694,20 +56694,19 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 3:9-15, 20",
+            "citation": "Gn 3:9-15",
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "responsorial_psalm": [
+          },
           {
-            "citation": "87:1-2, 3",
+            "citation": "Acts 1:12-14",
             "sources": [
               "USCCB"
             ]
           }
         ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 19:25-34",
@@ -56716,7 +56715,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-21": [
