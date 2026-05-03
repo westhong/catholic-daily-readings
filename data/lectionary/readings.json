@@ -48500,7 +48500,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:66, 68, 76, 77, 93, 94",
+            "citation": "Psalm 119:66",
             "sources": [
               "USCCB"
             ]
@@ -48513,8 +48513,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-23": [

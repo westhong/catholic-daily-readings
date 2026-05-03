@@ -6548,3 +6548,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:15', 'Heb 1:1-2']`, fix=`['Col 3:15', 'Heb 1:1-2']`
   - **gospel**: stored=`['LK 2:22-40']`, live=`['LK 2:22-40', 'Lk 2:22']`, fix=`['LK 2:22-40', 'Lk 2:22']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee75c7f
+
+### 🚫 2026-10-24 — 
+- **Checked**: 2026-05-03 11:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1024.cfm
+- **Status**: url_dead
+- **Lectionary**: 478
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1024.cfm`, live=fetch failed

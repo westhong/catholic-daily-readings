@@ -33363,5 +33363,24 @@
       ]
     },
     "checked_at": "2026-05-03T11:10:41+00:00"
+  },
+  "2026-10-24:0": {
+    "date": "2026-10-24",
+    "url": "https://bible.usccb.org/bible/readings/1024.cfm",
+    "lectionary_number": 478,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1024.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T11:15:57+00:00"
   }
 }
