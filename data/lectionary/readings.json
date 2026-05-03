@@ -19163,7 +19163,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 42:1-4, 6-7",
+            "citation": "Isaiah 42:1-4",
             "sources": [
               "USCCB"
             ]
@@ -19171,7 +19171,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 29:1-2, 3-4, 3, 9-10",
+            "citation": "Psalm 29:1-2",
             "sources": [
               "USCCB"
             ]
@@ -19201,7 +19201,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-12": [

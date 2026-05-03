@@ -6326,3 +6326,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 69:33-35, 36-37']`, live=`['Ps 69:33-35']`, fix=`['Ps 69:33-35']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a81f4d
+
+### ❌ 2024-03-15 — Friday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 09:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031524.cfm
+- **Status**: mismatch
+- **Lectionary**: 248
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:17-18, 19-20, 21']`, live=`['Ps 34:17-18']`, fix=`['Ps 34:17-18']`
+  - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 7:1-2, 10, 25-30']`, live=`['Jn 7:1-2']`, fix=`['Jn 7:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0e460f
