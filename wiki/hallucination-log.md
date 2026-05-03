@@ -6659,3 +6659,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79f9d56
+
+### ❌ 2027-07-30 — Friday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-03 12:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073027.cfm
+- **Status**: mismatch
+- **Lectionary**: 405
+- **Mismatches**:
+  - **first_reading**: stored=`['Leviticus 23:1, 4-11, 15-16, 27, 34']`, live=`['Leviticus 23:1']`, fix=`['Leviticus 23:1']`
+  - **responsorial_psalm**: stored=`['Psalm 81:3-4, 5-6, 10-11']`, live=`['Psalm 81:3-4']`, fix=`['Psalm 81:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 1:25']`, fix=`['1 Peter 1:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92955d7
