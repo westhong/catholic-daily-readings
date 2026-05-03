@@ -7570,3 +7570,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:8-9, 10-11, 12-13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c0a48eb
+
+### ❌ 2027-05-27 — Thursday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-03 20:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052727.cfm
+- **Status**: mismatch
+- **Lectionary**: 350
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 33:2-3']`, fix=`['Psalm 33:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a33d66
