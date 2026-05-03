@@ -64880,7 +64880,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "RV 3:1-6, 14-22",
+            "citation": "RV 3:1-6",
             "sources": [
               "USCCB"
             ]
@@ -64909,8 +64909,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 JN 4:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-20": [

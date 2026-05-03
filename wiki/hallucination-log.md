@@ -6591,3 +6591,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 62
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/052426-Extended.cfm`, live=fetch failed
+
+### ❌ 2026-02-09 — Monday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 11:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020926.cfm
+- **Status**: mismatch
+- **Lectionary**: 329
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kings 8:1-7, 9-13']`, live=`['1 Kings 8:1-7']`, fix=`['1 Kings 8:1-7']`
+  - **responsorial_psalm**: stored=`['Psalm 132:6-7, 8-10']`, live=`['Psalm 132:6-7']`, fix=`['Psalm 132:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e8aae5
