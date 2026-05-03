@@ -7619,3 +7619,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 139:7-8, 9-10, 11-12']`, live=`['Ps 139:7-8']`, fix=`['Ps 139:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9b3fcb3
+
+### ❌ 2027-01-24 — Third Sunday in Ordinary Time
+- **Checked**: 2026-05-03 20:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012427.cfm
+- **Status**: mismatch
+- **Lectionary**: 68
+- **Mismatches**:
+  - **first_reading**: stored=`['Jonah 3:1-5, 10']`, live=`['Jonah 3:1-5']`, fix=`['Jonah 3:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 25:4-5, 6-7, 8-9']`, live=`['Psalm 25:4-5']`, fix=`['Psalm 25:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/35cba09
