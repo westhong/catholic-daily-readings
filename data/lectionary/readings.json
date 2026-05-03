@@ -7773,7 +7773,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:8-9, 10-11, 12-13",
+            "citation": "Psalm 145:8-9",
             "sources": [
               "USCCB"
             ]
@@ -7802,8 +7802,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-19": [

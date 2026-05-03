@@ -7552,3 +7552,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:2-3, 16-17, 18-19']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/519b56f
+
+### 🚫 2026-10-19 — 
+- **Checked**: 2026-05-03 19:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1019.cfm
+- **Status**: url_dead
+- **Lectionary**: 473
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1019.cfm`, live=fetch failed

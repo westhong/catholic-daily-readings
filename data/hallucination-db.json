@@ -38345,5 +38345,24 @@
       ]
     },
     "checked_at": "2026-05-03T19:50:19+00:00"
+  },
+  "2026-10-19:0": {
+    "date": "2026-10-19",
+    "url": "https://bible.usccb.org/bible/readings/1019.cfm",
+    "lectionary_number": 473,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1019.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T19:55:36+00:00"
   }
 }
