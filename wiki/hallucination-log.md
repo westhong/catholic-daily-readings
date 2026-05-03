@@ -6337,3 +6337,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Jn 7:1-2, 10, 25-30']`, live=`['Jn 7:1-2']`, fix=`['Jn 7:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0e460f
+
+### ❌ 2026-01-11 — The Baptism of the Lord
+- **Checked**: 2026-05-03 09:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011126.cfm
+- **Status**: mismatch
+- **Lectionary**: 21
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 42:1-4, 6-7']`, live=`['Isaiah 42:1-4']`, fix=`['Isaiah 42:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 29:1-2, 3-4, 3, 9-10']`, live=`['Psalm 29:1-2']`, fix=`['Psalm 29:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/45a0f49
