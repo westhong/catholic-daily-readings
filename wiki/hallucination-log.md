@@ -5172,3 +5172,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:1-2, 8-9, 10-11, 13-14']`, live=`['Ps 145:1-2']`, fix=`['Ps 145:1-2']`
   - **second_reading**: stored=`['Rom 8:9, 11-13']`, live=`['Rom 8:9']`, fix=`['Rom 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3b39f1e
+
+### ❌ 2024-04-24 — Wednesday of the Fourth Week of Easter
+- **Checked**: 2026-05-03 01:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042424.cfm
+- **Status**: mismatch
+- **Lectionary**: 281
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 12:24—13']`, live=`['Acts 12:24']`, fix=`['Acts 12:24']`
+  - **responsorial_psalm**: stored=`['67:2-3, 5, 6']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39fe6f3
