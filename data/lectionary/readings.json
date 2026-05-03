@@ -11473,7 +11473,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Leviticus 23:1, 4-11, 15-16, 27, 34",
+            "citation": "Leviticus 23:1",
             "sources": [
               "USCCB"
             ]
@@ -11481,7 +11481,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 81:3-4, 5-6, 10-11",
+            "citation": "Psalm 81:3-4",
             "sources": [
               "USCCB"
             ]
@@ -11502,8 +11502,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Peter 1:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-02": [

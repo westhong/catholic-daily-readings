@@ -7121,3 +7121,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 62:6-7, 9']`, live=`['Ps 62:6-7']`, fix=`['Ps 62:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/10fcf29
+
+### ❌ 2023-04-24 — Monday of the Third Week of Easter
+- **Checked**: 2026-05-03 16:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042423.cfm
+- **Status**: mismatch
+- **Lectionary**: 273
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:23-24, 26-27, 29-30']`, live=`['Ps 119:23-24']`, fix=`['Ps 119:23-24']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6b58d03
