@@ -40029,5 +40029,53 @@
       ]
     },
     "checked_at": "2026-05-03T22:45:29+00:00"
+  },
+  "2024-03-05:0": {
+    "date": "2024-03-05",
+    "url": "https://bible.usccb.org/bible/readings/030524.cfm",
+    "lectionary_number": 238,
+    "feast": "Tuesday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dn 3:25, 34-43"
+        ],
+        "live": [
+          "Dn 3:25"
+        ],
+        "fix": [
+          "Dn 3:25"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jl 2:12-13"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dn 3:25"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 3:25"
+      ],
+      "responsorial_psalm": [
+        "PS 25:4-5"
+      ],
+      "gospel": [
+        "Mt 18:21-35"
+      ]
+    },
+    "checked_at": "2026-05-03T22:50:40+00:00"
   }
 }
