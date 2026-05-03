@@ -7254,3 +7254,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 72:1-2, 12-13, 18-19']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/130f2bf
+
+### ❌ 2023-03-09 — Thursday of the Second Week of Lent
+- **Checked**: 2026-05-03 17:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030923.cfm
+- **Status**: mismatch
+- **Lectionary**: 233
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
+  - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6997ac8
