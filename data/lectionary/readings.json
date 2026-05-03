@@ -65063,7 +65063,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Rv 14:1-3, 4",
+            "citation": "Rv 14:1-3",
             "sources": [
               "USCCB"
             ]
@@ -65092,8 +65092,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 24:42",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-26": [
