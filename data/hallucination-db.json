@@ -26461,5 +26461,62 @@
       ]
     },
     "checked_at": "2026-05-03T00:50:32+00:00"
+  },
+  "2023-07-09:0": {
+    "date": "2023-07-09",
+    "url": "https://bible.usccb.org/bible/readings/070923.cfm",
+    "lectionary_number": 100,
+    "feast": "Fourteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:1-2, 8-9, 10-11, 13-14"
+        ],
+        "live": [
+          "Ps 145:1-2"
+        ],
+        "fix": [
+          "Ps 145:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Rom 8:9, 11-13"
+        ],
+        "live": [
+          "Rom 8:9"
+        ],
+        "fix": [
+          "Rom 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:1-2"
+      ],
+      "second_reading": [
+        "Rom 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zec 9:9-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:1-2"
+      ],
+      "second_reading": [
+        "Rom 8:9"
+      ],
+      "gospel": [
+        "Mt 11:25-30"
+      ]
+    },
+    "checked_at": "2026-05-03T00:55:42+00:00"
   }
 }
