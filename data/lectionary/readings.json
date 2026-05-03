@@ -36492,7 +36492,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 9:2-3, 11-14",
+            "citation": "Hebrews 9:2-3",
             "sources": [
               "USCCB"
             ]
@@ -36500,7 +36500,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 47:2-3, 6-7, 8-9",
+            "citation": "Psalm 47:2-3",
             "sources": [
               "USCCB"
             ]
@@ -36521,8 +36521,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Acts 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-24": [
