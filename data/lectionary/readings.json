@@ -61300,7 +61300,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 96:10, 11-12, 13",
+            "citation": "PS 96:10",
             "sources": [
               "USCCB"
             ]
@@ -61313,8 +61313,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "HEBREWS 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-28": [

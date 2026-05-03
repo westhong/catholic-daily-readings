@@ -7580,3 +7580,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 33:2-3']`, fix=`['Psalm 33:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a33d66
+
+### ❌ 2025-07-26 — Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary
+- **Checked**: 2026-05-03 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072625.cfm
+- **Status**: mismatch
+- **Lectionary**: 400
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d428e03
