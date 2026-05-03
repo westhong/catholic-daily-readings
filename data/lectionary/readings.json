@@ -66257,14 +66257,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "95:6-7",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 1:40-45",
@@ -66280,8 +66273,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-13": [
