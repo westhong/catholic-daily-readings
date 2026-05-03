@@ -5400,3 +5400,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['2 Timothy 1:6-8, 13-14']`, live=`['2 Timothy 1:6-8']`, fix=`['2 Timothy 1:6-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 1:25']`, fix=`['1 Peter 1:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f78a12d
+
+### ❌ 2025-03-07 — Friday after Ash Wednesday
+- **Checked**: 2026-05-03 02:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030725.cfm
+- **Status**: mismatch
+- **Lectionary**: 221
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6422ce4
