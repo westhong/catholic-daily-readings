@@ -6477,3 +6477,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 23:1-4, 19']`, live=`['Genesis 23:1-4']`, fix=`['Genesis 23:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/533f875
+
+### ❌ 2025-05-06 — Tuesday of the Third Week of Easter
+- **Checked**: 2026-05-03 10:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050625.cfm
+- **Status**: mismatch
+- **Lectionary**: 274
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 7:51—8']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:35']`, fix=`['John 6:35']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ed111a4
