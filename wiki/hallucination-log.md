@@ -5587,3 +5587,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 259
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/041625.cfm`, live=fetch failed
+
+### 🚫 2025-09-21 — Twenty-fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092125.cfm
+- **Status**: url_dead
+- **Lectionary**: 135
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/092125.cfm`, live=fetch failed
