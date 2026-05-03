@@ -6147,3 +6147,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/123024.cfm
 - **Status**: ok
 - **Lectionary**: 203
+
+### 🚫 2026-08-02 — 
+- **Checked**: 2026-05-03 07:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/802.cfm
+- **Status**: url_dead
+- **Lectionary**: 112
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/802.cfm`, live=fetch failed
