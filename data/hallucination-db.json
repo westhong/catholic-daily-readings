@@ -28395,5 +28395,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:26:31+00:00"
+  },
+  "2025-12-28:0": {
+    "date": "2025-12-28",
+    "url": "https://bible.usccb.org/bible/readings/122825.cfm",
+    "lectionary_number": 17,
+    "feast": "Feast of the Holy Family of Jesus, Mary and Joseph",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/122825.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:26:32+00:00"
   }
 }

@@ -5611,3 +5611,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 621
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/081524.cfm`, live=fetch failed
+
+### 🚫 2025-12-28 — Feast of the Holy Family of Jesus, Mary and Joseph
+- **Checked**: 2026-05-03 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122825.cfm
+- **Status**: url_dead
+- **Lectionary**: 17
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/122825.cfm`, live=fetch failed
