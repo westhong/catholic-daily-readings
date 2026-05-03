@@ -6812,3 +6812,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de5087c
+
+### ❌ 2025-05-21 — Wednesday of the Fifth Week of Easter
+- **Checked**: 2026-05-03 13:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052125.cfm
+- **Status**: mismatch
+- **Lectionary**: 287
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/54dbf9b

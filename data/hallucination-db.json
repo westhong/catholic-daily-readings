@@ -34598,5 +34598,60 @@
       ]
     },
     "checked_at": "2026-05-03T13:30:32+00:00"
+  },
+  "2025-05-21:0": {
+    "date": "2025-05-21",
+    "url": "https://bible.usccb.org/bible/readings/052125.cfm",
+    "lectionary_number": 287,
+    "feast": "Wednesday of the Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 122:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 122:1-2"
+        ],
+        "fix": [
+          "Psalm 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:4"
+        ],
+        "fix": [
+          "John 15:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 15:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ],
+      "gospel": [
+        "John 15:1-8"
+      ]
+    },
+    "checked_at": "2026-05-03T13:35:45+00:00"
   }
 }
