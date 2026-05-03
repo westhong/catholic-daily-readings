@@ -5648,3 +5648,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['1 Chronicles 29:10, 11']`, live=`['1 Chronicles 29:10']`, fix=`['1 Chronicles 29:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8bd8b2
+
+### ❌ 2025-12-13 — Memorial of Saint Lucy, Virgin and Martyr
+- **Checked**: 2026-05-03 03:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121325.cfm
+- **Status**: mismatch
+- **Lectionary**: 186
+- **Mismatches**:
+  - **first_reading**: stored=`['Sirach 48:1-4, 9-11']`, live=`['Sirach 48:1-4']`, fix=`['Sirach 48:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 3:4']`, fix=`['Luke 3:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ade74fb

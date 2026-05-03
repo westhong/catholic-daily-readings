@@ -28552,5 +28552,60 @@
       ]
     },
     "checked_at": "2026-05-03T03:35:47+00:00"
+  },
+  "2025-12-13:0": {
+    "date": "2025-12-13",
+    "url": "https://bible.usccb.org/bible/readings/121325.cfm",
+    "lectionary_number": 186,
+    "feast": "Memorial of Saint Lucy, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sirach 48:1-4, 9-11"
+        ],
+        "live": [
+          "Sirach 48:1-4"
+        ],
+        "fix": [
+          "Sirach 48:1-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 3:4"
+        ],
+        "fix": [
+          "Luke 3:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sirach 48:1-4"
+      ],
+      "alleluia_verse": [
+        "Luke 3:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 48:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 80:2"
+      ],
+      "alleluia_verse": [
+        "Luke 3:4"
+      ],
+      "gospel": [
+        "Matthew 17:9"
+      ]
+    },
+    "checked_at": "2026-05-03T03:40:58+00:00"
   }
 }
