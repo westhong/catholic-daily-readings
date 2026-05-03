@@ -20241,7 +20241,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Kings 2:1-4, 10-12",
+            "citation": "1 Kings 2:1-4",
             "sources": [
               "USCCB"
             ]
@@ -20249,7 +20249,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "1 Chronicles 29:10, 11",
+            "citation": "1 Chronicles 29:10",
             "sources": [
               "USCCB"
             ]
@@ -20270,8 +20270,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-06": [

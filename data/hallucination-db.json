@@ -28433,5 +28433,54 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:26:33+00:00"
+  },
+  "2023-05-29:0": {
+    "date": "2023-05-29",
+    "url": "https://bible.usccb.org/bible/readings/052923.cfm",
+    "lectionary_number": 572,
+    "feast": "Memorial of the Blessed Virgin Mary, Mother of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 3:9-15, 20"
+        ],
+        "live": [
+          "Gn 3:9-15",
+          "Acts 1:12-14"
+        ],
+        "fix": [
+          "Gn 3:9-15",
+          "Acts 1:12-14"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "87:1-2, 3"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 3:9-15",
+        "Acts 1:12-14"
+      ],
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 3:9-15",
+        "Acts 1:12-14"
+      ],
+      "gospel": [
+        "Jn 19:25-34"
+      ]
+    },
+    "checked_at": "2026-05-03T03:30:36+00:00"
   }
 }

@@ -5627,3 +5627,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 329
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/020827.cfm`, live=fetch failed
+
+### ❌ 2023-05-29 — Memorial of the Blessed Virgin Mary, Mother of the Church
+- **Checked**: 2026-05-03 03:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052923.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 3:9-15, 20']`, live=`['Gn 3:9-15', 'Acts 1:12-14']`, fix=`['Gn 3:9-15', 'Acts 1:12-14']`
+  - **responsorial_psalm**: stored=`['87:1-2, 3']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7415568
