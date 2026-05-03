@@ -28665,5 +28665,45 @@
       ]
     },
     "checked_at": "2026-05-03T03:45:09+00:00"
+  },
+  "2024-07-02:0": {
+    "date": "2024-07-02",
+    "url": "https://bible.usccb.org/bible/readings/070224.cfm",
+    "lectionary_number": 378,
+    "feast": "Tuesday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "PS 130:5"
+        ],
+        "fix": [
+          "PS 130:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "PS 130:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "AM 3:1-8"
+      ],
+      "responsorial_psalm": [
+        "PS 5:4"
+      ],
+      "alleluia_verse": [
+        "PS 130:5"
+      ],
+      "gospel": [
+        "MT 8:23-27"
+      ]
+    },
+    "checked_at": "2026-05-03T03:50:22+00:00"
   }
 }
