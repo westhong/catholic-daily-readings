@@ -35579,5 +35579,60 @@
       ]
     },
     "checked_at": "2026-05-03T15:00:10+00:00"
+  },
+  "2024-07-04:0": {
+    "date": "2024-07-04",
+    "url": "https://bible.usccb.org/bible/readings/070424.cfm",
+    "lectionary_number": 380,
+    "feast": "Thursday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Ps 19:8"
+        ],
+        "fix": [
+          "Ps 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 5:19"
+        ],
+        "fix": [
+          "2 Cor 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Am 7:10-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ],
+      "gospel": [
+        "Mt 9:1-8"
+      ]
+    },
+    "checked_at": "2026-05-03T15:05:24+00:00"
   }
 }

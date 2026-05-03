@@ -64169,7 +64169,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Rv 7:2-4, 9-14",
+            "citation": "Rv 7:2-4",
             "sources": [
               "USCCB"
             ]
@@ -64206,8 +64206,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-02": [

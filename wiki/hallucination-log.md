@@ -6993,3 +6993,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 11:4, 5 and 7']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23d7c95
+
+### ❌ 2024-07-04 — Thursday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 15:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070424.cfm
+- **Status**: mismatch
+- **Lectionary**: 380
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 19:8, 9, 10, 11']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20156da
