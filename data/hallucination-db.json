@@ -38210,5 +38210,45 @@
       ]
     },
     "checked_at": "2026-05-03T19:35:46+00:00"
+  },
+  "2023-04-28:0": {
+    "date": "2023-04-28",
+    "url": "https://bible.usccb.org/bible/readings/042823.cfm",
+    "lectionary_number": 277,
+    "feast": "Friday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:56"
+        ],
+        "fix": [
+          "Jn 6:56"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 6:56"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:1-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 117:1"
+      ],
+      "alleluia_verse": [
+        "Jn 6:56"
+      ],
+      "gospel": [
+        "Jn 6:52-59"
+      ]
+    },
+    "checked_at": "2026-05-03T19:40:58+00:00"
   }
 }

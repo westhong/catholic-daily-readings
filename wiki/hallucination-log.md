@@ -7524,3 +7524,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:129, 130, 131, 132, 133, 135']`, live=`['Psalm 119:129']`, fix=`['Psalm 119:129']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7c66b34
+
+### ❌ 2023-04-28 — Friday of the Third Week of Easter
+- **Checked**: 2026-05-03 19:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042823.cfm
+- **Status**: mismatch
+- **Lectionary**: 277
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:56']`, fix=`['Jn 6:56']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/565e301
