@@ -47368,7 +47368,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 111:1-2, 3-4, 5-6",
+            "citation": "Psalm 111:1-2",
             "sources": [
               "USCCB"
             ]
@@ -47380,9 +47380,16 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Luke 2:33-35",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-16": [

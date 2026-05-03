@@ -7950,3 +7950,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 457
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/930.cfm`, live=fetch failed
+
+### ❌ 2025-12-15 — Monday of the Third Week of Advent
+- **Checked**: 2026-05-03 23:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121525.cfm
+- **Status**: mismatch
+- **Lectionary**: 187
+- **Mismatches**:
+  - **first_reading**: stored=`['Numbers 24:2-7, 15-17']`, live=`['Numbers 24:2-7']`, fix=`['Numbers 24:2-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 85:8']`, fix=`['Psalm 85:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26a27e5
