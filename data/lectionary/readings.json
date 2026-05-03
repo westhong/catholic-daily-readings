@@ -11357,7 +11357,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 40:16-21, 34-38",
+            "citation": "Exodus 40:16-21",
             "sources": [
               "USCCB"
             ]
@@ -11365,7 +11365,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 84:3, 4, 5-6",
+            "citation": "Psalm 84:3",
             "sources": [
               "USCCB"
             ]
@@ -11386,8 +11386,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Acts 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-01": [

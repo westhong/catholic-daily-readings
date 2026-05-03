@@ -5957,3 +5957,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
   - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39c94cd
+
+### ❌ 2024-07-20 — Saturday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072024.cfm
+- **Status**: mismatch
+- **Lectionary**: 394
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 10:1-2, 3-4, 7-8, 14']`, live=`['Ps 10:1-2']`, fix=`['Ps 10:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/66e28e3

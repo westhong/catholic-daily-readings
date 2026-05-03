@@ -30200,5 +30200,60 @@
       ]
     },
     "checked_at": "2026-05-03T06:10:26+00:00"
+  },
+  "2024-07-20:0": {
+    "date": "2024-07-20",
+    "url": "https://bible.usccb.org/bible/readings/072024.cfm",
+    "lectionary_number": 394,
+    "feast": "Saturday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 10:1-2, 3-4, 7-8, 14"
+        ],
+        "live": [
+          "Ps 10:1-2"
+        ],
+        "fix": [
+          "Ps 10:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 5:19"
+        ],
+        "fix": [
+          "2 Cor 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 10:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mi 2:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 10:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ],
+      "gospel": [
+        "Mt 12:14-21"
+      ]
+    },
+    "checked_at": "2026-05-03T06:15:38+00:00"
   }
 }
