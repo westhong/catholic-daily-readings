@@ -68614,7 +68614,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:4-5, 18-19, 20, 22",
+            "citation": "Ps 33:4-5",
             "sources": [
               "USCCB"
             ]
@@ -68636,15 +68636,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Cf. Mt 17:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-06": [

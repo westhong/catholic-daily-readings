@@ -7485,3 +7485,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['95:6-7']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:23']`, fix=`['Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57f28e9
+
+### ❌ 2024-03-20 — Wednesday of the Fifth Week of Lent
+- **Checked**: 2026-05-03 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032024.cfm
+- **Status**: mismatch
+- **Lectionary**: 253
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 3:14-20, 91-92, 95']`, live=`['Dn 3:14-20']`, fix=`['Dn 3:14-20']`
+  - **responsorial_psalm**: stored=`['Dn 3:52, 53, 54, 55, 56']`, live=`['Dn 3:52']`, fix=`['Dn 3:52']`
+  - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1788bcb

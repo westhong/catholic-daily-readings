@@ -38022,5 +38022,68 @@
       ]
     },
     "checked_at": "2026-05-03T19:16:00+00:00"
+  },
+  "2024-03-20:0": {
+    "date": "2024-03-20",
+    "url": "https://bible.usccb.org/bible/readings/032024.cfm",
+    "lectionary_number": 253,
+    "feast": "Wednesday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dn 3:14-20, 91-92, 95"
+        ],
+        "live": [
+          "Dn 3:14-20"
+        ],
+        "fix": [
+          "Dn 3:14-20"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Dn 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Dn 3:52"
+        ],
+        "fix": [
+          "Dn 3:52"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Lk 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dn 3:14-20"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 3:14-20"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ],
+      "gospel": [
+        "Jn 8:31-42"
+      ]
+    },
+    "checked_at": "2026-05-03T19:20:12+00:00"
   }
 }
