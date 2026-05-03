@@ -5213,3 +5213,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Cf. Jn 4:42, 15']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Jn 4:5-42']`, live=`['Jn 4:5-42', 'Jn 4:5-15']`, fix=`['Jn 4:5-42', 'Jn 4:5-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de2259f
+
+### ❌ 2023-06-19 — Monday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-03 01:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061923.cfm
+- **Status**: mismatch
+- **Lectionary**: 365
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:105']`, fix=`['Ps 119:105']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e593f6f
