@@ -7071,3 +7071,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 564
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/051426-Thursday.cfm`, live=fetch failed
+
+### ❌ 2023-12-07 — Memorial of Saint Ambrose, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 15:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120723.cfm
+- **Status**: mismatch
+- **Lectionary**: 178
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 55:6']`, fix=`['Is 55:6']`
+  - **gospel**: stored=`['Mt 7:21, 24-27']`, live=`['Mt 7:21']`, fix=`['Mt 7:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/584aa91

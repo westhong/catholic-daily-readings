@@ -70487,14 +70487,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "33:1-2, 4-5, 18-19",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 6:16-21",
@@ -70503,7 +70496,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-23": [

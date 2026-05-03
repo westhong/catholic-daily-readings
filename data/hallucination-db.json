@@ -35968,5 +35968,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T15:41:03+00:00"
+  },
+  "2023-12-07:0": {
+    "date": "2023-12-07",
+    "url": "https://bible.usccb.org/bible/readings/120723.cfm",
+    "lectionary_number": 178,
+    "feast": "Memorial of Saint Ambrose, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Is 55:6"
+        ],
+        "fix": [
+          "Is 55:6"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 7:21, 24-27"
+        ],
+        "live": [
+          "Mt 7:21"
+        ],
+        "fix": [
+          "Mt 7:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Is 55:6"
+      ],
+      "gospel": [
+        "Mt 7:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 26:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 118:1"
+      ],
+      "alleluia_verse": [
+        "Is 55:6"
+      ],
+      "gospel": [
+        "Mt 7:21"
+      ]
+    },
+    "checked_at": "2026-05-03T15:45:16+00:00"
   }
 }
