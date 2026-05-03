@@ -6089,3 +6089,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 77:12-13, 14-15, 16']`, live=`['Psalm 77:12-13']`, fix=`['Psalm 77:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25a15b2
+
+### ❌ 2025-02-05 — Memorial of Saint Agatha, Virgin and Martyr
+- **Checked**: 2026-05-03 07:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020525.cfm
+- **Status**: mismatch
+- **Lectionary**: 325
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 12:4-7, 11-15']`, live=`['Hebrews 12:4-7']`, fix=`['Hebrews 12:4-7']`
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 13-14, 17-18']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/04f7113

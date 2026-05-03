@@ -42885,7 +42885,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 130:1-2, 3-4, 5-6, 7-8",
+            "citation": "Psalm 130:1-2",
             "sources": [
               "USCCB"
             ]
@@ -42893,7 +42893,7 @@
         ],
         "second_reading": [
           {
-            "citation": "2 Corinthians 4:13—5",
+            "citation": "2 Corinthians 4:13",
             "sources": [
               "USCCB"
             ]
@@ -42906,8 +42906,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 12:31",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-07": [
