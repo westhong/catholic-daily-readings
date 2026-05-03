@@ -7330,3 +7330,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 21:2-3, 4-5, 6-7']`, live=`['Psalm 21:2-3']`, fix=`['Psalm 21:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc670ea
+
+### ❌ 2026-03-21 — Saturday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 18:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032126.cfm
+- **Status**: mismatch
+- **Lectionary**: 249
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 7:2-3, 9']`, live=`['Psalm 7:2-3']`, fix=`['Psalm 7:2-3']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5cb578e

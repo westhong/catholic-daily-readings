@@ -37255,5 +37255,53 @@
       ]
     },
     "checked_at": "2026-05-03T17:55:42+00:00"
+  },
+  "2026-03-21:0": {
+    "date": "2026-03-21",
+    "url": "https://bible.usccb.org/bible/readings/032126.cfm",
+    "lectionary_number": 249,
+    "feast": "Saturday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 7:2-3, 9"
+        ],
+        "live": [
+          "Psalm 7:2-3"
+        ],
+        "fix": [
+          "Psalm 7:2-3"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Luke 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 7:2-3"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 11:18-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 7:2-3"
+      ],
+      "gospel": [
+        "John 7:40-53"
+      ]
+    },
+    "checked_at": "2026-05-03T18:00:56+00:00"
   }
 }
