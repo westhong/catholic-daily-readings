@@ -5243,3 +5243,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d26ed02
+
+### ❌ 2027-08-31 — Tuesday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-03 01:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083127.cfm
+- **Status**: mismatch
+- **Lectionary**: 432
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Thessalonians 5:1-6, 9-11']`, live=`['1 Thessalonians 5:1-6']`, fix=`['1 Thessalonians 5:1-6']`
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a4e4e1

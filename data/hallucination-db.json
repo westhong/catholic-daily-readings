@@ -26892,5 +26892,75 @@
       ]
     },
     "checked_at": "2026-05-03T01:30:58+00:00"
+  },
+  "2027-08-31:0": {
+    "date": "2027-08-31",
+    "url": "https://bible.usccb.org/bible/readings/083127.cfm",
+    "lectionary_number": 432,
+    "feast": "Tuesday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Thessalonians 5:1-6, 9-11"
+        ],
+        "live": [
+          "1 Thessalonians 5:1-6"
+        ],
+        "fix": [
+          "1 Thessalonians 5:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 27:1, 4, 13-14"
+        ],
+        "live": [
+          "Psalm 27:1"
+        ],
+        "fix": [
+          "Psalm 27:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Thessalonians 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thessalonians 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Luke 4:31-37"
+      ]
+    },
+    "checked_at": "2026-05-03T01:35:07+00:00"
   }
 }

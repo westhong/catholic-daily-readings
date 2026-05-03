@@ -59268,14 +59268,7 @@
             ]
           }
         ],
-        "gospel": [
-          {
-            "citation": "Mt 13:47-53",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "gospel": [],
         "alleluia": [
           {
             "citation": "Acts 16:14",
@@ -59283,8 +59276,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Acts 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-02": [
