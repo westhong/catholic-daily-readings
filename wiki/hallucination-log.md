@@ -7942,3 +7942,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 7:2-3, 9']`, live=`['Psalm 7:2-3']`, fix=`['Psalm 7:2-3']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f8f405
+
+### 🚫 2026-09-30 — 
+- **Checked**: 2026-05-03 23:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/930.cfm
+- **Status**: url_dead
+- **Lectionary**: 457
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/930.cfm`, live=fetch failed
