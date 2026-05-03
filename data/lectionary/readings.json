@@ -79254,7 +79254,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 3:2-3, 4-5, 6-7",
+            "citation": "PS 3:2-3",
             "sources": [
               "USCCB"
             ]
@@ -79275,8 +79275,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Jn 4:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-22": [

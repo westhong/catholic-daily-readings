@@ -5091,3 +5091,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e88ea90
+
+### ❌ 2027-01-23 — Saturday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-03 00:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012327.cfm
+- **Status**: mismatch
+- **Lectionary**: 316
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 9:2-3, 11-14']`, live=`['Hebrews 9:2-3']`, fix=`['Hebrews 9:2-3']`
+  - **responsorial_psalm**: stored=`['Psalm 47:2-3, 6-7, 8-9']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81dc5ca
