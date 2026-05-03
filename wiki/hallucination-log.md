@@ -7311,3 +7311,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 47:2-3, 8-9, 10']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:28']`, fix=`['John 16:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d93c163
+
+### ❌ 2027-04-10 — Saturday of the Second Week of Easter
+- **Checked**: 2026-05-03 17:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041027.cfm
+- **Status**: mismatch
+- **Lectionary**: 272
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:1-2, 4-5, 18-19']`, live=`['Psalm 33:1-2']`, fix=`['Psalm 33:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2c6bd07
