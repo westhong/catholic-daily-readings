@@ -6447,3 +6447,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df39e1e
+
+### ❌ 2024-11-25 — Monday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-03 10:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112524.cfm
+- **Status**: mismatch
+- **Lectionary**: 503
+- **Mismatches**:
+  - **first_reading**: stored=`['Rv 14:1-3, 4']`, live=`['Rv 14:1-3']`, fix=`['Rv 14:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0102adc
