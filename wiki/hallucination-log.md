@@ -5886,3 +5886,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Romans 6:3-4, 8-11']`, live=`['Romans 6:3-4']`, fix=`['Romans 6:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 2:9']`, fix=`['1 Peter 2:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25a08ef
+
+### ❌ 2025-12-25 — The Nativity of the Lord (Christmas) Vigil Mass
+- **Checked**: 2026-05-03 05:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122525-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 13
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:4-5, 16-17, 27, 29']`, live=`['Psalm 89:4-5']`, fix=`['Psalm 89:4-5']`
+  - **second_reading**: stored=`['Acts 13:16-17, 22-25']`, live=`['Acts 13:16-17']`, fix=`['Acts 13:16-17']`
+  - **gospel**: stored=`['Matthew 1:1-25']`, live=`['Matthew 1:1-25', 'Matthew 1:18-25']`, fix=`['Matthew 1:1-25', 'Matthew 1:18-25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/384f931

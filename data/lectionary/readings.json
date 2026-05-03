@@ -51439,17 +51439,10 @@
       "feast": "Tuesday of the Fourth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "2 Sm 18:9-10, 14",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "PS 86:1-2, 3-4, 5-6",
+            "citation": "PS 86:1-2",
             "sources": [
               "USCCB"
             ]
@@ -51470,8 +51463,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "MT 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-31": [
