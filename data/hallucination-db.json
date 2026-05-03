@@ -32686,5 +32686,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T10:10:41+00:00"
+  },
+  "2023-05-03:0": {
+    "date": "2023-05-03",
+    "url": "https://bible.usccb.org/bible/readings/050323.cfm",
+    "lectionary_number": 561,
+    "feast": "Feast of Saints Philip and James, Apostles",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:2-3, 4-5"
+        ],
+        "live": [
+          "Ps 19:2-3"
+        ],
+        "fix": [
+          "Ps 19:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 15:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Jn 14:6-14"
+      ]
+    },
+    "checked_at": "2026-05-03T10:16:04+00:00"
   }
 }
