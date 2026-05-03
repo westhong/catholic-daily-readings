@@ -42885,7 +42885,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 112:1-2, 7-8, 9",
+            "citation": "Psalm 112:1-2",
             "sources": [
               "USCCB"
             ]
@@ -42898,8 +42898,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-02": [

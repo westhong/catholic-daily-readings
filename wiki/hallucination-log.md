@@ -7160,3 +7160,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 403
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/729.cfm`, live=fetch failed
+
+### ❌ 2025-09-26 — Friday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 16:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092625.cfm
+- **Status**: mismatch
+- **Lectionary**: 453
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 43:1, 2, 3, 4']`, live=`['Psalm 43:1']`, fix=`['Psalm 43:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88cb9b3
