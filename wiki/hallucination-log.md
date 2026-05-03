@@ -7142,3 +7142,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 81:3-4, 5-6, 10-11']`, live=`['Psalm 81:3-4']`, fix=`['Psalm 81:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 1:25']`, fix=`['1 Peter 1:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a5551db
+
+### ❌ 2027-03-23 — Tuesday of Holy Week
+- **Checked**: 2026-05-03 16:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032327.cfm
+- **Status**: mismatch
+- **Lectionary**: 258
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
+  - **gospel**: stored=`['John 13:21-33, 36-38']`, live=`['John 13:21-33']`, fix=`['John 13:21-33']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3b452e
