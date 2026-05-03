@@ -7055,3 +7055,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:16']`, fix=`['Jn 15:16']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-18']`, fix=`['Mk 16:15-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/475189d
+
+### 🚫 2026-12-10 — 
+- **Checked**: 2026-05-03 15:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261210.cfm
+- **Status**: url_dead
+- **Lectionary**: 184
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261210.cfm`, live=fetch failed
