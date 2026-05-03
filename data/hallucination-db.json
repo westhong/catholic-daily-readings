@@ -27979,5 +27979,60 @@
       ]
     },
     "checked_at": "2026-05-03T03:15:46+00:00"
+  },
+  "2024-06-03:0": {
+    "date": "2024-06-03",
+    "url": "https://bible.usccb.org/bible/readings/060324.cfm",
+    "lectionary_number": 353,
+    "feast": "Memorial of Saint Charles Lwanga and companions, martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 91:1-2, 14-15"
+        ],
+        "live": [
+          "Ps 91:1-2"
+        ],
+        "fix": [
+          "Ps 91:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Rv 1:5"
+        ],
+        "fix": [
+          "See Rv 1:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 91:1-2"
+      ],
+      "alleluia_verse": [
+        "See Rv 1:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Pt 1:2-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 91:1-2"
+      ],
+      "alleluia_verse": [
+        "See Rv 1:5"
+      ],
+      "gospel": [
+        "Mk 12:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T03:20:58+00:00"
   }
 }

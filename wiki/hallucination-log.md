@@ -5449,3 +5449,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21fa455
+
+### ❌ 2024-06-03 — Memorial of Saint Charles Lwanga and companions, martyrs
+- **Checked**: 2026-05-03 03:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060324.cfm
+- **Status**: mismatch
+- **Lectionary**: 353
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 91:1-2, 14-15']`, live=`['Ps 91:1-2']`, fix=`['Ps 91:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3d05a27
