@@ -3053,7 +3053,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 12:4-7, 11-15",
+            "citation": "Hebrews 12:4-7",
             "sources": [
               "USCCB"
             ]
@@ -3061,7 +3061,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:1-2, 13-14, 17-18",
+            "citation": "Psalm 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -3082,8 +3082,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-06": [
