@@ -7662,3 +7662,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 147:12-13, 15-16, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
   - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/05291c6
+
+### ❌ 2024-02-06 — Memorial of Saint Paul Miki and Companions, Martyrs
+- **Checked**: 2026-05-03 20:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020624.cfm
+- **Status**: mismatch
+- **Lectionary**: 330
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kgs 8:22-23, 27-30']`, live=`['1 Kgs 8:22-23']`, fix=`['1 Kgs 8:22-23']`
+  - **responsorial_psalm**: stored=`['PS 84:3, 4, 5 and 10, 11']`, live=`['PS 84:3']`, fix=`['PS 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:36']`, fix=`['Ps 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/84c9f94
