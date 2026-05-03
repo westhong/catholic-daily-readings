@@ -10012,7 +10012,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 26:2-3, 9-10, 11-12",
+            "citation": "Psalm 26:2-3",
             "sources": [
               "USCCB"
             ]
@@ -10033,8 +10033,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 130:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-02": [

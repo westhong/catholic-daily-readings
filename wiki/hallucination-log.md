@@ -6040,3 +6040,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 7-8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/35035bc
+
+### ❌ 2024-07-01 — Monday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 07:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070124.cfm
+- **Status**: mismatch
+- **Lectionary**: 377
+- **Mismatches**:
+  - **first_reading**: stored=`['Am 2:6-10, 13-16']`, live=`['Am 2:6-10']`, fix=`['Am 2:6-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a9f1d2

@@ -30594,5 +30594,60 @@
       ]
     },
     "checked_at": "2026-05-03T06:55:24+00:00"
+  },
+  "2024-07-01:0": {
+    "date": "2024-07-01",
+    "url": "https://bible.usccb.org/bible/readings/070124.cfm",
+    "lectionary_number": 377,
+    "feast": "Monday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Am 2:6-10, 13-16"
+        ],
+        "live": [
+          "Am 2:6-10"
+        ],
+        "fix": [
+          "Am 2:6-10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 95:8"
+        ],
+        "fix": [
+          "Ps 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Am 2:6-10"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Am 2:6-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 50:16"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ],
+      "gospel": [
+        "Mt 8:18-22"
+      ]
+    },
+    "checked_at": "2026-05-03T07:00:39+00:00"
   }
 }
