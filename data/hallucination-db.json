@@ -28224,5 +28224,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:37+00:00"
+  },
+  "2026-06-27:0": {
+    "date": "2026-06-27",
+    "url": "https://bible.usccb.org/bible/readings/062726.cfm",
+    "lectionary_number": 376,
+    "feast": "Saturday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/062726.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:38+00:00"
   }
 }

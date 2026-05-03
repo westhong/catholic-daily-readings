@@ -5539,3 +5539,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 263
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/040324.cfm`, live=fetch failed
+
+### 🚫 2026-06-27 — Saturday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062726.cfm
+- **Status**: url_dead
+- **Lectionary**: 376
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/062726.cfm`, live=fetch failed
