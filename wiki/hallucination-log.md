@@ -6943,3 +6943,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/644c545
+
+### 🚫 2025-04-17 — Holy Thursday - Chrism Mass
+- **Checked**: 2026-05-03 14:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041725-Chrism.cfm
+- **Status**: url_dead
+- **Lectionary**: 260
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/041725-Chrism.cfm`, live=fetch failed
