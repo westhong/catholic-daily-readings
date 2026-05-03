@@ -7003,3 +7003,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:8, 9, 10, 11']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20156da
+
+### ❌ 2024-11-01 — Solemnity of All Saints
+- **Checked**: 2026-05-03 15:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110124.cfm
+- **Status**: mismatch
+- **Lectionary**: 667
+- **Mismatches**:
+  - **first_reading**: stored=`['Rv 7:2-4, 9-14']`, live=`['Rv 7:2-4']`, fix=`['Rv 7:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4f3bcd7

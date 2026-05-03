@@ -26115,7 +26115,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 91:1-2, 14-15",
+            "citation": "Psalm 91:1-2",
             "sources": [
               "USCCB"
             ]
@@ -26136,8 +26136,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Revelation 1:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-02": [

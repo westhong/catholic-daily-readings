@@ -35634,5 +35634,63 @@
       ]
     },
     "checked_at": "2026-05-03T15:05:24+00:00"
+  },
+  "2024-11-01:0": {
+    "date": "2024-11-01",
+    "url": "https://bible.usccb.org/bible/readings/110124.cfm",
+    "lectionary_number": 667,
+    "feast": "Solemnity of All Saints",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Rv 7:2-4, 9-14"
+        ],
+        "live": [
+          "Rv 7:2-4"
+        ],
+        "fix": [
+          "Rv 7:2-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:28"
+        ],
+        "fix": [
+          "Mt 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Rv 7:2-4"
+      ],
+      "alleluia_verse": [
+        "Mt 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rv 7:2-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 24:1"
+      ],
+      "second_reading": [
+        "1 Jn 3:1-3"
+      ],
+      "alleluia_verse": [
+        "Mt 11:28"
+      ],
+      "gospel": [
+        "Mt 5:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T15:10:39+00:00"
   }
 }
