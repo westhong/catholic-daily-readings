@@ -63597,7 +63597,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 122:1-2, 3-4",
+            "citation": "PS 122:1-2",
             "sources": [
               "USCCB"
             ]
@@ -63618,8 +63618,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "EZ 33:11",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-27": [

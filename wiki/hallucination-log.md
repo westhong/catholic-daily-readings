@@ -6277,3 +6277,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 66:8-9, 16-17, 20']`, live=`['Ps 66:8-9']`, fix=`['Ps 66:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63d7df7
+
+### 🚫 2026-11-07 — 
+- **Checked**: 2026-05-03 09:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261107.cfm
+- **Status**: url_dead
+- **Lectionary**: 490
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261107.cfm`, live=fetch failed
