@@ -5547,3 +5547,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 376
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/062726.cfm`, live=fetch failed
+
+### 🚫 2027-04-17 — Saturday of the Third Week of Easter
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041727.cfm
+- **Status**: url_dead
+- **Lectionary**: 278
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/041727.cfm`, live=fetch failed

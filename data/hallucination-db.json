@@ -28243,5 +28243,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:38+00:00"
+  },
+  "2027-04-17:0": {
+    "date": "2027-04-17",
+    "url": "https://bible.usccb.org/bible/readings/041727.cfm",
+    "lectionary_number": 278,
+    "feast": "Saturday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/041727.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:39+00:00"
   }
 }
