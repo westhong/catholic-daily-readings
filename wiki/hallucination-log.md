@@ -7396,3 +7396,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 25:34']`, fix=`['Mt 25:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c72a83
+
+### ❌ 2025-07-15 — Memorial of Saint Bonaventure, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 18:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071525.cfm
+- **Status**: mismatch
+- **Lectionary**: 390
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 69:3, 14, 30-31, 33-34']`, live=`['Psalm 69:3']`, fix=`['Psalm 69:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee09489
