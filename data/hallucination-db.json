@@ -26126,5 +26126,60 @@
       ]
     },
     "checked_at": "2026-05-03T00:20:24+00:00"
+  },
+  "2023-11-21:0": {
+    "date": "2023-11-21",
+    "url": "https://bible.usccb.org/bible/readings/112123.cfm",
+    "lectionary_number": 498,
+    "feast": "Memorial of the Presentation of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 3:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "PS 3:2-3"
+        ],
+        "fix": [
+          "PS 3:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Jn 4:10"
+        ],
+        "fix": [
+          "1 Jn 4:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 3:2-3"
+      ],
+      "alleluia_verse": [
+        "1 Jn 4:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Mc 6:18-31"
+      ],
+      "responsorial_psalm": [
+        "PS 3:2-3"
+      ],
+      "alleluia_verse": [
+        "1 Jn 4:10"
+      ],
+      "gospel": [
+        "Lk 19:1-10"
+      ]
+    },
+    "checked_at": "2026-05-03T00:25:36+00:00"
   }
 }

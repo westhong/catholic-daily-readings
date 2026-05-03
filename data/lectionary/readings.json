@@ -42352,7 +42352,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 116:12-13, 15-16, 17-18",
+            "citation": "Psalm 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -42368,7 +42368,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mark 14:12-16, 22-26",
+            "citation": "Mark 14:12-16",
             "sources": [
               "USCCB"
             ]
@@ -42381,8 +42381,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-31": [
