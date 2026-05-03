@@ -36154,5 +36154,66 @@
       ]
     },
     "checked_at": "2026-05-03T16:00:53+00:00"
+  },
+  "2023-09-11:0": {
+    "date": "2023-09-11",
+    "url": "https://bible.usccb.org/bible/readings/091123.cfm",
+    "lectionary_number": 437,
+    "feast": "Monday of the Twenty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Col 1:24–2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 62:6-7, 9"
+        ],
+        "live": [
+          "Ps 62:6-7"
+        ],
+        "fix": [
+          "Ps 62:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Ps 62:6-7"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Ps 62:6-7"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Lk 6:6-11"
+      ]
+    },
+    "checked_at": "2026-05-03T16:05:05+00:00"
   }
 }

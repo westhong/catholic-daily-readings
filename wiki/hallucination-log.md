@@ -7110,3 +7110,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['23:1']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thes 5:18']`, fix=`['1 Thes 5:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a08e20
+
+### ❌ 2023-09-11 — Monday of the Twenty-third Week in Ordinary Time
+- **Checked**: 2026-05-03 16:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091123.cfm
+- **Status**: mismatch
+- **Lectionary**: 437
+- **Mismatches**:
+  - **first_reading**: stored=`['Col 1:24–2']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Ps 62:6-7, 9']`, live=`['Ps 62:6-7']`, fix=`['Ps 62:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/10fcf29
