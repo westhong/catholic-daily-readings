@@ -28807,5 +28807,60 @@
       ]
     },
     "checked_at": "2026-05-03T04:00:45+00:00"
+  },
+  "2023-05-20:0": {
+    "date": "2023-05-20",
+    "url": "https://bible.usccb.org/bible/readings/052023.cfm",
+    "lectionary_number": 296,
+    "feast": "Saturday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 47:2-3, 8-9, 10"
+        ],
+        "live": [
+          "Ps 47:2-3"
+        ],
+        "fix": [
+          "Ps 47:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 16:28"
+        ],
+        "fix": [
+          "Jn 16:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 47:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 16:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 18:23-28"
+      ],
+      "responsorial_psalm": [
+        "Ps 47:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 16:28"
+      ],
+      "gospel": [
+        "Jn 16:23"
+      ]
+    },
+    "checked_at": "2026-05-03T04:05:58+00:00"
   }
 }

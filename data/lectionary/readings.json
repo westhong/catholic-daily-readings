@@ -61532,7 +61532,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Cor 12:12-14, 27-31",
+            "citation": "1 Cor 12:12-14",
             "sources": [
               "USCCB"
             ]
@@ -61561,8 +61561,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-18": [

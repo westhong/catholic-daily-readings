@@ -5697,3 +5697,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 18-19, 20-21']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/59273cf
+
+### ❌ 2023-05-20 — Saturday of the Sixth Week of Easter
+- **Checked**: 2026-05-03 04:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052023.cfm
+- **Status**: mismatch
+- **Lectionary**: 296
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 47:2-3, 8-9, 10']`, live=`['Ps 47:2-3']`, fix=`['Ps 47:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:28']`, fix=`['Jn 16:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6937bfe
