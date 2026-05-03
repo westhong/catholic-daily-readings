@@ -10171,7 +10171,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 23:1-4, 19",
+            "citation": "Genesis 23:1-4",
             "sources": [
               "USCCB"
             ]
@@ -10200,8 +10200,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-05": [

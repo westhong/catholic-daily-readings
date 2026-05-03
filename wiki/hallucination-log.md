@@ -6457,3 +6457,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Rv 14:1-3, 4']`, live=`['Rv 14:1-3']`, fix=`['Rv 14:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0102adc
+
+### ❌ 2023-02-18 — Saturday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-03 10:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021823.cfm
+- **Status**: mismatch
+- **Lectionary**: 340
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:2-3, 4-5, 10-11']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 9:6']`, fix=`['Mk 9:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d98321f

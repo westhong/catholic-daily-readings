@@ -32836,5 +32836,60 @@
       ]
     },
     "checked_at": "2026-05-03T10:25:29+00:00"
+  },
+  "2023-02-18:0": {
+    "date": "2023-02-18",
+    "url": "https://bible.usccb.org/bible/readings/021823.cfm",
+    "lectionary_number": 340,
+    "feast": "Saturday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:2-3, 4-5, 10-11"
+        ],
+        "live": [
+          "Ps 145:2-3"
+        ],
+        "fix": [
+          "Ps 145:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 9:6"
+        ],
+        "fix": [
+          "Mk 9:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Mk 9:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 11:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Mk 9:6"
+      ],
+      "gospel": [
+        "Mk 9:2-13"
+      ]
+    },
+    "checked_at": "2026-05-03T10:30:42+00:00"
   }
 }
