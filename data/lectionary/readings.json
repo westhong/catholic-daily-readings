@@ -67055,7 +67055,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 8:6-13, 20-22",
+            "citation": "Gn 8:6-13",
             "sources": [
               "USCCB"
             ]
@@ -67063,7 +67063,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 116:12-13, 14-15, 18-19",
+            "citation": "Ps 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -67084,8 +67084,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Eph 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-16": [

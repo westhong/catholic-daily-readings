@@ -5806,3 +5806,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 138:1-2, 2-3, 6, 8']`, live=`['Ps 138:1-2']`, fix=`['Ps 138:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 16:18']`, fix=`['Mt 16:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/82948ac
+
+### ❌ 2023-11-13 — Memorial of Saint Frances Xavier Cabrini, Virgin
+- **Checked**: 2026-05-03 05:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111323.cfm
+- **Status**: mismatch
+- **Lectionary**: 491
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7160588

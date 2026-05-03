@@ -29380,5 +29380,45 @@
       ]
     },
     "checked_at": "2026-05-03T04:55:06+00:00"
+  },
+  "2023-11-13:0": {
+    "date": "2023-11-13",
+    "url": "https://bible.usccb.org/bible/readings/111323.cfm",
+    "lectionary_number": 491,
+    "feast": "Memorial of Saint Frances Xavier Cabrini, Virgin",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Phil 2:15"
+        ],
+        "fix": [
+          "Phil 2:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Phil 2:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 1:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 139:1"
+      ],
+      "alleluia_verse": [
+        "Phil 2:15"
+      ],
+      "gospel": [
+        "Lk 17:1-6"
+      ]
+    },
+    "checked_at": "2026-05-03T05:00:17+00:00"
   }
 }
