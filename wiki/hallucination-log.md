@@ -6670,3 +6670,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 81:3-4, 5-6, 10-11']`, live=`['Psalm 81:3-4']`, fix=`['Psalm 81:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 1:25']`, fix=`['1 Peter 1:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92955d7
+
+### ❌ 2025-10-06 — Monday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-03 12:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100625.cfm
+- **Status**: mismatch
+- **Lectionary**: 461
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jonah 2:3, 4, 5, 8']`, live=`['Jonah 2:3']`, fix=`['Jonah 2:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e60353
