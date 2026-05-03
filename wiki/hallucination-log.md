@@ -6131,3 +6131,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Rom 5:12, 15']`, live=`['Rom 5:12']`, fix=`['Rom 5:12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f08bed
+
+### ❌ 2023-05-09 — Tuesday of Fifth Week of Easter
+- **Checked**: 2026-05-03 07:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050923.cfm
+- **Status**: mismatch
+- **Lectionary**: 286
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 24:46']`, fix=`['See Lk 24:46']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/136002b
+
+### ✅ 2024-12-30 — The Sixth Day in the Octave of Christmas
+- **Checked**: 2026-05-03 07:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123024.cfm
+- **Status**: ok
+- **Lectionary**: 203
