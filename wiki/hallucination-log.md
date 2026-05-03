@@ -6556,3 +6556,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 478
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1024.cfm`, live=fetch failed
+
+### ❌ 2027-10-22 — Friday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 11:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102227.cfm
+- **Status**: mismatch
+- **Lectionary**: 477
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:66, 68, 76, 77, 93, 94']`, live=`['Psalm 119:66']`, fix=`['Psalm 119:66']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f149a9
