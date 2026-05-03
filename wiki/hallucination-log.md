@@ -5428,3 +5428,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 9:2-3, 4']`, live=`['Psalm 9:2-3']`, fix=`['Psalm 9:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2af6b5b
+
+### ❌ 2024-09-26 — Thursday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 03:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092624.cfm
+- **Status**: mismatch
+- **Lectionary**: 452
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 90:3-4, 5-6, 12-13, 14']`, live=`['PS 90:3-4']`, fix=`['PS 90:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 14:6']`, fix=`['JN 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f4604c3

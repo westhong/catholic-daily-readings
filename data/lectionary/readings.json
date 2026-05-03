@@ -66166,7 +66166,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Heb 11:1-2, 8-19",
+            "citation": "Heb 11:1-2",
             "sources": [
               "USCCB"
             ]
@@ -66174,7 +66174,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Luke 1:69-70, 71-72, 73-75",
+            "citation": "Luke 1:69-70",
             "sources": [
               "USCCB"
             ]
@@ -66195,8 +66195,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-29": [

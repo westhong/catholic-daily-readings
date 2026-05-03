@@ -27854,5 +27854,60 @@
       ]
     },
     "checked_at": "2026-05-03T03:05:24+00:00"
+  },
+  "2024-09-26:0": {
+    "date": "2024-09-26",
+    "url": "https://bible.usccb.org/bible/readings/092624.cfm",
+    "lectionary_number": 452,
+    "feast": "Thursday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 90:3-4, 5-6, 12-13, 14"
+        ],
+        "live": [
+          "PS 90:3-4"
+        ],
+        "fix": [
+          "PS 90:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 14:6"
+        ],
+        "fix": [
+          "JN 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 90:3-4"
+      ],
+      "alleluia_verse": [
+        "JN 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "ECCL 1:2-11"
+      ],
+      "responsorial_psalm": [
+        "PS 90:3-4"
+      ],
+      "alleluia_verse": [
+        "JN 14:6"
+      ],
+      "gospel": [
+        "LK 9:7-9"
+      ]
+    },
+    "checked_at": "2026-05-03T03:10:35+00:00"
   }
 }
