@@ -9737,7 +9737,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 16:1-12, 15-16",
+            "citation": "Genesis 16:1-12",
             "sources": [
               "USCCB"
             ]
@@ -9766,8 +9766,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-27": [

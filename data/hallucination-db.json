@@ -29420,5 +29420,75 @@
       ]
     },
     "checked_at": "2026-05-03T05:00:17+00:00"
+  },
+  "2023-02-15:0": {
+    "date": "2023-02-15",
+    "url": "https://bible.usccb.org/bible/readings/021523.cfm",
+    "lectionary_number": 337,
+    "feast": "Wednesday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 8:6-13, 20-22"
+        ],
+        "live": [
+          "Gn 8:6-13"
+        ],
+        "fix": [
+          "Gn 8:6-13"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 116:12-13, 14-15, 18-19"
+        ],
+        "live": [
+          "Ps 116:12-13"
+        ],
+        "fix": [
+          "Ps 116:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Eph 1:17-18"
+        ],
+        "fix": [
+          "See Eph 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 8:6-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 8:6-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ],
+      "gospel": [
+        "Mk 8:22-26"
+      ]
+    },
+    "checked_at": "2026-05-03T05:05:28+00:00"
   }
 }

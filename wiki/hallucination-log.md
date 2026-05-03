@@ -5815,3 +5815,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 2:15']`, fix=`['Phil 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7160588
+
+### ❌ 2023-02-15 — Wednesday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-03 05:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021523.cfm
+- **Status**: mismatch
+- **Lectionary**: 337
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 8:6-13, 20-22']`, live=`['Gn 8:6-13']`, fix=`['Gn 8:6-13']`
+  - **responsorial_psalm**: stored=`['Ps 116:12-13, 14-15, 18-19']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0161bd6
