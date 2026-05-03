@@ -9476,7 +9476,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:8-9, 10-11, 12-13",
+            "citation": "Psalm 34:8-9",
             "sources": [
               "USCCB"
             ]
@@ -9497,8 +9497,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Corinthians 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-22": [
