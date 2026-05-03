@@ -6060,3 +6060,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 26:2-3, 9-10, 11-12']`, live=`['Psalm 26:2-3']`, fix=`['Psalm 26:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 130:5']`, fix=`['Psalm 130:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2cbeffd
+
+### ❌ 2026-06-08 — Monday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-03 07:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060826.cfm
+- **Status**: mismatch
+- **Lectionary**: 359
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:12']`, fix=`['Matthew 5:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63a3949
