@@ -53570,7 +53570,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dn 3:25, 34-43",
+            "citation": "Dn 3:25",
             "sources": [
               "USCCB"
             ]
@@ -53592,15 +53592,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Jl 2:12-13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-06": [

@@ -7883,3 +7883,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['50:8-9, 16']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hb 4:12']`, fix=`['Hb 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e90431
+
+### ❌ 2023-08-19 — Saturday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-03 22:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081923.cfm
+- **Status**: mismatch
+- **Lectionary**: 418
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88f38ec
