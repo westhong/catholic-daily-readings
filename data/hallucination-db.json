@@ -39410,5 +39410,59 @@
       ]
     },
     "checked_at": "2026-05-03T21:35:44+00:00"
+  },
+  "2027-03-27:0": {
+    "date": "2027-03-27",
+    "url": "https://bible.usccb.org/bible/readings/032727.cfm",
+    "lectionary_number": 41,
+    "feast": "Holy Saturday At the Easter Vigil in the Holy Night of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 1:1—2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 16:5, 8, 9-10, 11"
+        ],
+        "live": [
+          "Psalm 118:1-2"
+        ],
+        "fix": [
+          "Psalm 118:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Genesis 22:1-18"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Psalm 118:1-2"
+      ],
+      "second_reading": []
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 118:1-2"
+      ],
+      "gospel": [
+        "Mark 16:1-7"
+      ]
+    },
+    "checked_at": "2026-05-03T21:40:56+00:00"
   }
 }

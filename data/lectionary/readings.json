@@ -75423,7 +75423,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 25:1, 8-17",
+            "citation": "Lv 25:1",
             "sources": [
               "USCCB"
             ]
@@ -75431,7 +75431,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 67:2-3, 5, 7-8",
+            "citation": "Ps 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -75452,8 +75452,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-06": [

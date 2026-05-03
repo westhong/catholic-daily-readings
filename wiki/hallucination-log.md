@@ -7759,3 +7759,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gn 3:9-15, 20']`, live=`['Gn 3:9-15', 'Acts 1:12-14']`, fix=`['Gn 3:9-15', 'Acts 1:12-14']`
   - **responsorial_psalm**: stored=`['87:1-2, 3']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40ac4d8
+
+### ❌ 2027-03-27 — Holy Saturday At the Easter Vigil in the Holy Night of Easter
+- **Checked**: 2026-05-03 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032727.cfm
+- **Status**: mismatch
+- **Lectionary**: 41
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 1:1—2']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Psalm 16:5, 8, 9-10, 11']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
+  - **second_reading**: stored=`['Genesis 22:1-18']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0eea383
