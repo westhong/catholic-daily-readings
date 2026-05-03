@@ -7453,3 +7453,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 452
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/924.cfm`, live=fetch failed
+
+### ❌ 2026-01-25 — Third Sunday in Ordinary Time
+- **Checked**: 2026-05-03 19:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012526.cfm
+- **Status**: mismatch
+- **Lectionary**: 67
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 8:23—9']`, live=`['Isaiah 8:23']`, fix=`['Isaiah 8:23']`
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **second_reading**: stored=`['1 Corinthians 1:10-13, 17']`, live=`['1 Corinthians 1:10-13']`, fix=`['1 Corinthians 1:10-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fcdf859
