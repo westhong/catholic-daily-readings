@@ -5874,3 +5874,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/46c9002
+
+### ❌ 2026-06-28 — Thirteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062826.cfm
+- **Status**: mismatch
+- **Lectionary**: 97
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kings 4:8-11, 14-16']`, live=`['2 Kings 4:8-11']`, fix=`['2 Kings 4:8-11']`
+  - **responsorial_psalm**: stored=`['Psalm 89:2-3, 16-17, 18-19']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
+  - **second_reading**: stored=`['Romans 6:3-4, 8-11']`, live=`['Romans 6:3-4']`, fix=`['Romans 6:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 2:9']`, fix=`['1 Peter 2:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25a08ef

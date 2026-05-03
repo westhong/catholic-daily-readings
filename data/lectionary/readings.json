@@ -18190,7 +18190,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:4-5, 16-17, 27, 29",
+            "citation": "Psalm 89:4-5",
             "sources": [
               "USCCB"
             ]
@@ -18198,7 +18198,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Acts 13:16-17, 22-25",
+            "citation": "Acts 13:16-17",
             "sources": [
               "USCCB"
             ]
@@ -18210,9 +18210,16 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Matthew 1:18-25",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     },
     {
       "date": "2025-12-25",

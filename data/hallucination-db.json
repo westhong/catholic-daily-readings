@@ -29729,5 +29729,93 @@
       ]
     },
     "checked_at": "2026-05-03T05:30:38+00:00"
+  },
+  "2026-06-28:0": {
+    "date": "2026-06-28",
+    "url": "https://bible.usccb.org/bible/readings/062826.cfm",
+    "lectionary_number": 97,
+    "feast": "Thirteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kings 4:8-11, 14-16"
+        ],
+        "live": [
+          "2 Kings 4:8-11"
+        ],
+        "fix": [
+          "2 Kings 4:8-11"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 89:2-3, 16-17, 18-19"
+        ],
+        "live": [
+          "Psalm 89:2-3"
+        ],
+        "fix": [
+          "Psalm 89:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Romans 6:3-4, 8-11"
+        ],
+        "live": [
+          "Romans 6:3-4"
+        ],
+        "fix": [
+          "Romans 6:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Peter 2:9"
+        ],
+        "fix": [
+          "1 Peter 2:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kings 4:8-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 89:2-3"
+      ],
+      "second_reading": [
+        "Romans 6:3-4"
+      ],
+      "alleluia_verse": [
+        "1 Peter 2:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kings 4:8-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 89:2-3"
+      ],
+      "second_reading": [
+        "Romans 6:3-4"
+      ],
+      "alleluia_verse": [
+        "1 Peter 2:9"
+      ],
+      "gospel": [
+        "Matthew 10:37-42"
+      ]
+    },
+    "checked_at": "2026-05-03T05:35:52+00:00"
   }
 }
