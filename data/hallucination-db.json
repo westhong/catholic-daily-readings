@@ -40077,5 +40077,68 @@
       ]
     },
     "checked_at": "2026-05-03T22:50:40+00:00"
+  },
+  "2027-03-17:0": {
+    "date": "2027-03-17",
+    "url": "https://bible.usccb.org/bible/readings/031727.cfm",
+    "lectionary_number": 253,
+    "feast": "Wednesday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Daniel 3:14-20, 91-92, 95"
+        ],
+        "live": [
+          "Daniel 3:14-20"
+        ],
+        "fix": [
+          "Daniel 3:14-20"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Daniel 3:52"
+        ],
+        "fix": [
+          "Daniel 3:52"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Luke 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Daniel 3:14-20"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 3:14-20"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "gospel": [
+        "John 8:31-42"
+      ]
+    },
+    "checked_at": "2026-05-03T22:55:51+00:00"
   }
 }

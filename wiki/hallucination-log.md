@@ -7902,3 +7902,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Dn 3:25, 34-43']`, live=`['Dn 3:25']`, fix=`['Dn 3:25']`
   - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5efd973
+
+### ❌ 2027-03-17 — Wednesday of the Fifth Week of Lent
+- **Checked**: 2026-05-03 22:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031727.cfm
+- **Status**: mismatch
+- **Lectionary**: 253
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 3:14-20, 91-92, 95']`, live=`['Daniel 3:14-20']`, fix=`['Daniel 3:14-20']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a30353c
