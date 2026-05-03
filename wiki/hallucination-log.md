@@ -5350,3 +5350,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 7-8']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8b2939b
+
+### ❌ 2025-06-22 — The Solemnity of the Most Holy Body and Blood of Christ
+- **Checked**: 2026-05-03 02:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062225.cfm
+- **Status**: mismatch
+- **Lectionary**: 169
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf85f9f
