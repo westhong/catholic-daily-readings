@@ -7284,3 +7284,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 79:8, 9, 11']`, live=`['Psalm 79:8']`, fix=`['Psalm 79:8']`
   - **verse_before_gospel**: stored=`['John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/663fd4f
+
+### 🚫 2026-09-06 — 
+- **Checked**: 2026-05-03 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/906.cfm
+- **Status**: url_dead
+- **Lectionary**: 127
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/906.cfm`, live=fetch failed
