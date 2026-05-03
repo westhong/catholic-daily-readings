@@ -34079,5 +34079,45 @@
       ]
     },
     "checked_at": "2026-05-03T12:25:19+00:00"
+  },
+  "2025-09-13:0": {
+    "date": "2025-09-13",
+    "url": "https://bible.usccb.org/bible/readings/091325.cfm",
+    "lectionary_number": 442,
+    "feast": "Memorial of Saint John Chrysostom, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 1:15-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 113:1"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Luke 6:43-49"
+      ]
+    },
+    "checked_at": "2026-05-03T12:30:35+00:00"
   }
 }

@@ -6692,3 +6692,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['2 Timothy 4:6-8, 16-18']`, live=`['2 Timothy 4:6-8']`, fix=`['2 Timothy 4:6-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f54e48
+
+### ❌ 2025-09-13 — Memorial of Saint John Chrysostom, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 12:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091325.cfm
+- **Status**: mismatch
+- **Lectionary**: 442
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e7e04ca
