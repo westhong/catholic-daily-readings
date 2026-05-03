@@ -5389,3 +5389,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 428
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/083123.cfm`, live=fetch failed
+
+### ❌ 2025-10-05 — Twenty-seventh Sunday in Ordinary Time
+- **Checked**: 2026-05-03 02:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100525.cfm
+- **Status**: mismatch
+- **Lectionary**: 141
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
+  - **second_reading**: stored=`['2 Timothy 1:6-8, 13-14']`, live=`['2 Timothy 1:6-8']`, fix=`['2 Timothy 1:6-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 1:25']`, fix=`['1 Peter 1:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f78a12d

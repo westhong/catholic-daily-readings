@@ -27659,5 +27659,78 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T02:45:38+00:00"
+  },
+  "2025-10-05:0": {
+    "date": "2025-10-05",
+    "url": "https://bible.usccb.org/bible/readings/100525.cfm",
+    "lectionary_number": 141,
+    "feast": "Twenty-seventh Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 95:1-2"
+        ],
+        "fix": [
+          "Psalm 95:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Timothy 1:6-8, 13-14"
+        ],
+        "live": [
+          "2 Timothy 1:6-8"
+        ],
+        "fix": [
+          "2 Timothy 1:6-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Peter 1:25"
+        ],
+        "fix": [
+          "1 Peter 1:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "2 Timothy 1:6-8"
+      ],
+      "alleluia_verse": [
+        "1 Peter 1:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Habakkuk 1:2-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "2 Timothy 1:6-8"
+      ],
+      "alleluia_verse": [
+        "1 Peter 1:25"
+      ],
+      "gospel": [
+        "Luke 17:5-10"
+      ]
+    },
+    "checked_at": "2026-05-03T02:50:50+00:00"
   }
 }
