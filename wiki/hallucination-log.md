@@ -6620,3 +6620,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 300
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/230525.cfm`, live=fetch failed
+
+### ❌ 2026-01-27 — Tuesday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-03 11:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012726.cfm
+- **Status**: mismatch
+- **Lectionary**: 318
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 24:7, 8, 9, 10']`, live=`['Psalm 24:7']`, fix=`['Psalm 24:7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cea9bd0
