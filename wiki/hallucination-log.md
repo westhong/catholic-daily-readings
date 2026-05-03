@@ -7693,3 +7693,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['78:3']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b20005
+
+### ❌ 2026-01-14 — Wednesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 21:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011426.cfm
+- **Status**: mismatch
+- **Lectionary**: 307
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Samuel 3:1-10, 19-20']`, live=`['1 Samuel 3:1-10']`, fix=`['1 Samuel 3:1-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79311e8

@@ -17038,7 +17038,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 1:1-6, 8-20",
+            "citation": "Daniel 1:1-6",
             "sources": [
               "USCCB"
             ]
@@ -17046,7 +17046,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "citation": "Daniel 3:52",
             "sources": [
               "USCCB"
             ]
@@ -17067,8 +17067,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 24:42",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-25": [
