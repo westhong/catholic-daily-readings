@@ -7210,3 +7210,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 148:1-2, 11-12, 13, 14']`, live=`['Ps 148:1-2']`, fix=`['Ps 148:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:16']`, fix=`['Jn 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b930f3
+
+### ❌ 2023-03-22 — Wednesday of the Fourth Week of Lent
+- **Checked**: 2026-05-03 16:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032223.cfm
+- **Status**: mismatch
+- **Lectionary**: 246
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:8-9, 13']`, live=`['Ps 145:8-9']`, fix=`['Ps 145:8-9']`
+  - **verse_before_gospel**: stored=`['Jn 11:25a, 26']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b951fb4
