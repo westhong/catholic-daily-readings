@@ -54034,7 +54034,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dn 3:14-20, 91-92, 95",
+            "citation": "Dn 3:14-20",
             "sources": [
               "USCCB"
             ]
@@ -54042,7 +54042,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Dn 3:52, 53, 54, 55, 56",
+            "citation": "Dn 3:52",
             "sources": [
               "USCCB"
             ]
@@ -54056,15 +54056,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Lk 8:15",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-21": [

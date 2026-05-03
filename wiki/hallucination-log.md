@@ -7475,3 +7475,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b28bc9c
+
+### ❌ 2023-01-12 — Thursday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 19:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011223.cfm
+- **Status**: mismatch
+- **Lectionary**: 308
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['95:6-7']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:23']`, fix=`['Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57f28e9
