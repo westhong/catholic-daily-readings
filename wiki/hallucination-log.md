@@ -7913,3 +7913,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a30353c
+
+### ❌ 2027-04-29 — Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church
+- **Checked**: 2026-05-03 23:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042927.cfm
+- **Status**: mismatch
+- **Lectionary**: 288
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/59a8fe8
