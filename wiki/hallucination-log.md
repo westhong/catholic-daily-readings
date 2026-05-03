@@ -6982,3 +6982,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 112:1-2, 7-8, 9']`, live=`['Ps 112:1-2']`, fix=`['Ps 112:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f929ad6
+
+### ❌ 2026-05-23 — Saturday of the Seventh Week of Easter
+- **Checked**: 2026-05-03 15:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052326.cfm
+- **Status**: mismatch
+- **Lectionary**: 302
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 28:16-20, 30-31']`, live=`['Acts 28:16-20']`, fix=`['Acts 28:16-20']`
+  - **responsorial_psalm**: stored=`['Psalm 11:4, 5 and 7']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23d7c95
