@@ -20225,7 +20225,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 24:2, 9-17",
+            "citation": "2 Samuel 24:2",
             "sources": [
               "USCCB"
             ]
@@ -20233,7 +20233,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 32:1-2, 5, 6, 7",
+            "citation": "Psalm 32:1-2",
             "sources": [
               "USCCB"
             ]
@@ -20254,8 +20254,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-05": [

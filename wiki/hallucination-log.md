@@ -5836,3 +5836,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 16:1-12, 15-16']`, live=`['Genesis 16:1-12']`, fix=`['Genesis 16:1-12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e77285e
+
+### ❌ 2027-10-13 — Wednesday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-03 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101327.cfm
+- **Status**: mismatch
+- **Lectionary**: 469
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 62:2-3, 6-7, 9']`, live=`['Psalm 62:2-3']`, fix=`['Psalm 62:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b7d2f38
