@@ -6357,3 +6357,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 51:12-13, 14-15, 16-17']`, live=`['PS 51:12-13']`, fix=`['PS 51:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 3:16']`, fix=`['JN 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d9e304
+
+### ❌ 2025-02-11 — Tuesday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 09:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021125.cfm
+- **Status**: mismatch
+- **Lectionary**: 330
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 1:20—2']`, live=`['Genesis 1:20']`, fix=`['Genesis 1:20']`
+  - **responsorial_psalm**: stored=`['Psalm 8:4-5, 6-7, 8-9']`, live=`['Psalm 8:4-5']`, fix=`['Psalm 8:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalms 119:36']`, fix=`['Psalms 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c048215
