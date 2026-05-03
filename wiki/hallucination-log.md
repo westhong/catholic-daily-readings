@@ -6794,3 +6794,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 145
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1018.cfm`, live=fetch failed
+
+### ❌ 2027-03-16 — Tuesday of the Fifth Week of Lent
+- **Checked**: 2026-05-03 13:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031627.cfm
+- **Status**: mismatch
+- **Lectionary**: 252
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 102:2-3, 16-18, 19-21']`, live=`['Psalm 102:2-3']`, fix=`['Psalm 102:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/767246d
