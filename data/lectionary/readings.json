@@ -36557,7 +36557,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 7:25—8",
+            "citation": "Hebrews 7:25",
             "sources": [
               "USCCB"
             ]
@@ -36586,8 +36586,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Timothy 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-22": [
