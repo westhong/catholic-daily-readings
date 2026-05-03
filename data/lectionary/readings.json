@@ -23815,7 +23815,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 7:51-8:1a",
+            "citation": "Acts 7:51",
             "sources": [
               "USCCB"
             ]
@@ -23823,7 +23823,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab",
+            "citation": "Psalm 31:3",
             "sources": [
               "USCCB"
             ]
@@ -23844,8 +23844,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 6:35",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-22": [

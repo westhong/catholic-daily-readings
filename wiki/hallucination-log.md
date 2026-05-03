@@ -5360,3 +5360,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf85f9f
+
+### ❌ 2027-01-15 — Friday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 02:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011527.cfm
+- **Status**: mismatch
+- **Lectionary**: 309
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 4:1-5, 11']`, live=`['Hebrews 4:1-5']`, fix=`['Hebrews 4:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0361d45
