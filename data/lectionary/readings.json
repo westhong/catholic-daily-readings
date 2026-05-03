@@ -72248,7 +72248,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Dn 3:52, 53, 54, 55, 56",
+            "citation": "Dn 3:52",
             "sources": [
               "USCCB"
             ]
@@ -72278,7 +72278,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-05": [

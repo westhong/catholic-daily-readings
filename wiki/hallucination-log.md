@@ -6822,3 +6822,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/54dbf9b
+
+### ❌ 2024-02-27 — Tuesday of the Second Week of Lent
+- **Checked**: 2026-05-03 13:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022724.cfm
+- **Status**: mismatch
+- **Lectionary**: 231
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 1:10, 16-20']`, live=`['Is 1:10']`, fix=`['Is 1:10']`
+  - **responsorial_psalm**: stored=`['Ps 50:8-9, 16']`, live=`['Ps 50:8-9']`, fix=`['Ps 50:8-9']`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/989d181
