@@ -5340,3 +5340,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c07af40
+
+### ❌ 2023-11-12 — Thirty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-03 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111223.cfm
+- **Status**: mismatch
+- **Lectionary**: 154
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6, 7-8']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8b2939b

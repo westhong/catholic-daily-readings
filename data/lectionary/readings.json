@@ -9494,7 +9494,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 110:1, 2, 3, 4",
+            "citation": "Psalm 110:1",
             "sources": [
               "USCCB"
             ]
@@ -9523,8 +9523,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-23": [

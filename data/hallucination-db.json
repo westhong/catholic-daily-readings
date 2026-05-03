@@ -27399,5 +27399,63 @@
       ]
     },
     "checked_at": "2026-05-03T02:20:43+00:00"
+  },
+  "2023-11-12:0": {
+    "date": "2023-11-12",
+    "url": "https://bible.usccb.org/bible/readings/111223.cfm",
+    "lectionary_number": 154,
+    "feast": "Thirty-second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 63:2, 3-4, 5-6, 7-8"
+        ],
+        "live": [
+          "Ps 63:2"
+        ],
+        "fix": [
+          "Ps 63:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 24:42"
+        ],
+        "fix": [
+          "Mt 24:42"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "alleluia_verse": [
+        "Mt 24:42"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 6:12-16"
+      ],
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "second_reading": [
+        "1 Thes 4:13-18"
+      ],
+      "alleluia_verse": [
+        "Mt 24:42"
+      ],
+      "gospel": [
+        "Mt 25:1-13"
+      ]
+    },
+    "checked_at": "2026-05-03T02:25:54+00:00"
   }
 }
