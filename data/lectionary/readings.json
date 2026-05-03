@@ -72255,7 +72255,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 98:1, 2",
+            "citation": "Ps 98:1",
             "sources": [
               "USCCB"
             ]
@@ -72276,8 +72276,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 119:105",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-20": [

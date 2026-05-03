@@ -5201,3 +5201,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **first_reading**: stored=`['1 Tm 1:1-2, 12-14']`, live=`['1 Tm 1:1-2']`, fix=`['1 Tm 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6488cbc
+
+### ❌ 2023-03-12 — Third Sunday of Lent
+- **Checked**: 2026-05-03 01:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031223.cfm
+- **Status**: mismatch
+- **Lectionary**: 28
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['95:1-2, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
+  - **second_reading**: stored=`['Rom 5:1-2, 5-8']`, live=`['Rom 5:1-2']`, fix=`['Rom 5:1-2']`
+  - **verse_before_gospel**: stored=`['Cf. Jn 4:42, 15']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 4:5-42']`, live=`['Jn 4:5-42', 'Jn 4:5-15']`, fix=`['Jn 4:5-42', 'Jn 4:5-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de2259f
