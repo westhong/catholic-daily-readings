@@ -7023,3 +7023,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 91:1-2, 14-15']`, live=`['Psalm 91:1-2']`, fix=`['Psalm 91:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Revelation 1:5']`, fix=`['See Revelation 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/48aba8d
+
+### ❌ 2023-01-11 — Wednesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 15:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011123.cfm
+- **Status**: mismatch
+- **Lectionary**: 307
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/30fef45
