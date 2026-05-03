@@ -7630,3 +7630,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 25:4-5, 6-7, 8-9']`, live=`['Psalm 25:4-5']`, fix=`['Psalm 25:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/35cba09
+
+### ❌ 2027-02-27 — Saturday of the Second Week of Lent
+- **Checked**: 2026-05-03 20:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022727.cfm
+- **Status**: mismatch
+- **Lectionary**: 235
+- **Mismatches**:
+  - **first_reading**: stored=`['Micah 7:14-15, 18-20']`, live=`['Micah 7:14-15']`, fix=`['Micah 7:14-15']`
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 9-10, 11-12']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **verse_before_gospel**: stored=`['Luke 15:18']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Luke 15:1-3, 11-32']`, live=`['Luke 15:1-3']`, fix=`['Luke 15:1-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c1aa7fc

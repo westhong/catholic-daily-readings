@@ -38732,7 +38732,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 42:2, 3",
+            "citation": "Psalm 42:2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "See Psalm 130:5",
             "sources": [
               "USCCB"
             ]
@@ -38746,7 +38752,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-02": [
