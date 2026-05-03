@@ -30924,5 +30924,78 @@
       ]
     },
     "checked_at": "2026-05-03T07:25:51+00:00"
+  },
+  "2027-06-06:0": {
+    "date": "2027-06-06",
+    "url": "https://bible.usccb.org/bible/readings/060627.cfm",
+    "lectionary_number": 89,
+    "feast": "Tenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 130:1-2, 3-4, 5-6, 7-8"
+        ],
+        "live": [
+          "Psalm 130:1-2"
+        ],
+        "fix": [
+          "Psalm 130:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Corinthians 4:13—5"
+        ],
+        "live": [
+          "2 Corinthians 4:13"
+        ],
+        "fix": [
+          "2 Corinthians 4:13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 12:31"
+        ],
+        "fix": [
+          "John 12:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 130:1-2"
+      ],
+      "second_reading": [
+        "2 Corinthians 4:13"
+      ],
+      "alleluia_verse": [
+        "John 12:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 3:9-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 130:1-2"
+      ],
+      "second_reading": [
+        "2 Corinthians 4:13"
+      ],
+      "alleluia_verse": [
+        "John 12:31"
+      ],
+      "gospel": [
+        "Mark 3:20-35"
+      ]
+    },
+    "checked_at": "2026-05-03T07:30:05+00:00"
   }
 }

@@ -6100,3 +6100,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 13-14, 17-18']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/04f7113
+
+### ❌ 2027-06-06 — Tenth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 07:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060627.cfm
+- **Status**: mismatch
+- **Lectionary**: 89
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **second_reading**: stored=`['2 Corinthians 4:13—5']`, live=`['2 Corinthians 4:13']`, fix=`['2 Corinthians 4:13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 12:31']`, fix=`['John 12:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b8ee1f1
