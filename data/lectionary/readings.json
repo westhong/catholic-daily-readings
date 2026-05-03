@@ -76203,14 +76203,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "106:34-35, 36-37, 39-40, 43",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 19:16-22",
@@ -76226,8 +76219,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-22": [

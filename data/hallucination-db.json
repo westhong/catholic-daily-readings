@@ -39775,5 +39775,47 @@
       ]
     },
     "checked_at": "2026-05-03T22:15:22+00:00"
+  },
+  "2023-04-09:0": {
+    "date": "2023-04-09",
+    "url": "https://bible.usccb.org/bible/readings/040923.cfm",
+    "lectionary_number": 42,
+    "feast": "The Resurrection of the Lord The Mass of Easter Day",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 118:1-2, 16-17, 22-23"
+        ],
+        "live": [
+          "Ps 118:1-2"
+        ],
+        "fix": [
+          "Ps 118:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 10:34"
+      ],
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "second_reading": [
+        "Col 3:1-4"
+      ],
+      "gospel": [
+        "Jn 20:1-9"
+      ]
+    },
+    "checked_at": "2026-05-03T22:20:33+00:00"
   }
 }
