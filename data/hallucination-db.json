@@ -37464,5 +37464,44 @@
       ]
     },
     "checked_at": "2026-05-03T18:20:50+00:00"
+  },
+  "2025-02-20:0": {
+    "date": "2025-02-20",
+    "url": "https://bible.usccb.org/bible/readings/022025.cfm",
+    "lectionary_number": 338,
+    "feast": "Thursday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 102:16-18, 19-21, 29"
+        ],
+        "live": [
+          "Psalm 102:16-18"
+        ],
+        "fix": [
+          "Psalm 102:16-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 102:16-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 9:1-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 102:16-18"
+      ],
+      "gospel": [
+        "Mark 8:27-33"
+      ]
+    },
+    "checked_at": "2026-05-03T18:26:02+00:00"
   }
 }
