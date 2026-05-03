@@ -5515,3 +5515,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 334
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/021024.cfm`, live=fetch failed
+
+### 🚫 2027-04-01 — Thursday in the Octave of Easter
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040127.cfm
+- **Status**: url_dead
+- **Lectionary**: 264
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/040127.cfm`, live=fetch failed
