@@ -6514,3 +6514,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d0124f
+
+### ❌ 2027-10-18 — Feast of Saint Luke, Evangelist
+- **Checked**: 2026-05-03 11:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101827.cfm
+- **Status**: mismatch
+- **Lectionary**: 661
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ca6b03

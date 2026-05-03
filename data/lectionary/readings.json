@@ -78462,7 +78462,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Rom 4:13, 16-18",
+            "citation": "Rom 4:13",
             "sources": [
               "USCCB"
             ]
@@ -78470,7 +78470,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 105:6-7, 8-9, 42-43",
+            "citation": "PS 105:6-7",
             "sources": [
               "USCCB"
             ]
@@ -78491,8 +78491,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-22": [
