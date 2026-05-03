@@ -35151,5 +35151,60 @@
       ]
     },
     "checked_at": "2026-05-03T14:20:08+00:00"
+  },
+  "2024-06-08:0": {
+    "date": "2024-06-08",
+    "url": "https://bible.usccb.org/bible/readings/060824.cfm",
+    "lectionary_number": 358,
+    "feast": "Memorial of the Immaculate Heart of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 71:8-9, 14-15"
+        ],
+        "live": [
+          "Ps 71:8-9"
+        ],
+        "fix": [
+          "Ps 71:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Lk 2:19"
+        ],
+        "fix": [
+          "See Lk 2:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 71:8-9"
+      ],
+      "alleluia_verse": [
+        "See Lk 2:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Tm 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 71:8-9"
+      ],
+      "alleluia_verse": [
+        "See Lk 2:19"
+      ],
+      "gospel": [
+        "Lk 2:41-51"
+      ]
+    },
+    "checked_at": "2026-05-03T14:25:24+00:00"
   }
 }

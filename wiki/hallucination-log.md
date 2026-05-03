@@ -6913,3 +6913,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Corinthians 9:16-19, 22-23']`, live=`['1 Corinthians 9:16-19']`, fix=`['1 Corinthians 9:16-19']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f022460
+
+### ❌ 2024-06-08 — Memorial of the Immaculate Heart of the Blessed Virgin Mary
+- **Checked**: 2026-05-03 14:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060824.cfm
+- **Status**: mismatch
+- **Lectionary**: 358
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 71:8-9, 14-15']`, live=`['Ps 71:8-9']`, fix=`['Ps 71:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 2:19']`, fix=`['See Lk 2:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a22aaff
