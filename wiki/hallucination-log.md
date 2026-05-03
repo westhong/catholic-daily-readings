@@ -5459,3 +5459,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 91:1-2, 14-15']`, live=`['Ps 91:1-2']`, fix=`['Ps 91:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3d05a27
+
+### 🚫 2026-10-20 — 
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1020.cfm
+- **Status**: url_dead
+- **Lectionary**: 474
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1020.cfm`, live=fetch failed
