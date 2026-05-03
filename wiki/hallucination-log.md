@@ -5637,3 +5637,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gn 3:9-15, 20']`, live=`['Gn 3:9-15', 'Acts 1:12-14']`, fix=`['Gn 3:9-15', 'Acts 1:12-14']`
   - **responsorial_psalm**: stored=`['87:1-2, 3']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7415568
+
+### ❌ 2026-02-05 — Memorial of Saint Agatha, Virgin and Martyr
+- **Checked**: 2026-05-03 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020526.cfm
+- **Status**: mismatch
+- **Lectionary**: 326
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kings 2:1-4, 10-12']`, live=`['1 Kings 2:1-4']`, fix=`['1 Kings 2:1-4']`
+  - **responsorial_psalm**: stored=`['1 Chronicles 29:10, 11']`, live=`['1 Chronicles 29:10']`, fix=`['1 Chronicles 29:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8bd8b2

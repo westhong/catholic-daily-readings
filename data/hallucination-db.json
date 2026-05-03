@@ -28482,5 +28482,75 @@
       ]
     },
     "checked_at": "2026-05-03T03:30:36+00:00"
+  },
+  "2026-02-05:0": {
+    "date": "2026-02-05",
+    "url": "https://bible.usccb.org/bible/readings/020526.cfm",
+    "lectionary_number": 326,
+    "feast": "Memorial of Saint Agatha, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kings 2:1-4, 10-12"
+        ],
+        "live": [
+          "1 Kings 2:1-4"
+        ],
+        "fix": [
+          "1 Kings 2:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "1 Chronicles 29:10, 11"
+        ],
+        "live": [
+          "1 Chronicles 29:10"
+        ],
+        "fix": [
+          "1 Chronicles 29:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 1:15"
+        ],
+        "fix": [
+          "Mark 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Kings 2:1-4"
+      ],
+      "responsorial_psalm": [
+        "1 Chronicles 29:10"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 2:1-4"
+      ],
+      "responsorial_psalm": [
+        "1 Chronicles 29:10"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Mark 6:7-13"
+      ]
+    },
+    "checked_at": "2026-05-03T03:35:47+00:00"
   }
 }
