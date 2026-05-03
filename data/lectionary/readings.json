@@ -66698,19 +66698,18 @@
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "responsorial_psalm": [
+          },
           {
-            "citation": "117:1",
+            "citation": "Acts 9:1-22",
             "sources": [
               "USCCB"
             ]
           }
         ],
+        "responsorial_psalm": [],
         "gospel": [
           {
-            "citation": "to every creature. Whoever believes and",
+            "citation": "Mk 16:15-18",
             "sources": [
               "USCCB"
             ]
@@ -66723,8 +66722,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-26": [

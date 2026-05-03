@@ -7033,3 +7033,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/30fef45
+
+### ❌ 2026-02-25 — Wednesday of the First Week in Lent
+- **Checked**: 2026-05-03 15:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022526.cfm
+- **Status**: mismatch
+- **Lectionary**: 226
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 18-19']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3b758d
