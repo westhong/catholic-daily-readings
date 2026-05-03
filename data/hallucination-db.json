@@ -27780,5 +27780,24 @@
       ]
     },
     "checked_at": "2026-05-03T02:56:02+00:00"
+  },
+  "2026-10-31:0": {
+    "date": "2026-10-31",
+    "url": "https://bible.usccb.org/bible/readings/1031.cfm",
+    "lectionary_number": 484,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1031.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:00:12+00:00"
   }
 }
