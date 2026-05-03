@@ -6566,3 +6566,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:66, 68, 76, 77, 93, 94']`, live=`['Psalm 119:66']`, fix=`['Psalm 119:66']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f149a9
+
+### 🚫 2026-11-22 — 
+- **Checked**: 2026-05-03 11:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261122.cfm
+- **Status**: url_dead
+- **Lectionary**: 160
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261122.cfm`, live=fetch failed
