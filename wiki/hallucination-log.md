@@ -5507,3 +5507,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 229
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/022826.cfm`, live=fetch failed
+
+### 🚫 2024-02-10 — Memorial of Saint Scholastica, Virgin
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021024.cfm
+- **Status**: url_dead
+- **Lectionary**: 334
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/021024.cfm`, live=fetch failed
