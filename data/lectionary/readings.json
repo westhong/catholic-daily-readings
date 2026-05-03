@@ -44118,7 +44118,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 123:1-2, 2, 3-4",
+            "citation": "Psalm 123:1-2",
             "sources": [
               "USCCB"
             ]
@@ -44140,7 +44140,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-05": [

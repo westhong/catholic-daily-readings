@@ -6630,3 +6630,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 24:7, 8, 9, 10']`, live=`['Psalm 24:7']`, fix=`['Psalm 24:7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cea9bd0
+
+### ❌ 2027-08-27 — Memorial of Saint Monica
+- **Checked**: 2026-05-03 12:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082727.cfm
+- **Status**: mismatch
+- **Lectionary**: 429
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d99c847
