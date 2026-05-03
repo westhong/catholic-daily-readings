@@ -40581,7 +40581,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 4, 13-14",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -40602,8 +40602,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-10": [

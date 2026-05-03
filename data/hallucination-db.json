@@ -40418,5 +40418,66 @@
       ]
     },
     "checked_at": "2026-05-03T23:26:01+00:00"
+  },
+  "2024-11-12:0": {
+    "date": "2024-11-12",
+    "url": "https://bible.usccb.org/bible/readings/111224.cfm",
+    "lectionary_number": 492,
+    "feast": "Memorial of Saint Josaphat, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ti 2:1-8, 11-14"
+        ],
+        "live": [
+          "Ti 2:1-8"
+        ],
+        "fix": [
+          "Ti 2:1-8"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "37:3-4, 18"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ti 2:1-8"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ti 2:1-8"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Lk 17:7-10"
+      ]
+    },
+    "checked_at": "2026-05-03T23:30:13+00:00"
   }
 }

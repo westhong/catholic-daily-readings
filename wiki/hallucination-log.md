@@ -7970,3 +7970,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 111:1-2, 3-4, 5-6']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
   - **gospel**: stored=`['John 19:25-27']`, live=`['John 19:25-27', 'Luke 2:33-35']`, fix=`['John 19:25-27', 'Luke 2:33-35']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f7c442
+
+### ❌ 2024-11-12 — Memorial of Saint Josaphat, Bishop and Martyr
+- **Checked**: 2026-05-03 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111224.cfm
+- **Status**: mismatch
+- **Lectionary**: 492
+- **Mismatches**:
+  - **first_reading**: stored=`['Ti 2:1-8, 11-14']`, live=`['Ti 2:1-8']`, fix=`['Ti 2:1-8']`
+  - **responsorial_psalm**: stored=`['37:3-4, 18']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/de03306
