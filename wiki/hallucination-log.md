@@ -7152,3 +7152,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 71:1-2, 3-4']`, live=`['Psalm 71:1-2']`, fix=`['Psalm 71:1-2']`
   - **gospel**: stored=`['John 13:21-33, 36-38']`, live=`['John 13:21-33']`, fix=`['John 13:21-33']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3b452e
+
+### 🚫 2026-07-29 — 
+- **Checked**: 2026-05-03 16:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/729.cfm
+- **Status**: url_dead
+- **Lectionary**: 403
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/729.cfm`, live=fetch failed
