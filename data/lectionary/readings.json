@@ -21898,7 +21898,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 18-19, 20-21",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -21912,15 +21912,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Psalm 95:8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-15": [

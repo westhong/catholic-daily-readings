@@ -28705,5 +28705,59 @@
       ]
     },
     "checked_at": "2026-05-03T03:50:22+00:00"
+  },
+  "2024-09-21:0": {
+    "date": "2024-09-21",
+    "url": "https://bible.usccb.org/bible/readings/092124.cfm",
+    "lectionary_number": 643,
+    "feast": "Feast of Saint Matthew, Apostle and evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Eph 4:1-7, 11-13"
+        ],
+        "live": [
+          "Eph 4:1-7"
+        ],
+        "fix": [
+          "Eph 4:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:2-3, 4-5"
+        ],
+        "live": [
+          "Ps 19:2-3"
+        ],
+        "fix": [
+          "Ps 19:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Eph 4:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Eph 4:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "gospel": [
+        "Mt 9:9-13"
+      ]
+    },
+    "checked_at": "2026-05-03T03:55:33+00:00"
   }
 }

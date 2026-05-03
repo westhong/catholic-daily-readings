@@ -5677,3 +5677,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['PS 130:5']`, fix=`['PS 130:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/32bff80
+
+### ❌ 2024-09-21 — Feast of Saint Matthew, Apostle and evangelist
+- **Checked**: 2026-05-03 03:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092124.cfm
+- **Status**: mismatch
+- **Lectionary**: 643
+- **Mismatches**:
+  - **first_reading**: stored=`['Eph 4:1-7, 11-13']`, live=`['Eph 4:1-7']`, fix=`['Eph 4:1-7']`
+  - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3db7ffc
