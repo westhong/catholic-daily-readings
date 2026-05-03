@@ -5717,3 +5717,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Cor 12:12-14, 27-31']`, live=`['1 Cor 12:12-14']`, fix=`['1 Cor 12:12-14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0661a2a
+
+### ❌ 2027-01-13 — Wednesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011327.cfm
+- **Status**: mismatch
+- **Lectionary**: 307
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f134fda
