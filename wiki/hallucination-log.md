@@ -5595,3 +5595,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 135
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/092125.cfm`, live=fetch failed
+
+### 🚫 2023-11-25 — Saturday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-03 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112523.cfm
+- **Status**: url_dead
+- **Lectionary**: 502
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/112523.cfm`, live=fetch failed
