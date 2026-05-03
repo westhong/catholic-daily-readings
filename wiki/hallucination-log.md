@@ -7358,3 +7358,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 459
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1002.cfm`, live=fetch failed
+
+### ❌ 2027-05-03 — Feast of Saints Philip and James, Apostles
+- **Checked**: 2026-05-03 18:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050327.cfm
+- **Status**: mismatch
+- **Lectionary**: 561
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24c1f00
