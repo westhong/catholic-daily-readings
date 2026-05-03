@@ -49881,7 +49881,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 72:1-2, 12-13, 18-19",
+            "citation": "Ps 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -49895,7 +49895,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-19": [
