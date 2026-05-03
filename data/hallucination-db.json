@@ -32540,5 +32540,51 @@
       ]
     },
     "checked_at": "2026-05-03T09:55:48+00:00"
+  },
+  "2024-10-25:0": {
+    "date": "2024-10-25",
+    "url": "https://bible.usccb.org/bible/readings/102524.cfm",
+    "lectionary_number": 477,
+    "feast": "Friday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "24:1-2, 3-4"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Eph 4:1-6"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "LK 12:54-59"
+      ]
+    },
+    "checked_at": "2026-05-03T10:01:07+00:00"
   }
 }
