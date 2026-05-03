@@ -37106,5 +37106,60 @@
       ]
     },
     "checked_at": "2026-05-03T17:41:04+00:00"
+  },
+  "2027-05-08:0": {
+    "date": "2027-05-08",
+    "url": "https://bible.usccb.org/bible/readings/050827.cfm",
+    "lectionary_number": 296,
+    "feast": "Saturday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 47:2-3, 8-9, 10"
+        ],
+        "live": [
+          "Psalm 47:2-3"
+        ],
+        "fix": [
+          "Psalm 47:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 16:28"
+        ],
+        "fix": [
+          "John 16:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 47:2-3"
+      ],
+      "alleluia_verse": [
+        "John 16:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 18:23-28"
+      ],
+      "responsorial_psalm": [
+        "Psalm 47:2-3"
+      ],
+      "alleluia_verse": [
+        "John 16:28"
+      ],
+      "gospel": [
+        "John 16:23"
+      ]
+    },
+    "checked_at": "2026-05-03T17:45:16+00:00"
   }
 }
