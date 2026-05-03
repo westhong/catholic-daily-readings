@@ -5987,3 +5987,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e17fd7
+
+### ❌ 2025-09-04 — Thursday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-03 06:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090425.cfm
+- **Status**: mismatch
+- **Lectionary**: 434
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:19']`, fix=`['Matthew 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a50e171
