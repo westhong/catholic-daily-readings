@@ -35454,5 +35454,60 @@
       ]
     },
     "checked_at": "2026-05-03T14:50:40+00:00"
+  },
+  "2023-06-06:0": {
+    "date": "2023-06-06",
+    "url": "https://bible.usccb.org/bible/readings/060623.cfm",
+    "lectionary_number": 354,
+    "feast": "Tuesday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 112:1-2, 7-8, 9"
+        ],
+        "live": [
+          "Ps 112:1-2"
+        ],
+        "fix": [
+          "Ps 112:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Eph 1:17-18"
+        ],
+        "fix": [
+          "See Eph 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Tb 2:9-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ],
+      "gospel": [
+        "Mk 12:13-17"
+      ]
+    },
+    "checked_at": "2026-05-03T14:55:53+00:00"
   }
 }

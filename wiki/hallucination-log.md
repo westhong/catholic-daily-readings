@@ -6972,3 +6972,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 90:12-13, 14-15, 16-17']`, live=`['Psalm 90:12-13']`, fix=`['Psalm 90:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b5ad9b
+
+### ❌ 2023-06-06 — Tuesday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060623.cfm
+- **Status**: mismatch
+- **Lectionary**: 354
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 112:1-2, 7-8, 9']`, live=`['Ps 112:1-2']`, fix=`['Ps 112:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f929ad6
