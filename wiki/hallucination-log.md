@@ -6285,3 +6285,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 490
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261107.cfm`, live=fetch failed
+
+### ❌ 2024-10-26 — Saturday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-03 09:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102624.cfm
+- **Status**: mismatch
+- **Lectionary**: 478
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 122:1-2, 3-4']`, live=`['PS 122:1-2']`, fix=`['PS 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['EZ 33:11']`, fix=`['EZ 33:11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ebaaf8f

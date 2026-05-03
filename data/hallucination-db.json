@@ -31896,5 +31896,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T09:00:16+00:00"
+  },
+  "2024-10-26:0": {
+    "date": "2024-10-26",
+    "url": "https://bible.usccb.org/bible/readings/102624.cfm",
+    "lectionary_number": 478,
+    "feast": "Saturday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 122:1-2, 3-4"
+        ],
+        "live": [
+          "PS 122:1-2"
+        ],
+        "fix": [
+          "PS 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "EZ 33:11"
+        ],
+        "fix": [
+          "EZ 33:11"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 122:1-2"
+      ],
+      "alleluia_verse": [
+        "EZ 33:11"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EPH 4:7-16"
+      ],
+      "responsorial_psalm": [
+        "PS 122:1-2"
+      ],
+      "alleluia_verse": [
+        "EZ 33:11"
+      ],
+      "gospel": [
+        "LK 13:1-9"
+      ]
+    },
+    "checked_at": "2026-05-03T09:05:34+00:00"
   }
 }
