@@ -52384,7 +52384,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Kgs 8:22-23, 27-30",
+            "citation": "1 Kgs 8:22-23",
             "sources": [
               "USCCB"
             ]
@@ -52400,7 +52400,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 84:3, 4, 5 and 10, 11",
+            "citation": "PS 84:3",
             "sources": [
               "USCCB"
             ]
@@ -52413,8 +52413,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 119:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-07": [

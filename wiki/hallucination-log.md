@@ -7651,3 +7651,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 42:2, 3']`, live=`['Psalm 42:2', 'See Psalm 130:5']`, fix=`['Psalm 42:2', 'See Psalm 130:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/017703c
+
+### ❌ 2023-03-15 — Wednesday of the Third Week of Lent
+- **Checked**: 2026-05-03 20:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031523.cfm
+- **Status**: mismatch
+- **Lectionary**: 239
+- **Mismatches**:
+  - **first_reading**: stored=`['Dt 4:1, 5-9']`, live=`['Dt 4:1']`, fix=`['Dt 4:1']`
+  - **responsorial_psalm**: stored=`['Ps 147:12-13, 15-16, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
+  - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/05291c6

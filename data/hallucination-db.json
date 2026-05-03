@@ -38876,5 +38876,68 @@
       ]
     },
     "checked_at": "2026-05-03T20:40:28+00:00"
+  },
+  "2023-03-15:0": {
+    "date": "2023-03-15",
+    "url": "https://bible.usccb.org/bible/readings/031523.cfm",
+    "lectionary_number": 239,
+    "feast": "Wednesday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dt 4:1, 5-9"
+        ],
+        "live": [
+          "Dt 4:1"
+        ],
+        "fix": [
+          "Dt 4:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:12-13, 15-16, 19-20"
+        ],
+        "live": [
+          "Ps 147:12-13"
+        ],
+        "fix": [
+          "Ps 147:12-13"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Jn 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dt 4:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 4:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "gospel": [
+        "Mt 5:17-19"
+      ]
+    },
+    "checked_at": "2026-05-03T20:45:39+00:00"
   }
 }
