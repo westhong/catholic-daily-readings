@@ -37772,5 +37772,47 @@
       ]
     },
     "checked_at": "2026-05-03T18:51:02+00:00"
+  },
+  "2025-06-08:2": {
+    "date": "2025-06-08",
+    "url": "https://bible.usccb.org/bible/readings/060825-Day.cfm",
+    "lectionary_number": 63,
+    "feast": "Pentecost Sunday - Mass during the Day",
+    "mass_idx": 2,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 104:1, 24, 29-30, 31, 34"
+        ],
+        "live": [
+          "Psalm 104:1"
+        ],
+        "fix": [
+          "Psalm 104:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 104:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 104:1"
+      ],
+      "second_reading": [
+        "1 Corinthians 12:3"
+      ],
+      "gospel": [
+        "John 20:19-23"
+      ]
+    },
+    "checked_at": "2026-05-03T18:55:14+00:00"
   }
 }

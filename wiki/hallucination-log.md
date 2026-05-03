@@ -7436,3 +7436,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
   - **gospel**: stored=`['John 17:11b-19']`, live=`['John 17:11']`, fix=`['John 17:11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78d4663
+
+### ❌ 2025-06-08 — Pentecost Sunday - Mass during the Day
+- **Checked**: 2026-05-03 18:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060825-Day.cfm
+- **Status**: mismatch
+- **Lectionary**: 63
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 104:1, 24, 29-30, 31, 34']`, live=`['Psalm 104:1']`, fix=`['Psalm 104:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2943af9
