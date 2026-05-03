@@ -5857,3 +5857,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aaa01f0
+
+### 🚫 2026-08-27 — 
+- **Checked**: 2026-05-03 05:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/827.cfm
+- **Status**: url_dead
+- **Lectionary**: 428
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/827.cfm`, live=fetch failed

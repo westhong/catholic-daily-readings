@@ -29670,5 +29670,24 @@
       ]
     },
     "checked_at": "2026-05-03T05:20:07+00:00"
+  },
+  "2026-08-27:0": {
+    "date": "2026-08-27",
+    "url": "https://bible.usccb.org/bible/readings/827.cfm",
+    "lectionary_number": 428,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/827.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T05:25:20+00:00"
   }
 }
