@@ -7292,3 +7292,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 127
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/906.cfm`, live=fetch failed
+
+### ❌ 2025-01-16 — Thursday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 17:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011625.cfm
+- **Status**: mismatch
+- **Lectionary**: 308
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:23']`, fix=`['Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25ee398
