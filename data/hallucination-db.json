@@ -34119,5 +34119,44 @@
       ]
     },
     "checked_at": "2026-05-03T12:30:35+00:00"
+  },
+  "2025-12-09:0": {
+    "date": "2025-12-09",
+    "url": "https://bible.usccb.org/bible/readings/120925.cfm",
+    "lectionary_number": 182,
+    "feast": "Tuesday of the Second Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 96:1-2, 3"
+        ],
+        "live": [
+          "Psalm 96:1-2"
+        ],
+        "fix": [
+          "Psalm 96:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 96:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 40:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:1-2"
+      ],
+      "gospel": [
+        "Matthew 18:12-14"
+      ]
+    },
+    "checked_at": "2026-05-03T12:35:48+00:00"
   }
 }
