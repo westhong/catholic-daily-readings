@@ -26960,7 +26960,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Kings 11:1-4, 9-18, 20",
+            "citation": "2 Kings 11:1-4",
             "sources": [
               "USCCB"
             ]
@@ -26968,7 +26968,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 132:11, 12, 13-14, 17-18",
+            "citation": "Psalm 132:11",
             "sources": [
               "USCCB"
             ]
@@ -26989,8 +26989,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-20": [

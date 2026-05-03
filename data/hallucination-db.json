@@ -34232,5 +34232,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T12:45:15+00:00"
+  },
+  "2026-07-16:0": {
+    "date": "2026-07-16",
+    "url": "https://bible.usccb.org/bible/readings/716.cfm",
+    "lectionary_number": 392,
+    "feast": "Thursday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/716.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T12:50:29+00:00"
   }
 }
