@@ -7642,3 +7642,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Luke 15:18']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Luke 15:1-3, 11-32']`, live=`['Luke 15:1-3']`, fix=`['Luke 15:1-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c1aa7fc
+
+### ❌ 2027-03-01 — Monday of the Third Week of Lent
+- **Checked**: 2026-05-03 20:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030127.cfm
+- **Status**: mismatch
+- **Lectionary**: 237
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 42:2, 3']`, live=`['Psalm 42:2', 'See Psalm 130:5']`, fix=`['Psalm 42:2', 'See Psalm 130:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/017703c

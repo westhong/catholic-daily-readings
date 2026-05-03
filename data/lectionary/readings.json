@@ -69069,7 +69069,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dt 4:1, 5-9",
+            "citation": "Dt 4:1",
             "sources": [
               "USCCB"
             ]
@@ -69077,7 +69077,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 147:12-13, 15-16, 19-20",
+            "citation": "Ps 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -69091,15 +69091,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Jn 6:63c, 68c",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-16": [
