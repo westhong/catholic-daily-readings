@@ -6257,3 +6257,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 40:2, 4, 7-8, 8-9, 10']`, live=`['Psalm 40:2']`, fix=`['Psalm 40:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:41']`, fix=`['John 1:41']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ae7acc
+
+### ❌ 2024-02-17 — Saturday after Ash Wednesday
+- **Checked**: 2026-05-03 08:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021724.cfm
+- **Status**: mismatch
+- **Lectionary**: 222
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 86:1-2, 3-4, 5-6']`, live=`['PS 86:1-2']`, fix=`['PS 86:1-2']`
+  - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3aa6cd
