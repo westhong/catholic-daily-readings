@@ -28319,5 +28319,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:43+00:00"
+  },
+  "2025-04-16:0": {
+    "date": "2025-04-16",
+    "url": "https://bible.usccb.org/bible/readings/041625.cfm",
+    "lectionary_number": 259,
+    "feast": "Wednesday of Holy Week",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/041625.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:44+00:00"
   }
 }

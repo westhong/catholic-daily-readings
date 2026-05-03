@@ -5579,3 +5579,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 178
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261203.cfm`, live=fetch failed
+
+### 🚫 2025-04-16 — Wednesday of Holy Week
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041625.cfm
+- **Status**: url_dead
+- **Lectionary**: 259
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/041625.cfm`, live=fetch failed
