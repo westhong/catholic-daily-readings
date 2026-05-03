@@ -5234,3 +5234,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c0f0b3
+
+### ❌ 2025-10-27 — Monday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-03 01:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102725.cfm
+- **Status**: mismatch
+- **Lectionary**: 479
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d26ed02

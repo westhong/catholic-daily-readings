@@ -46112,7 +46112,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Thessalonians 5:1-6, 9-11",
+            "citation": "1 Thessalonians 5:1-6",
             "sources": [
               "USCCB"
             ]
@@ -46120,7 +46120,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 4, 13-14",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -46133,8 +46133,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-01": [
