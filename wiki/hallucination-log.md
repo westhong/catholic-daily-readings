@@ -5295,3 +5295,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['16:1-2']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a01911
+
+### ❌ 2025-07-30 — Wednesday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-03 02:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073025.cfm
+- **Status**: mismatch
+- **Lectionary**: 403
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 99:5, 6, 7, 9']`, live=`['Psalm 99:5']`, fix=`['Psalm 99:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e8f8b6
