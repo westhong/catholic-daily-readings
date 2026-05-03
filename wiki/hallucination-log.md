@@ -6487,3 +6487,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 7:51—8']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:35']`, fix=`['John 6:35']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ed111a4
+
+### 🚫 2026-07-31 — 
+- **Checked**: 2026-05-03 10:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/731.cfm
+- **Status**: url_dead
+- **Lectionary**: 405
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/731.cfm`, live=fetch failed

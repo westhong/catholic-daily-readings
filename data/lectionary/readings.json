@@ -74990,7 +74990,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 81:12-13, 14-15, 16-17",
+            "citation": "Ps 81:12-13",
             "sources": [
               "USCCB"
             ]
@@ -75011,8 +75011,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-08": [
