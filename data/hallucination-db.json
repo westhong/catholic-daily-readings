@@ -28129,5 +28129,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:25+00:00"
+  },
+  "2026-02-28:0": {
+    "date": "2026-02-28",
+    "url": "https://bible.usccb.org/bible/readings/022826.cfm",
+    "lectionary_number": 229,
+    "feast": "Saturday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/022826.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:26+00:00"
   }
 }
