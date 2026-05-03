@@ -6862,3 +6862,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 11']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/feab98f
+
+### ❌ 2027-07-15 — Memorial of Saint Bonaventure, Bishop and Doctor of the Church
+- **Checked**: 2026-05-03 14:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071527.cfm
+- **Status**: mismatch
+- **Lectionary**: 392
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a07e0d5
