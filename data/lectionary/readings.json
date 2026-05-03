@@ -45028,7 +45028,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Leviticus 25:1, 8-17",
+            "citation": "Leviticus 25:1",
             "sources": [
               "USCCB"
             ]
@@ -45036,7 +45036,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 67:2-3, 5, 7-8",
+            "citation": "Psalm 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -45049,8 +45049,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-01": [
