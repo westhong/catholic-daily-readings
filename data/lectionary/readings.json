@@ -76916,17 +76916,10 @@
       "feast": "Monday of the Twenty-third Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "Col 1:24–2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "Ps 62:6-7, 9",
+            "citation": "Ps 62:6-7",
             "sources": [
               "USCCB"
             ]
@@ -76947,8 +76940,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-12": [

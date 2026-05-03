@@ -36108,5 +36108,51 @@
       ]
     },
     "checked_at": "2026-05-03T15:55:42+00:00"
+  },
+  "2024-11-13:0": {
+    "date": "2024-11-13",
+    "url": "https://bible.usccb.org/bible/readings/111324.cfm",
+    "lectionary_number": 493,
+    "feast": "Memorial of Saint Frances Xavier Cabrini, Virgin",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "23:1"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Thes 5:18"
+        ],
+        "fix": [
+          "1 Thes 5:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "1 Thes 5:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ti 3:1-7"
+      ],
+      "alleluia_verse": [
+        "1 Thes 5:18"
+      ],
+      "gospel": [
+        "Lk 17:11-19"
+      ]
+    },
+    "checked_at": "2026-05-03T16:00:53+00:00"
   }
 }
