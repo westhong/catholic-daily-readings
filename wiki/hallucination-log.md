@@ -5967,3 +5967,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 10:1-2, 3-4, 7-8, 14']`, live=`['Ps 10:1-2']`, fix=`['Ps 10:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/66e28e3
+
+### ❌ 2025-07-31 — Memorial of Saint Ignatius of Loyola, Priest
+- **Checked**: 2026-05-03 06:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073125.cfm
+- **Status**: mismatch
+- **Lectionary**: 404
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 40:16-21, 34-38']`, live=`['Exodus 40:16-21']`, fix=`['Exodus 40:16-21']`
+  - **responsorial_psalm**: stored=`['Psalm 84:3, 4, 5-6']`, live=`['Psalm 84:3']`, fix=`['Psalm 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31abe8c
