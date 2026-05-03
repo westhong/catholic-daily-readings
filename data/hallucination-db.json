@@ -32485,5 +32485,60 @@
       ]
     },
     "checked_at": "2026-05-03T09:50:34+00:00"
+  },
+  "2026-01-13:0": {
+    "date": "2026-01-13",
+    "url": "https://bible.usccb.org/bible/readings/011326.cfm",
+    "lectionary_number": 306,
+    "feast": "Tuesday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "1 Samuel 2:1, 4-5, 6-7, 8"
+        ],
+        "live": [
+          "1 Samuel 2:1"
+        ],
+        "fix": [
+          "1 Samuel 2:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 1 Thessalonians 2:13"
+        ],
+        "fix": [
+          "See 1 Thessalonians 2:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "1 Samuel 2:1"
+      ],
+      "alleluia_verse": [
+        "See 1 Thessalonians 2:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 1:9-20"
+      ],
+      "responsorial_psalm": [
+        "1 Samuel 2:1"
+      ],
+      "alleluia_verse": [
+        "See 1 Thessalonians 2:13"
+      ],
+      "gospel": [
+        "Mark 1:21-28"
+      ]
+    },
+    "checked_at": "2026-05-03T09:55:48+00:00"
   }
 }

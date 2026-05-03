@@ -6388,3 +6388,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 18-19']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3b18556
+
+### ❌ 2026-01-13 — Tuesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-03 09:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011326.cfm
+- **Status**: mismatch
+- **Lectionary**: 306
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thessalonians 2:13']`, fix=`['See 1 Thessalonians 2:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/48874e2

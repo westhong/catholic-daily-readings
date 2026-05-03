@@ -63593,14 +63593,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "24:1-2, 3-4",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "LK 12:54-59",
@@ -63616,8 +63609,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-26": [
