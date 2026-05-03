@@ -33796,5 +33796,75 @@
       ]
     },
     "checked_at": "2026-05-03T12:05:24+00:00"
+  },
+  "2027-06-25:0": {
+    "date": "2027-06-25",
+    "url": "https://bible.usccb.org/bible/readings/062527.cfm",
+    "lectionary_number": 375,
+    "feast": "Friday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 17:1, 9-10, 15-22"
+        ],
+        "live": [
+          "Genesis 17:1"
+        ],
+        "fix": [
+          "Genesis 17:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 128:1-2, 3, 4-5"
+        ],
+        "live": [
+          "Psalm 128:1-2"
+        ],
+        "fix": [
+          "Psalm 128:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 8:17"
+        ],
+        "fix": [
+          "Matthew 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 17:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 128:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 17:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 128:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ],
+      "gospel": [
+        "Matthew 8:1-4"
+      ]
+    },
+    "checked_at": "2026-05-03T12:10:37+00:00"
   }
 }

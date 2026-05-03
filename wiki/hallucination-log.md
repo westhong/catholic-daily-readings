@@ -6648,3 +6648,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 123:1-2, 2, 3-4']`, live=`['Psalm 123:1-2']`, fix=`['Psalm 123:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/467d0cf
+
+### ❌ 2027-06-25 — Friday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-03 12:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062527.cfm
+- **Status**: mismatch
+- **Lectionary**: 375
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 17:1, 9-10, 15-22']`, live=`['Genesis 17:1']`, fix=`['Genesis 17:1']`
+  - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79f9d56
