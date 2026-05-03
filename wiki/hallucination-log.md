@@ -5112,3 +5112,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 3:2-3, 4-5, 6-7']`, live=`['PS 3:2-3']`, fix=`['PS 3:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 4:10']`, fix=`['1 Jn 4:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f94b6df
+
+### ❌ 2027-05-30 — The Solemnity of the Most Holy Body and Blood of Christ Corpus Christi
+- **Checked**: 2026-05-03 00:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053027.cfm
+- **Status**: mismatch
+- **Lectionary**: 168
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16, 17-18']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+  - **gospel**: stored=`['Mark 14:12-16, 22-26']`, live=`['Mark 14:12-16']`, fix=`['Mark 14:12-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a67e28
