@@ -28110,5 +28110,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:24+00:00"
+  },
+  "2027-07-01:0": {
+    "date": "2027-07-01",
+    "url": "https://bible.usccb.org/bible/readings/070127.cfm",
+    "lectionary_number": 380,
+    "feast": "Thursday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/070127.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:25+00:00"
   }
 }
