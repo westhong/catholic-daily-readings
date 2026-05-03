@@ -33020,5 +33020,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T10:45:22+00:00"
+  },
+  "2023-08-07:0": {
+    "date": "2023-08-07",
+    "url": "https://bible.usccb.org/bible/readings/080723.cfm",
+    "lectionary_number": 407,
+    "feast": "Monday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 81:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Ps 81:12-13"
+        ],
+        "fix": [
+          "Ps 81:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 81:12-13"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 11:4"
+      ],
+      "responsorial_psalm": [
+        "Ps 81:12-13"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Mt 14:13-21"
+      ]
+    },
+    "checked_at": "2026-05-03T10:50:39+00:00"
   }
 }
