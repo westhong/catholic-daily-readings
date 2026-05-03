@@ -25496,7 +25496,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:29-30, 33-35a, 35bc-36ab",
+            "citation": "Psalm 68:29-30",
             "sources": [
               "USCCB"
             ]
@@ -25512,13 +25512,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 17:11b-19",
+            "citation": "John 17:11",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 17:17",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-21": [

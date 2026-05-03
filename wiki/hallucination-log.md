@@ -7416,3 +7416,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 122:1-2, 3-4']`, live=`['Ps 122:1-2']`, fix=`['Ps 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Ps 80:4']`, fix=`['See Ps 80:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2e0097c
+
+### ❌ 2023-10-03 — Tuesday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-03 18:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100323.cfm
+- **Status**: mismatch
+- **Lectionary**: 456
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/715e666
