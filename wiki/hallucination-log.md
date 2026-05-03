@@ -7533,3 +7533,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:56']`, fix=`['Jn 6:56']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/565e301
+
+### ❌ 2023-02-20 — Monday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-03 19:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022023.cfm
+- **Status**: mismatch
+- **Lectionary**: 341
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abb2d3a

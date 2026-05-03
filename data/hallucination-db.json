@@ -38250,5 +38250,45 @@
       ]
     },
     "checked_at": "2026-05-03T19:40:58+00:00"
+  },
+  "2023-02-20:0": {
+    "date": "2023-02-20",
+    "url": "https://bible.usccb.org/bible/readings/022023.cfm",
+    "lectionary_number": 341,
+    "feast": "Monday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 1:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Mk 9:14-29"
+      ]
+    },
+    "checked_at": "2026-05-03T19:45:09+00:00"
   }
 }
