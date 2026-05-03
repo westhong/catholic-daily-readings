@@ -5796,3 +5796,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 115:1-2, 3-4, 15-16']`, live=`['Ps 115:1-2']`, fix=`['Ps 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:26']`, fix=`['Jn 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f640e44
+
+### ❌ 2023-08-27 — Twenty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-03 04:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082723.cfm
+- **Status**: mismatch
+- **Lectionary**: 121
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 138:1-2, 2-3, 6, 8']`, live=`['Ps 138:1-2']`, fix=`['Ps 138:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 16:18']`, fix=`['Mt 16:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/82948ac

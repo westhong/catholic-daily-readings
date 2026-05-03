@@ -29322,5 +29322,63 @@
       ]
     },
     "checked_at": "2026-05-03T04:50:54+00:00"
+  },
+  "2023-08-27:0": {
+    "date": "2023-08-27",
+    "url": "https://bible.usccb.org/bible/readings/082723.cfm",
+    "lectionary_number": 121,
+    "feast": "Twenty-first Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 138:1-2, 2-3, 6, 8"
+        ],
+        "live": [
+          "Ps 138:1-2"
+        ],
+        "fix": [
+          "Ps 138:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 16:18"
+        ],
+        "fix": [
+          "Mt 16:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 138:1-2"
+      ],
+      "alleluia_verse": [
+        "Mt 16:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 22:19-23"
+      ],
+      "responsorial_psalm": [
+        "Ps 138:1-2"
+      ],
+      "second_reading": [
+        "Rom 11:33-36"
+      ],
+      "alleluia_verse": [
+        "Mt 16:18"
+      ],
+      "gospel": [
+        "Mt 16:13-20"
+      ]
+    },
+    "checked_at": "2026-05-03T04:55:06+00:00"
   }
 }
