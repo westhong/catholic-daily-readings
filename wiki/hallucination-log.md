@@ -7506,3 +7506,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:4-5, 18-19, 20, 22']`, live=`['Ps 33:4-5']`, fix=`['Ps 33:4-5']`
   - **verse_before_gospel**: stored=`['Cf. Mt 17:5']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/11089eb
+
+### 🚫 2026-10-09 — 
+- **Checked**: 2026-05-03 19:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1009.cfm
+- **Status**: url_dead
+- **Lectionary**: 465
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1009.cfm`, live=fetch failed

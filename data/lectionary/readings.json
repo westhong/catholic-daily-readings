@@ -8992,7 +8992,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:129, 130, 131, 132, 133, 135",
+            "citation": "Psalm 119:129",
             "sources": [
               "USCCB"
             ]
@@ -9013,8 +9013,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-11": [
