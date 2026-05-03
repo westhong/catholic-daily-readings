@@ -28262,5 +28262,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-03T03:25:39+00:00"
+  },
+  "2026-01-07:0": {
+    "date": "2026-01-07",
+    "url": "https://bible.usccb.org/bible/readings/010726.cfm",
+    "lectionary_number": 214,
+    "feast": "Wednesday after Epiphany",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/010726.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-03T03:25:41+00:00"
   }
 }
