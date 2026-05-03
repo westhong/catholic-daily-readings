@@ -26364,5 +26364,47 @@
       ]
     },
     "checked_at": "2026-05-03T00:40:10+00:00"
+  },
+  "2023-07-16:0": {
+    "date": "2023-07-16",
+    "url": "https://bible.usccb.org/bible/readings/071623.cfm",
+    "lectionary_number": 103,
+    "feast": "Fifteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 65:10, 11, 12-13, 14"
+        ],
+        "live": [
+          "Ps 65:10"
+        ],
+        "fix": [
+          "Ps 65:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 65:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 55:10-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 65:10"
+      ],
+      "second_reading": [
+        "Rom 8:18-23"
+      ],
+      "gospel": [
+        "Mt 13:1-23"
+      ]
+    },
+    "checked_at": "2026-05-03T00:45:21+00:00"
   }
 }

@@ -13327,7 +13327,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:2-3, 10-11, 12-13",
+            "citation": "Psalm 145:2-3",
             "sources": [
               "USCCB"
             ]
@@ -13348,8 +13348,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 6:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-11": [

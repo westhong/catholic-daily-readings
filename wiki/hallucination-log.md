@@ -5143,3 +5143,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1106c77
+
+### ❌ 2023-07-16 — Fifteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-03 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071623.cfm
+- **Status**: mismatch
+- **Lectionary**: 103
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 65:10, 11, 12-13, 14']`, live=`['Ps 65:10']`, fix=`['Ps 65:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8b395b8
