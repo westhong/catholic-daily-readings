@@ -5483,3 +5483,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 194
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/121824.cfm`, live=fetch failed
+
+### 🚫 2024-06-10 — Monday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-03 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061024.cfm
+- **Status**: url_dead
+- **Lectionary**: 359
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/061024.cfm`, live=fetch failed
