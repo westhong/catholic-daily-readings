@@ -39296,7 +39296,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 7:2-3, 9",
+            "citation": "Psalm 7:2-3",
             "sources": [
               "USCCB"
             ]
@@ -39310,15 +39310,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "See Luke 8:15",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-14": [

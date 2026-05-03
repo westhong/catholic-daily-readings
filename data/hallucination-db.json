@@ -40180,5 +40180,63 @@
       ]
     },
     "checked_at": "2026-05-03T23:01:03+00:00"
+  },
+  "2023-05-07:0": {
+    "date": "2023-05-07",
+    "url": "https://bible.usccb.org/bible/readings/050723.cfm",
+    "lectionary_number": 52,
+    "feast": "Fifth Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:1-2, 4-5, 18-19"
+        ],
+        "live": [
+          "Ps 33:1-2"
+        ],
+        "fix": [
+          "Ps 33:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 6:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:1-2"
+      ],
+      "second_reading": [
+        "1 Pt 2:4-9"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Jn 14:1-12"
+      ]
+    },
+    "checked_at": "2026-05-03T23:05:14+00:00"
   }
 }
