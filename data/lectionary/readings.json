@@ -41610,7 +41610,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:2-3, 4-5",
+            "citation": "Psalm 19:2-3",
             "sources": [
               "USCCB"
             ]
@@ -41623,8 +41623,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-04": [

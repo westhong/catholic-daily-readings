@@ -7350,3 +7350,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
   - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d523d13
+
+### 🚫 2026-10-02 — 
+- **Checked**: 2026-05-03 18:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1002.cfm
+- **Status**: url_dead
+- **Lectionary**: 459
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1002.cfm`, live=fetch failed
