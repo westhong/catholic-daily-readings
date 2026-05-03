@@ -7043,3 +7043,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 18-19']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d3b758d
+
+### ❌ 2023-01-25 — Feast of the Conversion of Saint Paul, Apostle
+- **Checked**: 2026-05-03 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012523.cfm
+- **Status**: mismatch
+- **Lectionary**: 519
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 22:3-16']`, live=`['Acts 22:3-16', 'Acts 9:1-22']`, fix=`['Acts 22:3-16', 'Acts 9:1-22']`
+  - **responsorial_psalm**: stored=`['117:1']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:16']`, fix=`['Jn 15:16']`
+  - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-18']`, fix=`['Mk 16:15-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/475189d

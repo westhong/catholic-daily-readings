@@ -35850,5 +35850,85 @@
       ]
     },
     "checked_at": "2026-05-03T15:25:19+00:00"
+  },
+  "2023-01-25:0": {
+    "date": "2023-01-25",
+    "url": "https://bible.usccb.org/bible/readings/012523.cfm",
+    "lectionary_number": 519,
+    "feast": "Feast of the Conversion of Saint Paul, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 22:3-16"
+        ],
+        "live": [
+          "Acts 22:3-16",
+          "Acts 9:1-22"
+        ],
+        "fix": [
+          "Acts 22:3-16",
+          "Acts 9:1-22"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "117:1"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:16"
+        ],
+        "fix": [
+          "Jn 15:16"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "to every creature. Whoever believes and"
+        ],
+        "live": [
+          "Mk 16:15-18"
+        ],
+        "fix": [
+          "Mk 16:15-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 22:3-16",
+        "Acts 9:1-22"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 15:16"
+      ],
+      "gospel": [
+        "Mk 16:15-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 22:3-16",
+        "Acts 9:1-22"
+      ],
+      "alleluia_verse": [
+        "Jn 15:16"
+      ],
+      "gospel": [
+        "Mk 16:15-18"
+      ]
+    },
+    "checked_at": "2026-05-03T15:30:32+00:00"
   }
 }
