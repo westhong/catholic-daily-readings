@@ -4871,7 +4871,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 79:8, 9, 11",
+            "citation": "Psalm 79:8",
             "sources": [
               "USCCB"
             ]
@@ -4885,15 +4885,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "John 6:63c, 68c",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-18": [

@@ -7264,3 +7264,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
   - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6997ac8
+
+### ❌ 2024-02-08 — Thursday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-03 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020824.cfm
+- **Status**: mismatch
+- **Lectionary**: 332
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 106:3-4, 35-36, 37']`, live=`['PS 106:3-4']`, fix=`['PS 106:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9444a1

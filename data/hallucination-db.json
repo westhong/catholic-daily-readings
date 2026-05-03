@@ -36944,5 +36944,60 @@
       ]
     },
     "checked_at": "2026-05-03T17:20:15+00:00"
+  },
+  "2024-02-08:0": {
+    "date": "2024-02-08",
+    "url": "https://bible.usccb.org/bible/readings/020824.cfm",
+    "lectionary_number": 332,
+    "feast": "Thursday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 106:3-4, 35-36, 37"
+        ],
+        "live": [
+          "PS 106:3-4"
+        ],
+        "fix": [
+          "PS 106:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jas 1:21"
+        ],
+        "fix": [
+          "Jas 1:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 106:3-4"
+      ],
+      "alleluia_verse": [
+        "Jas 1:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 11:4-13"
+      ],
+      "responsorial_psalm": [
+        "PS 106:3-4"
+      ],
+      "alleluia_verse": [
+        "Jas 1:21"
+      ],
+      "gospel": [
+        "Mk 7:24-30"
+      ]
+    },
+    "checked_at": "2026-05-03T17:25:27+00:00"
   }
 }
