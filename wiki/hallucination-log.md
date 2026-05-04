@@ -10200,3 +10200,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 92:2-3, 13-14, 15-16']`, live=`['Psalm 92:2-3']`, fix=`['Psalm 92:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2bad462
+
+### ❌ 2023-11-28 — Tuesday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 18:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112823.cfm
+- **Status**: mismatch
+- **Lectionary**: 504
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Dn 3:57, 58, 59, 60, 61']`, live=`['Dn 3:57']`, fix=`['Dn 3:57']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Rev 2:10']`, fix=`['Rev 2:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cbc483f

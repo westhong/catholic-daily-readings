@@ -46629,7 +46629,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 114:1-2, 3-4, 5-6",
+            "citation": "Psalm 114:1-2",
             "sources": [
               "USCCB"
             ]
@@ -46642,8 +46642,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 119:135",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-13": [
