@@ -9188,3 +9188,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 95:1-2, 6-7, 8-9']`, live=`['Ps 95:1-2']`, fix=`['Ps 95:1-2']`
   - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ac7c25
+
+### 🚫 2026-07-02 — Thursday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 09:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/72.cfm
+- **Status**: url_dead
+- **Lectionary**: 380
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/72.cfm`, live=fetch failed
