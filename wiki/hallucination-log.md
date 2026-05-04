@@ -8706,3 +8706,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:15']`, fix=`['Colossians 3:15']`
   - **gospel**: stored=`['Luke 10:1-12, 17-20']`, live=`['Luke 10:1-12']`, fix=`['Luke 10:1-12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a2e3bf
+
+### ❌ 2023-05-30 — Tuesday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053023.cfm
+- **Status**: mismatch
+- **Lectionary**: 348
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 50:5-6, 7-8, 14']`, live=`['Ps 50:5-6']`, fix=`['Ps 50:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['see mt 11:25']`, fix=`['see mt 11:25']`
+  - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mk 10:28-31']`, fix=`['Mk 10:28-31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3c1b74
