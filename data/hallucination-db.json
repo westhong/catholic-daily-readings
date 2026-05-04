@@ -53307,5 +53307,60 @@
       ]
     },
     "checked_at": "2026-05-04T21:01:04+00:00"
+  },
+  "2025-10-31:0": {
+    "date": "2025-10-31",
+    "url": "https://bible.usccb.org/bible/readings/103125.cfm",
+    "lectionary_number": 483,
+    "feast": "Friday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 9:1-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Luke 14:1-6"
+      ]
+    },
+    "checked_at": "2026-05-04T21:05:16+00:00"
   }
 }

@@ -10483,3 +10483,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
   - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f177d4
+
+### ❌ 2025-10-31 — Friday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-04 21:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103125.cfm
+- **Status**: mismatch
+- **Lectionary**: 483
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3bdecfa
