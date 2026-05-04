@@ -10455,3 +10455,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 85:9-10-11-12, 13-14']`, live=`['PS 85:9-10']`, fix=`['PS 85:9-10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 3:4']`, fix=`['LK 3:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/77bb5df
+
+### ❌ 2023-05-12 — Friday of the Fifth Week of Easter
+- **Checked**: 2026-05-04 20:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051223.cfm
+- **Status**: mismatch
+- **Lectionary**: 289
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 57:8-9, 10']`, live=`['Ps 57:8-9']`, fix=`['Ps 57:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:15']`, fix=`['Jn 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0e896a9
