@@ -8041,3 +8041,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:1-2, 4-5, 7-8']`, live=`['Ps 119:1-2']`, fix=`['Ps 119:1-2']`
   - **verse_before_gospel**: stored=`['2 Cor 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/af4bd63
+
+### ❌ 2025-04-06 — Fifth Sunday of Lent Scrutiny Year A Readings
+- **Checked**: 2026-05-04 00:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040625-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 34
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **gospel**: stored=`['John 11:1-45']`, live=`['John 11:1-45', 'John 11:3-7']`, fix=`['John 11:1-45', 'John 11:3-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/95b3f80
