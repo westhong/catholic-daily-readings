@@ -10768,3 +10768,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 3:13-15, 17-19']`, live=`['Acts 3:13-15']`, fix=`['Acts 3:13-15']`
   - **responsorial_psalm**: stored=`['Ps 4:2, 4, 7-8, 9']`, live=`['Ps 4:2']`, fix=`['Ps 4:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/292bf73
+
+### ❌ 2026-01-21 — Memorial of Saint Agnes, Virgin and Martyr
+- **Checked**: 2026-05-04 23:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012126.cfm
+- **Status**: mismatch
+- **Lectionary**: 313
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Samuel 17:32-33, 37, 40-51']`, live=`['1 Samuel 17:32-33']`, fix=`['1 Samuel 17:32-33']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a47de19

@@ -25019,7 +25019,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 87:1b-3, 4-5, 6-7",
+            "citation": "Psalm 87:1",
             "sources": [
               "USCCB"
             ]
@@ -25040,8 +25040,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-29": [
