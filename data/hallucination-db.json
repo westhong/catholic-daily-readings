@@ -46426,5 +46426,63 @@
       ]
     },
     "checked_at": "2026-05-04T09:20:14+00:00"
+  },
+  "2024-12-25:1": {
+    "date": "2024-12-25",
+    "url": "https://bible.usccb.org/bible/readings/122524-Night.cfm",
+    "lectionary_number": 14,
+    "feast": "The Nativity of the Lord (Christmas) Mass during the Night",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 96: 1-2, 2-3, 11-12, 13"
+        ],
+        "live": [
+          "Ps 96: 1"
+        ],
+        "fix": [
+          "Ps 96: 1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 2:10-11"
+        ],
+        "fix": [
+          "Lk 2:10-11"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 96: 1"
+      ],
+      "alleluia_verse": [
+        "Lk 2:10-11"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 9:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 96: 1"
+      ],
+      "second_reading": [
+        "Ti 2:11-14"
+      ],
+      "alleluia_verse": [
+        "Lk 2:10-11"
+      ],
+      "gospel": [
+        "Lk 2:1-14"
+      ]
+    },
+    "checked_at": "2026-05-04T09:25:26+00:00"
   }
 }
