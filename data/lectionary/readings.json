@@ -26235,17 +26235,10 @@
       "feast": "Saturday of the Eighth Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "Jude 17, 20b-25",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 63:2, 3-4, 5-6",
+            "citation": "Psalm 63:2",
             "sources": [
               "USCCB"
             ]
@@ -26266,8 +26259,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Colossians 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-31": [

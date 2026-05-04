@@ -42357,5 +42357,24 @@
       ]
     },
     "checked_at": "2026-05-04T02:35:35+00:00"
+  },
+  "2026-05-17:1": {
+    "date": "2026-05-17",
+    "url": "https://bible.usccb.org/bible/readings/051726-Ascension.cfm",
+    "lectionary_number": 58,
+    "feast": "The Ascension of the Lord (US celebration)",
+    "mass_idx": 1,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/051726-Ascension.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T02:40:47+00:00"
   }
 }

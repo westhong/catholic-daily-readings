@@ -8342,3 +8342,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 8, 10, 12-13']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/483e36a
+
+### 🚫 2026-05-17 — The Ascension of the Lord (US celebration)
+- **Checked**: 2026-05-04 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051726-Ascension.cfm
+- **Status**: url_dead
+- **Lectionary**: 58
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/051726-Ascension.cfm`, live=fetch failed
