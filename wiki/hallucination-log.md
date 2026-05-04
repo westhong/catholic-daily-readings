@@ -9911,3 +9911,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 16:7']`, fix=`['See John 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7fd7bc3
+
+### ❌ 2027-05-19 — Wednesday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 16:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051927.cfm
+- **Status**: mismatch
+- **Lectionary**: 343
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:165, 168, 171, 172, 174, 175']`, live=`['Psalm 119:165']`, fix=`['Psalm 119:165']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97e87fe

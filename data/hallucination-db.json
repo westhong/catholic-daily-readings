@@ -50357,5 +50357,60 @@
       ]
     },
     "checked_at": "2026-05-04T16:05:08+00:00"
+  },
+  "2027-05-19:0": {
+    "date": "2027-05-19",
+    "url": "https://bible.usccb.org/bible/readings/051927.cfm",
+    "lectionary_number": 343,
+    "feast": "Wednesday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:165, 168, 171, 172, 174, 175"
+        ],
+        "live": [
+          "Psalm 119:165"
+        ],
+        "fix": [
+          "Psalm 119:165"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:6"
+        ],
+        "fix": [
+          "John 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:165"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 4:11-19"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:165"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ],
+      "gospel": [
+        "Mark 9:38-40"
+      ]
+    },
+    "checked_at": "2026-05-04T16:10:24+00:00"
   }
 }
