@@ -8116,3 +8116,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 382
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/74.cfm`, live=fetch failed
+
+### ❌ 2027-07-21 — Wednesday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072127.cfm
+- **Status**: mismatch
+- **Lectionary**: 397
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 16:1-5, 9-15']`, live=`['Exodus 16:1-5']`, fix=`['Exodus 16:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 78:18-19, 23-24, 25-26, 27-28']`, live=`['Psalm 78:18-19']`, fix=`['Psalm 78:18-19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8f679ec
