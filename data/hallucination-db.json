@@ -52276,5 +52276,63 @@
       ]
     },
     "checked_at": "2026-05-04T19:20:49+00:00"
+  },
+  "2024-10-06:0": {
+    "date": "2024-10-06",
+    "url": "https://bible.usccb.org/bible/readings/100624.cfm",
+    "lectionary_number": 140,
+    "feast": "Twenty-seventh Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 128:1-2, 3, 4-5, 6"
+        ],
+        "live": [
+          "Ps 128:1-2"
+        ],
+        "fix": [
+          "Ps 128:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Jn 4:12"
+        ],
+        "fix": [
+          "1 Jn 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 128:1-2"
+      ],
+      "alleluia_verse": [
+        "1 Jn 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 2:18-24"
+      ],
+      "responsorial_psalm": [
+        "Ps 128:1-2"
+      ],
+      "second_reading": [
+        "Heb 2:9-11"
+      ],
+      "alleluia_verse": [
+        "1 Jn 4:12"
+      ],
+      "gospel": [
+        "Mk 10:2-16"
+      ]
+    },
+    "checked_at": "2026-05-04T19:25:58+00:00"
   }
 }

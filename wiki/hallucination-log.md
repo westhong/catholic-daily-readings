@@ -10286,3 +10286,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/091427.cfm
 - **Status**: ok
 - **Lectionary**: 638
+
+### ❌ 2024-10-06 — Twenty-seventh Sunday in Ordinary Time
+- **Checked**: 2026-05-04 19:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100624.cfm
+- **Status**: mismatch
+- **Lectionary**: 140
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5, 6']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 4:12']`, fix=`['1 Jn 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/650a1b7
