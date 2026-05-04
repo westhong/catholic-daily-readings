@@ -42102,5 +42102,51 @@
       ]
     },
     "checked_at": "2026-05-04T02:15:50+00:00"
+  },
+  "2023-01-17:0": {
+    "date": "2023-01-17",
+    "url": "https://bible.usccb.org/bible/readings/011723.cfm",
+    "lectionary_number": 312,
+    "feast": "Memorial of Saint Anthony, Abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "111:1-2, 4-5, 9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Eph 1:17-18"
+        ],
+        "fix": [
+          "See Eph 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 6:10-20"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ],
+      "gospel": [
+        "Mk 2:23-28"
+      ]
+    },
+    "checked_at": "2026-05-04T02:21:02+00:00"
   }
 }

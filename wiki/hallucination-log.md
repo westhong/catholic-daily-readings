@@ -8299,3 +8299,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 16:18']`, fix=`['Matthew 16:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a830b7
+
+### ❌ 2023-01-17 — Memorial of Saint Anthony, Abbot
+- **Checked**: 2026-05-04 02:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011723.cfm
+- **Status**: mismatch
+- **Lectionary**: 312
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['111:1-2, 4-5, 9']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f37b84b
