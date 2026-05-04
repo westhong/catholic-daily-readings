@@ -9260,3 +9260,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Is 42:1-4, 6-7']`, live=`['Is 42:1-4', 'Acts 10:34-38']`, fix=`['Is 42:1-4', 'Acts 10:34-38']`
   - **responsorial_psalm**: stored=`['Ps 29:1-2, 3-4, 3, 9-10']`, live=`['Ps 29:1-2']`, fix=`['Ps 29:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9d5807
+
+### ❌ 2025-08-28 — Memorial of Saint Augustine, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 10:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082825.cfm
+- **Status**: mismatch
+- **Lectionary**: 428
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e9b8e9d
