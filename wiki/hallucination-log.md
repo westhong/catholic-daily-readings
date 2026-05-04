@@ -8136,3 +8136,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['pS 33:4-5, 18-19, 20']`, live=`['pS 33:4-5']`, fix=`['pS 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40eb424
+
+### ❌ 2025-01-13 — Monday of the First Week in Ordinary Time
+- **Checked**: 2026-05-04 00:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011325.cfm
+- **Status**: mismatch
+- **Lectionary**: 305
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+  - **gospel**: stored=`['of God: “This is the time of fulfillment']`, live=`['Mark 1:14-20']`, fix=`['Mark 1:14-20']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ebe85e

@@ -10316,7 +10316,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 27:1-5, 15-29",
+            "citation": "Genesis 27:1-5",
             "sources": [
               "USCCB"
             ]
@@ -10345,8 +10345,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-06": [
