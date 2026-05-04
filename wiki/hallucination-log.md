@@ -9178,3 +9178,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
   - **gospel**: stored=`['Matthew 7:6, 12-14']`, live=`['Matthew 7:6']`, fix=`['Matthew 7:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c74d3d8
+
+### ❌ 2023-03-16 — Thursday of the Third Week of Lent
+- **Checked**: 2026-05-04 09:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031623.cfm
+- **Status**: mismatch
+- **Lectionary**: 240
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 95:1-2, 6-7, 8-9']`, live=`['Ps 95:1-2']`, fix=`['Ps 95:1-2']`
+  - **verse_before_gospel**: stored=`['Jl 2:12-13']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7ac7c25
