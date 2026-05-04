@@ -10630,3 +10630,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Eph 1:3-6, 11-12']`, live=`['Eph 1:3-6']`, fix=`['Eph 1:3-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:28']`, fix=`['See Lk 1:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94078c0
+
+### ❌ 2025-08-05 — Tuesday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 22:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080525.cfm
+- **Status**: mismatch
+- **Lectionary**: 408
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
+  - **gospel**: stored=`['Monday: Matthew 15:1-2, 10-14']`, live=`['Matthew 14:22-36', 'Matthew 15:1-2']`, fix=`['Matthew 14:22-36', 'Matthew 15:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/778a678
