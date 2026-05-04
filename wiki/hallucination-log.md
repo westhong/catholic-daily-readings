@@ -8126,3 +8126,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 16:1-5, 9-15']`, live=`['Exodus 16:1-5']`, fix=`['Exodus 16:1-5']`
   - **responsorial_psalm**: stored=`['Psalm 78:18-19, 23-24, 25-26, 27-28']`, live=`['Psalm 78:18-19']`, fix=`['Psalm 78:18-19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8f679ec
+
+### ❌ 2023-04-11 — Tuesday in the Octave of Easter
+- **Checked**: 2026-05-04 00:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041123.cfm
+- **Status**: mismatch
+- **Lectionary**: 262
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['pS 33:4-5, 18-19, 20']`, live=`['pS 33:4-5']`, fix=`['pS 33:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40eb424

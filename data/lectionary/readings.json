@@ -1993,7 +1993,7 @@
         ],
         "gospel": [
           {
-            "citation": "of God: “This is the time of fulfillment",
+            "citation": "Mark 1:14-20",
             "sources": [
               "USCCB"
             ]
@@ -2006,8 +2006,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-14": [
