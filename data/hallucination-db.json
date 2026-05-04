@@ -49443,5 +49443,60 @@
       ]
     },
     "checked_at": "2026-05-04T14:25:13+00:00"
+  },
+  "2023-11-22:0": {
+    "date": "2023-11-22",
+    "url": "https://bible.usccb.org/bible/readings/112223.cfm",
+    "lectionary_number": 499,
+    "feast": "Memorial of Saint Cecilia, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Mc 7:1, 20-31"
+        ],
+        "live": [
+          "2 Mc 7:1"
+        ],
+        "fix": [
+          "2 Mc 7:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Mc 7:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Mc 7:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 17:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Lk 19:11-28"
+      ]
+    },
+    "checked_at": "2026-05-04T14:30:26+00:00"
   }
 }

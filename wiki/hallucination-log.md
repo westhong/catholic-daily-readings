@@ -9721,3 +9721,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a60306e
+
+### ❌ 2023-11-22 — Memorial of Saint Cecilia, Virgin and Martyr
+- **Checked**: 2026-05-04 14:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112223.cfm
+- **Status**: mismatch
+- **Lectionary**: 499
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Mc 7:1, 20-31']`, live=`['2 Mc 7:1']`, fix=`['2 Mc 7:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7212ad0
