@@ -8843,3 +8843,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20ab']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/58f0f35
+
+### 🚫 2026-09-26 — 
+- **Checked**: 2026-05-04 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/926.cfm
+- **Status**: url_dead
+- **Lectionary**: 454
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/926.cfm`, live=fetch failed
