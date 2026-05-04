@@ -9250,3 +9250,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 107:23-24, 25-26, 28-29, 30-31']`, live=`['Psalm 107:23-24']`, fix=`['Psalm 107:23-24']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cdfd5c1
+
+### ❌ 2023-01-09 — The Baptism of the Lord
+- **Checked**: 2026-05-04 10:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010923.cfm
+- **Status**: mismatch
+- **Lectionary**: 21
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 42:1-4, 6-7']`, live=`['Is 42:1-4', 'Acts 10:34-38']`, fix=`['Is 42:1-4', 'Acts 10:34-38']`
+  - **responsorial_psalm**: stored=`['Ps 29:1-2, 3-4, 3, 9-10']`, live=`['Ps 29:1-2']`, fix=`['Ps 29:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9d5807

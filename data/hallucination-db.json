@@ -47074,5 +47074,63 @@
       ]
     },
     "checked_at": "2026-05-04T10:20:11+00:00"
+  },
+  "2023-01-09:0": {
+    "date": "2023-01-09",
+    "url": "https://bible.usccb.org/bible/readings/010923.cfm",
+    "lectionary_number": 21,
+    "feast": "The Baptism of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 42:1-4, 6-7"
+        ],
+        "live": [
+          "Is 42:1-4",
+          "Acts 10:34-38"
+        ],
+        "fix": [
+          "Is 42:1-4",
+          "Acts 10:34-38"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 29:1-2, 3-4, 3, 9-10"
+        ],
+        "live": [
+          "Ps 29:1-2"
+        ],
+        "fix": [
+          "Ps 29:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 42:1-4",
+        "Acts 10:34-38"
+      ],
+      "responsorial_psalm": [
+        "Ps 29:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 42:1-4",
+        "Acts 10:34-38"
+      ],
+      "responsorial_psalm": [
+        "Ps 29:1-2"
+      ],
+      "gospel": [
+        "Mt 3:13-17"
+      ]
+    },
+    "checked_at": "2026-05-04T10:25:25+00:00"
   }
 }
