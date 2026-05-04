@@ -53362,5 +53362,63 @@
       ]
     },
     "checked_at": "2026-05-04T21:05:16+00:00"
+  },
+  "2027-06-29:0": {
+    "date": "2027-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062927-Vigil.cfm",
+    "lectionary_number": 590,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles Vigil",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:2-3, 4-5"
+        ],
+        "live": [
+          "Psalm 19:2-3"
+        ],
+        "fix": [
+          "Psalm 19:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 21:17"
+        ],
+        "fix": [
+          "John 21:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ],
+      "alleluia_verse": [
+        "John 21:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 3:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ],
+      "second_reading": [
+        "Galatians 1:11-20"
+      ],
+      "alleluia_verse": [
+        "John 21:17"
+      ],
+      "gospel": [
+        "John 21:15-19"
+      ]
+    },
+    "checked_at": "2026-05-04T21:10:29+00:00"
   }
 }

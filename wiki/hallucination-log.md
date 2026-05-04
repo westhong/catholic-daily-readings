@@ -10493,3 +10493,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3bdecfa
+
+### ❌ 2027-06-29 — Solemnity of Saints Peter and Paul, Apostles Vigil
+- **Checked**: 2026-05-04 21:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062927-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 590
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 21:17']`, fix=`['John 21:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37bf794
