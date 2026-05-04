@@ -52540,7 +52540,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 24:7, 8, 9, 10",
+            "citation": "PS 24:7",
             "sources": [
               "USCCB"
             ]
@@ -52569,8 +52569,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 2:32",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-03": [
