@@ -8670,7 +8670,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 97:1-2, 6-7, 9",
+            "citation": "Psalm 97:1-2",
             "sources": [
               "USCCB"
             ]
@@ -8678,7 +8678,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Revelation 22:12-14, 16-17, 20",
+            "citation": "Revelation 22:12-14",
             "sources": [
               "USCCB"
             ]
@@ -8692,7 +8692,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-02": [

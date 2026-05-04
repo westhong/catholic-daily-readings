@@ -10169,3 +10169,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 7:51—8']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:35']`, fix=`['Jn 6:35']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7ab008
+
+### ❌ 2024-12-07 — Memorial of Saint Ambrose, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 18:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120724.cfm
+- **Status**: mismatch
+- **Lectionary**: 180
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 30:19-21, 23-26']`, live=`['Is 30:19-21']`, fix=`['Is 30:19-21']`
+  - **responsorial_psalm**: stored=`['Ps 147:1-2, 3-4, 5-6']`, live=`['Ps 147:1-2']`, fix=`['Ps 147:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 33:22']`, fix=`['Is 33:22']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:35–10']`, fix=`['Mt 9:35–10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c648d9
