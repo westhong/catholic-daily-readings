@@ -9498,3 +9498,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 421
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/819.cfm`, live=fetch failed
+
+### ❌ 2023-04-25 — Feast of Saint Mark, evangelist
+- **Checked**: 2026-05-04 12:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042523.cfm
+- **Status**: mismatch
+- **Lectionary**: 555
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 89:2-3, 6-7, 16-17']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Cor 1:23']`, fix=`['1 Cor 1:23']`
+  - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-20']`, fix=`['Mk 16:15-20']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a4c751

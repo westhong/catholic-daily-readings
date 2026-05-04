@@ -48270,5 +48270,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T12:30:32+00:00"
+  },
+  "2023-04-25:0": {
+    "date": "2023-04-25",
+    "url": "https://bible.usccb.org/bible/readings/042523.cfm",
+    "lectionary_number": 555,
+    "feast": "Feast of Saint Mark, evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 89:2-3, 6-7, 16-17"
+        ],
+        "live": [
+          "Ps 89:2-3"
+        ],
+        "fix": [
+          "Ps 89:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Cor 1:23"
+        ],
+        "fix": [
+          "1 Cor 1:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "to every creature. Whoever believes and"
+        ],
+        "live": [
+          "Mk 16:15-20"
+        ],
+        "fix": [
+          "Mk 16:15-20"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "alleluia_verse": [
+        "1 Cor 1:23"
+      ],
+      "gospel": [
+        "Mk 16:15-20"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 5:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "alleluia_verse": [
+        "1 Cor 1:23"
+      ],
+      "gospel": [
+        "Mk 16:15-20"
+      ]
+    },
+    "checked_at": "2026-05-04T12:35:53+00:00"
   }
 }

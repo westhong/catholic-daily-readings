@@ -43081,7 +43081,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:5-6, 7-8, 14, 23",
+            "citation": "Psalm 50:5-6",
             "sources": [
               "USCCB"
             ]
@@ -43089,7 +43089,7 @@
         ],
         "gospel": [
           {
-            "citation": "who will not receive a hundred times mor",
+            "citation": "Mark 10:28-31",
             "sources": [
               "USCCB"
             ]
@@ -43102,8 +43102,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-26": [
