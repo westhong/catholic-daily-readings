@@ -53420,5 +53420,45 @@
       ]
     },
     "checked_at": "2026-05-04T21:10:29+00:00"
+  },
+  "2025-09-20:0": {
+    "date": "2025-09-20",
+    "url": "https://bible.usccb.org/bible/readings/092025.cfm",
+    "lectionary_number": 448,
+    "feast": "Memorial of Saint Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 8:15"
+        ],
+        "fix": [
+          "See Luke 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 6:13-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1"
+      ],
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ],
+      "gospel": [
+        "Luke 8:4-15"
+      ]
+    },
+    "checked_at": "2026-05-04T21:15:41+00:00"
   }
 }
