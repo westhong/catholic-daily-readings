@@ -10576,3 +10576,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:6-7, 8-9, 10-11, 12-13']`, live=`['Psalm 103:6-7']`, fix=`['Psalm 103:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/36e0b48
+
+### ❌ 2027-10-16 — Saturday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 21:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101627.cfm
+- **Status**: mismatch
+- **Lectionary**: 472
+- **Mismatches**:
+  - **first_reading**: stored=`['Romans 4:13, 16-18']`, live=`['Romans 4:13']`, fix=`['Romans 4:13']`
+  - **responsorial_psalm**: stored=`['Psalm 105:6-7, 8-9, 42-43']`, live=`['Psalm 105:6-7']`, fix=`['Psalm 105:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/050bb61
