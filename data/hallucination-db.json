@@ -48614,5 +48614,60 @@
       ]
     },
     "checked_at": "2026-05-04T13:00:04+00:00"
+  },
+  "2024-08-29:0": {
+    "date": "2024-08-29",
+    "url": "https://bible.usccb.org/bible/readings/082924.cfm",
+    "lectionary_number": 428,
+    "feast": "Memorial of the Passion of Saint John the Baptist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 145:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "PS 145:2-3"
+        ],
+        "fix": [
+          "PS 145:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:10"
+        ],
+        "fix": [
+          "Mt 5:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 1:1-9"
+      ],
+      "responsorial_psalm": [
+        "PS 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:10"
+      ],
+      "gospel": [
+        "Mk 6:17-29"
+      ]
+    },
+    "checked_at": "2026-05-04T13:05:19+00:00"
   }
 }

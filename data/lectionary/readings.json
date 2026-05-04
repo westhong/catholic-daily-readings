@@ -615,7 +615,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Is 12:2-3, 4, 5-6",
+            "citation": "Is 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -644,8 +644,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Is 61:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-16": [
