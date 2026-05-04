@@ -10122,3 +10122,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 85:8']`, fix=`['Ps 85:8']`
   - **gospel**: stored=`['Lk 21:25-28, 34-36']`, live=`['Lk 21:25-28']`, fix=`['Lk 21:25-28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a47df62
+
+### ❌ 2023-08-01 — Memorial of Saint Alphonsus Liguori, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 18:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080123.cfm
+- **Status**: mismatch
+- **Lectionary**: 402
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 103:6-7, 8-9, 10-11, 12-13']`, live=`['Ps 103:6-7']`, fix=`['Ps 103:6-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2d24b57

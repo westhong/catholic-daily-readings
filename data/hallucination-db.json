@@ -51414,5 +51414,44 @@
       ]
     },
     "checked_at": "2026-05-04T17:55:56+00:00"
+  },
+  "2023-08-01:0": {
+    "date": "2023-08-01",
+    "url": "https://bible.usccb.org/bible/readings/080123.cfm",
+    "lectionary_number": 402,
+    "feast": "Memorial of Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:6-7, 8-9, 10-11, 12-13"
+        ],
+        "live": [
+          "Ps 103:6-7"
+        ],
+        "fix": [
+          "Ps 103:6-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 103:6-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 33:7-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:6-7"
+      ],
+      "gospel": [
+        "Mt 13:36-43"
+      ]
+    },
+    "checked_at": "2026-05-04T18:00:09+00:00"
   }
 }

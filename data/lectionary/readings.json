@@ -74757,7 +74757,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 15:1-12, 17-18",
+            "citation": "Gn 15:1-12",
             "sources": [
               "USCCB"
             ]
@@ -74765,7 +74765,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 105:1-2, 3-4, 6-7, 8-9",
+            "citation": "Ps 105:1-2",
             "sources": [
               "USCCB"
             ]
@@ -74786,8 +74786,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-29": [
