@@ -51326,5 +51326,93 @@
       ]
     },
     "checked_at": "2026-05-04T17:50:42+00:00"
+  },
+  "2024-12-01:0": {
+    "date": "2024-12-01",
+    "url": "https://bible.usccb.org/bible/readings/120124.cfm",
+    "lectionary_number": 3,
+    "feast": "First Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 25:4-5, 8-9, 10, 14"
+        ],
+        "live": [
+          "Ps 25:4-5"
+        ],
+        "fix": [
+          "Ps 25:4-5"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Thes 3:12—4"
+        ],
+        "live": [
+          "1 Thes 3:12"
+        ],
+        "fix": [
+          "1 Thes 3:12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 85:8"
+        ],
+        "fix": [
+          "Ps 85:8"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Lk 21:25-28, 34-36"
+        ],
+        "live": [
+          "Lk 21:25-28"
+        ],
+        "fix": [
+          "Lk 21:25-28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "second_reading": [
+        "1 Thes 3:12"
+      ],
+      "alleluia_verse": [
+        "Ps 85:8"
+      ],
+      "gospel": [
+        "Lk 21:25-28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 33:14-16"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "second_reading": [
+        "1 Thes 3:12"
+      ],
+      "alleluia_verse": [
+        "Ps 85:8"
+      ],
+      "gospel": [
+        "Lk 21:25-28"
+      ]
+    },
+    "checked_at": "2026-05-04T17:55:56+00:00"
   }
 }

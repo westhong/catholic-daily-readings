@@ -10110,3 +10110,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 37:3-4, 18-19, 27-28, 39-40']`, live=`['Ps 37:3-4']`, fix=`['Ps 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:13']`, fix=`['Jn 16:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/558ea6d
+
+### ❌ 2024-12-01 — First Sunday of Advent
+- **Checked**: 2026-05-04 17:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120124.cfm
+- **Status**: mismatch
+- **Lectionary**: 3
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 25:4-5, 8-9, 10, 14']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
+  - **second_reading**: stored=`['1 Thes 3:12—4']`, live=`['1 Thes 3:12']`, fix=`['1 Thes 3:12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 85:8']`, fix=`['Ps 85:8']`
+  - **gospel**: stored=`['Lk 21:25-28, 34-36']`, live=`['Lk 21:25-28']`, fix=`['Lk 21:25-28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a47df62
