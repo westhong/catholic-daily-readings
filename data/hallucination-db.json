@@ -52917,5 +52917,44 @@
       ]
     },
     "checked_at": "2026-05-04T20:20:19+00:00"
+  },
+  "2025-09-08:0": {
+    "date": "2025-09-08",
+    "url": "https://bible.usccb.org/bible/readings/090825.cfm",
+    "lectionary_number": 636,
+    "feast": "Feast of the Nativity of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 1:1-16, 18-23"
+        ],
+        "live": [
+          "Matthew 1:1-16"
+        ],
+        "fix": [
+          "Matthew 1:1-16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "gospel": [
+        "Matthew 1:1-16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Micah 5:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 13:6"
+      ],
+      "gospel": [
+        "Matthew 1:1-16"
+      ]
+    },
+    "checked_at": "2026-05-04T20:25:31+00:00"
   }
 }

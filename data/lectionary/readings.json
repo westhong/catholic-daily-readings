@@ -66094,17 +66094,10 @@
       "feast": "Thursday of the Thirty-second Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "PHMN 7-20 Beloved: I have experienced mu",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "PS 146:7, 8-9",
+            "citation": "PS 146:7",
             "sources": [
               "USCCB"
             ]
@@ -66125,8 +66118,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 15:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-15": [

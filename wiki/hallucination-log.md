@@ -10405,3 +10405,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3, 3-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a19960
+
+### ❌ 2025-09-08 — Feast of the Nativity of the Blessed Virgin Mary
+- **Checked**: 2026-05-04 20:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090825.cfm
+- **Status**: mismatch
+- **Lectionary**: 636
+- **Mismatches**:
+  - **gospel**: stored=`['Matthew 1:1-16, 18-23']`, live=`['Matthew 1:1-16']`, fix=`['Matthew 1:1-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c39b85
