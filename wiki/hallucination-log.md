@@ -9757,3 +9757,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 15:2-3, 3-4, 5']`, live=`['Psalm 15:2-3']`, fix=`['Psalm 15:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3df2df3
+
+### ❌ 2024-09-18 — Wednesday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 14:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091824.cfm
+- **Status**: mismatch
+- **Lectionary**: 445
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:2-3, 4-5, 12']`, live=`['Ps 33:2-3']`, fix=`['Ps 33:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:63']`, fix=`['See Jn 6:63']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b19e53e

@@ -17532,7 +17532,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:68, 69, 70, 71, 72, 73, 74",
+            "citation": "Daniel 3:68",
             "sources": [
               "USCCB"
             ]
@@ -17545,11 +17545,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/112725-Thurs.cfm",
       "date": "2025-11-27",
-      "mass": "Thurs"
+      "mass": "Thurs",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 943,
