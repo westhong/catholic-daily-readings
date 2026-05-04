@@ -10384,3 +10384,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:8-9, 10-11, 12-13']`, live=`['Psalm 34:8-9']`, fix=`['Psalm 34:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b476345
+
+### ❌ 2023-10-29 — Thirtieth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 20:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102923.cfm
+- **Status**: mismatch
+- **Lectionary**: 148
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 18:2-3, 3-4, 47, 51']`, live=`['Ps 18:2-3']`, fix=`['Ps 18:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf13ffa
