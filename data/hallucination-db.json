@@ -46953,5 +46953,53 @@
       ]
     },
     "checked_at": "2026-05-04T10:10:45+00:00"
+  },
+  "2023-02-25:0": {
+    "date": "2023-02-25",
+    "url": "https://bible.usccb.org/bible/readings/022523.cfm",
+    "lectionary_number": 222,
+    "feast": "Saturday after Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 86:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 86:1-2"
+        ],
+        "fix": [
+          "Ps 86:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ez 33:11"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 86:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 58:9"
+      ],
+      "responsorial_psalm": [
+        "Ps 86:1-2"
+      ],
+      "gospel": [
+        "Lk 5:27-32"
+      ]
+    },
+    "checked_at": "2026-05-04T10:15:59+00:00"
   }
 }

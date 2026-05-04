@@ -44092,7 +44092,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Job 38:1, 8-11",
+            "citation": "Job 38:1",
             "sources": [
               "USCCB"
             ]
@@ -44100,7 +44100,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 107:23-24, 25-26, 28-29, 30-31",
+            "citation": "Psalm 107:23-24",
             "sources": [
               "USCCB"
             ]
@@ -44121,8 +44121,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-21": [
