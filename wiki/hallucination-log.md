@@ -8769,3 +8769,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 446
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/917.cfm`, live=fetch failed
+
+### ❌ 2026-04-09 — Thursday in the Octave of Easter
+- **Checked**: 2026-05-04 06:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040926.cfm
+- **Status**: mismatch
+- **Lectionary**: 264
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 8:2ab and 5, 6-7, 8-9']`, live=`['Psalm 8:2']`, fix=`['Psalm 8:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+  - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1ed216
