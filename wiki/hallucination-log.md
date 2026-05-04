@@ -8695,3 +8695,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 431
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/831.cfm`, live=fetch failed
+
+### ❌ 2025-07-06 — Fourteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 05:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070625.cfm
+- **Status**: mismatch
+- **Lectionary**: 102
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 66:1-3, 4-5, 6-7, 16, 20']`, live=`['Psalm 66:1-3']`, fix=`['Psalm 66:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:15']`, fix=`['Colossians 3:15']`
+  - **gospel**: stored=`['Luke 10:1-12, 17-20']`, live=`['Luke 10:1-12']`, fix=`['Luke 10:1-12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0a2e3bf

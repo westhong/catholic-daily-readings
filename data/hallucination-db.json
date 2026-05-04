@@ -44223,5 +44223,78 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T05:35:11+00:00"
+  },
+  "2025-07-06:0": {
+    "date": "2025-07-06",
+    "url": "https://bible.usccb.org/bible/readings/070625.cfm",
+    "lectionary_number": 102,
+    "feast": "Fourteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 66:1-3, 4-5, 6-7, 16, 20"
+        ],
+        "live": [
+          "Psalm 66:1-3"
+        ],
+        "fix": [
+          "Psalm 66:1-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Colossians 3:15"
+        ],
+        "fix": [
+          "Colossians 3:15"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 10:1-12, 17-20"
+        ],
+        "live": [
+          "Luke 10:1-12"
+        ],
+        "fix": [
+          "Luke 10:1-12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 66:1-3"
+      ],
+      "alleluia_verse": [
+        "Colossians 3:15"
+      ],
+      "gospel": [
+        "Luke 10:1-12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 66:10-14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 66:1-3"
+      ],
+      "second_reading": [
+        "Galatians 6:14-18"
+      ],
+      "alleluia_verse": [
+        "Colossians 3:15"
+      ],
+      "gospel": [
+        "Luke 10:1-12"
+      ]
+    },
+    "checked_at": "2026-05-04T05:40:31+00:00"
   }
 }
