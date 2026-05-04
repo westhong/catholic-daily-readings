@@ -63882,7 +63882,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "ECCL 11:9—12",
+            "citation": "ECCL 11:9",
             "sources": [
               "USCCB"
             ]
@@ -63890,7 +63890,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 90:3-4, 5-6, 12-13, 14",
+            "citation": "PS 90:3-4",
             "sources": [
               "USCCB"
             ]
@@ -63911,8 +63911,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 TIMOTHY 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-29": [

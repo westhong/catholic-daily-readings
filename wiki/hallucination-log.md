@@ -10598,3 +10598,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 7:1-2, 10, 25-30']`, live=`['John 7:1-2']`, fix=`['John 7:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2891bec
+
+### ❌ 2023-10-10 — Tuesday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 22:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101023.cfm
+- **Status**: mismatch
+- **Lectionary**: 462
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5abb2a0

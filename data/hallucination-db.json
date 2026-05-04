@@ -53879,5 +53879,45 @@
       ]
     },
     "checked_at": "2026-05-04T21:55:32+00:00"
+  },
+  "2023-10-10:0": {
+    "date": "2023-10-10",
+    "url": "https://bible.usccb.org/bible/readings/101023.cfm",
+    "lectionary_number": 462,
+    "feast": "Tuesday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 11:28"
+        ],
+        "fix": [
+          "Lk 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Lk 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jon 3:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 130:1"
+      ],
+      "alleluia_verse": [
+        "Lk 11:28"
+      ],
+      "gospel": [
+        "Lk 10:38-42"
+      ]
+    },
+    "checked_at": "2026-05-04T22:00:45+00:00"
   }
 }
