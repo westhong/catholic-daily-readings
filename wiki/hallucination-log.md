@@ -8687,3 +8687,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 50:8-9, 16']`, live=`['Ps 50:8-9']`, fix=`['Ps 50:8-9']`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3fc60d1
+
+### 🚫 2026-08-31 — 
+- **Checked**: 2026-05-04 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/831.cfm
+- **Status**: url_dead
+- **Lectionary**: 431
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/831.cfm`, live=fetch failed
