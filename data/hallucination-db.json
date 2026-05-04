@@ -43555,5 +43555,60 @@
       ]
     },
     "checked_at": "2026-05-04T04:30:22+00:00"
+  },
+  "2025-02-28:0": {
+    "date": "2025-02-28",
+    "url": "https://bible.usccb.org/bible/readings/022825.cfm",
+    "lectionary_number": 345,
+    "feast": "Friday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:12, 16, 18, 27, 34, 35"
+        ],
+        "live": [
+          "Psalm 119:12"
+        ],
+        "fix": [
+          "Psalm 119:12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 17:17"
+        ],
+        "fix": [
+          "John 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:12"
+      ],
+      "alleluia_verse": [
+        "John 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 6:5-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:12"
+      ],
+      "alleluia_verse": [
+        "John 17:17"
+      ],
+      "gospel": [
+        "Mark 10:1-12"
+      ]
+    },
+    "checked_at": "2026-05-04T04:35:33+00:00"
   }
 }

@@ -18484,7 +18484,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Malachi 3:1-4, 23-24",
+            "citation": "Malachi 3:1-4",
             "sources": [
               "USCCB"
             ]
@@ -18506,7 +18506,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-24": [
