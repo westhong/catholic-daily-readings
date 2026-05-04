@@ -8717,3 +8717,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['see mt 11:25']`, fix=`['see mt 11:25']`
   - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mk 10:28-31']`, fix=`['Mk 10:28-31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3c1b74
+
+### 🚫 2026-12-05 — 
+- **Checked**: 2026-05-04 05:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261205.cfm
+- **Status**: url_dead
+- **Lectionary**: 180
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261205.cfm`, live=fetch failed

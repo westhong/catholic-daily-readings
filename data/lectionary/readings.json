@@ -79260,7 +79260,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Phil 4:12-14, 19-20",
+            "citation": "Phil 4:12-14",
             "sources": [
               "USCCB"
             ]
@@ -79282,7 +79282,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-16": [
