@@ -9010,3 +9010,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 298
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/052323.cfm`, live=fetch failed
+
+### ❌ 2027-02-14 — First Sunday of Lent
+- **Checked**: 2026-05-04 08:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021427.cfm
+- **Status**: mismatch
+- **Lectionary**: 23
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 25:4-5, 6-7, 8-9']`, live=`['Psalm 25:4-5']`, fix=`['Psalm 25:4-5']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c9d4a01

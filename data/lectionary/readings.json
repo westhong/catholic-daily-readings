@@ -56013,14 +56013,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "2:6-7, 8-9, 10-11",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 14:1-6",
@@ -56036,8 +56029,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-27": [
