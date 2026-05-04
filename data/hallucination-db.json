@@ -53105,5 +53105,78 @@
       ]
     },
     "checked_at": "2026-05-04T20:40:09+00:00"
+  },
+  "2023-12-10:0": {
+    "date": "2023-12-10",
+    "url": "https://bible.usccb.org/bible/readings/121023.cfm",
+    "lectionary_number": 5,
+    "feast": "Second Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "IS 40:1-5, 9-11"
+        ],
+        "live": [
+          "IS 40:1-5"
+        ],
+        "fix": [
+          "IS 40:1-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 85:9-10-11-12, 13-14"
+        ],
+        "live": [
+          "PS 85:9-10"
+        ],
+        "fix": [
+          "PS 85:9-10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 3:4"
+        ],
+        "fix": [
+          "LK 3:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "IS 40:1-5"
+      ],
+      "responsorial_psalm": [
+        "PS 85:9-10"
+      ],
+      "alleluia_verse": [
+        "LK 3:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "IS 40:1-5"
+      ],
+      "responsorial_psalm": [
+        "PS 85:9-10"
+      ],
+      "second_reading": [
+        "2 PT 3:8-14"
+      ],
+      "alleluia_verse": [
+        "LK 3:4"
+      ],
+      "gospel": [
+        "MK 1:1-8"
+      ]
+    },
+    "checked_at": "2026-05-04T20:45:22+00:00"
   }
 }

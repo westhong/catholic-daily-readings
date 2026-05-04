@@ -10444,3 +10444,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/294244b
+
+### ❌ 2023-12-10 — Second Sunday of Advent
+- **Checked**: 2026-05-04 20:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121023.cfm
+- **Status**: mismatch
+- **Lectionary**: 5
+- **Mismatches**:
+  - **first_reading**: stored=`['IS 40:1-5, 9-11']`, live=`['IS 40:1-5']`, fix=`['IS 40:1-5']`
+  - **responsorial_psalm**: stored=`['PS 85:9-10-11-12, 13-14']`, live=`['PS 85:9-10']`, fix=`['PS 85:9-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 3:4']`, fix=`['LK 3:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/77bb5df

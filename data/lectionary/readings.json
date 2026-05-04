@@ -72776,7 +72776,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 57:8-9, 10",
+            "citation": "Ps 57:8-9",
             "sources": [
               "USCCB"
             ]
@@ -72797,8 +72797,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-05-13": [
