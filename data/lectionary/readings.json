@@ -65518,17 +65518,10 @@
       "feast": "Friday of the Thirty-second Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "2 JN 4-9 [Chosen Lady:] I rejoiced great",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:1, 2, 10, 11, 17, 18",
+            "citation": "PS 119:1",
             "sources": [
               "USCCB"
             ]
@@ -65549,8 +65542,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "LK 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-16": [
