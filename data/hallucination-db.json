@@ -43500,5 +43500,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T04:25:08+00:00"
+  },
+  "2024-08-31:0": {
+    "date": "2024-08-31",
+    "url": "https://bible.usccb.org/bible/readings/083124.cfm",
+    "lectionary_number": 430,
+    "feast": "Saturday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:12-13, 18-19, 20-21"
+        ],
+        "live": [
+          "Ps 33:12-13"
+        ],
+        "fix": [
+          "Ps 33:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 1:26-31"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 25:14-30"
+      ]
+    },
+    "checked_at": "2026-05-04T04:30:22+00:00"
   }
 }

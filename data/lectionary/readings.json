@@ -4177,7 +4177,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:12, 16, 18, 27, 34, 35",
+            "citation": "Psalm 119:12",
             "sources": [
               "USCCB"
             ]
@@ -4198,8 +4198,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 17:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-01": [

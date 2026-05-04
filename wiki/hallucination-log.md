@@ -8559,3 +8559,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 476
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1022.cfm`, live=fetch failed
+
+### ❌ 2024-08-31 — Saturday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-04 04:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083124.cfm
+- **Status**: mismatch
+- **Lectionary**: 430
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:12-13, 18-19, 20-21']`, live=`['Ps 33:12-13']`, fix=`['Ps 33:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4987dbc
