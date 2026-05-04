@@ -9480,3 +9480,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Isaiah 33:22']`, fix=`['Isaiah 33:22']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 9:35–10']`, fix=`['Matthew 9:35–10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f3eba7
+
+### ❌ 2025-02-13 — Thursday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-04 12:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021325.cfm
+- **Status**: mismatch
+- **Lectionary**: 332
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9d6d356
