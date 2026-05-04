@@ -10465,3 +10465,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 57:8-9, 10']`, live=`['Ps 57:8-9']`, fix=`['Ps 57:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:15']`, fix=`['Jn 15:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0e896a9
+
+### 🚫 2026-09-25 — 
+- **Checked**: 2026-05-04 20:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/925.cfm
+- **Status**: url_dead
+- **Lectionary**: 453
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/925.cfm`, live=fetch failed
