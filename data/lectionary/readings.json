@@ -71551,7 +71551,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 89:2-3, 6-7, 16-17",
+            "citation": "Ps 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -71559,7 +71559,7 @@
         ],
         "gospel": [
           {
-            "citation": "to every creature. Whoever believes and",
+            "citation": "Mk 16:15-20",
             "sources": [
               "USCCB"
             ]
@@ -71572,8 +71572,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Cor 1:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-26": [

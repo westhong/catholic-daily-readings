@@ -9490,3 +9490,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9d6d356
+
+### 🚫 2026-08-19 — 
+- **Checked**: 2026-05-04 12:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/819.cfm
+- **Status**: url_dead
+- **Lectionary**: 421
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/819.cfm`, live=fetch failed
