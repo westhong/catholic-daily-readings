@@ -9787,3 +9787,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf35eda
+
+### ❌ 2026-01-02 — Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church
+- **Checked**: 2026-05-04 15:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010226.cfm
+- **Status**: mismatch
+- **Lectionary**: 205
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/924c93c
