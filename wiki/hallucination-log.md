@@ -9060,3 +9060,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/83f8abc
+
+### ❌ 2023-01-24 — Memorial of Saint Francis de Sales, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012423.cfm
+- **Status**: mismatch
+- **Lectionary**: 318
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:25']`, fix=`['Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1ab57ce

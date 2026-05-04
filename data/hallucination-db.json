@@ -46128,5 +46128,45 @@
       ]
     },
     "checked_at": "2026-05-04T08:40:24+00:00"
+  },
+  "2023-01-24:0": {
+    "date": "2023-01-24",
+    "url": "https://bible.usccb.org/bible/readings/012423.cfm",
+    "lectionary_number": 318,
+    "feast": "Memorial of Saint Francis de Sales, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:25"
+        ],
+        "fix": [
+          "Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 10:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 40:2"
+      ],
+      "alleluia_verse": [
+        "Mt 11:25"
+      ],
+      "gospel": [
+        "Mk 3:31-35"
+      ]
+    },
+    "checked_at": "2026-05-04T08:45:38+00:00"
   }
 }
