@@ -8453,3 +8453,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Eph 4:1-7, 11-13']`, live=`['Eph 4:1-7']`, fix=`['Eph 4:1-7']`
   - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/901a71f
+
+### 🚫 2026-09-03 — 
+- **Checked**: 2026-05-04 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/903.cfm
+- **Status**: url_dead
+- **Lectionary**: 434
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/903.cfm`, live=fetch failed

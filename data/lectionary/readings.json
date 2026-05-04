@@ -76681,7 +76681,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ru 1:1, 3-6, 14",
+            "citation": "Ru 1:1",
             "sources": [
               "USCCB"
             ]
@@ -76710,8 +76710,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 25:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-26": [
