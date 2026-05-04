@@ -9391,3 +9391,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0e9f6b0
+
+### ❌ 2024-01-12 — Friday of the First Week in Ordinary Time
+- **Checked**: 2026-05-04 11:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011224.cfm
+- **Status**: mismatch
+- **Lectionary**: 309
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Sm 8:4-7, 10-22']`, live=`['1 Sm 8:4-7']`, fix=`['1 Sm 8:4-7']`
+  - **responsorial_psalm**: stored=`['89:16-17, 18-19']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/83459eb

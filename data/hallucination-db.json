@@ -47744,5 +47744,66 @@
       ]
     },
     "checked_at": "2026-05-04T11:35:58+00:00"
+  },
+  "2024-01-12:0": {
+    "date": "2024-01-12",
+    "url": "https://bible.usccb.org/bible/readings/011224.cfm",
+    "lectionary_number": 309,
+    "feast": "Friday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Sm 8:4-7, 10-22"
+        ],
+        "live": [
+          "1 Sm 8:4-7"
+        ],
+        "fix": [
+          "1 Sm 8:4-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "89:16-17, 18-19"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Sm 8:4-7"
+      ],
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 8:4-7"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mk 2:1-12"
+      ]
+    },
+    "checked_at": "2026-05-04T11:40:12+00:00"
   }
 }
