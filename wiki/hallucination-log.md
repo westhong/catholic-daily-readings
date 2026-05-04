@@ -8734,3 +8734,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **second_reading**: stored=`['Phil 4:12-14, 19-20']`, live=`['Phil 4:12-14']`, fix=`['Phil 4:12-14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cc89fbd
+
+### 🚫 2026-12-13 — 
+- **Checked**: 2026-05-04 06:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261213.cfm
+- **Status**: url_dead
+- **Lectionary**: 8
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261213.cfm`, live=fetch failed

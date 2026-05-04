@@ -44427,5 +44427,24 @@
       ]
     },
     "checked_at": "2026-05-04T05:55:17+00:00"
+  },
+  "2026-12-13:0": {
+    "date": "2026-12-13",
+    "url": "https://bible.usccb.org/bible/readings/261213.cfm",
+    "lectionary_number": 8,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261213.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T06:00:29+00:00"
   }
 }
