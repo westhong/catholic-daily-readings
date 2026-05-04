@@ -52389,5 +52389,75 @@
       ]
     },
     "checked_at": "2026-05-04T19:30:10+00:00"
+  },
+  "2024-09-13:0": {
+    "date": "2024-09-13",
+    "url": "https://bible.usccb.org/bible/readings/091324.cfm",
+    "lectionary_number": 441,
+    "feast": "Memorial of Saint John Chrysostom, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 COR 9:16-19, 22"
+        ],
+        "live": [
+          "1 COR 9:16-19"
+        ],
+        "fix": [
+          "1 COR 9:16-19"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 84:3, 4, 5-6, 12"
+        ],
+        "live": [
+          "PS 84:3"
+        ],
+        "fix": [
+          "PS 84:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 17:17"
+        ],
+        "fix": [
+          "See Jn 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 COR 9:16-19"
+      ],
+      "responsorial_psalm": [
+        "PS 84:3"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 9:16-19"
+      ],
+      "responsorial_psalm": [
+        "PS 84:3"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ],
+      "gospel": [
+        "Lk 6:39-42"
+      ]
+    },
+    "checked_at": "2026-05-04T19:35:23+00:00"
   }
 }

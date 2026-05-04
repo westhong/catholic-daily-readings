@@ -10306,3 +10306,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:4-5, 18-19, 20']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1ff151a
+
+### ❌ 2024-09-13 — Memorial of Saint John Chrysostom, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 19:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091324.cfm
+- **Status**: mismatch
+- **Lectionary**: 441
+- **Mismatches**:
+  - **first_reading**: stored=`['1 COR 9:16-19, 22']`, live=`['1 COR 9:16-19']`, fix=`['1 COR 9:16-19']`
+  - **responsorial_psalm**: stored=`['PS 84:3, 4, 5-6, 12']`, live=`['PS 84:3']`, fix=`['PS 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4928473
