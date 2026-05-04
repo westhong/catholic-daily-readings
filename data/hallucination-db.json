@@ -46088,5 +46088,45 @@
       ]
     },
     "checked_at": "2026-05-04T08:35:07+00:00"
+  },
+  "2024-04-11:0": {
+    "date": "2024-04-11",
+    "url": "https://bible.usccb.org/bible/readings/041124.cfm",
+    "lectionary_number": 270,
+    "feast": "Memorial of Saint Stanislaus, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 20:29"
+        ],
+        "fix": [
+          "Jn 20:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 20:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:27-33"
+      ],
+      "responsorial_psalm": [
+        "PS 34:2"
+      ],
+      "alleluia_verse": [
+        "Jn 20:29"
+      ],
+      "gospel": [
+        "Jn 3:31-36"
+      ]
+    },
+    "checked_at": "2026-05-04T08:40:24+00:00"
   }
 }

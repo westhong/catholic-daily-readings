@@ -9051,3 +9051,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 13-14, 17-18']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b992817
+
+### ❌ 2024-04-11 — Memorial of Saint Stanislaus, Bishop and Martyr
+- **Checked**: 2026-05-04 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041124.cfm
+- **Status**: mismatch
+- **Lectionary**: 270
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/83f8abc
