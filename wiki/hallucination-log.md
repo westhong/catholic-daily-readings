@@ -9625,3 +9625,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 11:4, 5']`, live=`['Ps 11:4']`, fix=`['Ps 11:4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:7']`, fix=`['Jn 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e55c76c
+
+### ❌ 2027-03-08 — Monday of the Fourth Week of Lent
+- **Checked**: 2026-05-04 13:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030827.cfm
+- **Status**: mismatch
+- **Lectionary**: 244
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e0c85c
