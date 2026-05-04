@@ -9990,3 +9990,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 147:12-13, 14-15, 19-20']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['SEE Mk 9:6']`, fix=`['SEE Mk 9:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2a71cd
+
+### ❌ 2027-04-27 — Tuesday of Fifth Week of Easter
+- **Checked**: 2026-05-04 16:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042727.cfm
+- **Status**: mismatch
+- **Lectionary**: 286
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/617f579
