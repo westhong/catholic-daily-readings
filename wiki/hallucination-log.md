@@ -8461,3 +8461,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 434
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/903.cfm`, live=fetch failed
+
+### ❌ 2023-08-25 — Friday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082523.cfm
+- **Status**: mismatch
+- **Lectionary**: 423
+- **Mismatches**:
+  - **first_reading**: stored=`['Ru 1:1, 3-6, 14']`, live=`['Ru 1:1']`, fix=`['Ru 1:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/444cf96
