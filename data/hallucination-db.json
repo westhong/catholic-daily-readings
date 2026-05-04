@@ -53017,5 +53017,45 @@
       ]
     },
     "checked_at": "2026-05-04T20:30:43+00:00"
+  },
+  "2024-02-13:0": {
+    "date": "2024-02-13",
+    "url": "https://bible.usccb.org/bible/readings/021324.cfm",
+    "lectionary_number": 336,
+    "feast": "Tuesday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 1:12-18"
+      ],
+      "responsorial_psalm": [
+        "Ps 94:12-13"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Mk 8:14-21"
+      ]
+    },
+    "checked_at": "2026-05-04T20:35:57+00:00"
   }
 }
