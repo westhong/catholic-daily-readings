@@ -8630,3 +8630,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 103:21']`, fix=`['Ps 103:21']`
   - **gospel**: stored=`['Mt 18:1-5, 10']`, live=`['Mt 18:1-5']`, fix=`['Mt 18:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/064501b
+
+### ❌ 2023-09-29 — Feast of Saints Michael, Gabriel, and Raphael, archangels
+- **Checked**: 2026-05-04 05:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092923.cfm
+- **Status**: mismatch
+- **Lectionary**: 647
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 7:9-10, 13-14']`, live=`['Dn 7:9-10']`, fix=`['Dn 7:9-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 103:21']`, fix=`['Ps 103:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/99017c4

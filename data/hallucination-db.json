@@ -43905,5 +43905,60 @@
       ]
     },
     "checked_at": "2026-05-04T05:00:36+00:00"
+  },
+  "2023-09-29:0": {
+    "date": "2023-09-29",
+    "url": "https://bible.usccb.org/bible/readings/092923.cfm",
+    "lectionary_number": 647,
+    "feast": "Feast of Saints Michael, Gabriel, and Raphael, archangels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dn 7:9-10, 13-14"
+        ],
+        "live": [
+          "Dn 7:9-10"
+        ],
+        "fix": [
+          "Dn 7:9-10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 103:21"
+        ],
+        "fix": [
+          "Ps 103:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dn 7:9-10"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 7:9-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 138:1-2"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ],
+      "gospel": [
+        "Jn 1:47-51"
+      ]
+    },
+    "checked_at": "2026-05-04T05:05:50+00:00"
   }
 }
