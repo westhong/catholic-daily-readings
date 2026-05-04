@@ -8650,3 +8650,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 4:12-17']`, fix=`['Matthew 4:12-17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2142272
+
+### ❌ 2024-04-08 — Solemnity of the Annunciation of the Lord
+- **Checked**: 2026-05-04 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040824.cfm
+- **Status**: mismatch
+- **Lectionary**: 545
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['40:7-8']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:14']`, fix=`['Jn 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/92b569a
+
+### ✅ 2023-01-20 — Friday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-04 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012023.cfm
+- **Status**: ok
+- **Lectionary**: 315

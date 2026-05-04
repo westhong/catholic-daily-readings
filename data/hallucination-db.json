@@ -44015,5 +44015,76 @@
       ]
     },
     "checked_at": "2026-05-04T05:11:04+00:00"
+  },
+  "2024-04-08:0": {
+    "date": "2024-04-08",
+    "url": "https://bible.usccb.org/bible/readings/040824.cfm",
+    "lectionary_number": 545,
+    "feast": "Solemnity of the Annunciation of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "40:7-8"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 1:14"
+        ],
+        "fix": [
+          "Jn 1:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 1:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 7:10-14"
+      ],
+      "second_reading": [
+        "Heb 10:4-10"
+      ],
+      "alleluia_verse": [
+        "Jn 1:14"
+      ],
+      "gospel": [
+        "Lk 1:26-38"
+      ]
+    },
+    "checked_at": "2026-05-04T05:15:17+00:00"
+  },
+  "2023-01-20:0": {
+    "date": "2023-01-20",
+    "url": "https://bible.usccb.org/bible/readings/012023.cfm",
+    "lectionary_number": 315,
+    "feast": "Friday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {
+      "first_reading": [
+        "Heb 8:6-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 85:8"
+      ],
+      "gospel": [
+        "Mk 3:13-19"
+      ]
+    },
+    "checked_at": "2026-05-04T05:20:32+00:00"
   }
 }
