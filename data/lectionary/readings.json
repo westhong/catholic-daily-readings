@@ -75559,13 +75559,22 @@
         ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Mt 9:32-38",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:14",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-12": [

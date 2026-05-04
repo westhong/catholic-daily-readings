@@ -10537,3 +10537,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a55f6b
+
+### ❌ 2027-04-25 — Fifth Sunday of Easter
+- **Checked**: 2026-05-04 21:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042527.cfm
+- **Status**: mismatch
+- **Lectionary**: 53
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 22:26-27, 28, 30, 31-32']`, live=`['Psalm 22:26-27']`, fix=`['Psalm 22:26-27']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbcc70e

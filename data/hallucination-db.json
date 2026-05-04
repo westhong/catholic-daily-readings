@@ -53538,5 +53538,63 @@
       ]
     },
     "checked_at": "2026-05-04T21:25:18+00:00"
+  },
+  "2027-04-25:0": {
+    "date": "2027-04-25",
+    "url": "https://bible.usccb.org/bible/readings/042527.cfm",
+    "lectionary_number": 53,
+    "feast": "Fifth Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 22:26-27, 28, 30, 31-32"
+        ],
+        "live": [
+          "Psalm 22:26-27"
+        ],
+        "fix": [
+          "Psalm 22:26-27"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:4"
+        ],
+        "fix": [
+          "John 15:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 22:26-27"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:26-31"
+      ],
+      "responsorial_psalm": [
+        "Psalm 22:26-27"
+      ],
+      "second_reading": [
+        "1 John 3:18-24"
+      ],
+      "alleluia_verse": [
+        "John 15:4"
+      ],
+      "gospel": [
+        "John 15:1-8"
+      ]
+    },
+    "checked_at": "2026-05-04T21:30:30+00:00"
   }
 }
