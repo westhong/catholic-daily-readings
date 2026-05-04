@@ -52956,5 +52956,66 @@
       ]
     },
     "checked_at": "2026-05-04T20:25:31+00:00"
+  },
+  "2024-11-14:0": {
+    "date": "2024-11-14",
+    "url": "https://bible.usccb.org/bible/readings/111424.cfm",
+    "lectionary_number": 494,
+    "feast": "Thursday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "PHMN 7-20 Beloved: I have experienced mu"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 146:7, 8-9"
+        ],
+        "live": [
+          "PS 146:7"
+        ],
+        "fix": [
+          "PS 146:7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 15:5"
+        ],
+        "fix": [
+          "JN 15:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "PS 146:7"
+      ],
+      "alleluia_verse": [
+        "JN 15:5"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "PS 146:7"
+      ],
+      "alleluia_verse": [
+        "JN 15:5"
+      ],
+      "gospel": [
+        "LK 17:20-25"
+      ]
+    },
+    "checked_at": "2026-05-04T20:30:43+00:00"
   }
 }

@@ -10414,3 +10414,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **gospel**: stored=`['Matthew 1:1-16, 18-23']`, live=`['Matthew 1:1-16']`, fix=`['Matthew 1:1-16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c39b85
+
+### ❌ 2024-11-14 — Thursday of the Thirty-second Week in Ordinary Time
+- **Checked**: 2026-05-04 20:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111424.cfm
+- **Status**: mismatch
+- **Lectionary**: 494
+- **Mismatches**:
+  - **first_reading**: stored=`['PHMN 7-20 Beloved: I have experienced mu']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['PS 146:7, 8-9']`, live=`['PS 146:7']`, fix=`['PS 146:7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 15:5']`, fix=`['JN 15:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1a2e0b
