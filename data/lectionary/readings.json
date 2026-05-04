@@ -39313,11 +39313,17 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Exodus 20:1-3",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:8, 9, 10, 11",
+            "citation": "Psalm 19:8",
             "sources": [
               "USCCB"
             ]
@@ -39342,7 +39348,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/022827-YearB.cfm",
       "date": "2027-02-28",
-      "mass": "YearB"
+      "mass": "YearB",
+      "mass_idx": 1
     }
   ],
   "2027-03-01": [
