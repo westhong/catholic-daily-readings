@@ -10798,3 +10798,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 146:2, 5-6']`, live=`['Ps 146:2']`, fix=`['Ps 146:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc05326
+
+### ❌ 2025-06-29 — Solemnity of Saints Peter and Paul, Apostles Mass during the Day
+- **Checked**: 2026-05-04 23:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062925-Mass.cfm
+- **Status**: mismatch
+- **Lectionary**: 591
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **second_reading**: stored=`['2 Timothy 4:6-8, 17-18']`, live=`['2 Timothy 4:6-8']`, fix=`['2 Timothy 4:6-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 16:18']`, fix=`['Matthew 16:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e22fbf

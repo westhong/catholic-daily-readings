@@ -55008,5 +55008,78 @@
       ]
     },
     "checked_at": "2026-05-04T23:35:32+00:00"
+  },
+  "2025-06-29:1": {
+    "date": "2025-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062925-Mass.cfm",
+    "lectionary_number": 591,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles Mass during the Day",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 34:2-3"
+        ],
+        "fix": [
+          "Psalm 34:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Timothy 4:6-8, 17-18"
+        ],
+        "live": [
+          "2 Timothy 4:6-8"
+        ],
+        "fix": [
+          "2 Timothy 4:6-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 16:18"
+        ],
+        "fix": [
+          "Matthew 16:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "2 Timothy 4:6-8"
+      ],
+      "alleluia_verse": [
+        "Matthew 16:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 12:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "second_reading": [
+        "2 Timothy 4:6-8"
+      ],
+      "alleluia_verse": [
+        "Matthew 16:18"
+      ],
+      "gospel": [
+        "Matthew 16:13-19"
+      ]
+    },
+    "checked_at": "2026-05-04T23:40:45+00:00"
   }
 }
