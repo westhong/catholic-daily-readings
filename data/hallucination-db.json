@@ -43777,5 +43777,63 @@
       ]
     },
     "checked_at": "2026-05-04T04:50:11+00:00"
+  },
+  "2025-07-27:0": {
+    "date": "2025-07-27",
+    "url": "https://bible.usccb.org/bible/readings/072725.cfm",
+    "lectionary_number": 111,
+    "feast": "Seventeenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 138:1-2, 2-3, 6-7, 7-8"
+        ],
+        "live": [
+          "Psalm 138:1-2"
+        ],
+        "fix": [
+          "Psalm 138:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Romans 8:15"
+        ],
+        "fix": [
+          "Romans 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 138:1-2"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 18:20-32"
+      ],
+      "responsorial_psalm": [
+        "Psalm 138:1-2"
+      ],
+      "second_reading": [
+        "Colossians 2:12-14"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ],
+      "gospel": [
+        "Luke 11:1-13"
+      ]
+    },
+    "checked_at": "2026-05-04T04:55:24+00:00"
   }
 }

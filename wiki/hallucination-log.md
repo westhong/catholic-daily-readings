@@ -8609,3 +8609,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 69:30-31, 33-34, 36']`, live=`['Psalm 69:30-31']`, fix=`['Psalm 69:30-31']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/08c208f
+
+### ❌ 2025-07-27 — Seventeenth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 04:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072725.cfm
+- **Status**: mismatch
+- **Lectionary**: 111
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 138:1-2, 2-3, 6-7, 7-8']`, live=`['Psalm 138:1-2']`, fix=`['Psalm 138:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65a870b

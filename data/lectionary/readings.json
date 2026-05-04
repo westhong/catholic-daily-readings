@@ -78597,7 +78597,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 102:16-18, 19-21, 29",
+            "citation": "Ps 102:16-18",
             "sources": [
               "USCCB"
             ]
@@ -78605,7 +78605,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 18:1-5, 10",
+            "citation": "Mt 18:1-5",
             "sources": [
               "USCCB"
             ]
@@ -78618,8 +78618,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 103:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-03": [
