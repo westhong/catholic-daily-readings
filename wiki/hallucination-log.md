@@ -10778,3 +10778,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Samuel 17:32-33, 37, 40-51']`, live=`['1 Samuel 17:32-33']`, fix=`['1 Samuel 17:32-33']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a47de19
+
+### ❌ 2026-04-28 — Tuesday of the Fourth Week of Easter
+- **Checked**: 2026-05-04 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042826.cfm
+- **Status**: mismatch
+- **Lectionary**: 281
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 87:1b-3, 4-5, 6-7']`, live=`['Psalm 87:1']`, fix=`['Psalm 87:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/275f686

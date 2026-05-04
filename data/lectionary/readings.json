@@ -74746,7 +74746,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 146:2, 5-6",
+            "citation": "Ps 146:2",
             "sources": [
               "USCCB"
             ]
@@ -74767,8 +74767,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-21": [
