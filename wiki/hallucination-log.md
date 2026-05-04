@@ -10270,3 +10270,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6, 8-9']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
   - **gospel**: stored=`['John 20:1-2, 11-18']`, live=`['John 20:1-2']`, fix=`['John 20:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e6fa50c
+
+### ❌ 2025-01-04 — Memorial of Saint Elizabeth Ann Seton, Religious
+- **Checked**: 2026-05-04 19:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010425.cfm
+- **Status**: mismatch
+- **Lectionary**: 207
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 7-8, 9']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3023997
+
+### ✅ 2027-09-14 — Feast of the Exaltation of the Holy Cross
+- **Checked**: 2026-05-04 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091427.cfm
+- **Status**: ok
+- **Lectionary**: 638
