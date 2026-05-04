@@ -8280,3 +8280,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 69:8-10, 21-22, 31']`, live=`['Psalm 69:8-10']`, fix=`['Psalm 69:8-10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1504071
+
+### ❌ 2024-05-07 — Tuesday of the Sixth Week of Easter
+- **Checked**: 2026-05-04 02:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050724.cfm
+- **Status**: mismatch
+- **Lectionary**: 292
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 16:7']`, fix=`['See Jn 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a4cb432

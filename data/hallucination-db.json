@@ -42007,5 +42007,45 @@
       ]
     },
     "checked_at": "2026-05-04T02:05:30+00:00"
+  },
+  "2024-05-07:0": {
+    "date": "2024-05-07",
+    "url": "https://bible.usccb.org/bible/readings/050724.cfm",
+    "lectionary_number": 292,
+    "feast": "Tuesday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 16:7"
+        ],
+        "fix": [
+          "See Jn 16:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Jn 16:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:22-34"
+      ],
+      "responsorial_psalm": [
+        "Ps 138:1-2"
+      ],
+      "alleluia_verse": [
+        "See Jn 16:7"
+      ],
+      "gospel": [
+        "Jn 16:5-11"
+      ]
+    },
+    "checked_at": "2026-05-04T02:10:40+00:00"
   }
 }

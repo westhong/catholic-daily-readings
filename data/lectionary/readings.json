@@ -45787,7 +45787,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 6-7, 8-9",
+            "citation": "Psalm 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -45800,8 +45800,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 16:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-06": [
