@@ -10597,7 +10597,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 44:18-21, 23",
+            "citation": "Genesis 44:18-21",
             "sources": [
               "USCCB"
             ]
@@ -10605,7 +10605,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:16-17, 18-19, 20-21",
+            "citation": "Psalm 105:16-17",
             "sources": [
               "USCCB"
             ]
@@ -10626,8 +10626,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-11": [

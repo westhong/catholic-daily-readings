@@ -8422,3 +8422,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9dff4
+
+### ❌ 2027-07-02 — Friday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070227.cfm
+- **Status**: mismatch
+- **Lectionary**: 381
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 23:1-4, 19']`, live=`['Genesis 23:1-4']`, fix=`['Genesis 23:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/911f4c4
