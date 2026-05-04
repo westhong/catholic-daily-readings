@@ -10259,3 +10259,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 377
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/063026.cfm`, live=fetch failed
+
+### ❌ 2025-07-22 — Feast of Saint Mary Magdalene
+- **Checked**: 2026-05-04 19:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072225.cfm
+- **Status**: mismatch
+- **Lectionary**: 603
+- **Mismatches**:
+  - **first_reading**: stored=`['of Songs 3:1-4']`, live=`['Song of Songs 3:1-4']`, fix=`['Song of Songs 3:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6, 8-9']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
+  - **gospel**: stored=`['John 20:1-2, 11-18']`, live=`['John 20:1-2']`, fix=`['John 20:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e6fa50c
