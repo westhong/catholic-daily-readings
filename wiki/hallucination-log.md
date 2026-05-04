@@ -9970,3 +9970,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Esther C:12, 14-16, 23-25 Queen Esther,']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/885feb0
+
+### ❌ 2023-04-15 — Saturday in the Octave of Easter
+- **Checked**: 2026-05-04 16:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041523.cfm
+- **Status**: mismatch
+- **Lectionary**: 266
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+  - **gospel**: stored=`['to every creature." LISTEN PODCAST VIEW']`, live=`['Mk 16:9-15']`, fix=`['Mk 16:9-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/236f5c9

@@ -50649,5 +50649,60 @@
       ]
     },
     "checked_at": "2026-05-04T16:35:26+00:00"
+  },
+  "2023-04-15:0": {
+    "date": "2023-04-15",
+    "url": "https://bible.usccb.org/bible/readings/041523.cfm",
+    "lectionary_number": 266,
+    "feast": "Saturday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 118:24"
+        ],
+        "fix": [
+          "Ps 118:24"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "to every creature.\" LISTEN PODCAST VIEW"
+        ],
+        "live": [
+          "Mk 16:9-15"
+        ],
+        "fix": [
+          "Mk 16:9-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 118:24"
+      ],
+      "gospel": [
+        "Mk 16:9-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:13-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 118:1"
+      ],
+      "alleluia_verse": [
+        "Ps 118:24"
+      ],
+      "gospel": [
+        "Mk 16:9-15"
+      ]
+    },
+    "checked_at": "2026-05-04T16:40:38+00:00"
   }
 }

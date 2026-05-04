@@ -66929,14 +66929,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "PS 147:12-13, 14-15, 19-20",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "M 1:7-11",
@@ -66952,8 +66945,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "SEE Mk 9:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-07": [
