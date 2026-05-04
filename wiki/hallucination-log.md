@@ -8061,3 +8061,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cd86e46
+
+### 🚫 2026-07-05 — Fourteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 00:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/75.cfm
+- **Status**: url_dead
+- **Lectionary**: 100
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/75.cfm`, live=fetch failed

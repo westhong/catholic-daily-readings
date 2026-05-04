@@ -40910,5 +40910,24 @@
       ]
     },
     "checked_at": "2026-05-04T00:10:54+00:00"
+  },
+  "2026-07-05:0": {
+    "date": "2026-07-05",
+    "url": "https://bible.usccb.org/bible/readings/75.cfm",
+    "lectionary_number": 100,
+    "feast": "Fourteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/75.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T00:15:05+00:00"
   }
 }

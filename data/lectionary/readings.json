@@ -13877,7 +13877,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 111:1-2, 3-4, 5-6",
+            "citation": "Psalm 111:1-2",
             "sources": [
               "USCCB"
             ]
@@ -13898,8 +13898,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 6:63",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-18": [
