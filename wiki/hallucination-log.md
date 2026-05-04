@@ -9540,3 +9540,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 3:1-6, 9-12']`, live=`['Exodus 3:1-6']`, fix=`['Exodus 3:1-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeb9474
+
+### ❌ 2023-09-01 — Friday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-04 12:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090123.cfm
+- **Status**: mismatch
+- **Lectionary**: 429
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fa643f9

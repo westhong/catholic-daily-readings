@@ -48520,5 +48520,45 @@
       ]
     },
     "checked_at": "2026-05-04T12:50:35+00:00"
+  },
+  "2023-09-01:0": {
+    "date": "2023-09-01",
+    "url": "https://bible.usccb.org/bible/readings/090123.cfm",
+    "lectionary_number": 429,
+    "feast": "Friday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 21:36"
+        ],
+        "fix": [
+          "Lk 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Lk 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thes 4:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 97:1"
+      ],
+      "alleluia_verse": [
+        "Lk 21:36"
+      ],
+      "gospel": [
+        "Mt 25:1-13"
+      ]
+    },
+    "checked_at": "2026-05-04T12:55:51+00:00"
   }
 }
