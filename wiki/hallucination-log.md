@@ -9083,3 +9083,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/120424.cfm
 - **Status**: ok
 - **Lectionary**: 177
+
+### ❌ 2026-05-05 — Tuesday of the Fifth Week of Easter
+- **Checked**: 2026-05-04 09:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050526.cfm
+- **Status**: mismatch
+- **Lectionary**: 286
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13ab, 21']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
+  - **gospel**: stored=`['John 14:27-31a']`, live=`['John 14:27-31']`, fix=`['John 14:27-31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/59c6c94
