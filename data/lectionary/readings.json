@@ -48653,7 +48653,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 128:1-2, 3, 4-5, 6",
+            "citation": "Psalm 128:1-2",
             "sources": [
               "USCCB"
             ]
@@ -48674,8 +48674,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 John 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-04": [
