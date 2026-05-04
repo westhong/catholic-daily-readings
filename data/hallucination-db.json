@@ -45963,5 +45963,60 @@
       ]
     },
     "checked_at": "2026-05-04T08:25:38+00:00"
+  },
+  "2023-08-28:0": {
+    "date": "2023-08-28",
+    "url": "https://bible.usccb.org/bible/readings/082823.cfm",
+    "lectionary_number": 425,
+    "feast": "Memorial of Saint Augustine, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Thes 1:1-5, 8"
+        ],
+        "live": [
+          "1 Thes 1:1-5"
+        ],
+        "fix": [
+          "1 Thes 1:1-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Thes 1:1-5"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thes 1:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 149:1"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mt 23:13-22"
+      ]
+    },
+    "checked_at": "2026-05-04T08:30:54+00:00"
   }
 }
