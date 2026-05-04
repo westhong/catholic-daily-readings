@@ -8800,3 +8800,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 2-3, 3-4, 5-6']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **gospel**: stored=`['Jn 1:1-18']`, live=`['Jn 1:1-18', 'Jn 1:1-5']`, fix=`['Jn 1:1-18', 'Jn 1:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0fea185
+
+### ❌ 2024-03-12 — Tuesday of the Fourth Week of Lent
+- **Checked**: 2026-05-04 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031224.cfm
+- **Status**: mismatch
+- **Lectionary**: 245
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 47:1-9, 12']`, live=`['Ez 47:1-9']`, fix=`['Ez 47:1-9']`
+  - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
+  - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/80f3ada
