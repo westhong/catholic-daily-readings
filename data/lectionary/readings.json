@@ -57970,7 +57970,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 111:1-2, 5-6, 9",
+            "citation": "Ps 111:1-2",
             "sources": [
               "USCCB"
             ]
@@ -57991,8 +57991,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Cor 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-28": [

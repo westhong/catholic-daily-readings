@@ -54206,5 +54206,51 @@
       ]
     },
     "checked_at": "2026-05-04T22:20:37+00:00"
+  },
+  "2023-01-30:0": {
+    "date": "2023-01-30",
+    "url": "https://bible.usccb.org/bible/readings/013023.cfm",
+    "lectionary_number": 323,
+    "feast": "Monday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 31:20, 21, 22, 23, 24"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 11:32-40"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mk 5:1-20"
+      ]
+    },
+    "checked_at": "2026-05-04T22:25:49+00:00"
   }
 }

@@ -10651,3 +10651,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 11-12']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ac54d38
+
+### ❌ 2023-01-30 — Monday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 22:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013023.cfm
+- **Status**: mismatch
+- **Lectionary**: 323
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 31:20, 21, 22, 23, 24']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e3ea731
