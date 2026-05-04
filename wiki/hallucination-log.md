@@ -10566,3 +10566,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a2bebb
+
+### ❌ 2025-07-29 — Memorial of Saints Martha, Mary, and Lazarus
+- **Checked**: 2026-05-04 21:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072925.cfm
+- **Status**: mismatch
+- **Lectionary**: 402
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103:6-7, 8-9, 10-11, 12-13']`, live=`['Psalm 103:6-7']`, fix=`['Psalm 103:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/36e0b48

@@ -53691,5 +53691,60 @@
       ]
     },
     "checked_at": "2026-05-04T21:40:55+00:00"
+  },
+  "2025-07-29:0": {
+    "date": "2025-07-29",
+    "url": "https://bible.usccb.org/bible/readings/072925.cfm",
+    "lectionary_number": 402,
+    "feast": "Memorial of Saints Martha, Mary, and Lazarus",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:6-7, 8-9, 10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 103:6-7"
+        ],
+        "fix": [
+          "Psalm 103:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:6-7"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 33:7-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:6-7"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "John 11:19-27"
+      ]
+    },
+    "checked_at": "2026-05-04T21:45:06+00:00"
   }
 }
