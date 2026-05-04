@@ -45190,5 +45190,66 @@
       ]
     },
     "checked_at": "2026-05-04T07:10:52+00:00"
+  },
+  "2024-11-15:0": {
+    "date": "2024-11-15",
+    "url": "https://bible.usccb.org/bible/readings/111524.cfm",
+    "lectionary_number": 495,
+    "feast": "Friday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 JN 4-9 [Chosen Lady:] I rejoiced great"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:1, 2, 10, 11, 17, 18"
+        ],
+        "live": [
+          "PS 119:1"
+        ],
+        "fix": [
+          "PS 119:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 21:28"
+        ],
+        "fix": [
+          "LK 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "PS 119:1"
+      ],
+      "alleluia_verse": [
+        "LK 21:28"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "PS 119:1"
+      ],
+      "alleluia_verse": [
+        "LK 21:28"
+      ],
+      "gospel": [
+        "LK 17:26-37"
+      ]
+    },
+    "checked_at": "2026-05-04T07:15:06+00:00"
   }
 }

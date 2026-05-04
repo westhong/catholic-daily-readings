@@ -8881,3 +8881,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 24:7, 8, 9, 10']`, live=`['PS 24:7']`, fix=`['PS 24:7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:32']`, fix=`['Lk 2:32']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4fa62fc
+
+### ❌ 2024-11-15 — Friday of the Thirty-second Week in Ordinary Time
+- **Checked**: 2026-05-04 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111524.cfm
+- **Status**: mismatch
+- **Lectionary**: 495
+- **Mismatches**:
+  - **first_reading**: stored=`['2 JN 4-9 [Chosen Lady:] I rejoiced great']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['PS 119:1, 2, 10, 11, 17, 18']`, live=`['PS 119:1']`, fix=`['PS 119:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 21:28']`, fix=`['LK 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/67af260
