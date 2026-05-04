@@ -50977,5 +50977,24 @@
       ]
     },
     "checked_at": "2026-05-04T17:11:01+00:00"
+  },
+  "2026-12-20:0": {
+    "date": "2026-12-20",
+    "url": "https://bible.usccb.org/bible/readings/261220.cfm",
+    "lectionary_number": 11,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261220.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T17:15:12+00:00"
   }
 }
