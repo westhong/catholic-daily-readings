@@ -66755,14 +66755,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "111:1-2, 4-5, 9",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 2:23-28",
@@ -66778,8 +66771,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Eph 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-18": [

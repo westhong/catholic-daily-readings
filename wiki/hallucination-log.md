@@ -8289,3 +8289,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 16:7']`, fix=`['See Jn 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a4cb432
+
+### ❌ 2027-08-05 — Thursday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 02:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080527.cfm
+- **Status**: mismatch
+- **Lectionary**: 410
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 16:18']`, fix=`['Matthew 16:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a830b7
