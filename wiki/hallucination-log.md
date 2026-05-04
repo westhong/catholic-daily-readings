@@ -9509,3 +9509,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Cor 1:23']`, fix=`['1 Cor 1:23']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mk 16:15-20']`, fix=`['Mk 16:15-20']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a4c751
+
+### ❌ 2027-05-25 — Tuesday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 12:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052527.cfm
+- **Status**: mismatch
+- **Lectionary**: 348
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 50:5-6, 7-8, 14, 23']`, live=`['Psalm 50:5-6']`, fix=`['Psalm 50:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
+  - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mark 10:28-31']`, fix=`['Mark 10:28-31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9c9054

@@ -48340,5 +48340,75 @@
       ]
     },
     "checked_at": "2026-05-04T12:35:53+00:00"
+  },
+  "2027-05-25:0": {
+    "date": "2027-05-25",
+    "url": "https://bible.usccb.org/bible/readings/052527.cfm",
+    "lectionary_number": 348,
+    "feast": "Tuesday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 50:5-6, 7-8, 14, 23"
+        ],
+        "live": [
+          "Psalm 50:5-6"
+        ],
+        "fix": [
+          "Psalm 50:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:25"
+        ],
+        "fix": [
+          "Matthew 11:25"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "who will not receive a hundred times mor"
+        ],
+        "live": [
+          "Mark 10:28-31"
+        ],
+        "fix": [
+          "Mark 10:28-31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 50:5-6"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 10:28-31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 35:1-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:5-6"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 10:28-31"
+      ]
+    },
+    "checked_at": "2026-05-04T12:40:07+00:00"
   }
 }

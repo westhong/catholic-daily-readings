@@ -81149,7 +81149,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 82:3-4, 6-7",
+            "citation": "Ps 82:3-4",
             "sources": [
               "USCCB"
             ]
@@ -81170,8 +81170,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Thes 5:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-16": [
