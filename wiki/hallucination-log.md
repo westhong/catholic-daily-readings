@@ -9569,3 +9569,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 145:2-3, 4-5, 6-7']`, live=`['PS 145:2-3']`, fix=`['PS 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:10']`, fix=`['Mt 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25baecd
+
+### ❌ 2024-12-15 — Third Sunday of Advent
+- **Checked**: 2026-05-04 13:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121524.cfm
+- **Status**: mismatch
+- **Lectionary**: 9
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Is 12:2-3, 4, 5-6']`, live=`['Is 12:2-3']`, fix=`['Is 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 61:1']`, fix=`['Is 61:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae0218b

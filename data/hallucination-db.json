@@ -48669,5 +48669,63 @@
       ]
     },
     "checked_at": "2026-05-04T13:05:19+00:00"
+  },
+  "2024-12-15:0": {
+    "date": "2024-12-15",
+    "url": "https://bible.usccb.org/bible/readings/121524.cfm",
+    "lectionary_number": 9,
+    "feast": "Third Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Is 12:2-3, 4, 5-6"
+        ],
+        "live": [
+          "Is 12:2-3"
+        ],
+        "fix": [
+          "Is 12:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Is 61:1"
+        ],
+        "fix": [
+          "Is 61:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Is 12:2-3"
+      ],
+      "alleluia_verse": [
+        "Is 61:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zep 3:14-18"
+      ],
+      "responsorial_psalm": [
+        "Is 12:2-3"
+      ],
+      "second_reading": [
+        "Phil 4:4-7"
+      ],
+      "alleluia_verse": [
+        "Is 61:1"
+      ],
+      "gospel": [
+        "Lk 3:10-18"
+      ]
+    },
+    "checked_at": "2026-05-04T13:10:32+00:00"
   }
 }
