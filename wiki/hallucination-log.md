@@ -8471,3 +8471,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ru 1:1, 3-6, 14']`, live=`['Ru 1:1']`, fix=`['Ru 1:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/444cf96
+
+### ❌ 2023-06-10 — Saturday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061023.cfm
+- **Status**: mismatch
+- **Lectionary**: 358
+- **Mismatches**:
+  - **first_reading**: stored=`['Tb 12:1, 5-15, 20']`, live=`['Tb 12:1']`, fix=`['Tb 12:1']`
+  - **responsorial_psalm**: stored=`['Tobit 13:2, 6']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f561728
