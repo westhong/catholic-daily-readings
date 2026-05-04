@@ -70444,14 +70444,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "130:1-2, 3-4, 5-6, 7-8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Rom 8:8-11",
@@ -70466,17 +70459,17 @@
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "verse_before_gospel": [
+          },
           {
-            "citation": "Jn 11:25a, 26",
+            "citation": "Jn 11:3-7",
             "sources": [
               "USCCB"
             ]
           }
-        ]
-      }
+        ],
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-27": [
