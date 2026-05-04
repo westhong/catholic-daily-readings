@@ -53919,5 +53919,75 @@
       ]
     },
     "checked_at": "2026-05-04T22:00:45+00:00"
+  },
+  "2024-09-28:0": {
+    "date": "2024-09-28",
+    "url": "https://bible.usccb.org/bible/readings/092824.cfm",
+    "lectionary_number": 454,
+    "feast": "Saturday of the Twenty-Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "ECCL 11:9—12"
+        ],
+        "live": [
+          "ECCL 11:9"
+        ],
+        "fix": [
+          "ECCL 11:9"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 90:3-4, 5-6, 12-13, 14"
+        ],
+        "live": [
+          "PS 90:3-4"
+        ],
+        "fix": [
+          "PS 90:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 TIMOTHY 1:10"
+        ],
+        "fix": [
+          "2 TIMOTHY 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "ECCL 11:9"
+      ],
+      "responsorial_psalm": [
+        "PS 90:3-4"
+      ],
+      "alleluia_verse": [
+        "2 TIMOTHY 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "ECCL 11:9"
+      ],
+      "responsorial_psalm": [
+        "PS 90:3-4"
+      ],
+      "alleluia_verse": [
+        "2 TIMOTHY 1:10"
+      ],
+      "gospel": [
+        "LK 9:43"
+      ]
+    },
+    "checked_at": "2026-05-04T22:05:58+00:00"
   }
 }

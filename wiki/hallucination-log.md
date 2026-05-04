@@ -10607,3 +10607,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5abb2a0
+
+### ❌ 2024-09-28 — Saturday of the Twenty-Fifth Week in Ordinary Time
+- **Checked**: 2026-05-04 22:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092824.cfm
+- **Status**: mismatch
+- **Lectionary**: 454
+- **Mismatches**:
+  - **first_reading**: stored=`['ECCL 11:9—12']`, live=`['ECCL 11:9']`, fix=`['ECCL 11:9']`
+  - **responsorial_psalm**: stored=`['PS 90:3-4, 5-6, 12-13, 14']`, live=`['PS 90:3-4']`, fix=`['PS 90:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 TIMOTHY 1:10']`, fix=`['2 TIMOTHY 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae9230c
