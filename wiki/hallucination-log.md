@@ -9196,3 +9196,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 380
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/72.cfm`, live=fetch failed
+
+### ❌ 2023-03-21 — Tuesday of the Fourth Week of Lent
+- **Checked**: 2026-05-04 10:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032123.cfm
+- **Status**: mismatch
+- **Lectionary**: 245
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 47:1-9, 12']`, live=`['Ez 47:1-9']`, fix=`['Ez 47:1-9']`
+  - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
+  - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8972dd
