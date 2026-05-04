@@ -10271,7 +10271,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2-3, 4-5, 6-7, 8-9",
+            "citation": "Psalm 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -10279,7 +10279,7 @@
         ],
         "second_reading": [
           {
-            "citation": "2 Timothy 4:6-8, 17-18",
+            "citation": "2 Timothy 4:6-8",
             "sources": [
               "USCCB"
             ]
@@ -10292,11 +10292,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 16:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/062925-Mass.cfm",
       "date": "2025-06-29",
-      "mass": "Mass"
+      "mass": "Mass",
+      "mass_idx": 1
     }
   ],
   "2025-06-30": [
