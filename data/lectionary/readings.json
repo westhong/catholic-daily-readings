@@ -49820,7 +49820,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 18:2-3, 3-4, 47, 51",
+            "citation": "Psalm 18:2-3",
             "sources": [
               "USCCB"
             ]
@@ -49841,8 +49841,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-01": [

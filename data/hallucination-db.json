@@ -50845,5 +50845,24 @@
       ]
     },
     "checked_at": "2026-05-04T16:55:19+00:00"
+  },
+  "2026-04-05:0": {
+    "date": "2026-04-05",
+    "url": "https://bible.usccb.org/bible/readings/040526.cfm",
+    "lectionary_number": 42,
+    "feast": "Easter Sunday",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/040526.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T17:00:31+00:00"
   }
 }

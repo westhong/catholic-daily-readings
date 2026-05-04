@@ -10009,3 +10009,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/68ed829
+
+### 🚫 2026-04-05 — Easter Sunday
+- **Checked**: 2026-05-04 17:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040526.cfm
+- **Status**: url_dead
+- **Lectionary**: 42
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/040526.cfm`, live=fetch failed
