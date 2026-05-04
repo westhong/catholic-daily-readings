@@ -9428,3 +9428,16 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 11-12']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4514708
+
+### ❌ 2025-08-31 — Twenty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-04 12:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083125.cfm
+- **Status**: mismatch
+- **Lectionary**: 126
+- **Mismatches**:
+  - **first_reading**: stored=`['Sirach 3:17-18, 20, 28-29']`, live=`['Sirach 3:17-18']`, fix=`['Sirach 3:17-18']`
+  - **responsorial_psalm**: stored=`['Psalm 68:4-5, 6-7, 10-11']`, live=`['Psalm 68:4-5']`, fix=`['Psalm 68:4-5']`
+  - **second_reading**: stored=`['Hebrews 12:18-19, 22-24']`, live=`['Hebrews 12:18-19']`, fix=`['Hebrews 12:18-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
+  - **gospel**: stored=`['Luke 14:1, 7-14']`, live=`['Luke 14:1']`, fix=`['Luke 14:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/112764a
