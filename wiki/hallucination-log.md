@@ -9921,3 +9921,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:165, 168, 171, 172, 174, 175']`, live=`['Psalm 119:165']`, fix=`['Psalm 119:165']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97e87fe
+
+### ❌ 2023-05-22 — Monday of the Seventh Week of Easter
+- **Checked**: 2026-05-04 16:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052223.cfm
+- **Status**: mismatch
+- **Lectionary**: 297
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b0aa2a

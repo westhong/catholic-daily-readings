@@ -50412,5 +50412,45 @@
       ]
     },
     "checked_at": "2026-05-04T16:10:24+00:00"
+  },
+  "2023-05-22:0": {
+    "date": "2023-05-22",
+    "url": "https://bible.usccb.org/bible/readings/052223.cfm",
+    "lectionary_number": 297,
+    "feast": "Monday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Col 3:1"
+        ],
+        "fix": [
+          "Col 3:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Col 3:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 19:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 68:2-3"
+      ],
+      "alleluia_verse": [
+        "Col 3:1"
+      ],
+      "gospel": [
+        "Jn 16:29-33"
+      ]
+    },
+    "checked_at": "2026-05-04T16:15:37+00:00"
   }
 }
