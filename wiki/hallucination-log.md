@@ -10017,3 +10017,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 42
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/040526.cfm`, live=fetch failed
+
+### ❌ 2027-10-31 — Thirty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-04 17:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103127.cfm
+- **Status**: mismatch
+- **Lectionary**: 152
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 18:2-3, 3-4, 47, 51']`, live=`['Psalm 18:2-3']`, fix=`['Psalm 18:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/631180e

@@ -74640,7 +74640,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:12-13, 18-19, 20",
+            "citation": "Ps 33:12-13",
             "sources": [
               "USCCB"
             ]
@@ -74661,8 +74661,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Heb 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-27": [
