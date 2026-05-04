@@ -10365,3 +10365,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 66:8-9, 16-17, 20']`, live=`['Ps 66:8-9']`, fix=`['Ps 66:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1fa585d
+
+### ❌ 2023-10-30 — Monday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-04 20:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103023.cfm
+- **Status**: mismatch
+- **Lectionary**: 479
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 17:17']`, fix=`['Jn 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/312e53f

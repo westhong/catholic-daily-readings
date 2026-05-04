@@ -52691,5 +52691,45 @@
       ]
     },
     "checked_at": "2026-05-04T20:00:29+00:00"
+  },
+  "2023-10-30:0": {
+    "date": "2023-10-30",
+    "url": "https://bible.usccb.org/bible/readings/103023.cfm",
+    "lectionary_number": 479,
+    "feast": "Monday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 17:17"
+        ],
+        "fix": [
+          "Jn 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 8:12-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 68:2"
+      ],
+      "alleluia_verse": [
+        "Jn 17:17"
+      ],
+      "gospel": [
+        "Lk 13:10-17"
+      ]
+    },
+    "checked_at": "2026-05-04T20:05:41+00:00"
   }
 }
