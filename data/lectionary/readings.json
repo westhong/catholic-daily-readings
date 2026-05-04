@@ -51704,20 +51704,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Sm 8:4-7, 10-22",
+            "citation": "1 Sm 8:4-7",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "89:16-17, 18-19",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 2:1-12",
@@ -51733,8 +51726,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-13": [
