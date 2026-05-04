@@ -8666,3 +8666,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/012023.cfm
 - **Status**: ok
 - **Lectionary**: 315
+
+### ❌ 2027-07-23 — Friday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 05:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072327.cfm
+- **Status**: mismatch
+- **Lectionary**: 399
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 11']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96e9458

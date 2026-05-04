@@ -69153,7 +69153,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 1:10, 16-20",
+            "citation": "Is 1:10",
             "sources": [
               "USCCB"
             ]
@@ -69161,7 +69161,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 50:8-9, 16",
+            "citation": "Ps 50:8-9",
             "sources": [
               "USCCB"
             ]
@@ -69175,15 +69175,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ez 18:31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-08": [

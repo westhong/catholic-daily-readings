@@ -44086,5 +44086,60 @@
       ]
     },
     "checked_at": "2026-05-04T05:20:32+00:00"
+  },
+  "2027-07-23:0": {
+    "date": "2027-07-23",
+    "url": "https://bible.usccb.org/bible/readings/072327.cfm",
+    "lectionary_number": 399,
+    "feast": "Friday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 8:15"
+        ],
+        "fix": [
+          "See Luke 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 20:1-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "See Luke 8:15"
+      ],
+      "gospel": [
+        "Matthew 13:18-23"
+      ]
+    },
+    "checked_at": "2026-05-04T05:25:43+00:00"
   }
 }
