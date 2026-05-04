@@ -8222,3 +8222,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 119:1-2, 4-5, 17-18, 33-34']`, live=`['Ps 119:1-2']`, fix=`['Ps 119:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3dc6a86
+
+### ❌ 2023-12-23 — Saturday of the Third Week of Advent
+- **Checked**: 2026-05-04 01:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122323.cfm
+- **Status**: mismatch
+- **Lectionary**: 199
+- **Mismatches**:
+  - **first_reading**: stored=`['Mal 3:1-4, 23-24']`, live=`['Mal 3:1-4']`, fix=`['Mal 3:1-4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9207992

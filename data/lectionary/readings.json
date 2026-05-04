@@ -59177,7 +59177,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hos 10:1-3, 7-8, 12",
+            "citation": "Hos 10:1-3",
             "sources": [
               "USCCB"
             ]
@@ -59185,7 +59185,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 105:2-3, 4-5, 6-7",
+            "citation": "Ps 105:2-3",
             "sources": [
               "USCCB"
             ]
@@ -59206,8 +59206,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-11": [

@@ -41703,5 +41703,44 @@
       ]
     },
     "checked_at": "2026-05-04T01:35:24+00:00"
+  },
+  "2023-12-23:0": {
+    "date": "2023-12-23",
+    "url": "https://bible.usccb.org/bible/readings/122323.cfm",
+    "lectionary_number": 199,
+    "feast": "Saturday of the Third Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Mal 3:1-4, 23-24"
+        ],
+        "live": [
+          "Mal 3:1-4"
+        ],
+        "fix": [
+          "Mal 3:1-4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Mal 3:1-4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mal 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "gospel": [
+        "Lk 1:57-66"
+      ]
+    },
+    "checked_at": "2026-05-04T01:40:35+00:00"
   }
 }
