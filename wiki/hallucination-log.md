@@ -9410,3 +9410,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 396
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/721.cfm`, live=fetch failed
+
+### 🚫 2026-10-25 — 
+- **Checked**: 2026-05-04 11:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1025.cfm
+- **Status**: url_dead
+- **Lectionary**: 148
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1025.cfm`, live=fetch failed
