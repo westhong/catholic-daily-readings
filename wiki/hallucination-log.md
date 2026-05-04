@@ -8941,3 +8941,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 85:9, 10, 11-12, 13-14']`, live=`['Ps 85:9']`, fix=`['Ps 85:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/34cb9c1
+
+### ❌ 2023-06-01 — Memorial of Saint Justin, Martyr
+- **Checked**: 2026-05-04 07:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060123.cfm
+- **Status**: mismatch
+- **Lectionary**: 350
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 33:2-3, 4-5, 6-7, 8-9']`, live=`['PS 33:2-3']`, fix=`['PS 33:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/29c7845

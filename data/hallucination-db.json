@@ -45509,5 +45509,60 @@
       ]
     },
     "checked_at": "2026-05-04T07:40:16+00:00"
+  },
+  "2023-06-01:0": {
+    "date": "2023-06-01",
+    "url": "https://bible.usccb.org/bible/readings/060123.cfm",
+    "lectionary_number": 350,
+    "feast": "Memorial of Saint Justin, Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 33:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "PS 33:2-3"
+        ],
+        "fix": [
+          "PS 33:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:12"
+        ],
+        "fix": [
+          "Jn 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 42:15-25"
+      ],
+      "responsorial_psalm": [
+        "PS 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ],
+      "gospel": [
+        "Mk 10:46-52"
+      ]
+    },
+    "checked_at": "2026-05-04T07:45:29+00:00"
   }
 }
