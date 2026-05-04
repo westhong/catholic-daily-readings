@@ -47686,5 +47686,24 @@
       ]
     },
     "checked_at": "2026-05-04T11:25:15+00:00"
+  },
+  "2026-12-31:0": {
+    "date": "2026-12-31",
+    "url": "https://bible.usccb.org/bible/readings/261231.cfm",
+    "lectionary_number": 204,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261231.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T11:30:39+00:00"
   }
 }

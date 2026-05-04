@@ -9374,3 +9374,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 9-10, 11-12']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c34b1b
+
+### 🚫 2026-12-31 — 
+- **Checked**: 2026-05-04 11:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261231.cfm
+- **Status**: url_dead
+- **Lectionary**: 204
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261231.cfm`, live=fetch failed
