@@ -9307,3 +9307,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 118
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/816.cfm`, live=fetch failed
+
+### ❌ 2025-11-04 — Memorial of Saint Charles Borromeo, Bishop
+- **Checked**: 2026-05-04 10:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110425.cfm
+- **Status**: mismatch
+- **Lectionary**: 486
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd3f63d
