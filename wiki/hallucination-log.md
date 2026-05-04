@@ -8401,3 +8401,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 14-15, 16-17']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:63']`, fix=`['See John 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1f954f
+
+### ❌ 2026-05-28 — Thursday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052826.cfm
+- **Status**: mismatch
+- **Lectionary**: 350
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Peter 2:2-5, 9-12']`, live=`['1 Peter 2:2-5']`, fix=`['1 Peter 2:2-5']`
+  - **responsorial_psalm**: stored=`['Psalm 100:2, 3, 4, 5']`, live=`['Psalm 100:2']`, fix=`['Psalm 100:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e27f4e8
