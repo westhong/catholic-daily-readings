@@ -9614,3 +9614,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['GAL 4:22-24, 26-27, 31–5']`, live=`['GAL 4:22-24']`, fix=`['GAL 4:22-24']`
   - **alleluia_verse**: stored=`（空白）`, live=`['PS 95:8']`, fix=`['PS 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d46484
+
+### ❌ 2024-05-18 — Saturday of the Seventh Week of Easter - Mass in the Morning
+- **Checked**: 2026-05-04 13:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051824.cfm
+- **Status**: mismatch
+- **Lectionary**: 302
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 28:16-20, 30-31']`, live=`['Acts 28:16-20']`, fix=`['Acts 28:16-20']`
+  - **responsorial_psalm**: stored=`['Ps 11:4, 5']`, live=`['Ps 11:4']`, fix=`['Ps 11:4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:7']`, fix=`['Jn 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e55c76c
