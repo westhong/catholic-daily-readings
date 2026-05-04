@@ -8531,3 +8531,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 137:1-2, 3, 4-5, 6']`, live=`['PS 137:1-2']`, fix=`['PS 137:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MATTHEW 8:17']`, fix=`['MATTHEW 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d0b8ce
+
+### ❌ 2024-03-31 — Easter Sunday The Resurrection of the Lord The Mass of Easter Day
+- **Checked**: 2026-05-04 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033124.cfm
+- **Status**: mismatch
+- **Lectionary**: 42
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 118:1-2, 16-17, 22-23']`, live=`['Ps 118:1-2']`, fix=`['Ps 118:1-2']`
+  - **second_reading**: stored=`['Col 3:1-4']`, live=`['Col 3:1-4', 'I Cor 5:6']`, fix=`['Col 3:1-4', 'I Cor 5:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d1570b

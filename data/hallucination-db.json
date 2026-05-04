@@ -43365,5 +43365,66 @@
       ]
     },
     "checked_at": "2026-05-04T04:10:31+00:00"
+  },
+  "2024-03-31:0": {
+    "date": "2024-03-31",
+    "url": "https://bible.usccb.org/bible/readings/033124.cfm",
+    "lectionary_number": 42,
+    "feast": "Easter Sunday The Resurrection of the Lord The Mass of Easter Day",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 118:1-2, 16-17, 22-23"
+        ],
+        "live": [
+          "Ps 118:1-2"
+        ],
+        "fix": [
+          "Ps 118:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Col 3:1-4"
+        ],
+        "live": [
+          "Col 3:1-4",
+          "I Cor 5:6"
+        ],
+        "fix": [
+          "Col 3:1-4",
+          "I Cor 5:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "second_reading": [
+        "Col 3:1-4",
+        "I Cor 5:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 10:34"
+      ],
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "second_reading": [
+        "Col 3:1-4",
+        "I Cor 5:6"
+      ],
+      "gospel": [
+        "Jn 20:1-9"
+      ]
+    },
+    "checked_at": "2026-05-04T04:15:45+00:00"
   }
 }

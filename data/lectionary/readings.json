@@ -80700,7 +80700,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:89, 90, 91, 130, 135, 175",
+            "citation": "Ps 119:89",
             "sources": [
               "USCCB"
             ]
@@ -80721,8 +80721,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-17": [
