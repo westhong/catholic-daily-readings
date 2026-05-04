@@ -10210,3 +10210,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Dn 3:57, 58, 59, 60, 61']`, live=`['Dn 3:57']`, fix=`['Dn 3:57']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Rev 2:10']`, fix=`['Rev 2:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cbc483f
+
+### ❌ 2027-08-12 — Thursday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 18:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081227.cfm
+- **Status**: mismatch
+- **Lectionary**: 416
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 114:1-2, 3-4, 5-6']`, live=`['Psalm 114:1-2']`, fix=`['Psalm 114:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:135']`, fix=`['Psalm 119:135']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4adc215
