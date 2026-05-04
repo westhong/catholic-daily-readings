@@ -54695,14 +54695,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "69:8-10, 21-22, 31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 26:14-25",
@@ -54711,7 +54704,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-28": [

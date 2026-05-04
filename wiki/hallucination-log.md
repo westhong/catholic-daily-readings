@@ -8902,3 +8902,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:13-14, 15-16, 17-18']`, live=`['Psalm 103:13-14']`, fix=`['Psalm 103:13-14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3860219
+
+### ❌ 2025-03-23 — Third Sunday of Lent Scrutiny Year A Readings
+- **Checked**: 2026-05-04 07:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032325-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 28
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
+  - **second_reading**: stored=`['Romans 5:1-2, 5-8']`, live=`['Romans 5:1-2']`, fix=`['Romans 5:1-2']`
+  - **gospel**: stored=`['John 4:5-42']`, live=`['John 4:5-42', 'John 4:5-15']`, fix=`['John 4:5-42', 'John 4:5-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/711af9f

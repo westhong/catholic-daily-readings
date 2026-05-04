@@ -45306,5 +45306,81 @@
       ]
     },
     "checked_at": "2026-05-04T07:20:21+00:00"
+  },
+  "2025-03-23:0": {
+    "date": "2025-03-23",
+    "url": "https://bible.usccb.org/bible/readings/032325-YearA.cfm",
+    "lectionary_number": 28,
+    "feast": "Third Sunday of Lent Scrutiny Year A Readings",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 95:1-2"
+        ],
+        "fix": [
+          "Psalm 95:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Romans 5:1-2, 5-8"
+        ],
+        "live": [
+          "Romans 5:1-2"
+        ],
+        "fix": [
+          "Romans 5:1-2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 4:5-42"
+        ],
+        "live": [
+          "John 4:5-42",
+          "John 4:5-15"
+        ],
+        "fix": [
+          "John 4:5-42",
+          "John 4:5-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "Romans 5:1-2"
+      ],
+      "gospel": [
+        "John 4:5-42",
+        "John 4:5-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 17:3-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "Romans 5:1-2"
+      ],
+      "gospel": [
+        "John 4:5-42",
+        "John 4:5-15"
+      ]
+    },
+    "checked_at": "2026-05-04T07:25:33+00:00"
   }
 }
