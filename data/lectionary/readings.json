@@ -269,7 +269,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 30:19-21, 23-26",
+            "citation": "Is 30:19-21",
             "sources": [
               "USCCB"
             ]
@@ -277,7 +277,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 147:1-2, 3-4, 5-6",
+            "citation": "Ps 147:1-2",
             "sources": [
               "USCCB"
             ]
@@ -285,7 +285,7 @@
         ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Mt 9:35–10",
             "sources": [
               "USCCB"
             ]
@@ -298,8 +298,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Is 33:22",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-08": [

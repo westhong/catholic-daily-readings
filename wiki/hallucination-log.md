@@ -10159,3 +10159,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 388
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/711.cfm`, live=fetch failed
+
+### ❌ 2024-04-16 — Tuesday of the Third Week of Easter
+- **Checked**: 2026-05-04 18:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041624.cfm
+- **Status**: mismatch
+- **Lectionary**: 274
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 7:51—8']`, live=`['Acts 7:51']`, fix=`['Acts 7:51']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:35']`, fix=`['Jn 6:35']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7ab008
