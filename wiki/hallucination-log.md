@@ -9468,3 +9468,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['John 1:14ab']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1110ba
+
+### ❌ 2025-12-06 — Saturday of the First Week of Advent
+- **Checked**: 2026-05-04 12:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120625.cfm
+- **Status**: mismatch
+- **Lectionary**: 180
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 30:19-21, 23-26']`, live=`['Isaiah 30:19-21']`, fix=`['Isaiah 30:19-21']`
+  - **responsorial_psalm**: stored=`['Psalm 147:1-2, 3-4, 5-6']`, live=`['Psalm 147:1-2']`, fix=`['Psalm 147:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Isaiah 33:22']`, fix=`['Isaiah 33:22']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 9:35–10']`, fix=`['Matthew 9:35–10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f3eba7

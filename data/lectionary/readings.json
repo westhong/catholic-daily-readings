@@ -3541,7 +3541,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 128:1-2, 3, 4-5",
+            "citation": "Psalm 128:1-2",
             "sources": [
               "USCCB"
             ]
@@ -3562,8 +3562,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "James 1:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-14": [
