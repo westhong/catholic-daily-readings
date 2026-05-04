@@ -10618,3 +10618,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 90:3-4, 5-6, 12-13, 14']`, live=`['PS 90:3-4']`, fix=`['PS 90:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 TIMOTHY 1:10']`, fix=`['2 TIMOTHY 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae9230c
+
+### ❌ 2024-12-09 — Solemnity of the Immaculate Conception of the Blessed Virgin Mary
+- **Checked**: 2026-05-04 22:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120924.cfm
+- **Status**: mismatch
+- **Lectionary**: 689
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 3:9-15, 20']`, live=`['Gn 3:9-15']`, fix=`['Gn 3:9-15']`
+  - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
+  - **second_reading**: stored=`['Eph 1:3-6, 11-12']`, live=`['Eph 1:3-6']`, fix=`['Eph 1:3-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:28']`, fix=`['See Lk 1:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/94078c0
