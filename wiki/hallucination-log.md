@@ -9777,3 +9777,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:68, 69, 70, 71, 72, 73, 74']`, live=`['Daniel 3:68']`, fix=`['Daniel 3:68']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/99eb3fb
+
+### ❌ 2025-06-11 — Memorial of Saint Barnabas, Apostle
+- **Checked**: 2026-05-04 15:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061125.cfm
+- **Status**: mismatch
+- **Lectionary**: 580
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf35eda
