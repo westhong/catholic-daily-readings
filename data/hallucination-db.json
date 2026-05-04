@@ -45667,5 +45667,75 @@
       ]
     },
     "checked_at": "2026-05-04T07:55:57+00:00"
+  },
+  "2024-05-28:0": {
+    "date": "2024-05-28",
+    "url": "https://bible.usccb.org/bible/readings/052824.cfm",
+    "lectionary_number": 348,
+    "feast": "Tuesday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 2-3"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "who will not receive a hundred times mor"
+        ],
+        "live": [
+          "Mk 10:28-31"
+        ],
+        "fix": [
+          "Mk 10:28-31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mk 10:28-31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 1:10-16"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mk 10:28-31"
+      ]
+    },
+    "checked_at": "2026-05-04T08:00:10+00:00"
   }
 }

@@ -8971,3 +8971,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2755778
+
+### ❌ 2024-05-28 — Tuesday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 08:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052824.cfm
+- **Status**: mismatch
+- **Lectionary**: 348
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+  - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mk 10:28-31']`, fix=`['Mk 10:28-31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a74eaa
