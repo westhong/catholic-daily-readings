@@ -9299,3 +9299,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 146:2, 5-6']`, live=`['Psalm 146:2']`, fix=`['Psalm 146:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8409117
+
+### 🚫 2026-08-16 — 
+- **Checked**: 2026-05-04 10:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/816.cfm
+- **Status**: url_dead
+- **Lectionary**: 118
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/816.cfm`, live=fetch failed
