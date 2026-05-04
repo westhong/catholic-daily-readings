@@ -10587,3 +10587,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:6-7, 8-9, 42-43']`, live=`['Psalm 105:6-7']`, fix=`['Psalm 105:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/050bb61
+
+### ❌ 2025-04-04 — Friday of the Fourth Week of Lent
+- **Checked**: 2026-05-04 21:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040425.cfm
+- **Status**: mismatch
+- **Lectionary**: 248
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:17-18, 19-20, 21']`, live=`['Psalm 34:17-18']`, fix=`['Psalm 34:17-18']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 7:1-2, 10, 25-30']`, live=`['John 7:1-2']`, fix=`['John 7:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2891bec
