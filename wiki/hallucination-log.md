@@ -9604,3 +9604,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/030324.cfm
 - **Status**: ok
 - **Lectionary**: 28
+
+### ❌ 2024-10-14 — Monday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 13:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101424.cfm
+- **Status**: mismatch
+- **Lectionary**: 467
+- **Mismatches**:
+  - **first_reading**: stored=`['GAL 4:22-24, 26-27, 31–5']`, live=`['GAL 4:22-24']`, fix=`['GAL 4:22-24']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['PS 95:8']`, fix=`['PS 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7d46484
