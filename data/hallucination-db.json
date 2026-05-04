@@ -51985,5 +51985,47 @@
       ]
     },
     "checked_at": "2026-05-04T18:50:22+00:00"
+  },
+  "2025-06-15:0": {
+    "date": "2025-06-15",
+    "url": "https://bible.usccb.org/bible/readings/061525.cfm",
+    "lectionary_number": 166,
+    "feast": "The Solemnity of the Most Holy Trinity",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 8:4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 8:4-5"
+        ],
+        "fix": [
+          "Psalm 8:4-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 8:4-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Proverbs 8:22-31"
+      ],
+      "responsorial_psalm": [
+        "Psalm 8:4-5"
+      ],
+      "second_reading": [
+        "Romans 5:1-5"
+      ],
+      "gospel": [
+        "John 16:12-15"
+      ]
+    },
+    "checked_at": "2026-05-04T18:55:36+00:00"
   }
 }
