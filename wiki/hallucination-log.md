@@ -8156,3 +8156,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 27:1-5, 15-29']`, live=`['Genesis 27:1-5']`, fix=`['Genesis 27:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d36aad1
+
+### ❌ 2023-07-04 — Tuesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 01:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070423.cfm
+- **Status**: mismatch
+- **Lectionary**: 378
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 26:2-3, 9-10, 11-12']`, live=`['Ps 26:2-3']`, fix=`['Ps 26:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 130:5']`, fix=`['Ps 130:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cc2f3c

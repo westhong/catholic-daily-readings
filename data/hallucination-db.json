@@ -41377,5 +41377,60 @@
       ]
     },
     "checked_at": "2026-05-04T01:00:58+00:00"
+  },
+  "2023-07-04:0": {
+    "date": "2023-07-04",
+    "url": "https://bible.usccb.org/bible/readings/070423.cfm",
+    "lectionary_number": 378,
+    "feast": "Tuesday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 26:2-3, 9-10, 11-12"
+        ],
+        "live": [
+          "Ps 26:2-3"
+        ],
+        "fix": [
+          "Ps 26:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 130:5"
+        ],
+        "fix": [
+          "Ps 130:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 26:2-3"
+      ],
+      "alleluia_verse": [
+        "Ps 130:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 19:15-29"
+      ],
+      "responsorial_psalm": [
+        "Ps 26:2-3"
+      ],
+      "alleluia_verse": [
+        "Ps 130:5"
+      ],
+      "gospel": [
+        "Mt 8:23-27"
+      ]
+    },
+    "checked_at": "2026-05-04T01:05:11+00:00"
   }
 }
