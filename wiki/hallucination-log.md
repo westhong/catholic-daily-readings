@@ -10473,3 +10473,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 453
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/925.cfm`, live=fetch failed
+
+### ❌ 2023-06-21 — Memorial of Saint Aloysius Gonzaga, Religious
+- **Checked**: 2026-05-04 21:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062123.cfm
+- **Status**: mismatch
+- **Lectionary**: 367
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+  - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f177d4
