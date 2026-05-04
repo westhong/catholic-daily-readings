@@ -54362,5 +54362,60 @@
       ]
     },
     "checked_at": "2026-05-04T22:35:11+00:00"
+  },
+  "2027-09-13:0": {
+    "date": "2027-09-13",
+    "url": "https://bible.usccb.org/bible/readings/091327.cfm",
+    "lectionary_number": 443,
+    "feast": "Memorial of Saint John Chrysostom, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 28:2, 7, 8-9"
+        ],
+        "live": [
+          "Psalm 28:2"
+        ],
+        "fix": [
+          "Psalm 28:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 3:16"
+        ],
+        "fix": [
+          "John 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 28:2"
+      ],
+      "alleluia_verse": [
+        "John 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Timothy 2:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 28:2"
+      ],
+      "alleluia_verse": [
+        "John 3:16"
+      ],
+      "gospel": [
+        "Luke 7:1-10"
+      ]
+    },
+    "checked_at": "2026-05-04T22:40:24+00:00"
   }
 }

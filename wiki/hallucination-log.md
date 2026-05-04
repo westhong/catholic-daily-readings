@@ -10681,3 +10681,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 50:8-9, 16']`, live=`['PS 50:8-9']`, fix=`['PS 50:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:10']`, fix=`['MT 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/260928f
+
+### ❌ 2027-09-13 — Memorial of Saint John Chrysostom, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091327.cfm
+- **Status**: mismatch
+- **Lectionary**: 443
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 28:2, 7, 8-9']`, live=`['Psalm 28:2']`, fix=`['Psalm 28:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/045486e
