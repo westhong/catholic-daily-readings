@@ -9711,3 +9711,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 111:1-2, 4-5, 9, 10']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9c25a5
+
+### ❌ 2023-09-27 — Memorial of Saint Vincent de Paul, Priest
+- **Checked**: 2026-05-04 14:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092723.cfm
+- **Status**: mismatch
+- **Lectionary**: 451
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a60306e

@@ -81618,7 +81618,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Mc 7:1, 20-31",
+            "citation": "2 Mc 7:1",
             "sources": [
               "USCCB"
             ]
@@ -81647,8 +81647,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-23": [

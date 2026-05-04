@@ -49388,5 +49388,60 @@
       ]
     },
     "checked_at": "2026-05-04T14:20:58+00:00"
+  },
+  "2023-09-27:0": {
+    "date": "2023-09-27",
+    "url": "https://bible.usccb.org/bible/readings/092723.cfm",
+    "lectionary_number": 451,
+    "feast": "Memorial of Saint Vincent de Paul, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Tobit 13:2, 3-4"
+        ],
+        "live": [
+          "Tobit 13:2"
+        ],
+        "fix": [
+          "Tobit 13:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ezr 9:5-9"
+      ],
+      "responsorial_psalm": [
+        "Tobit 13:2"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Lk 9:1-6"
+      ]
+    },
+    "checked_at": "2026-05-04T14:25:13+00:00"
   }
 }
