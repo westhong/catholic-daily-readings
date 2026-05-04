@@ -22979,7 +22979,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 102:2-3, 16-18, 19-21",
+            "citation": "Psalm 102:2-3",
             "sources": [
               "USCCB"
             ]
@@ -22993,7 +22993,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-25": [
