@@ -9402,3 +9402,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['89:16-17, 18-19']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/83459eb
+
+### 🚫 2026-07-21 — 
+- **Checked**: 2026-05-04 11:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/721.cfm
+- **Status**: url_dead
+- **Lectionary**: 396
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/721.cfm`, live=fetch failed

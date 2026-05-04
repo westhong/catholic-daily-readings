@@ -47805,5 +47805,24 @@
       ]
     },
     "checked_at": "2026-05-04T11:40:12+00:00"
+  },
+  "2026-07-21:0": {
+    "date": "2026-07-21",
+    "url": "https://bible.usccb.org/bible/readings/721.cfm",
+    "lectionary_number": 396,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/721.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T11:45:27+00:00"
   }
 }
