@@ -8725,3 +8725,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 180
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261205.cfm`, live=fetch failed
+
+### ❌ 2023-10-15 — Twenty-eighth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 05:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101523.cfm
+- **Status**: mismatch
+- **Lectionary**: 142
+- **Mismatches**:
+  - **second_reading**: stored=`['Phil 4:12-14, 19-20']`, live=`['Phil 4:12-14']`, fix=`['Phil 4:12-14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cc89fbd
