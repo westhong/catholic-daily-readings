@@ -9930,3 +9930,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b0aa2a
+
+### ❌ 2024-08-17 — Saturday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 16:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081724.cfm
+- **Status**: mismatch
+- **Lectionary**: 418
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 18:1-10, 13']`, live=`['Ez 18:1-10']`, fix=`['Ez 18:1-10']`
+  - **responsorial_psalm**: stored=`['Ps 51:12-13, 14-15, 18-19']`, live=`['Ps 51:12-13']`, fix=`['Ps 51:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9493b00

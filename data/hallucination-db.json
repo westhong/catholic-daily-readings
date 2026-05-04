@@ -50452,5 +50452,75 @@
       ]
     },
     "checked_at": "2026-05-04T16:15:37+00:00"
+  },
+  "2024-08-17:0": {
+    "date": "2024-08-17",
+    "url": "https://bible.usccb.org/bible/readings/081724.cfm",
+    "lectionary_number": 418,
+    "feast": "Saturday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ez 18:1-10, 13"
+        ],
+        "live": [
+          "Ez 18:1-10"
+        ],
+        "fix": [
+          "Ez 18:1-10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 51:12-13, 14-15, 18-19"
+        ],
+        "live": [
+          "Ps 51:12-13"
+        ],
+        "fix": [
+          "Ps 51:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ez 18:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:12-13"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 18:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 51:12-13"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mt 19:13-15"
+      ]
+    },
+    "checked_at": "2026-05-04T16:20:49+00:00"
   }
 }
