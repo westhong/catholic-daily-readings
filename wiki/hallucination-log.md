@@ -9806,3 +9806,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d37c40
+
+### ❌ 2027-10-03 — Twenty-seventh Sunday in Ordinary Time
+- **Checked**: 2026-05-04 15:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100327.cfm
+- **Status**: mismatch
+- **Lectionary**: 140
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5, 6']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:12']`, fix=`['1 John 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/670bc34
