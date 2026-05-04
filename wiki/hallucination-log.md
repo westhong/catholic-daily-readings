@@ -10557,3 +10557,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:32-38']`, fix=`['Mt 9:32-38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37185a0
+
+### ❌ 2025-11-20 — Thursday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-04 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112025.cfm
+- **Status**: mismatch
+- **Lectionary**: 500
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a2bebb
