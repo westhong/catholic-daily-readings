@@ -53248,7 +53248,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:1-2, 4-5, 7-8",
+            "citation": "Ps 119:1-2",
             "sources": [
               "USCCB"
             ]
@@ -53262,15 +53262,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "2 Cor 6:2b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-25": [

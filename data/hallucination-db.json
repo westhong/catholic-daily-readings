@@ -40695,5 +40695,63 @@
       ]
     },
     "checked_at": "2026-05-03T23:51:03+00:00"
+  },
+  "2024-01-01:0": {
+    "date": "2024-01-01",
+    "url": "https://bible.usccb.org/bible/readings/010124.cfm",
+    "lectionary_number": 18,
+    "feast": "Solemnity of the Blessed Virgin Mary, the Mother of God The Octave Day of Christmas",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 67:2-3, 5, 6, 8"
+        ],
+        "live": [
+          "Ps 67:2-3"
+        ],
+        "fix": [
+          "Ps 67:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Heb 1:1-2"
+        ],
+        "fix": [
+          "Heb 1:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "alleluia_verse": [
+        "Heb 1:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 6:22-27"
+      ],
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "second_reading": [
+        "Gal 4:4-7"
+      ],
+      "alleluia_verse": [
+        "Heb 1:1-2"
+      ],
+      "gospel": [
+        "Lk 2:16-21"
+      ]
+    },
+    "checked_at": "2026-05-03T23:55:16+00:00"
   }
 }
