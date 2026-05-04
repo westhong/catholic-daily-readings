@@ -42837,5 +42837,75 @@
       ]
     },
     "checked_at": "2026-05-04T03:20:19+00:00"
+  },
+  "2025-07-10:0": {
+    "date": "2025-07-10",
+    "url": "https://bible.usccb.org/bible/readings/071025.cfm",
+    "lectionary_number": 386,
+    "feast": "Thursday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 44:18-21, 23"
+        ],
+        "live": [
+          "Genesis 44:18-21"
+        ],
+        "fix": [
+          "Genesis 44:18-21"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:16-17, 18-19, 20-21"
+        ],
+        "live": [
+          "Psalm 105:16-17"
+        ],
+        "fix": [
+          "Psalm 105:16-17"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 1:15"
+        ],
+        "fix": [
+          "Mark 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 44:18-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:16-17"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 44:18-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:16-17"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Matthew 10:7-15"
+      ]
+    },
+    "checked_at": "2026-05-04T03:25:31+00:00"
   }
 }

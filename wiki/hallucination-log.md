@@ -8432,3 +8432,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 23:1-4, 19']`, live=`['Genesis 23:1-4']`, fix=`['Genesis 23:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/911f4c4
+
+### ❌ 2025-07-10 — Thursday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071025.cfm
+- **Status**: mismatch
+- **Lectionary**: 386
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 44:18-21, 23']`, live=`['Genesis 44:18-21']`, fix=`['Genesis 44:18-21']`
+  - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/edbf9f8
