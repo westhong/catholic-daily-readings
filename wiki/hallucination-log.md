@@ -10512,3 +10512,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c07394
+
+### 🚫 2026-10-12 — 
+- **Checked**: 2026-05-04 21:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1012.cfm
+- **Status**: url_dead
+- **Lectionary**: 467
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1012.cfm`, live=fetch failed
