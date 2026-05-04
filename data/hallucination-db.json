@@ -45792,5 +45792,60 @@
       ]
     },
     "checked_at": "2026-05-04T08:05:26+00:00"
+  },
+  "2023-09-13:0": {
+    "date": "2023-09-13",
+    "url": "https://bible.usccb.org/bible/readings/091323.cfm",
+    "lectionary_number": 439,
+    "feast": "Memorial of Saint John Chrysostom, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:2-3, 10-11, 12-13"
+        ],
+        "live": [
+          "Ps 145:2-3"
+        ],
+        "fix": [
+          "Ps 145:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 6:23"
+        ],
+        "fix": [
+          "Lk 6:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Lk 6:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Col 3:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "Lk 6:23"
+      ],
+      "gospel": [
+        "Lk 6:20-26"
+      ]
+    },
+    "checked_at": "2026-05-04T08:10:40+00:00"
   }
 }

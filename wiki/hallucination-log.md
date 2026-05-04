@@ -8992,3 +8992,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 57:8-9, 10 and 12']`, live=`['Psalm 57:8-9']`, fix=`['Psalm 57:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75b080e
+
+### ❌ 2023-09-13 — Memorial of Saint John Chrysostom, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 08:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091323.cfm
+- **Status**: mismatch
+- **Lectionary**: 439
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:2-3, 10-11, 12-13']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 6:23']`, fix=`['Lk 6:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9749de2
