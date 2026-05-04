@@ -40984,5 +40984,47 @@
       ]
     },
     "checked_at": "2026-05-04T00:20:17+00:00"
+  },
+  "2026-02-15:0": {
+    "date": "2026-02-15",
+    "url": "https://bible.usccb.org/bible/readings/021526.cfm",
+    "lectionary_number": 76,
+    "feast": "Sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:1-2, 4-5, 17-18, 33-34"
+        ],
+        "live": [
+          "Psalm 119:1-2"
+        ],
+        "fix": [
+          "Psalm 119:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 15:15-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:1-2"
+      ],
+      "second_reading": [
+        "1 Corinthians 2:6-10"
+      ],
+      "gospel": [
+        "Matthew 5:17-37"
+      ]
+    },
+    "checked_at": "2026-05-04T00:25:28+00:00"
   }
 }

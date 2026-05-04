@@ -8079,3 +8079,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 111:1-2, 3-4, 5-6']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:63']`, fix=`['See John 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a3178b
+
+### ❌ 2026-02-15 — Sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 00:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021526.cfm
+- **Status**: mismatch
+- **Lectionary**: 76
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:1-2, 4-5, 17-18, 33-34']`, live=`['Psalm 119:1-2']`, fix=`['Psalm 119:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f79b5f8
