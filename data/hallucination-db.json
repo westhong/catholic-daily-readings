@@ -54252,5 +54252,60 @@
       ]
     },
     "checked_at": "2026-05-04T22:25:49+00:00"
+  },
+  "2024-05-27:0": {
+    "date": "2024-05-27",
+    "url": "https://bible.usccb.org/bible/readings/052724.cfm",
+    "lectionary_number": 347,
+    "feast": "Monday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 111:1-2, 5-6, 9"
+        ],
+        "live": [
+          "Ps 111:1-2"
+        ],
+        "fix": [
+          "Ps 111:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 8:9"
+        ],
+        "fix": [
+          "2 Cor 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 111:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 1:3-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 111:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ],
+      "gospel": [
+        "Mk 10:17-27"
+      ]
+    },
+    "checked_at": "2026-05-04T22:31:00+00:00"
   }
 }
