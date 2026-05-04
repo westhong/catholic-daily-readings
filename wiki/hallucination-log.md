@@ -8742,3 +8742,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 8
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261213.cfm`, live=fetch failed
+
+### ❌ 2027-09-12 — Twenty-fourth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091227.cfm
+- **Status**: mismatch
+- **Lectionary**: 131
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 116:1-2, 3-4, 5-6, 8-9']`, live=`['Psalm 116:1-2']`, fix=`['Psalm 116:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Galatians 6:14']`, fix=`['Galatians 6:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ab217c4
