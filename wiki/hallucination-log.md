@@ -10151,3 +10151,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9e93c3
+
+### 🚫 2026-07-11 — Memorial of Saint Benedict, Abbot
+- **Checked**: 2026-05-04 18:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/711.cfm
+- **Status**: url_dead
+- **Lectionary**: 388
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/711.cfm`, live=fetch failed
