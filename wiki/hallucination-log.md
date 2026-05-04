@@ -9459,3 +9459,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 52:10, 11']`, live=`['Psalm 52:10']`, fix=`['Psalm 52:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7e5ad6
+
+### ❌ 2025-03-25 — Solemnity of the Annunciation of the Lord
+- **Checked**: 2026-05-04 12:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032525.cfm
+- **Status**: mismatch
+- **Lectionary**: 545
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['John 1:14ab']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1110ba
