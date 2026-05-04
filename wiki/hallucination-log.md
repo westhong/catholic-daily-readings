@@ -10142,3 +10142,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 105:1-2, 3-4, 6-7, 8-9']`, live=`['Ps 105:1-2']`, fix=`['Ps 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c4d453
+
+### ❌ 2025-12-05 — Friday of the First Week of Advent
+- **Checked**: 2026-05-04 18:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120525.cfm
+- **Status**: mismatch
+- **Lectionary**: 179
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9e93c3
