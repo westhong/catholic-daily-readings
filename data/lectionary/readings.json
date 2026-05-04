@@ -5313,7 +5313,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 42:2, 3",
+            "citation": "Psalm 42:2",
             "sources": [
               "USCCB"
             ]
@@ -5327,15 +5327,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Psalm 130:5, 7",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-25": [

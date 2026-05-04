@@ -9941,3 +9941,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 51:12-13, 14-15, 18-19']`, live=`['Ps 51:12-13']`, fix=`['Ps 51:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9493b00
+
+### ❌ 2026-06-04 — Thursday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-04 16:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060426.cfm
+- **Status**: mismatch
+- **Lectionary**: 356
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c808f96
