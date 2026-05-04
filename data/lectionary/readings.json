@@ -50292,7 +50292,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Mal 3:1-4, 23-24",
+            "citation": "Mal 3:1-4",
             "sources": [
               "USCCB"
             ]
@@ -50314,7 +50314,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-24": [

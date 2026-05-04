@@ -41661,5 +41661,47 @@
       ]
     },
     "checked_at": "2026-05-04T01:30:11+00:00"
+  },
+  "2023-02-12:0": {
+    "date": "2023-02-12",
+    "url": "https://bible.usccb.org/bible/readings/021223.cfm",
+    "lectionary_number": 76,
+    "feast": "Sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:1-2, 4-5, 17-18, 33-34"
+        ],
+        "live": [
+          "Ps 119:1-2"
+        ],
+        "fix": [
+          "Ps 119:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sir 15:15-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 2:6-10"
+      ],
+      "gospel": [
+        "Mt 5:17-37"
+      ]
+    },
+    "checked_at": "2026-05-04T01:35:24+00:00"
   }
 }

@@ -8213,3 +8213,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abc3833
+
+### ❌ 2023-02-12 — Sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 01:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021223.cfm
+- **Status**: mismatch
+- **Lectionary**: 76
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:1-2, 4-5, 17-18, 33-34']`, live=`['Ps 119:1-2']`, fix=`['Ps 119:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3dc6a86
