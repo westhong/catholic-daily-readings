@@ -50996,5 +50996,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T17:15:12+00:00"
+  },
+  "2023-07-15:0": {
+    "date": "2023-07-15",
+    "url": "https://bible.usccb.org/bible/readings/071523.cfm",
+    "lectionary_number": 388,
+    "feast": "Memorial of Saint Bonaventure, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 105:1-2, 3-4, 6-7"
+        ],
+        "live": [
+          "Ps 105:1-2"
+        ],
+        "fix": [
+          "Ps 105:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Pt 4:14"
+        ],
+        "fix": [
+          "1 Pt 4:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 105:1-2"
+      ],
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 49:29-32"
+      ],
+      "responsorial_psalm": [
+        "Ps 105:1-2"
+      ],
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ],
+      "gospel": [
+        "Mt 10:24-33"
+      ]
+    },
+    "checked_at": "2026-05-04T17:20:27+00:00"
   }
 }

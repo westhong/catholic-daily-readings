@@ -10045,3 +10045,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 11
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261220.cfm`, live=fetch failed
+
+### ❌ 2023-07-15 — Memorial of Saint Bonaventure, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 17:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071523.cfm
+- **Status**: mismatch
+- **Lectionary**: 388
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 105:1-2, 3-4, 6-7']`, live=`['Ps 105:1-2']`, fix=`['Ps 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 4:14']`, fix=`['1 Pt 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d064cc6
