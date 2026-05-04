@@ -47257,7 +47257,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 52:10, 11",
+            "citation": "Psalm 52:10",
             "sources": [
               "USCCB"
             ]
@@ -47270,8 +47270,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 4:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-02": [

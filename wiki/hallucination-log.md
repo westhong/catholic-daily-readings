@@ -9441,3 +9441,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
   - **gospel**: stored=`['Luke 14:1, 7-14']`, live=`['Luke 14:1']`, fix=`['Luke 14:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/112764a
+
+### 🚫 2026-09-18 — 
+- **Checked**: 2026-05-04 12:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/918.cfm
+- **Status**: url_dead
+- **Lectionary**: 447
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/918.cfm`, live=fetch failed
