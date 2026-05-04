@@ -42562,5 +42562,45 @@
       ]
     },
     "checked_at": "2026-05-04T02:55:22+00:00"
+  },
+  "2024-06-06:0": {
+    "date": "2024-06-06",
+    "url": "https://bible.usccb.org/bible/readings/060624.cfm",
+    "lectionary_number": 356,
+    "feast": "Thursday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Tm 2:8-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Mk 12:28-34"
+      ]
+    },
+    "checked_at": "2026-05-04T03:00:33+00:00"
   }
 }

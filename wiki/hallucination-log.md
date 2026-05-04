@@ -8382,3 +8382,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 103:21']`, fix=`['Ps 103:21']`
   - **gospel**: stored=`['Mt 18:1-5, 10']`, live=`['Mt 18:1-5']`, fix=`['Mt 18:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9aef3e9
+
+### ❌ 2024-06-06 — Thursday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060624.cfm
+- **Status**: mismatch
+- **Lectionary**: 356
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a8bf7f
