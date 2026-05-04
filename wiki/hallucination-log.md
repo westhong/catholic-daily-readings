@@ -9836,3 +9836,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 21:33-43, 45-46']`, live=`['Matthew 21:33-43']`, fix=`['Matthew 21:33-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97d3102
+
+### 🚫 2026-07-07 — Tuesday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/77.cfm
+- **Status**: url_dead
+- **Lectionary**: 384
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/77.cfm`, live=fetch failed

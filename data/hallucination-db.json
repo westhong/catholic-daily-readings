@@ -50012,5 +50012,24 @@
       ]
     },
     "checked_at": "2026-05-04T15:26:03+00:00"
+  },
+  "2026-07-07:0": {
+    "date": "2026-07-07",
+    "url": "https://bible.usccb.org/bible/readings/77.cfm",
+    "lectionary_number": 384,
+    "feast": "Tuesday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/77.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T15:30:15+00:00"
   }
 }
