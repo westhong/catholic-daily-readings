@@ -9701,3 +9701,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 119:41, 43, 44, 45, 47, 48']`, live=`['PS 119:41']`, fix=`['PS 119:41']`
   - **alleluia_verse**: stored=`（空白）`, live=`['HEB 4:12']`, fix=`['HEB 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5b28604
+
+### ❌ 2027-01-19 — Tuesday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-04 14:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011927.cfm
+- **Status**: mismatch
+- **Lectionary**: 312
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 111:1-2, 4-5, 9, 10']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f9c25a5
