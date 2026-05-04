@@ -9844,3 +9844,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 384
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/77.cfm`, live=fetch failed
+
+### ❌ 2025-04-20 — The Resurrection of the Lord The Mass of Easter Day
+- **Checked**: 2026-05-04 15:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042025.cfm
+- **Status**: mismatch
+- **Lectionary**: 42
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 118:1-2, 16-17, 22-23']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/71731b4
