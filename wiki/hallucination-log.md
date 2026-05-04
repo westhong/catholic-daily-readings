@@ -10691,3 +10691,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 28:2, 7, 8-9']`, live=`['Psalm 28:2']`, fix=`['Psalm 28:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/045486e
+
+### ❌ 2024-04-21 — Fourth Sunday of Easter
+- **Checked**: 2026-05-04 22:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042124.cfm
+- **Status**: mismatch
+- **Lectionary**: 50
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 118:1, 8-9, 21-23, 26, 28, 29']`, live=`['Ps 118:1']`, fix=`['Ps 118:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88f354e

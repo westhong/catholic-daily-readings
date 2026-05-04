@@ -53187,7 +53187,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:9, 10, 11, 12, 13, 14",
+            "citation": "PS 119:9",
             "sources": [
               "USCCB"
             ]
@@ -53208,8 +53208,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-04": [
