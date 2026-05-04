@@ -9168,3 +9168,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 468
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1013.cfm`, live=fetch failed
+
+### ❌ 2026-06-23 — Tuesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-04 09:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062326.cfm
+- **Status**: mismatch
+- **Lectionary**: 372
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+  - **gospel**: stored=`['Matthew 7:6, 12-14']`, live=`['Matthew 7:6']`, fix=`['Matthew 7:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c74d3d8

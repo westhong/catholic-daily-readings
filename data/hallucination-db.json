@@ -46613,5 +46613,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T09:40:08+00:00"
+  },
+  "2026-06-23:0": {
+    "date": "2026-06-23",
+    "url": "https://bible.usccb.org/bible/readings/062326.cfm",
+    "lectionary_number": 372,
+    "feast": "Tuesday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 7:6, 12-14"
+        ],
+        "live": [
+          "Matthew 7:6"
+        ],
+        "fix": [
+          "Matthew 7:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Matthew 7:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kings 19:9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 48:2-3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Matthew 7:6"
+      ]
+    },
+    "checked_at": "2026-05-04T09:45:22+00:00"
   }
 }
