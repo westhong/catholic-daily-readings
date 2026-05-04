@@ -9269,3 +9269,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e9b8e9d
+
+### ❌ 2024-01-07 — The Epiphany of the Lord
+- **Checked**: 2026-05-04 10:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010724.cfm
+- **Status**: mismatch
+- **Lectionary**: 20
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 72:1-2, 7-8, 10-11, 12-13']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 2:2']`, fix=`['Mt 2:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/222cb93
