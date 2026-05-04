@@ -64417,7 +64417,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:41, 43, 44, 45, 47, 48",
+            "citation": "PS 119:41",
             "sources": [
               "USCCB"
             ]
@@ -64438,8 +64438,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "HEB 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-16": [
