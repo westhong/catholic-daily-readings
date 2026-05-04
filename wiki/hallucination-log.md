@@ -8502,3 +8502,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 65:10, 11, 12-13']`, live=`['Ps 65:10']`, fix=`['Ps 65:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1aaae70
+
+### ❌ 2024-07-29 — Memorial of Saints Martha, Mary, and Lazarus
+- **Checked**: 2026-05-04 04:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072924.cfm
+- **Status**: mismatch
+- **Lectionary**: 401
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['DEUTERONOMY 32:18-19, 20, 21']`, live=`['DEUTERONOMY 32:18-19']`, fix=`['DEUTERONOMY 32:18-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31c8089

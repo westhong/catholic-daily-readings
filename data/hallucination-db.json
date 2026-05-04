@@ -43215,5 +43215,60 @@
       ]
     },
     "checked_at": "2026-05-04T03:55:51+00:00"
+  },
+  "2024-07-29:0": {
+    "date": "2024-07-29",
+    "url": "https://bible.usccb.org/bible/readings/072924.cfm",
+    "lectionary_number": 401,
+    "feast": "Memorial of Saints Martha, Mary, and Lazarus",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "DEUTERONOMY 32:18-19, 20, 21"
+        ],
+        "live": [
+          "DEUTERONOMY 32:18-19"
+        ],
+        "fix": [
+          "DEUTERONOMY 32:18-19"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:12"
+        ],
+        "fix": [
+          "Jn 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "DEUTERONOMY 32:18-19"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "JER 13:1-11"
+      ],
+      "responsorial_psalm": [
+        "DEUTERONOMY 32:18-19"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ],
+      "gospel": [
+        "JN 11:19-27"
+      ]
+    },
+    "checked_at": "2026-05-04T04:00:06+00:00"
   }
 }
