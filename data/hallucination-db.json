@@ -48560,5 +48560,59 @@
       ]
     },
     "checked_at": "2026-05-04T12:55:51+00:00"
+  },
+  "2024-03-26:0": {
+    "date": "2024-03-26",
+    "url": "https://bible.usccb.org/bible/readings/032624.cfm",
+    "lectionary_number": 258,
+    "feast": "Tuesday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 71:1-2, 3-4"
+        ],
+        "live": [
+          "Ps 71:1-2"
+        ],
+        "fix": [
+          "Ps 71:1-2"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 13:21-33, 36-38"
+        ],
+        "live": [
+          "Jn 13:21-33"
+        ],
+        "fix": [
+          "Jn 13:21-33"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 71:1-2"
+      ],
+      "gospel": [
+        "Jn 13:21-33"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 49:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 71:1-2"
+      ],
+      "gospel": [
+        "Jn 13:21-33"
+      ]
+    },
+    "checked_at": "2026-05-04T13:00:04+00:00"
   }
 }
