@@ -10181,3 +10181,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 33:22']`, fix=`['Is 33:22']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:35–10']`, fix=`['Mt 9:35–10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c648d9
+
+### ❌ 2025-06-01 — 2025-06-01
+- **Checked**: 2026-05-04 18:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060125-Sunday.cfm
+- **Status**: mismatch
+- **Lectionary**: 61
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 97:1-2, 6-7, 9']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
+  - **second_reading**: stored=`['Revelation 22:12-14, 16-17, 20']`, live=`['Revelation 22:12-14']`, fix=`['Revelation 22:12-14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4454ad3

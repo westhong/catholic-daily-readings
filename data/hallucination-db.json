@@ -51721,5 +51721,62 @@
       ]
     },
     "checked_at": "2026-05-04T18:25:17+00:00"
+  },
+  "2025-06-01:0": {
+    "date": "2025-06-01",
+    "url": "https://bible.usccb.org/bible/readings/060125-Sunday.cfm",
+    "lectionary_number": 61,
+    "feast": "2025-06-01",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 97:1-2, 6-7, 9"
+        ],
+        "live": [
+          "Psalm 97:1-2"
+        ],
+        "fix": [
+          "Psalm 97:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Revelation 22:12-14, 16-17, 20"
+        ],
+        "live": [
+          "Revelation 22:12-14"
+        ],
+        "fix": [
+          "Revelation 22:12-14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 97:1-2"
+      ],
+      "second_reading": [
+        "Revelation 22:12-14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 7:55-60"
+      ],
+      "responsorial_psalm": [
+        "Psalm 97:1-2"
+      ],
+      "second_reading": [
+        "Revelation 22:12-14"
+      ],
+      "gospel": [
+        "John 17:20-26"
+      ]
+    },
+    "checked_at": "2026-05-04T18:30:30+00:00"
   }
 }

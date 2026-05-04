@@ -44089,7 +44089,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 92:2-3, 13-14, 15-16",
+            "citation": "Psalm 92:2-3",
             "sources": [
               "USCCB"
             ]
@@ -44111,7 +44111,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-14": [
