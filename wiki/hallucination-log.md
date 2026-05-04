@@ -9950,3 +9950,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c808f96
+
+### ❌ 2025-03-24 — Monday of the Third Week of Lent
+- **Checked**: 2026-05-04 16:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032425.cfm
+- **Status**: mismatch
+- **Lectionary**: 237
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 42:2, 3']`, live=`['Psalm 42:2']`, fix=`['Psalm 42:2']`
+  - **verse_before_gospel**: stored=`['Psalm 130:5, 7']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1059320
