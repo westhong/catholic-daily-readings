@@ -10083,3 +10083,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e53b49c
+
+### ❌ 2025-08-22 — Memorial of the Queenship of the Blessed Virgin Mary
+- **Checked**: 2026-05-04 17:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082225.cfm
+- **Status**: mismatch
+- **Lectionary**: 423
+- **Mismatches**:
+  - **first_reading**: stored=`['Ruth 1:1, 3-6, 14']`, live=`['Ruth 1:1']`, fix=`['Ruth 1:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e5c989
+
+### ✅ 2025-12-03 — Memorial of Saint Francis Xavier, Priest
+- **Checked**: 2026-05-04 17:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120325.cfm
+- **Status**: ok
+- **Lectionary**: 177

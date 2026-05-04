@@ -75476,7 +75476,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 46:1-7, 28-30",
+            "citation": "Gn 46:1-7",
             "sources": [
               "USCCB"
             ]
@@ -75484,7 +75484,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 37:3-4, 18-19, 27-28, 39-40",
+            "citation": "Ps 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -75505,8 +75505,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 16:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-15": [
