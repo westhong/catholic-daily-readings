@@ -43160,5 +43160,60 @@
       ]
     },
     "checked_at": "2026-05-04T03:50:39+00:00"
+  },
+  "2024-06-13:0": {
+    "date": "2024-06-13",
+    "url": "https://bible.usccb.org/bible/readings/061324.cfm",
+    "lectionary_number": 362,
+    "feast": "Memorial of Saint Anthony of Padua, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 65:10, 11, 12-13"
+        ],
+        "live": [
+          "Ps 65:10"
+        ],
+        "fix": [
+          "Ps 65:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 65:10"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 18:41-46"
+      ],
+      "responsorial_psalm": [
+        "Ps 65:10"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Mt 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-04T03:55:51+00:00"
   }
 }

@@ -60224,7 +60224,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "DEUTERONOMY 32:18-19, 20, 21",
+            "citation": "DEUTERONOMY 32:18-19",
             "sources": [
               "USCCB"
             ]
@@ -60245,8 +60245,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-30": [

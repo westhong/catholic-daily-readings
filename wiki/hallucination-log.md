@@ -8492,3 +8492,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 84:3, 4, 5-6']`, live=`['Ps 84:3']`, fix=`['Ps 84:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2f2f39
+
+### ❌ 2024-06-13 — Memorial of Saint Anthony of Padua, Priest and Doctor of the Church
+- **Checked**: 2026-05-04 03:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061324.cfm
+- **Status**: mismatch
+- **Lectionary**: 362
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 65:10, 11, 12-13']`, live=`['Ps 65:10']`, fix=`['Ps 65:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1aaae70
