@@ -68367,14 +68367,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "Ps 31:20, 21, 22, 23, 24",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "alleluia": [
           {
             "citation": "Lk 7:16",
@@ -68382,8 +68375,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-01": [

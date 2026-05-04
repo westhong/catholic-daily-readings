@@ -10641,3 +10641,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:49']`, fix=`['John 1:49']`
   - **gospel**: stored=`['Monday: Matthew 15:1-2, 10-14']`, live=`['Matthew 14:22-36', 'Matthew 15:1-2']`, fix=`['Matthew 14:22-36', 'Matthew 15:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/778a678
+
+### ❌ 2027-10-09 — Saturday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 22:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100927.cfm
+- **Status**: mismatch
+- **Lectionary**: 466
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 11-12']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ac54d38
