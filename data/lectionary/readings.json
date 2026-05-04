@@ -69457,7 +69457,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 51:3-4, 5-6, 12-13, 14",
+            "citation": "Ps 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -69479,15 +69479,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Mt 4:4b",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-27": [

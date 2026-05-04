@@ -10317,3 +10317,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 84:3, 4, 5-6, 12']`, live=`['PS 84:3']`, fix=`['PS 84:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4928473
+
+### ❌ 2027-03-15 — Monday of the Fifth Week of Lent
+- **Checked**: 2026-05-04 19:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031527.cfm
+- **Status**: mismatch
+- **Lectionary**: 251
+- **Mismatches**:
+  - **first_reading**: stored=`['Daniel 13:1-9, 15-17, 19-30, 33-62']`, live=`['Daniel 13:1-9', 'Daniel 13:41']`, fix=`['Daniel 13:1-9', 'Daniel 13:41']`
+  - **verse_before_gospel**: stored=`['Ezekiel 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/552d401
