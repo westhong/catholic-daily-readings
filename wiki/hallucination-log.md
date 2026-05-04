@@ -8512,3 +8512,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['DEUTERONOMY 32:18-19, 20, 21']`, live=`['DEUTERONOMY 32:18-19']`, fix=`['DEUTERONOMY 32:18-19']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31c8089
+
+### ❌ 2023-07-03 — Feast of Saint Thomas, Apostle
+- **Checked**: 2026-05-04 04:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070323.cfm
+- **Status**: mismatch
+- **Lectionary**: 593
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abc71c1

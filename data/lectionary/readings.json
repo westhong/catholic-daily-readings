@@ -58753,7 +58753,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 137:1-2, 3, 4-5, 6",
+            "citation": "PS 137:1-2",
             "sources": [
               "USCCB"
             ]
@@ -58774,8 +58774,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "MATTHEW 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-29": [
