@@ -9149,3 +9149,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6766651
+
+### ❌ 2025-06-20 — Friday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-04 09:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062025.cfm
+- **Status**: mismatch
+- **Lectionary**: 369
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Corinthians 11:18, 21-30']`, live=`['2 Corinthians 11:18']`, fix=`['2 Corinthians 11:18']`
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e0d488
