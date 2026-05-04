@@ -10337,3 +10337,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 51:3-4, 5-6, 12-13, 14']`, live=`['Ps 51:3-4']`, fix=`['Ps 51:3-4']`
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d00fcce
+
+### 🚫 2026-12-26 — 
+- **Checked**: 2026-05-04 19:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261226.cfm
+- **Status**: url_dead
+- **Lectionary**: 696
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261226.cfm`, live=fetch failed
