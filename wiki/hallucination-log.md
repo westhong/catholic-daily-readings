@@ -8031,3 +8031,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 6, 8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 1:1-2']`, fix=`['Heb 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/813b77f
+
+### ❌ 2024-02-24 — Saturday of the First Week of Lent
+- **Checked**: 2026-05-04 00:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022424.cfm
+- **Status**: mismatch
+- **Lectionary**: 229
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:1-2, 4-5, 7-8']`, live=`['Ps 119:1-2']`, fix=`['Ps 119:1-2']`
+  - **verse_before_gospel**: stored=`['2 Cor 6:2b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/af4bd63

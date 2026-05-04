@@ -40753,5 +40753,53 @@
       ]
     },
     "checked_at": "2026-05-03T23:55:16+00:00"
+  },
+  "2024-02-24:0": {
+    "date": "2024-02-24",
+    "url": "https://bible.usccb.org/bible/readings/022424.cfm",
+    "lectionary_number": 229,
+    "feast": "Saturday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:1-2, 4-5, 7-8"
+        ],
+        "live": [
+          "Ps 119:1-2"
+        ],
+        "fix": [
+          "Ps 119:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "2 Cor 6:2b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 26:16-19"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:1-2"
+      ],
+      "gospel": [
+        "Mt 5:43-48"
+      ]
+    },
+    "checked_at": "2026-05-04T00:00:28+00:00"
   }
 }
