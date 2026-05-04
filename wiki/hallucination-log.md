@@ -10758,3 +10758,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/091923.cfm
 - **Status**: ok
 - **Lectionary**: 444
+
+### ❌ 2024-04-14 — Third Sunday of Easter
+- **Checked**: 2026-05-04 23:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041424.cfm
+- **Status**: mismatch
+- **Lectionary**: 47
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 3:13-15, 17-19']`, live=`['Acts 3:13-15']`, fix=`['Acts 3:13-15']`
+  - **responsorial_psalm**: stored=`['Ps 4:2, 4, 7-8, 9']`, live=`['Ps 4:2']`, fix=`['Ps 4:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/292bf73

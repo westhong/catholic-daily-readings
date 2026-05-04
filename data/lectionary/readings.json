@@ -20384,7 +20384,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Samuel 17:32-33, 37, 40-51",
+            "citation": "1 Samuel 17:32-33",
             "sources": [
               "USCCB"
             ]
@@ -20413,8 +20413,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-22": [
