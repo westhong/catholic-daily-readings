@@ -10027,3 +10027,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 18:2-3, 3-4, 47, 51']`, live=`['Psalm 18:2-3']`, fix=`['Psalm 18:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/631180e
+
+### ❌ 2023-06-26 — Monday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-04 17:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062623.cfm
+- **Status**: mismatch
+- **Lectionary**: 371
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:12-13, 18-19, 20']`, live=`['Ps 33:12-13']`, fix=`['Ps 33:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3cc133c

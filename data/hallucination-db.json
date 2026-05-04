@@ -50922,5 +50922,60 @@
       ]
     },
     "checked_at": "2026-05-04T17:05:46+00:00"
+  },
+  "2023-06-26:0": {
+    "date": "2023-06-26",
+    "url": "https://bible.usccb.org/bible/readings/062623.cfm",
+    "lectionary_number": 371,
+    "feast": "Monday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:12-13, 18-19, 20"
+        ],
+        "live": [
+          "Ps 33:12-13"
+        ],
+        "fix": [
+          "Ps 33:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Heb 4:12"
+        ],
+        "fix": [
+          "Heb 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:12-13"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 12:1-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:12-13"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ],
+      "gospel": [
+        "Mt 7:1-5"
+      ]
+    },
+    "checked_at": "2026-05-04T17:11:01+00:00"
   }
 }
