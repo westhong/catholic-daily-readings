@@ -9002,3 +9002,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:2-3, 10-11, 12-13']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 6:23']`, fix=`['Lk 6:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9749de2
+
+### 🚫 2023-05-23 — Tuesday of the Seventh Week of Easter
+- **Checked**: 2026-05-04 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052323.cfm
+- **Status**: url_dead
+- **Lectionary**: 298
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/052323.cfm`, live=fetch failed

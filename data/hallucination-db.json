@@ -45847,5 +45847,24 @@
       ]
     },
     "checked_at": "2026-05-04T08:10:40+00:00"
+  },
+  "2023-05-23:0": {
+    "date": "2023-05-23",
+    "url": "https://bible.usccb.org/bible/readings/052323.cfm",
+    "lectionary_number": 298,
+    "feast": "Tuesday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/052323.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T08:15:58+00:00"
   }
 }
