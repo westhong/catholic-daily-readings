@@ -10251,3 +10251,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/06fc527
+
+### 🚫 2026-06-30 — Tuesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 19:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/063026.cfm
+- **Status**: url_dead
+- **Lectionary**: 377
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/063026.cfm`, live=fetch failed

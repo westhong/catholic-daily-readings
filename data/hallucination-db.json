@@ -52108,5 +52108,24 @@
       ]
     },
     "checked_at": "2026-05-04T19:00:50+00:00"
+  },
+  "2026-06-30:0": {
+    "date": "2026-06-30",
+    "url": "https://bible.usccb.org/bible/readings/063026.cfm",
+    "lectionary_number": 377,
+    "feast": "Tuesday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/063026.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T19:05:05+00:00"
   }
 }
