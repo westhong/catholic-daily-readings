@@ -10374,3 +10374,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 17:17']`, fix=`['Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/312e53f
+
+### ❌ 2027-06-19 — Saturday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-04 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061927.cfm
+- **Status**: mismatch
+- **Lectionary**: 370
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:8-9, 10-11, 12-13']`, live=`['Psalm 34:8-9']`, fix=`['Psalm 34:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b476345
