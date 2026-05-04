@@ -1046,7 +1046,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 96: 1-2, 2-3, 11-12, 13",
+            "citation": "Ps 96: 1",
             "sources": [
               "USCCB"
             ]
@@ -1067,8 +1067,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 2:10-11",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 1
     },
     {
       "date": "2024-12-25",

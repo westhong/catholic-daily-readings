@@ -9120,3 +9120,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1032f6c
+
+### ❌ 2027-07-28 — Wednesday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-04 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072827.cfm
+- **Status**: mismatch
+- **Lectionary**: 403
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 99:5, 6, 7, 9']`, live=`['Psalm 99:5']`, fix=`['Psalm 99:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b7150b

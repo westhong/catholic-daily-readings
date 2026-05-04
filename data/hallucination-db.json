@@ -46371,5 +46371,60 @@
       ]
     },
     "checked_at": "2026-05-04T09:16:01+00:00"
+  },
+  "2027-07-28:0": {
+    "date": "2027-07-28",
+    "url": "https://bible.usccb.org/bible/readings/072827.cfm",
+    "lectionary_number": 403,
+    "feast": "Wednesday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 99:5, 6, 7, 9"
+        ],
+        "live": [
+          "Psalm 99:5"
+        ],
+        "fix": [
+          "Psalm 99:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:15"
+        ],
+        "fix": [
+          "John 15:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 99:5"
+      ],
+      "alleluia_verse": [
+        "John 15:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 34:29-35"
+      ],
+      "responsorial_psalm": [
+        "Psalm 99:5"
+      ],
+      "alleluia_verse": [
+        "John 15:15"
+      ],
+      "gospel": [
+        "Matthew 13:44-46"
+      ]
+    },
+    "checked_at": "2026-05-04T09:20:14+00:00"
   }
 }
