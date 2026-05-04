@@ -9111,3 +9111,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Matthew 16:18']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a4dd286
+
+### ❌ 2025-09-05 — Friday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-04 09:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090525.cfm
+- **Status**: mismatch
+- **Lectionary**: 435
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1032f6c

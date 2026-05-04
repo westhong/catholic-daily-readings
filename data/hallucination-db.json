@@ -46331,5 +46331,45 @@
       ]
     },
     "checked_at": "2026-05-04T09:10:48+00:00"
+  },
+  "2025-09-05:0": {
+    "date": "2025-09-05",
+    "url": "https://bible.usccb.org/bible/readings/090525.cfm",
+    "lectionary_number": 435,
+    "feast": "Friday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 1:15-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Luke 5:33-39"
+      ]
+    },
+    "checked_at": "2026-05-04T09:16:01+00:00"
   }
 }
