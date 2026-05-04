@@ -10131,3 +10131,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 103:6-7, 8-9, 10-11, 12-13']`, live=`['Ps 103:6-7']`, fix=`['Ps 103:6-7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2d24b57
+
+### ❌ 2023-06-28 — Memorial of Saint Irenaeus, Bishop and Martyr
+- **Checked**: 2026-05-04 18:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062823.cfm
+- **Status**: mismatch
+- **Lectionary**: 373
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 15:1-12, 17-18']`, live=`['Gn 15:1-12']`, fix=`['Gn 15:1-12']`
+  - **responsorial_psalm**: stored=`['Ps 105:1-2, 3-4, 6-7, 8-9']`, live=`['Ps 105:1-2']`, fix=`['Ps 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c4d453
