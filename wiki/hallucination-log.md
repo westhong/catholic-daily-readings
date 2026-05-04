@@ -8588,3 +8588,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **first_reading**: stored=`['Malachi 3:1-4, 23-24']`, live=`['Malachi 3:1-4']`, fix=`['Malachi 3:1-4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a58d907
+
+### ❌ 2023-08-06 — Feast of the Transfiguration of the Lord
+- **Checked**: 2026-05-04 04:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080623.cfm
+- **Status**: mismatch
+- **Lectionary**: 614
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 7:9-10, 13-14']`, live=`['Dn 7:9-10']`, fix=`['Dn 7:9-10']`
+  - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 9']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 17:5']`, fix=`['Mt 17:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/be0e427

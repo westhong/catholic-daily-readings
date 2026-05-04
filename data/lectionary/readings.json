@@ -16202,7 +16202,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:30-31, 33-34, 36",
+            "citation": "Psalm 69:30-31",
             "sources": [
               "USCCB"
             ]
@@ -16223,8 +16223,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:31",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-04": [

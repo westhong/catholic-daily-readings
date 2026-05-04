@@ -43649,5 +43649,78 @@
       ]
     },
     "checked_at": "2026-05-04T04:40:47+00:00"
+  },
+  "2023-08-06:0": {
+    "date": "2023-08-06",
+    "url": "https://bible.usccb.org/bible/readings/080623.cfm",
+    "lectionary_number": 614,
+    "feast": "Feast of the Transfiguration of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dn 7:9-10, 13-14"
+        ],
+        "live": [
+          "Dn 7:9-10"
+        ],
+        "fix": [
+          "Dn 7:9-10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 97:1-2, 5-6, 9"
+        ],
+        "live": [
+          "Ps 97:1-2"
+        ],
+        "fix": [
+          "Ps 97:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 17:5"
+        ],
+        "fix": [
+          "Mt 17:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dn 7:9-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ],
+      "alleluia_verse": [
+        "Mt 17:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 7:9-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ],
+      "second_reading": [
+        "2 Pt 1:16-19"
+      ],
+      "alleluia_verse": [
+        "Mt 17:5"
+      ],
+      "gospel": [
+        "Mt 17:1-9"
+      ]
+    },
+    "checked_at": "2026-05-04T04:45:58+00:00"
   }
 }
