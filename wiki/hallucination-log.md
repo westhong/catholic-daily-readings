@@ -10296,3 +10296,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5, 6']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 4:12']`, fix=`['1 Jn 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/650a1b7
+
+### ❌ 2025-04-22 — Tuesday in the Octave of Easter
+- **Checked**: 2026-05-04 19:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042225.cfm
+- **Status**: mismatch
+- **Lectionary**: 262
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:4-5, 18-19, 20']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1ff151a
