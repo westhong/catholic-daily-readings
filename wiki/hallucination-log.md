@@ -8261,3 +8261,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 95:1-2, 6-7, 7-9']`, live=`['Ps 95:1-2']`, fix=`['Ps 95:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:16']`, fix=`['Mt 4:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/98c89df
+
+### ❌ 2026-04-12 — Second Sunday of Easter (Divine Mercy)
+- **Checked**: 2026-05-04 02:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041226.cfm
+- **Status**: mismatch
+- **Lectionary**: 43
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 118:2-4, 13-15, 22-24']`, live=`['Psalm 118:2-4']`, fix=`['Psalm 118:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/548d43d
