@@ -50278,5 +50278,44 @@
       ]
     },
     "checked_at": "2026-05-04T15:55:41+00:00"
+  },
+  "2023-12-05:0": {
+    "date": "2023-12-05",
+    "url": "https://bible.usccb.org/bible/readings/120523.cfm",
+    "lectionary_number": 176,
+    "feast": "Tuesday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 72:1-2, 7-8, 12-13, 17"
+        ],
+        "live": [
+          "Ps 72:1-2"
+        ],
+        "fix": [
+          "Ps 72:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 72:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 11:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 72:1-2"
+      ],
+      "gospel": [
+        "Lk 10:21-24"
+      ]
+    },
+    "checked_at": "2026-05-04T16:00:55+00:00"
   }
 }

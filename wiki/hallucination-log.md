@@ -9893,3 +9893,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['119:23-24, 26-27, 29-30']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b2d219a
+
+### ❌ 2023-12-05 — Tuesday of the First Week of Advent
+- **Checked**: 2026-05-04 16:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120523.cfm
+- **Status**: mismatch
+- **Lectionary**: 176
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 72:1-2, 7-8, 12-13, 17']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/802e8ad
