@@ -9316,3 +9316,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd3f63d
+
+### ❌ 2025-03-26 — Wednesday of the Third Week of Lent
+- **Checked**: 2026-05-04 11:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032625.cfm
+- **Status**: mismatch
+- **Lectionary**: 239
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 4:1, 5-9']`, live=`['Deuteronomy 4:1']`, fix=`['Deuteronomy 4:1']`
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **verse_before_gospel**: stored=`['John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c27a2d5
