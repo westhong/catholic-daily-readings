@@ -79058,7 +79058,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 145:10-11, 12-13, 17-18",
+            "citation": "Ps 145:10-11",
             "sources": [
               "USCCB"
             ]
@@ -79079,8 +79079,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-19": [
