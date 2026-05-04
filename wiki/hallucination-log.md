@@ -9364,3 +9364,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae29fd2
+
+### ❌ 2025-06-14 — Saturday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-04 11:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061425.cfm
+- **Status**: mismatch
+- **Lectionary**: 364
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 9-10, 11-12']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c34b1b
