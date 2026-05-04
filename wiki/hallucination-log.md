@@ -8195,3 +8195,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 7-8, 9']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['HEB 1:1-2']`, fix=`['HEB 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21dc4a5
+
+### ❌ 2025-04-14 — Monday of Holy Week
+- **Checked**: 2026-05-04 01:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041425.cfm
+- **Status**: mismatch
+- **Lectionary**: 257
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 2, 3, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b839d20
