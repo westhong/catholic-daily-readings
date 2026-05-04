@@ -10809,3 +10809,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['2 Timothy 4:6-8, 17-18']`, live=`['2 Timothy 4:6-8']`, fix=`['2 Timothy 4:6-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 16:18']`, fix=`['Matthew 16:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e22fbf
+
+### ❌ 2025-08-26 — Tuesday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-04 23:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082625.cfm
+- **Status**: mismatch
+- **Lectionary**: 426
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 139:1-3, 4-6']`, live=`['Psalm 139:1-3']`, fix=`['Psalm 139:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c36e886
