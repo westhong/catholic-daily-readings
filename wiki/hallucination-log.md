@@ -9588,3 +9588,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:14-15']`, fix=`['Jn 3:14-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d935ba8
+
+### ❌ 2026-01-15 — Thursday of the First Week in Ordinary Time
+- **Checked**: 2026-05-04 13:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011526.cfm
+- **Status**: mismatch
+- **Lectionary**: 308
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 44:10-11, 14-15, 24-25']`, live=`['Psalm 44:10-11']`, fix=`['Psalm 44:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f4aec75
+
+### ✅ 2024-03-03 — Third Sunday of Lent
+- **Checked**: 2026-05-04 13:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030324.cfm
+- **Status**: ok
+- **Lectionary**: 28

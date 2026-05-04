@@ -48767,5 +48767,72 @@
       ]
     },
     "checked_at": "2026-05-04T13:15:46+00:00"
+  },
+  "2026-01-15:0": {
+    "date": "2026-01-15",
+    "url": "https://bible.usccb.org/bible/readings/011526.cfm",
+    "lectionary_number": 308,
+    "feast": "Thursday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 44:10-11, 14-15, 24-25"
+        ],
+        "live": [
+          "Psalm 44:10-11"
+        ],
+        "fix": [
+          "Psalm 44:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 4:23"
+        ],
+        "fix": [
+          "See Matthew 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 44:10-11"
+      ],
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 4:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 44:10-11"
+      ],
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ],
+      "gospel": [
+        "Mark 1:40-45"
+      ]
+    },
+    "checked_at": "2026-05-04T13:21:00+00:00"
+  },
+  "2024-03-03:0": {
+    "date": "2024-03-03",
+    "url": "https://bible.usccb.org/bible/readings/030324.cfm",
+    "lectionary_number": 28,
+    "feast": "Third Sunday of Lent",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T13:25:17+00:00"
   }
 }

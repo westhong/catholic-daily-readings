@@ -64316,7 +64316,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "GAL 4:22-24, 26-27, 31–5",
+            "citation": "GAL 4:22-24",
             "sources": [
               "USCCB"
             ]
@@ -64345,8 +64345,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "PS 95:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-15": [
