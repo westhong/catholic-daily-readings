@@ -9731,3 +9731,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Mc 7:1, 20-31']`, live=`['2 Mc 7:1']`, fix=`['2 Mc 7:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7212ad0
+
+### 🚫 2026-10-29 — 
+- **Checked**: 2026-05-04 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1029.cfm
+- **Status**: url_dead
+- **Lectionary**: 482
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1029.cfm`, live=fetch failed
