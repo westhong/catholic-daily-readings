@@ -9327,3 +9327,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **verse_before_gospel**: stored=`['John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c27a2d5
+
+### ❌ 2025-10-22 — Wednesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-04 11:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102225.cfm
+- **Status**: mismatch
+- **Lectionary**: 475
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/34e8a02
