@@ -8851,3 +8851,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 454
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/926.cfm`, live=fetch failed
+
+### ❌ 2023-02-14 — Memorial of Saints Cyril, Monk, and Methodius, Bishop
+- **Checked**: 2026-05-04 07:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021423.cfm
+- **Status**: mismatch
+- **Lectionary**: 336
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d1c24e4

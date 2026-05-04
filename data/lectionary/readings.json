@@ -67929,7 +67929,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 1:20—2",
+            "citation": "Gn 1:20",
             "sources": [
               "USCCB"
             ]
@@ -67937,7 +67937,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 8:4-5, 6-7, 8-9",
+            "citation": "Ps 8:4-5",
             "sources": [
               "USCCB"
             ]
@@ -67958,8 +67958,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 119:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-08": [
