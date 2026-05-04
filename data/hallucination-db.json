@@ -45382,5 +45382,35 @@
       ]
     },
     "checked_at": "2026-05-04T07:25:33+00:00"
+  },
+  "2024-03-27:0": {
+    "date": "2024-03-27",
+    "url": "https://bible.usccb.org/bible/readings/032724.cfm",
+    "lectionary_number": 259,
+    "feast": "Wednesday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "69:8-10, 21-22, 31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 50:4-9"
+      ],
+      "gospel": [
+        "Mt 26:14-25"
+      ]
+    },
+    "checked_at": "2026-05-04T07:30:48+00:00"
   }
 }

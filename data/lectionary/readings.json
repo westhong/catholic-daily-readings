@@ -80296,7 +80296,7 @@
         ],
         "gospel": [
           {
-            "citation": "Lk 14:1, 7-11",
+            "citation": "Lk 14:1",
             "sources": [
               "USCCB"
             ]
@@ -80309,8 +80309,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-05": [
