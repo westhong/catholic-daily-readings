@@ -43835,5 +43835,75 @@
       ]
     },
     "checked_at": "2026-05-04T04:55:24+00:00"
+  },
+  "2023-10-02:0": {
+    "date": "2023-10-02",
+    "url": "https://bible.usccb.org/bible/readings/100223.cfm",
+    "lectionary_number": 455,
+    "feast": "Memorial of the Guardian Angels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 102:16-18, 19-21, 29"
+        ],
+        "live": [
+          "Ps 102:16-18"
+        ],
+        "fix": [
+          "Ps 102:16-18"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 103:21"
+        ],
+        "fix": [
+          "Ps 103:21"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 18:1-5, 10"
+        ],
+        "live": [
+          "Mt 18:1-5"
+        ],
+        "fix": [
+          "Mt 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 102:16-18"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zec 8:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 102:16-18"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-04T05:00:36+00:00"
   }
 }

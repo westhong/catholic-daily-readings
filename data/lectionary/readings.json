@@ -78443,7 +78443,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dn 7:9-10, 13-14",
+            "citation": "Dn 7:9-10",
             "sources": [
               "USCCB"
             ]
@@ -78472,8 +78472,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 103:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-30": [
