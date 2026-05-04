@@ -8551,3 +8551,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:89, 90, 91, 130, 135, 175']`, live=`['Ps 119:89']`, fix=`['Ps 119:89']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:5']`, fix=`['Jn 15:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ff6a5d
+
+### 🚫 2026-10-22 — 
+- **Checked**: 2026-05-04 04:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1022.cfm
+- **Status**: url_dead
+- **Lectionary**: 476
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1022.cfm`, live=fetch failed

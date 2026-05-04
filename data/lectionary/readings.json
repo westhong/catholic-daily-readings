@@ -61804,7 +61804,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:12-13, 18-19, 20-21",
+            "citation": "Ps 33:12-13",
             "sources": [
               "USCCB"
             ]
@@ -61825,8 +61825,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-01": [
