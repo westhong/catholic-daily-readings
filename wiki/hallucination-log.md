@@ -9336,3 +9336,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/34e8a02
+
+### 🚫 2026-07-08 — Wednesday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 11:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/78.cfm
+- **Status**: url_dead
+- **Lectionary**: 385
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/78.cfm`, live=fetch failed
