@@ -9160,3 +9160,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e0d488
+
+### 🚫 2026-10-13 — 
+- **Checked**: 2026-05-04 09:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1013.cfm
+- **Status**: url_dead
+- **Lectionary**: 468
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1013.cfm`, live=fetch failed

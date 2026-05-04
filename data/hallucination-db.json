@@ -46594,5 +46594,24 @@
       ]
     },
     "checked_at": "2026-05-04T09:35:54+00:00"
+  },
+  "2026-10-13:0": {
+    "date": "2026-10-13",
+    "url": "https://bible.usccb.org/bible/readings/1013.cfm",
+    "lectionary_number": 468,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1013.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T09:40:08+00:00"
   }
 }
