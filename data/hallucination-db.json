@@ -43610,5 +43610,44 @@
       ]
     },
     "checked_at": "2026-05-04T04:35:33+00:00"
+  },
+  "2025-12-23:0": {
+    "date": "2025-12-23",
+    "url": "https://bible.usccb.org/bible/readings/122325.cfm",
+    "lectionary_number": 199,
+    "feast": "Tuesday of the Fourth Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Malachi 3:1-4, 23-24"
+        ],
+        "live": [
+          "Malachi 3:1-4"
+        ],
+        "fix": [
+          "Malachi 3:1-4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Malachi 3:1-4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Malachi 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 25:4-5"
+      ],
+      "gospel": [
+        "Luke 1:57-66"
+      ]
+    },
+    "checked_at": "2026-05-04T04:40:47+00:00"
   }
 }
