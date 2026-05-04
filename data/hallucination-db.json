@@ -50171,5 +50171,66 @@
       ]
     },
     "checked_at": "2026-05-04T15:46:02+00:00"
+  },
+  "2023-03-26:0": {
+    "date": "2023-03-26",
+    "url": "https://bible.usccb.org/bible/readings/032623.cfm",
+    "lectionary_number": 34,
+    "feast": "Fifth Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "130:1-2, 3-4, 5-6, 7-8"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jn 11:25a, 26"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 11:1-45"
+        ],
+        "live": [
+          "Jn 11:1-45",
+          "Jn 11:3-7"
+        ],
+        "fix": [
+          "Jn 11:1-45",
+          "Jn 11:3-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Jn 11:1-45",
+        "Jn 11:3-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 37:12-14"
+      ],
+      "second_reading": [
+        "Rom 8:8-11"
+      ],
+      "gospel": [
+        "Jn 11:1-45",
+        "Jn 11:3-7"
+      ]
+    },
+    "checked_at": "2026-05-04T15:50:25+00:00"
   }
 }

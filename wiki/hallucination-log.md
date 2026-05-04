@@ -9872,3 +9872,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 42:2, 3']`, live=`['Psalm 42:2', 'See Psalm 130:5']`, fix=`['Psalm 42:2', 'See Psalm 130:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cfff4e3
+
+### ❌ 2023-03-26 — Fifth Sunday of Lent
+- **Checked**: 2026-05-04 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032623.cfm
+- **Status**: mismatch
+- **Lectionary**: 34
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['130:1-2, 3-4, 5-6, 7-8']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Jn 11:25a, 26']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 11:1-45']`, live=`['Jn 11:1-45', 'Jn 11:3-7']`, fix=`['Jn 11:1-45', 'Jn 11:3-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ec98017
