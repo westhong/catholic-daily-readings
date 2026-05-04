@@ -9069,3 +9069,17 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:25']`, fix=`['Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1ab57ce
+
+### 🚫 2026-12-17 — 
+- **Checked**: 2026-05-04 08:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261217.cfm
+- **Status**: url_dead
+- **Lectionary**: 193
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261217.cfm`, live=fetch failed
+
+### ✅ 2024-12-04 — Wednesday of the First Week of Advent
+- **Checked**: 2026-05-04 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120424.cfm
+- **Status**: ok
+- **Lectionary**: 177

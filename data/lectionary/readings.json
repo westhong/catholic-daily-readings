@@ -25015,7 +25015,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:10-11, 12-13ab, 21",
+            "citation": "Psalm 145:10-11",
             "sources": [
               "USCCB"
             ]
@@ -25031,13 +25031,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 14:27-31a",
+            "citation": "John 14:27-31",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Luke 24:46",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-06": [
