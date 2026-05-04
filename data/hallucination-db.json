@@ -49653,5 +49653,60 @@
       ]
     },
     "checked_at": "2026-05-04T14:50:23+00:00"
+  },
+  "2025-11-27:0": {
+    "date": "2025-11-27",
+    "url": "https://bible.usccb.org/bible/readings/112725-Thurs.cfm",
+    "lectionary_number": 506,
+    "feast": "Thursday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:68, 69, 70, 71, 72, 73, 74"
+        ],
+        "live": [
+          "Daniel 3:68"
+        ],
+        "fix": [
+          "Daniel 3:68"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:28"
+        ],
+        "fix": [
+          "Luke 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Daniel 3:68"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 6:12-28"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:68"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ],
+      "gospel": [
+        "Luke 21:20-28"
+      ]
+    },
+    "checked_at": "2026-05-04T14:55:36+00:00"
   }
 }

@@ -9767,3 +9767,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:2-3, 4-5, 12']`, live=`['Ps 33:2-3']`, fix=`['Ps 33:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:63']`, fix=`['See Jn 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b19e53e
+
+### ❌ 2025-11-27 — Thursday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112725-Thurs.cfm
+- **Status**: mismatch
+- **Lectionary**: 506
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Daniel 3:68, 69, 70, 71, 72, 73, 74']`, live=`['Daniel 3:68']`, fix=`['Daniel 3:68']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/99eb3fb
