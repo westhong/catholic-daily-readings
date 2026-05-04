@@ -9418,3 +9418,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 148
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1025.cfm`, live=fetch failed
+
+### ❌ 2025-10-11 — Saturday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 11:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101125.cfm
+- **Status**: mismatch
+- **Lectionary**: 466
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 97:1-2, 5-6, 11-12']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4514708

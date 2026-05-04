@@ -13287,7 +13287,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sirach 3:17-18, 20, 28-29",
+            "citation": "Sirach 3:17-18",
             "sources": [
               "USCCB"
             ]
@@ -13295,7 +13295,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:4-5, 6-7, 10-11",
+            "citation": "Psalm 68:4-5",
             "sources": [
               "USCCB"
             ]
@@ -13303,7 +13303,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Hebrews 12:18-19, 22-24",
+            "citation": "Hebrews 12:18-19",
             "sources": [
               "USCCB"
             ]
@@ -13311,7 +13311,7 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 14:1, 7-14",
+            "citation": "Luke 14:1",
             "sources": [
               "USCCB"
             ]
@@ -13324,8 +13324,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-01": [
