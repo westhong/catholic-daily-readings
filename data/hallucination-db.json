@@ -42602,5 +42602,60 @@
       ]
     },
     "checked_at": "2026-05-04T03:00:33+00:00"
+  },
+  "2025-05-10:0": {
+    "date": "2025-05-10",
+    "url": "https://bible.usccb.org/bible/readings/051025.cfm",
+    "lectionary_number": 278,
+    "feast": "Saturday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 116:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Psalm 116:12-13"
+        ],
+        "fix": [
+          "Psalm 116:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 6:63"
+        ],
+        "fix": [
+          "See John 6:63"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ],
+      "alleluia_verse": [
+        "See John 6:63"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:31-42"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ],
+      "alleluia_verse": [
+        "See John 6:63"
+      ],
+      "gospel": [
+        "John 6:60-69"
+      ]
+    },
+    "checked_at": "2026-05-04T03:05:44+00:00"
   }
 }

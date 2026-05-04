@@ -8391,3 +8391,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a8bf7f
+
+### ❌ 2025-05-10 — Saturday of the Third Week of Easter
+- **Checked**: 2026-05-04 03:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051025.cfm
+- **Status**: mismatch
+- **Lectionary**: 278
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 14-15, 16-17']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:63']`, fix=`['See John 6:63']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1f954f
