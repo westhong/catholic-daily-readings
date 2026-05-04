@@ -9344,3 +9344,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 385
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/78.cfm`, live=fetch failed
+
+### ❌ 2025-04-21 — Monday in the Octave of Easter
+- **Checked**: 2026-05-04 11:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042125.cfm
+- **Status**: mismatch
+- **Lectionary**: 261
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bea8edb
