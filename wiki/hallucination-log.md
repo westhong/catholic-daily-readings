@@ -8108,3 +8108,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 69:8-10, 14, 17, 33-35']`, live=`['Psalm 69:8-10']`, fix=`['Psalm 69:8-10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62ddc05
+
+### 🚫 2026-07-04 — Saturday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 00:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/74.cfm
+- **Status**: url_dead
+- **Lectionary**: 382
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/74.cfm`, live=fetch failed

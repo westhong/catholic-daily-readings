@@ -41139,5 +41139,24 @@
       ]
     },
     "checked_at": "2026-05-04T00:35:49+00:00"
+  },
+  "2026-07-04:0": {
+    "date": "2026-07-04",
+    "url": "https://bible.usccb.org/bible/readings/74.cfm",
+    "lectionary_number": 382,
+    "feast": "Saturday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/74.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T00:41:02+00:00"
   }
 }
