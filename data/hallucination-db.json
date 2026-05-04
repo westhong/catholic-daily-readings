@@ -41812,5 +41812,45 @@
       ]
     },
     "checked_at": "2026-05-04T01:45:45+00:00"
+  },
+  "2025-02-12:0": {
+    "date": "2025-02-12",
+    "url": "https://bible.usccb.org/bible/readings/021225.cfm",
+    "lectionary_number": 331,
+    "feast": "Wednesday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 17:17"
+        ],
+        "fix": [
+          "John 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 2:4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 104:1-2"
+      ],
+      "alleluia_verse": [
+        "John 17:17"
+      ],
+      "gospel": [
+        "Mark 7:14-23"
+      ]
+    },
+    "checked_at": "2026-05-04T01:50:56+00:00"
   }
 }

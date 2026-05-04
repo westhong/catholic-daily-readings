@@ -52118,7 +52118,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 95:1-2, 6-7, 7-9",
+            "citation": "Ps 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -52147,8 +52147,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-29": [

@@ -8242,3 +8242,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 105:2-3, 4-5, 6-7']`, live=`['Ps 105:2-3']`, fix=`['Ps 105:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/140b719
+
+### ❌ 2025-02-12 — Wednesday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-04 01:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021225.cfm
+- **Status**: mismatch
+- **Lectionary**: 331
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4dd323f
