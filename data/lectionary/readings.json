@@ -27274,7 +27274,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:8-10, 14, 17, 33-35",
+            "citation": "Psalm 69:8-10",
             "sources": [
               "USCCB"
             ]
@@ -27303,8 +27303,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-22": [

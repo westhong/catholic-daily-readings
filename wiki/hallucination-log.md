@@ -8088,3 +8088,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 119:1-2, 4-5, 17-18, 33-34']`, live=`['Psalm 119:1-2']`, fix=`['Psalm 119:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f79b5f8
+
+### ❌ 2025-06-23 — Monday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-04 00:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062325.cfm
+- **Status**: mismatch
+- **Lectionary**: 371
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:12-13, 18-19, 20']`, live=`['Psalm 33:12-13']`, fix=`['Psalm 33:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fa2cd16
