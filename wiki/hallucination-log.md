@@ -8175,3 +8175,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 16:7']`, fix=`['See Jn 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7634b16
+
+### ❌ 2023-10-18 — Feast of Saint Luke, evangelist
+- **Checked**: 2026-05-04 01:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101823.cfm
+- **Status**: mismatch
+- **Lectionary**: 661
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13, 17-18']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b2b5813

@@ -50976,7 +50976,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 98:1, 7-8, 9",
+            "citation": "Ps 98:1",
             "sources": [
               "USCCB"
             ]
@@ -50997,8 +50997,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "HEB 1:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-05": [
