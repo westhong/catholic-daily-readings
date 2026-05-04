@@ -44681,5 +44681,66 @@
       ]
     },
     "checked_at": "2026-05-04T06:25:44+00:00"
+  },
+  "2024-12-25:3": {
+    "date": "2024-12-25",
+    "url": "https://bible.usccb.org/bible/readings/122524-Day.cfm",
+    "lectionary_number": 16,
+    "feast": "The Nativity of the Lord (Christmas) Mass during the Day",
+    "mass_idx": 3,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 2-3, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 1:1-18"
+        ],
+        "live": [
+          "Jn 1:1-18",
+          "Jn 1:1-5"
+        ],
+        "fix": [
+          "Jn 1:1-18",
+          "Jn 1:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "gospel": [
+        "Jn 1:1-18",
+        "Jn 1:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 52:7-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "second_reading": [
+        "Heb 1:1-6"
+      ],
+      "gospel": [
+        "Jn 1:1-18",
+        "Jn 1:1-5"
+      ]
+    },
+    "checked_at": "2026-05-04T06:30:58+00:00"
   }
 }

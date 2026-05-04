@@ -8790,3 +8790,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/568daa2
+
+### ❌ 2024-12-25 — The Nativity of the Lord (Christmas) Mass during the Day
+- **Checked**: 2026-05-04 06:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122524-Day.cfm
+- **Status**: mismatch
+- **Lectionary**: 16
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3, 3-4, 5-6']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **gospel**: stored=`['Jn 1:1-18']`, live=`['Jn 1:1-18', 'Jn 1:1-5']`, fix=`['Jn 1:1-18', 'Jn 1:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0fea185
