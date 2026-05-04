@@ -51930,5 +51930,60 @@
       ]
     },
     "checked_at": "2026-05-04T18:45:09+00:00"
+  },
+  "2025-01-28:0": {
+    "date": "2025-01-28",
+    "url": "https://bible.usccb.org/bible/readings/012825.cfm",
+    "lectionary_number": 318,
+    "feast": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 40:2, 4"
+        ],
+        "live": [
+          "Psalm 40:2"
+        ],
+        "fix": [
+          "Psalm 40:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:25"
+        ],
+        "fix": [
+          "Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 10:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 3:31-35"
+      ]
+    },
+    "checked_at": "2026-05-04T18:50:22+00:00"
   }
 }
