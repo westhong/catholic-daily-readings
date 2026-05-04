@@ -48992,5 +48992,44 @@
       ]
     },
     "checked_at": "2026-05-04T13:40:57+00:00"
+  },
+  "2025-12-02:0": {
+    "date": "2025-12-02",
+    "url": "https://bible.usccb.org/bible/readings/120225.cfm",
+    "lectionary_number": 176,
+    "feast": "Tuesday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 72:1-2, 7-8, 12-13, 17"
+        ],
+        "live": [
+          "Psalm 72:1-2"
+        ],
+        "fix": [
+          "Psalm 72:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 72:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 11:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 72:1-2"
+      ],
+      "gospel": [
+        "Luke 10:21-24"
+      ]
+    },
+    "checked_at": "2026-05-04T13:45:11+00:00"
   }
 }
