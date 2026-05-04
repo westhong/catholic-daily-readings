@@ -13820,13 +13820,14 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 1:1-16, 18-23",
+            "citation": "Matthew 1:1-16",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-09": [

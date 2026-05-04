@@ -10394,3 +10394,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 18:2-3, 3-4, 47, 51']`, live=`['Ps 18:2-3']`, fix=`['Ps 18:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf13ffa
+
+### ❌ 2027-05-02 — Sixth Sunday of Easter
+- **Checked**: 2026-05-04 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050227.cfm
+- **Status**: mismatch
+- **Lectionary**: 56
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 10:25-26, 34-35, 44-48']`, live=`['Acts 10:25-26']`, fix=`['Acts 10:25-26']`
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3, 3-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a19960
