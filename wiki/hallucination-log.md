@@ -8271,3 +8271,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 118:2-4, 13-15, 22-24']`, live=`['Psalm 118:2-4']`, fix=`['Psalm 118:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/548d43d
+
+### ❌ 2027-03-24 — Wednesday of Holy Week
+- **Checked**: 2026-05-04 02:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032427.cfm
+- **Status**: mismatch
+- **Lectionary**: 259
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 69:8-10, 21-22, 31']`, live=`['Psalm 69:8-10']`, fix=`['Psalm 69:8-10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1504071
