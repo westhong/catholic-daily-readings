@@ -8951,3 +8951,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 33:2-3, 4-5, 6-7, 8-9']`, live=`['PS 33:2-3']`, fix=`['PS 33:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/29c7845
+
+### ❌ 2026-03-11 — Wednesday of the Third Week of Lent
+- **Checked**: 2026-05-04 07:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031126.cfm
+- **Status**: mismatch
+- **Lectionary**: 239
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 4:1, 5-9']`, live=`['Deuteronomy 4:1']`, fix=`['Deuteronomy 4:1']`
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/72c86d9
