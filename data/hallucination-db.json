@@ -47576,5 +47576,60 @@
       ]
     },
     "checked_at": "2026-05-04T11:15:46+00:00"
+  },
+  "2025-05-02:0": {
+    "date": "2025-05-02",
+    "url": "https://bible.usccb.org/bible/readings/050225.cfm",
+    "lectionary_number": 271,
+    "feast": "Memorial of Saint Athanasius, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 27:1, 4, 13-14"
+        ],
+        "live": [
+          "Psalm 27:1"
+        ],
+        "fix": [
+          "Psalm 27:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 4:4"
+        ],
+        "fix": [
+          "Matthew 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:34-42"
+      ],
+      "responsorial_psalm": [
+        "Psalm 27:1"
+      ],
+      "alleluia_verse": [
+        "Matthew 4:4"
+      ],
+      "gospel": [
+        "John 6:1-15"
+      ]
+    },
+    "checked_at": "2026-05-04T11:20:59+00:00"
   }
 }

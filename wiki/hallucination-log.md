@@ -9354,3 +9354,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bea8edb
+
+### ❌ 2025-05-02 — Memorial of Saint Athanasius, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 11:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050225.cfm
+- **Status**: mismatch
+- **Lectionary**: 271
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae29fd2

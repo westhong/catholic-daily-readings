@@ -9331,7 +9331,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+            "citation": "Psalm 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -9352,8 +9352,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 119:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-15": [
