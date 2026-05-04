@@ -19898,7 +19898,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 44:10-11, 14-15, 24-25",
+            "citation": "Psalm 44:10-11",
             "sources": [
               "USCCB"
             ]
@@ -19919,8 +19919,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-16": [

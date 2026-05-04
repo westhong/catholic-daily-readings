@@ -48727,5 +48727,45 @@
       ]
     },
     "checked_at": "2026-05-04T13:10:32+00:00"
+  },
+  "2023-04-18:0": {
+    "date": "2023-04-18",
+    "url": "https://bible.usccb.org/bible/readings/041823.cfm",
+    "lectionary_number": 268,
+    "feast": "Tuesday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 3:14-15"
+        ],
+        "fix": [
+          "Jn 3:14-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 3:14-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:32-37"
+      ],
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "alleluia_verse": [
+        "Jn 3:14-15"
+      ],
+      "gospel": [
+        "Jn 3:7"
+      ]
+    },
+    "checked_at": "2026-05-04T13:15:46+00:00"
   }
 }

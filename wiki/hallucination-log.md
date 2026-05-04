@@ -9579,3 +9579,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Is 12:2-3, 4, 5-6']`, live=`['Is 12:2-3']`, fix=`['Is 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 61:1']`, fix=`['Is 61:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ae0218b
+
+### ❌ 2023-04-18 — Tuesday of the Second Week of Easter
+- **Checked**: 2026-05-04 13:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041823.cfm
+- **Status**: mismatch
+- **Lectionary**: 268
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:14-15']`, fix=`['Jn 3:14-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d935ba8
