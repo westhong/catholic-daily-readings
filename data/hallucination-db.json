@@ -48020,5 +48020,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T12:05:21+00:00"
+  },
+  "2027-09-01:0": {
+    "date": "2027-09-01",
+    "url": "https://bible.usccb.org/bible/readings/090127.cfm",
+    "lectionary_number": 433,
+    "feast": "Wednesday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 52:10, 11"
+        ],
+        "live": [
+          "Psalm 52:10"
+        ],
+        "fix": [
+          "Psalm 52:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 4:18"
+        ],
+        "fix": [
+          "Luke 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 52:10"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 1:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 52:10"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ],
+      "gospel": [
+        "Luke 4:38-44"
+      ]
+    },
+    "checked_at": "2026-05-04T12:10:35+00:00"
   }
 }
