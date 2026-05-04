@@ -8146,3 +8146,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
   - **gospel**: stored=`['of God: “This is the time of fulfillment']`, live=`['Mark 1:14-20']`, fix=`['Mark 1:14-20']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ebe85e
+
+### ❌ 2025-07-05 — Saturday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 01:01 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070525.cfm
+- **Status**: mismatch
+- **Lectionary**: 382
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 27:1-5, 15-29']`, live=`['Genesis 27:1-5']`, fix=`['Genesis 27:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d36aad1
