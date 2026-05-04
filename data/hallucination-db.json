@@ -51051,5 +51051,60 @@
       ]
     },
     "checked_at": "2026-05-04T17:20:27+00:00"
+  },
+  "2027-07-07:0": {
+    "date": "2027-07-07",
+    "url": "https://bible.usccb.org/bible/readings/070727.cfm",
+    "lectionary_number": 385,
+    "feast": "Wednesday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 33:2-3, 10-11, 18-19"
+        ],
+        "live": [
+          "Psalm 33:2-3"
+        ],
+        "fix": [
+          "Psalm 33:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 1:15"
+        ],
+        "fix": [
+          "Mark 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 41:55-57"
+      ],
+      "responsorial_psalm": [
+        "Psalm 33:2-3"
+      ],
+      "alleluia_verse": [
+        "Mark 1:15"
+      ],
+      "gospel": [
+        "Matthew 10:1-7"
+      ]
+    },
+    "checked_at": "2026-05-04T17:25:40+00:00"
   }
 }

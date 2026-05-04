@@ -10055,3 +10055,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 105:1-2, 3-4, 6-7']`, live=`['Ps 105:1-2']`, fix=`['Ps 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 4:14']`, fix=`['1 Pt 4:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d064cc6
+
+### ❌ 2027-07-07 — Wednesday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070727.cfm
+- **Status**: mismatch
+- **Lectionary**: 385
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:2-3, 10-11, 18-19']`, live=`['Psalm 33:2-3']`, fix=`['Psalm 33:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cc6130
