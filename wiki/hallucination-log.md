@@ -9094,3 +9094,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
   - **gospel**: stored=`['John 14:27-31a']`, live=`['John 14:27-31']`, fix=`['John 14:27-31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/59c6c94
+
+### 🚫 2026-11-15 — 
+- **Checked**: 2026-05-04 09:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261115.cfm
+- **Status**: url_dead
+- **Lectionary**: 157
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261115.cfm`, live=fetch failed
