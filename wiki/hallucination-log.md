@@ -8541,3 +8541,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 118:1-2, 16-17, 22-23']`, live=`['Ps 118:1-2']`, fix=`['Ps 118:1-2']`
   - **second_reading**: stored=`['Col 3:1-4']`, live=`['Col 3:1-4', 'I Cor 5:6']`, fix=`['Col 3:1-4', 'I Cor 5:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d1570b
+
+### ❌ 2023-11-16 — Thursday of the Thirty-second Week in Ordinary Time
+- **Checked**: 2026-05-04 04:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111623.cfm
+- **Status**: mismatch
+- **Lectionary**: 494
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:89, 90, 91, 130, 135, 175']`, live=`['Ps 119:89']`, fix=`['Ps 119:89']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:5']`, fix=`['Jn 15:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9ff6a5d
