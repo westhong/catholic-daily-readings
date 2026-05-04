@@ -9691,3 +9691,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/38537ec
+
+### ❌ 2024-10-15 — Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church
+- **Checked**: 2026-05-04 14:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101524.cfm
+- **Status**: mismatch
+- **Lectionary**: 468
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 119:41, 43, 44, 45, 47, 48']`, live=`['PS 119:41']`, fix=`['PS 119:41']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['HEB 4:12']`, fix=`['HEB 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5b28604

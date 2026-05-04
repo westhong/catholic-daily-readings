@@ -49278,5 +49278,60 @@
       ]
     },
     "checked_at": "2026-05-04T14:10:27+00:00"
+  },
+  "2024-10-15:0": {
+    "date": "2024-10-15",
+    "url": "https://bible.usccb.org/bible/readings/101524.cfm",
+    "lectionary_number": 468,
+    "feast": "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:41, 43, 44, 45, 47, 48"
+        ],
+        "live": [
+          "PS 119:41"
+        ],
+        "fix": [
+          "PS 119:41"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "HEB 4:12"
+        ],
+        "fix": [
+          "HEB 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 119:41"
+      ],
+      "alleluia_verse": [
+        "HEB 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "PS 119:41"
+      ],
+      "alleluia_verse": [
+        "HEB 4:12"
+      ],
+      "gospel": [
+        "LK 11:37-41"
+      ]
+    },
+    "checked_at": "2026-05-04T14:15:43+00:00"
   }
 }
