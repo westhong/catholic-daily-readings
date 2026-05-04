@@ -8321,3 +8321,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 84:5']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 1:16, 18-21, 24']`, live=`['Matthew 1:16']`, fix=`['Matthew 1:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62002e1
+
+### ❌ 2027-08-02 — Monday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 02:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080227.cfm
+- **Status**: mismatch
+- **Lectionary**: 407
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 81:12-13, 14-15, 16-17']`, live=`['Psalm 81:12-13']`, fix=`['Psalm 81:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f1384f5
