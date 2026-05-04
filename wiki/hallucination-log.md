@@ -8761,3 +8761,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8ec279
+
+### 🚫 2026-09-17 — 
+- **Checked**: 2026-05-04 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/917.cfm
+- **Status**: url_dead
+- **Lectionary**: 446
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/917.cfm`, live=fetch failed
