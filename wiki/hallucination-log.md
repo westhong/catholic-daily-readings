@@ -10065,3 +10065,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:2-3, 10-11, 18-19']`, live=`['Psalm 33:2-3']`, fix=`['Psalm 33:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cc6130
+
+### ❌ 2027-04-20 — Tuesday of the Fourth Week of Easter
+- **Checked**: 2026-05-04 17:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042027.cfm
+- **Status**: mismatch
+- **Lectionary**: 280
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3de5762
