@@ -47230,5 +47230,60 @@
       ]
     },
     "checked_at": "2026-05-04T10:35:50+00:00"
+  },
+  "2024-08-30:0": {
+    "date": "2024-08-30",
+    "url": "https://bible.usccb.org/bible/readings/083024.cfm",
+    "lectionary_number": 429,
+    "feast": "Friday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:1-2, 4-5, 10-11"
+        ],
+        "live": [
+          "Ps 33:1-2"
+        ],
+        "fix": [
+          "Ps 33:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 21:36"
+        ],
+        "fix": [
+          "Lk 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 1:17-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 21:36"
+      ],
+      "gospel": [
+        "Mt 25:1-13"
+      ]
+    },
+    "checked_at": "2026-05-04T10:41:03+00:00"
   }
 }
