@@ -44933,5 +44933,75 @@
       ]
     },
     "checked_at": "2026-05-04T06:45:40+00:00"
+  },
+  "2026-05-22:0": {
+    "date": "2026-05-22",
+    "url": "https://bible.usccb.org/bible/readings/052226.cfm",
+    "lectionary_number": 301,
+    "feast": "Friday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 25:13b-21"
+        ],
+        "live": [
+          "Acts 25:13"
+        ],
+        "fix": [
+          "Acts 25:13"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:1-2, 11-12, 19-20ab"
+        ],
+        "live": [
+          "Psalm 103:1-2"
+        ],
+        "fix": [
+          "Psalm 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:26"
+        ],
+        "fix": [
+          "John 14:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 25:13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 25:13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "alleluia_verse": [
+        "John 14:26"
+      ],
+      "gospel": [
+        "John 21:15-19"
+      ]
+    },
+    "checked_at": "2026-05-04T06:50:56+00:00"
   }
 }

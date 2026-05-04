@@ -8832,3 +8832,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 61:1']`, fix=`['Is 61:1']`
   - **gospel**: stored=`['Jn 1:6-8, 19-28']`, live=`['Jn 1:6-8']`, fix=`['Jn 1:6-8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3de3fd3
+
+### ❌ 2026-05-22 — Friday of the Seventh Week of Easter
+- **Checked**: 2026-05-04 06:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052226.cfm
+- **Status**: mismatch
+- **Lectionary**: 301
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 25:13b-21']`, live=`['Acts 25:13']`, fix=`['Acts 25:13']`
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 11-12, 19-20ab']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:26']`, fix=`['John 14:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/58f0f35
