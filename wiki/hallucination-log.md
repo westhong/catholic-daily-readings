@@ -8309,3 +8309,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['111:1-2, 4-5, 9']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f37b84b
+
+### ❌ 2025-03-19 — Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary
+- **Checked**: 2026-05-04 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031925.cfm
+- **Status**: mismatch
+- **Lectionary**: 543
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:2-3, 4-5, 27']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
+  - **second_reading**: stored=`['Romans 4:13, 16-18, 22']`, live=`['Romans 4:13']`, fix=`['Romans 4:13']`
+  - **verse_before_gospel**: stored=`['Psalm 84:5']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 1:16, 18-21, 24']`, live=`['Matthew 1:16']`, fix=`['Matthew 1:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62002e1
