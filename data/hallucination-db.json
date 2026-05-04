@@ -51256,5 +51256,75 @@
       ]
     },
     "checked_at": "2026-05-04T17:45:32+00:00"
+  },
+  "2023-07-14:0": {
+    "date": "2023-07-14",
+    "url": "https://bible.usccb.org/bible/readings/071423.cfm",
+    "lectionary_number": 387,
+    "feast": "Memorial of Saint Kateri Tekakwitha, Virgin",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 46:1-7, 28-30"
+        ],
+        "live": [
+          "Gn 46:1-7"
+        ],
+        "fix": [
+          "Gn 46:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 37:3-4, 18-19, 27-28, 39-40"
+        ],
+        "live": [
+          "Ps 37:3-4"
+        ],
+        "fix": [
+          "Ps 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 16:13"
+        ],
+        "fix": [
+          "Jn 16:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 46:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 16:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 46:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Jn 16:13"
+      ],
+      "gospel": [
+        "Mt 10:16-23"
+      ]
+    },
+    "checked_at": "2026-05-04T17:50:42+00:00"
   }
 }

@@ -10099,3 +10099,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/120325.cfm
 - **Status**: ok
 - **Lectionary**: 177
+
+### ❌ 2023-07-14 — Memorial of Saint Kateri Tekakwitha, Virgin
+- **Checked**: 2026-05-04 17:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071423.cfm
+- **Status**: mismatch
+- **Lectionary**: 387
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 46:1-7, 28-30']`, live=`['Gn 46:1-7']`, fix=`['Gn 46:1-7']`
+  - **responsorial_psalm**: stored=`['Ps 37:3-4, 18-19, 27-28, 39-40']`, live=`['Ps 37:3-4']`, fix=`['Ps 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:13']`, fix=`['Jn 16:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/558ea6d

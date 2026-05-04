@@ -17,7 +17,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 25:4-5, 8-9, 10, 14",
+            "citation": "Ps 25:4-5",
             "sources": [
               "USCCB"
             ]
@@ -25,7 +25,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Thes 3:12—4",
+            "citation": "1 Thes 3:12",
             "sources": [
               "USCCB"
             ]
@@ -33,7 +33,7 @@
         ],
         "gospel": [
           {
-            "citation": "Lk 21:25-28, 34-36",
+            "citation": "Lk 21:25-28",
             "sources": [
               "USCCB"
             ]
@@ -46,8 +46,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 85:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-02": [
