@@ -9289,3 +9289,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:1-2, 4-5, 10-11']`, live=`['Ps 33:1-2']`, fix=`['Ps 33:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:36']`, fix=`['Lk 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0ff8334
+
+### ❌ 2027-06-15 — Tuesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-04 10:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061527.cfm
+- **Status**: mismatch
+- **Lectionary**: 366
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 146:2, 5-6']`, live=`['Psalm 146:2']`, fix=`['Psalm 146:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8409117
