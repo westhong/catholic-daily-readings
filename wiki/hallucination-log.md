@@ -8443,3 +8443,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/edbf9f8
+
+### ❌ 2023-09-21 — Feast of Saint Matthew, Apostle and evangelist
+- **Checked**: 2026-05-04 03:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092123.cfm
+- **Status**: mismatch
+- **Lectionary**: 643
+- **Mismatches**:
+  - **first_reading**: stored=`['Eph 4:1-7, 11-13']`, live=`['Eph 4:1-7']`, fix=`['Eph 4:1-7']`
+  - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/901a71f
