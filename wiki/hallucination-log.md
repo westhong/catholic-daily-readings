@@ -9530,3 +9530,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 82:3-4, 6-7']`, live=`['Ps 82:3-4']`, fix=`['Ps 82:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thes 5:18']`, fix=`['1 Thes 5:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df7c638
+
+### ❌ 2025-07-16 — Wednesday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 12:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071625.cfm
+- **Status**: mismatch
+- **Lectionary**: 391
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 3:1-6, 9-12']`, live=`['Exodus 3:1-6']`, fix=`['Exodus 3:1-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeb9474
