@@ -8599,3 +8599,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 9']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 17:5']`, fix=`['Mt 17:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/be0e427
+
+### ❌ 2025-11-03 — Monday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-04 04:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110325.cfm
+- **Status**: mismatch
+- **Lectionary**: 485
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 69:30-31, 33-34, 36']`, live=`['Psalm 69:30-31']`, fix=`['Psalm 69:30-31']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/08c208f
