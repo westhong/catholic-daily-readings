@@ -43310,5 +43310,60 @@
       ]
     },
     "checked_at": "2026-05-04T04:05:18+00:00"
+  },
+  "2024-06-28:0": {
+    "date": "2024-06-28",
+    "url": "https://bible.usccb.org/bible/readings/062824.cfm",
+    "lectionary_number": 375,
+    "feast": "Memorial of Saint Irenaeus, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 137:1-2, 3, 4-5, 6"
+        ],
+        "live": [
+          "PS 137:1-2"
+        ],
+        "fix": [
+          "PS 137:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MATTHEW 8:17"
+        ],
+        "fix": [
+          "MATTHEW 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 137:1-2"
+      ],
+      "alleluia_verse": [
+        "MATTHEW 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 KGS 25:1-12"
+      ],
+      "responsorial_psalm": [
+        "PS 137:1-2"
+      ],
+      "alleluia_verse": [
+        "MATTHEW 8:17"
+      ],
+      "gospel": [
+        "MT 8:1-4"
+      ]
+    },
+    "checked_at": "2026-05-04T04:10:31+00:00"
   }
 }

@@ -8521,3 +8521,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abc71c1
+
+### ❌ 2024-06-28 — Memorial of Saint Irenaeus, Bishop and Martyr
+- **Checked**: 2026-05-04 04:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062824.cfm
+- **Status**: mismatch
+- **Lectionary**: 375
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 137:1-2, 3, 4-5, 6']`, live=`['PS 137:1-2']`, fix=`['PS 137:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MATTHEW 8:17']`, fix=`['MATTHEW 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d0b8ce
