@@ -41852,5 +41852,63 @@
       ]
     },
     "checked_at": "2026-05-04T01:50:56+00:00"
+  },
+  "2024-01-28:0": {
+    "date": "2024-01-28",
+    "url": "https://bible.usccb.org/bible/readings/012824.cfm",
+    "lectionary_number": 71,
+    "feast": "Fourth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 95:1-2, 6-7, 7-9"
+        ],
+        "live": [
+          "Ps 95:1-2"
+        ],
+        "fix": [
+          "Ps 95:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:16"
+        ],
+        "fix": [
+          "Mt 4:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 95:1-2"
+      ],
+      "alleluia_verse": [
+        "Mt 4:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 18:15-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 95:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 7:32-35"
+      ],
+      "alleluia_verse": [
+        "Mt 4:16"
+      ],
+      "gospel": [
+        "Mk 1:21-28"
+      ]
+    },
+    "checked_at": "2026-05-04T01:55:08+00:00"
   }
 }
