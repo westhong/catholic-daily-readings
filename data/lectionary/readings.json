@@ -50408,7 +50408,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "IS 40:1-5, 9-11",
+            "citation": "IS 40:1-5",
             "sources": [
               "USCCB"
             ]
@@ -50416,7 +50416,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 85:9-10-11-12, 13-14",
+            "citation": "PS 85:9-10",
             "sources": [
               "USCCB"
             ]
@@ -50445,8 +50445,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "LK 3:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-11": [
