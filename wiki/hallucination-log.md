@@ -10000,3 +10000,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/617f579
+
+### ❌ 2023-09-28 — Thursday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-04 16:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092823.cfm
+- **Status**: mismatch
+- **Lectionary**: 452
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/68ed829

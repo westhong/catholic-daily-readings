@@ -50805,5 +50805,45 @@
       ]
     },
     "checked_at": "2026-05-04T16:50:06+00:00"
+  },
+  "2023-09-28:0": {
+    "date": "2023-09-28",
+    "url": "https://bible.usccb.org/bible/readings/092823.cfm",
+    "lectionary_number": 452,
+    "feast": "Thursday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hg 1:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 149:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Lk 9:7-9"
+      ]
+    },
+    "checked_at": "2026-05-04T16:55:19+00:00"
   }
 }
