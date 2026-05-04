@@ -8482,3 +8482,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Tobit 13:2, 6']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f561728
+
+### ❌ 2024-07-27 — Saturday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072724.cfm
+- **Status**: mismatch
+- **Lectionary**: 400
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 84:3, 4, 5-6']`, live=`['Ps 84:3']`, fix=`['Ps 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2f2f39

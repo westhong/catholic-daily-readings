@@ -58035,7 +58035,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 65:10, 11, 12-13",
+            "citation": "Ps 65:10",
             "sources": [
               "USCCB"
             ]
@@ -58056,8 +58056,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-14": [

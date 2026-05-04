@@ -43105,5 +43105,60 @@
       ]
     },
     "checked_at": "2026-05-04T03:45:25+00:00"
+  },
+  "2024-07-27:0": {
+    "date": "2024-07-27",
+    "url": "https://bible.usccb.org/bible/readings/072724.cfm",
+    "lectionary_number": 400,
+    "feast": "Saturday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 84:3, 4, 5-6"
+        ],
+        "live": [
+          "Ps 84:3"
+        ],
+        "fix": [
+          "Ps 84:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jas 1:21"
+        ],
+        "fix": [
+          "Jas 1:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 84:3"
+      ],
+      "alleluia_verse": [
+        "Jas 1:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 7:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 84:3"
+      ],
+      "alleluia_verse": [
+        "Jas 1:21"
+      ],
+      "gospel": [
+        "Mt 13:24-30"
+      ]
+    },
+    "checked_at": "2026-05-04T03:50:39+00:00"
   }
 }
