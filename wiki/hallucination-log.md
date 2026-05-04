@@ -9217,3 +9217,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 66:8-9, 16-17, 20']`, live=`['Psalm 66:8-9']`, fix=`['Psalm 66:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21c3dd0
+
+### ❌ 2024-12-29 — Feast of the Holy Family of Jesus, Mary and Joseph
+- **Checked**: 2026-05-04 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122924.cfm
+- **Status**: mismatch
+- **Lectionary**: 17
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 3:2-6, 12-14']`, live=`['Sir 3:2-6', '1 Sm 1:20-22']`, fix=`['Sir 3:2-6', '1 Sm 1:20-22']`
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2', 'Ps 84:2-3']`, fix=`['Ps 128:1-2', 'Ps 84:2-3']`
+  - **second_reading**: stored=`['Col 3:12-21']`, live=`['Col 3:12-21', '1 Jn 3:1-2']`, fix=`['Col 3:12-21', '1 Jn 3:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:15']`, fix=`['Col 3:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6cfa147

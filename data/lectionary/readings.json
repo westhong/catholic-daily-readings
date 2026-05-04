@@ -68967,7 +68967,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 86:1-2, 3-4, 5-6",
+            "citation": "Ps 86:1-2",
             "sources": [
               "USCCB"
             ]
@@ -68981,15 +68981,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ez 33:11",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-26": [
