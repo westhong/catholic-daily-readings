@@ -8676,3 +8676,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 11']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 8:15']`, fix=`['See Luke 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/96e9458
+
+### ❌ 2023-03-07 — Tuesday of the Second Week of Lent
+- **Checked**: 2026-05-04 05:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030723.cfm
+- **Status**: mismatch
+- **Lectionary**: 231
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 1:10, 16-20']`, live=`['Is 1:10']`, fix=`['Is 1:10']`
+  - **responsorial_psalm**: stored=`['Ps 50:8-9, 16']`, live=`['Ps 50:8-9']`, fix=`['Ps 50:8-9']`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3fc60d1
