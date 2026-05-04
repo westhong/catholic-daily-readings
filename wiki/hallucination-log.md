@@ -8892,3 +8892,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 119:1, 2, 10, 11, 17, 18']`, live=`['PS 119:1']`, fix=`['PS 119:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 21:28']`, fix=`['LK 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/67af260
+
+### ❌ 2027-05-22 — Saturday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 07:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052227.cfm
+- **Status**: mismatch
+- **Lectionary**: 346
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103:13-14, 15-16, 17-18']`, live=`['Psalm 103:13-14']`, fix=`['Psalm 103:13-14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3860219

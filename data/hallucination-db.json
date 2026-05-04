@@ -45251,5 +45251,60 @@
       ]
     },
     "checked_at": "2026-05-04T07:15:06+00:00"
+  },
+  "2027-05-22:0": {
+    "date": "2027-05-22",
+    "url": "https://bible.usccb.org/bible/readings/052227.cfm",
+    "lectionary_number": 346,
+    "feast": "Saturday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:13-14, 15-16, 17-18"
+        ],
+        "live": [
+          "Psalm 103:13-14"
+        ],
+        "fix": [
+          "Psalm 103:13-14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:25"
+        ],
+        "fix": [
+          "Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:13-14"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 17:1-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:13-14"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 10:13-16"
+      ]
+    },
+    "checked_at": "2026-05-04T07:20:21+00:00"
   }
 }

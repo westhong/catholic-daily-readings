@@ -5171,7 +5171,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 6-7, 8-9",
+            "citation": "Psalm 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -5179,7 +5179,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Romans 5:1-2, 5-8",
+            "citation": "Romans 5:1-2",
             "sources": [
               "USCCB"
             ]
@@ -5191,12 +5191,19 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "John 4:5-15",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/032325-YearA.cfm",
       "date": "2025-03-23",
-      "mass": "YearA"
+      "mass": "YearA",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 30,
