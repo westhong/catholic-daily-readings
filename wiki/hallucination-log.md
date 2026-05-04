@@ -10742,3 +10742,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
   - **gospel**: stored=`['Matthew 7:6, 12-14']`, live=`['Matthew 7:6']`, fix=`['Matthew 7:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/50aa4aa
+
+### ❌ 2026-03-18 — Wednesday of the Fourth Week of Lent
+- **Checked**: 2026-05-04 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031826.cfm
+- **Status**: mismatch
+- **Lectionary**: 246
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:8-9, 13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
+  - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bd4791a
+
+### ✅ 2023-09-19 — Tuesday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 23:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091923.cfm
+- **Status**: ok
+- **Lectionary**: 444
