@@ -50240,7 +50240,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Lk 1:46-48, 49-50, 53-54",
+            "citation": "Lk 1:46-48",
             "sources": [
               "USCCB"
             ]
@@ -50256,7 +50256,7 @@
         ],
         "gospel": [
           {
-            "citation": "Jn 1:6-8, 19-28",
+            "citation": "Jn 1:6-8",
             "sources": [
               "USCCB"
             ]
@@ -50269,8 +50269,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Is 61:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-18": [

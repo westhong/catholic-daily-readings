@@ -8811,3 +8811,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
   - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/80f3ada
+
+### ❌ 2024-10-12 — Saturday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-04 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101224.cfm
+- **Status**: mismatch
+- **Lectionary**: 466
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 105:2-3, 4-5, 6-7']`, live=`['PS 105:2-3']`, fix=`['PS 105:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/543aa7c
