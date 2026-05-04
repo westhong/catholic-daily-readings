@@ -10191,3 +10191,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 97:1-2, 6-7, 9']`, live=`['Psalm 97:1-2']`, fix=`['Psalm 97:1-2']`
   - **second_reading**: stored=`['Revelation 22:12-14, 16-17, 20']`, live=`['Revelation 22:12-14']`, fix=`['Revelation 22:12-14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4454ad3
+
+### ❌ 2027-06-13 — Eleventh Sunday in Ordinary Time
+- **Checked**: 2026-05-04 18:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061327.cfm
+- **Status**: mismatch
+- **Lectionary**: 92
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 92:2-3, 13-14, 15-16']`, live=`['Psalm 92:2-3']`, fix=`['Psalm 92:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2bad462

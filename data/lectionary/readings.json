@@ -82075,7 +82075,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Dn 3:57, 58, 59, 60, 61",
+            "citation": "Dn 3:57",
             "sources": [
               "USCCB"
             ]
@@ -82096,8 +82096,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Rev 2:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-29": [
