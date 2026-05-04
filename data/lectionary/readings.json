@@ -44564,7 +44564,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 13:2, 5-18",
+            "citation": "Genesis 13:2",
             "sources": [
               "USCCB"
             ]
@@ -44580,13 +44580,22 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 7:6, 12-14",
+            "citation": "Matthew 7:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:12",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-06-23": [

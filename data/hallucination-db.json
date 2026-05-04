@@ -54585,5 +54585,66 @@
       ]
     },
     "checked_at": "2026-05-04T22:56:01+00:00"
+  },
+  "2027-02-28:1": {
+    "date": "2027-02-28",
+    "url": "https://bible.usccb.org/bible/readings/022827-YearB.cfm",
+    "lectionary_number": 29,
+    "feast": "Third Sunday of Lent - Year B",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 20:1-17"
+        ],
+        "live": [
+          "Exodus 20:1-17",
+          "Exodus 20:1-3"
+        ],
+        "fix": [
+          "Exodus 20:1-17",
+          "Exodus 20:1-3"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 20:1-17",
+        "Exodus 20:1-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 20:1-17",
+        "Exodus 20:1-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "second_reading": [
+        "1 Corinthians 1:22-25"
+      ],
+      "gospel": [
+        "John 2:13-25"
+      ]
+    },
+    "checked_at": "2026-05-04T23:00:12+00:00"
   }
 }
