@@ -8962,3 +8962,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 15-16, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **verse_before_gospel**: stored=`['See John 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/72c86d9
+
+### ❌ 2024-08-20 — Memorial of Saint Bernard, Abbot and Doctor of the Church
+- **Checked**: 2026-05-04 07:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082024.cfm
+- **Status**: mismatch
+- **Lectionary**: 420
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2755778

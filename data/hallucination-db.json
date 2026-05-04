@@ -45627,5 +45627,45 @@
       ]
     },
     "checked_at": "2026-05-04T07:50:42+00:00"
+  },
+  "2024-08-20:0": {
+    "date": "2024-08-20",
+    "url": "https://bible.usccb.org/bible/readings/082024.cfm",
+    "lectionary_number": 420,
+    "feast": "Memorial of Saint Bernard, Abbot and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 8:9"
+        ],
+        "fix": [
+          "2 Cor 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 28:1-10"
+      ],
+      "responsorial_psalm": [
+        "Deuteronomy 32:26-27"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ],
+      "gospel": [
+        "Mt 19:23-30"
+      ]
+    },
+    "checked_at": "2026-05-04T07:55:57+00:00"
   }
 }
