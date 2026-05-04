@@ -10345,3 +10345,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 696
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261226.cfm`, live=fetch failed
+
+### ❌ 2027-02-06 — Memorial of Saint Paul Miki and Companions, Martyrs
+- **Checked**: 2026-05-04 19:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020627.cfm
+- **Status**: mismatch
+- **Lectionary**: 328
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 13:15-17, 20-21']`, live=`['Hebrews 13:15-17']`, fix=`['Hebrews 13:15-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f62897

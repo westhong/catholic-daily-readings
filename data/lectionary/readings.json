@@ -56115,7 +56115,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 66:8-9, 16-17, 20",
+            "citation": "Ps 66:8-9",
             "sources": [
               "USCCB"
             ]
@@ -56136,8 +56136,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-19": [
