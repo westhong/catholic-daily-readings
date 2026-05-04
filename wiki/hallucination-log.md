@@ -8412,3 +8412,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 100:2, 3, 4, 5']`, live=`['Psalm 100:2']`, fix=`['Psalm 100:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e27f4e8
+
+### ❌ 2025-03-03 — Monday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 03:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030325.cfm
+- **Status**: mismatch
+- **Lectionary**: 347
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9dff4
