@@ -41874,7 +41874,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 22:26-27, 28, 30, 31-32",
+            "citation": "Psalm 22:26-27",
             "sources": [
               "USCCB"
             ]
@@ -41903,8 +41903,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-26": [

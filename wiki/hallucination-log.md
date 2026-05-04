@@ -10528,3 +10528,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 458
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1001.cfm`, live=fetch failed
+
+### ❌ 2023-05-01 — Monday of the Fourth Week of Easter
+- **Checked**: 2026-05-04 21:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050123.cfm
+- **Status**: mismatch
+- **Lectionary**: 279
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a55f6b
