@@ -8231,3 +8231,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **first_reading**: stored=`['Mal 3:1-4, 23-24']`, live=`['Mal 3:1-4']`, fix=`['Mal 3:1-4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9207992
+
+### ❌ 2024-07-10 — Wednesday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 01:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071024.cfm
+- **Status**: mismatch
+- **Lectionary**: 385
+- **Mismatches**:
+  - **first_reading**: stored=`['Hos 10:1-3, 7-8, 12']`, live=`['Hos 10:1-3']`, fix=`['Hos 10:1-3']`
+  - **responsorial_psalm**: stored=`['Ps 105:2-3, 4-5, 6-7']`, live=`['Ps 105:2-3']`, fix=`['Ps 105:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/140b719
