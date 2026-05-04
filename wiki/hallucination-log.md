@@ -9960,3 +9960,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 42:2, 3']`, live=`['Psalm 42:2']`, fix=`['Psalm 42:2']`
   - **verse_before_gospel**: stored=`['Psalm 130:5, 7']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1059320
+
+### ❌ 2026-02-26 — Thursday of the First Week in Lent
+- **Checked**: 2026-05-04 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022626.cfm
+- **Status**: mismatch
+- **Lectionary**: 227
+- **Mismatches**:
+  - **first_reading**: stored=`['Esther C:12, 14-16, 23-25 Queen Esther,']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/885feb0

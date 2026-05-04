@@ -71329,7 +71329,7 @@
         ],
         "gospel": [
           {
-            "citation": "to every creature.\" LISTEN PODCAST VIEW",
+            "citation": "Mk 16:9-15",
             "sources": [
               "USCCB"
             ]
@@ -71342,8 +71342,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-16": [
