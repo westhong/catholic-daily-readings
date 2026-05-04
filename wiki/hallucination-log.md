@@ -10701,3 +10701,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 118:1, 8-9, 21-23, 26, 28, 29']`, live=`['Ps 118:1']`, fix=`['Ps 118:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88f354e
+
+### ❌ 2024-02-03 — Saturday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 22:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020324.cfm
+- **Status**: mismatch
+- **Lectionary**: 328
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 119:9, 10, 11, 12, 13, 14']`, live=`['PS 119:9']`, fix=`['PS 119:9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/288e9a5

@@ -54475,5 +54475,60 @@
       ]
     },
     "checked_at": "2026-05-04T22:45:36+00:00"
+  },
+  "2024-02-03:0": {
+    "date": "2024-02-03",
+    "url": "https://bible.usccb.org/bible/readings/020324.cfm",
+    "lectionary_number": 328,
+    "feast": "Saturday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:9, 10, 11, 12, 13, 14"
+        ],
+        "live": [
+          "PS 119:9"
+        ],
+        "fix": [
+          "PS 119:9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 119:9"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 3:4-13"
+      ],
+      "responsorial_psalm": [
+        "PS 119:9"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mk 6:30-34"
+      ]
+    },
+    "checked_at": "2026-05-04T22:50:49+00:00"
   }
 }
