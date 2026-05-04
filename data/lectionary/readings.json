@@ -66768,7 +66768,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 42:1-4, 6-7",
+            "citation": "Is 42:1-4",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Acts 10:34-38",
             "sources": [
               "USCCB"
             ]
@@ -66776,7 +66782,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 29:1-2, 3-4, 3, 9-10",
+            "citation": "Ps 29:1-2",
             "sources": [
               "USCCB"
             ]
@@ -66798,7 +66804,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-10": [

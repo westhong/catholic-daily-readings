@@ -9239,3 +9239,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 86:1-2, 3-4, 5-6']`, live=`['Ps 86:1-2']`, fix=`['Ps 86:1-2']`
   - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b76b200
+
+### ❌ 2027-06-20 — Twelfth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 10:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062027.cfm
+- **Status**: mismatch
+- **Lectionary**: 95
+- **Mismatches**:
+  - **first_reading**: stored=`['Job 38:1, 8-11']`, live=`['Job 38:1']`, fix=`['Job 38:1']`
+  - **responsorial_psalm**: stored=`['Psalm 107:23-24, 25-26, 28-29, 30-31']`, live=`['Psalm 107:23-24']`, fix=`['Psalm 107:23-24']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cdfd5c1

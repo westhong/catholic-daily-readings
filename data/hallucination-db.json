@@ -47001,5 +47001,78 @@
       ]
     },
     "checked_at": "2026-05-04T10:15:59+00:00"
+  },
+  "2027-06-20:0": {
+    "date": "2027-06-20",
+    "url": "https://bible.usccb.org/bible/readings/062027.cfm",
+    "lectionary_number": 95,
+    "feast": "Twelfth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Job 38:1, 8-11"
+        ],
+        "live": [
+          "Job 38:1"
+        ],
+        "fix": [
+          "Job 38:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 107:23-24, 25-26, 28-29, 30-31"
+        ],
+        "live": [
+          "Psalm 107:23-24"
+        ],
+        "fix": [
+          "Psalm 107:23-24"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Job 38:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 107:23-24"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Job 38:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 107:23-24"
+      ],
+      "second_reading": [
+        "2 Corinthians 5:14-17"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Mark 4:35-41"
+      ]
+    },
+    "checked_at": "2026-05-04T10:20:11+00:00"
   }
 }
