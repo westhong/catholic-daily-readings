@@ -9883,3 +9883,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Jn 11:25a, 26']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Jn 11:1-45']`, live=`['Jn 11:1-45', 'Jn 11:3-7']`, fix=`['Jn 11:1-45', 'Jn 11:3-7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ec98017
+
+### ❌ 2024-04-15 — Monday of the Third Week of Easter
+- **Checked**: 2026-05-04 15:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041524.cfm
+- **Status**: mismatch
+- **Lectionary**: 273
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['119:23-24, 26-27, 29-30']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b2d219a

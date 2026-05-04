@@ -50232,5 +50232,51 @@
       ]
     },
     "checked_at": "2026-05-04T15:50:25+00:00"
+  },
+  "2024-04-15:0": {
+    "date": "2024-04-15",
+    "url": "https://bible.usccb.org/bible/readings/041524.cfm",
+    "lectionary_number": 273,
+    "feast": "Monday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "119:23-24, 26-27, 29-30"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 6:8-15"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Jn 6:22-29"
+      ]
+    },
+    "checked_at": "2026-05-04T15:55:41+00:00"
   }
 }
