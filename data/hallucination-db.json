@@ -45917,5 +45917,51 @@
       ]
     },
     "checked_at": "2026-05-04T08:20:22+00:00"
+  },
+  "2024-04-26:0": {
+    "date": "2024-04-26",
+    "url": "https://bible.usccb.org/bible/readings/042624.cfm",
+    "lectionary_number": 283,
+    "feast": "Friday of the Fourth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "2:6-7, 8-9, 10-11"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 13:26-33"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Jn 14:1-6"
+      ]
+    },
+    "checked_at": "2026-05-04T08:25:38+00:00"
   }
 }
