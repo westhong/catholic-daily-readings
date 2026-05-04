@@ -44626,5 +44626,60 @@
       ]
     },
     "checked_at": "2026-05-04T06:20:31+00:00"
+  },
+  "2025-06-28:0": {
+    "date": "2025-06-28",
+    "url": "https://bible.usccb.org/bible/readings/062825.cfm",
+    "lectionary_number": 376,
+    "feast": "Saturday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Luke 1:46-47, 48-49, 50"
+        ],
+        "live": [
+          "Luke 1:46-47"
+        ],
+        "fix": [
+          "Luke 1:46-47"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 8:17"
+        ],
+        "fix": [
+          "Matthew 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Luke 1:46-47"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 18:1-15"
+      ],
+      "responsorial_psalm": [
+        "Luke 1:46-47"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ],
+      "gospel": [
+        "Matthew 8:5-17"
+      ]
+    },
+    "checked_at": "2026-05-04T06:25:44+00:00"
   }
 }

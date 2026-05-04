@@ -8780,3 +8780,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
   - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1ed216
+
+### ❌ 2025-06-28 — Saturday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-04 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062825.cfm
+- **Status**: mismatch
+- **Lectionary**: 376
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Luke 1:46-47, 48-49, 50']`, live=`['Luke 1:46-47']`, fix=`['Luke 1:46-47']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/568daa2
