@@ -8361,3 +8361,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Colossians 3:16']`, fix=`['See Colossians 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8be674a
+
+### ❌ 2023-07-08 — Saturday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-04 02:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070823.cfm
+- **Status**: mismatch
+- **Lectionary**: 382
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 27:1-5, 15-29']`, live=`['Gn 27:1-5']`, fix=`['Gn 27:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d6c385e
