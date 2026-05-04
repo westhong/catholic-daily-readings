@@ -54646,5 +54646,75 @@
       ]
     },
     "checked_at": "2026-05-04T23:00:12+00:00"
+  },
+  "2027-06-22:0": {
+    "date": "2027-06-22",
+    "url": "https://bible.usccb.org/bible/readings/062227.cfm",
+    "lectionary_number": 372,
+    "feast": "Tuesday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 13:2, 5-18"
+        ],
+        "live": [
+          "Genesis 13:2"
+        ],
+        "fix": [
+          "Genesis 13:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 7:6, 12-14"
+        ],
+        "live": [
+          "Matthew 7:6"
+        ],
+        "fix": [
+          "Matthew 7:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 13:2"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Matthew 7:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 13:2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 15:2-3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Matthew 7:6"
+      ]
+    },
+    "checked_at": "2026-05-04T23:05:25+00:00"
   }
 }

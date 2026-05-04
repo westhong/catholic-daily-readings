@@ -10731,3 +10731,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Exodus 20:1-17']`, live=`['Exodus 20:1-17', 'Exodus 20:1-3']`, fix=`['Exodus 20:1-17', 'Exodus 20:1-3']`
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 11']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0de977c
+
+### ❌ 2027-06-22 — Tuesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-04 23:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062227.cfm
+- **Status**: mismatch
+- **Lectionary**: 372
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 13:2, 5-18']`, live=`['Genesis 13:2']`, fix=`['Genesis 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+  - **gospel**: stored=`['Matthew 7:6, 12-14']`, live=`['Matthew 7:6']`, fix=`['Matthew 7:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/50aa4aa
