@@ -42492,5 +42492,75 @@
       ]
     },
     "checked_at": "2026-05-04T02:50:09+00:00"
+  },
+  "2024-10-02:0": {
+    "date": "2024-10-02",
+    "url": "https://bible.usccb.org/bible/readings/100224.cfm",
+    "lectionary_number": 457,
+    "feast": "Memorial of the Holy Guardian Angels",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jb 9:1-12, 14-16"
+        ],
+        "live": [
+          "Jb 9:1-12"
+        ],
+        "fix": [
+          "Jb 9:1-12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 103:21"
+        ],
+        "fix": [
+          "Ps 103:21"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 18:1-5, 10"
+        ],
+        "live": [
+          "Mt 18:1-5"
+        ],
+        "fix": [
+          "Mt 18:1-5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jb 9:1-12"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jb 9:1-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 88:10"
+      ],
+      "alleluia_verse": [
+        "Ps 103:21"
+      ],
+      "gospel": [
+        "Mt 18:1-5"
+      ]
+    },
+    "checked_at": "2026-05-04T02:55:22+00:00"
   }
 }

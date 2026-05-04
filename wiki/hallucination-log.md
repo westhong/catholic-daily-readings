@@ -8371,3 +8371,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gn 27:1-5, 15-29']`, live=`['Gn 27:1-5']`, fix=`['Gn 27:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d6c385e
+
+### ❌ 2024-10-02 — Memorial of the Holy Guardian Angels
+- **Checked**: 2026-05-04 02:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100224.cfm
+- **Status**: mismatch
+- **Lectionary**: 457
+- **Mismatches**:
+  - **first_reading**: stored=`['Jb 9:1-12, 14-16']`, live=`['Jb 9:1-12']`, fix=`['Jb 9:1-12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 103:21']`, fix=`['Ps 103:21']`
+  - **gospel**: stored=`['Mt 18:1-5, 10']`, live=`['Mt 18:1-5']`, fix=`['Mt 18:1-5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9aef3e9
