@@ -42376,5 +42376,66 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-04T02:40:47+00:00"
+  },
+  "2026-05-30:0": {
+    "date": "2026-05-30",
+    "url": "https://bible.usccb.org/bible/readings/053026.cfm",
+    "lectionary_number": 352,
+    "feast": "Saturday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jude 17, 20b-25"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 63:2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 63:2"
+        ],
+        "fix": [
+          "Psalm 63:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Colossians 3:16"
+        ],
+        "fix": [
+          "See Colossians 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Psalm 63:2"
+      ],
+      "alleluia_verse": [
+        "See Colossians 3:16"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 63:2"
+      ],
+      "alleluia_verse": [
+        "See Colossians 3:16"
+      ],
+      "gospel": [
+        "Mark 11:27-33"
+      ]
+    },
+    "checked_at": "2026-05-04T02:45:59+00:00"
   }
 }

@@ -74368,7 +74368,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 27:1-5, 15-29",
+            "citation": "Gn 27:1-5",
             "sources": [
               "USCCB"
             ]
@@ -74397,8 +74397,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-09": [

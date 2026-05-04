@@ -8350,3 +8350,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 58
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/051726-Ascension.cfm`, live=fetch failed
+
+### ❌ 2026-05-30 — Saturday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-04 02:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053026.cfm
+- **Status**: mismatch
+- **Lectionary**: 352
+- **Mismatches**:
+  - **first_reading**: stored=`['Jude 17, 20b-25']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Psalm 63:2, 3-4, 5-6']`, live=`['Psalm 63:2']`, fix=`['Psalm 63:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Colossians 3:16']`, fix=`['See Colossians 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8be674a
