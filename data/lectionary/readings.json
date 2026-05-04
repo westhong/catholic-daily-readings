@@ -69367,7 +69367,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 19:1-2, 17-18",
+            "citation": "Lv 19:1-2",
             "sources": [
               "USCCB"
             ]
@@ -69375,7 +69375,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 103:1-2, 3-4, 8, 10, 12-13",
+            "citation": "Ps 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -69404,8 +69404,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Jn 2:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-02-20": [
