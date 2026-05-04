@@ -11230,7 +11230,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 15:2-3, 3-4, 5",
+            "citation": "Psalm 15:2-3",
             "sources": [
               "USCCB"
             ]
@@ -11260,7 +11260,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-21": [
