@@ -10355,3 +10355,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 13:15-17, 20-21']`, live=`['Hebrews 13:15-17']`, fix=`['Hebrews 13:15-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f62897
+
+### ❌ 2024-04-18 — Thursday of the Third Week of Easter
+- **Checked**: 2026-05-04 20:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041824.cfm
+- **Status**: mismatch
+- **Lectionary**: 276
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 66:8-9, 16-17, 20']`, live=`['Ps 66:8-9']`, fix=`['Ps 66:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1fa585d
