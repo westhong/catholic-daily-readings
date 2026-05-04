@@ -49556,5 +49556,47 @@
       ]
     },
     "checked_at": "2026-05-04T14:40:56+00:00"
+  },
+  "2025-07-20:0": {
+    "date": "2025-07-20",
+    "url": "https://bible.usccb.org/bible/readings/072025.cfm",
+    "lectionary_number": 108,
+    "feast": "Sixteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 15:2-3, 3-4, 5"
+        ],
+        "live": [
+          "Psalm 15:2-3"
+        ],
+        "fix": [
+          "Psalm 15:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 15:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 18:1-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 15:2-3"
+      ],
+      "second_reading": [
+        "Colossians 1:24-28"
+      ],
+      "gospel": [
+        "Luke 10:38-42"
+      ]
+    },
+    "checked_at": "2026-05-04T14:45:09+00:00"
   }
 }
