@@ -55157,14 +55157,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "40:7-8",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Heb 10:4-10",
@@ -55188,8 +55181,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 1:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-09": [
