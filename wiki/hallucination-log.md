@@ -9816,3 +9816,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5, 6']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:12']`, fix=`['1 John 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/670bc34
+
+### 🚫 2023-08-03 — Thursday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-04 15:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080323.cfm
+- **Status**: url_dead
+- **Lectionary**: 404
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/080323.cfm`, live=fetch failed

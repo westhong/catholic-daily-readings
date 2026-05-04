@@ -49915,5 +49915,24 @@
       ]
     },
     "checked_at": "2026-05-04T15:15:34+00:00"
+  },
+  "2023-08-03:0": {
+    "date": "2023-08-03",
+    "url": "https://bible.usccb.org/bible/readings/080323.cfm",
+    "lectionary_number": 404,
+    "feast": "Thursday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/080323.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-04T15:20:47+00:00"
   }
 }
