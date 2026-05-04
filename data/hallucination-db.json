@@ -53596,5 +53596,60 @@
       ]
     },
     "checked_at": "2026-05-04T21:30:30+00:00"
+  },
+  "2023-07-11:0": {
+    "date": "2023-07-11",
+    "url": "https://bible.usccb.org/bible/readings/071123.cfm",
+    "lectionary_number": 384,
+    "feast": "Memorial of Saint Benedict, Abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:14"
+        ],
+        "fix": [
+          "Jn 10:14"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "of the Kingdom, and curing every disease"
+        ],
+        "live": [
+          "Mt 9:32-38"
+        ],
+        "fix": [
+          "Mt 9:32-38"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 10:14"
+      ],
+      "gospel": [
+        "Mt 9:32-38"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 32:23-33"
+      ],
+      "responsorial_psalm": [
+        "Ps 17:1"
+      ],
+      "alleluia_verse": [
+        "Jn 10:14"
+      ],
+      "gospel": [
+        "Mt 9:32-38"
+      ]
+    },
+    "checked_at": "2026-05-04T21:35:43+00:00"
   }
 }

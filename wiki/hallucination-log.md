@@ -10547,3 +10547,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 22:26-27, 28, 30, 31-32']`, live=`['Psalm 22:26-27']`, fix=`['Psalm 22:26-27']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbcc70e
+
+### ❌ 2023-07-11 — Memorial of Saint Benedict, Abbot
+- **Checked**: 2026-05-04 21:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071123.cfm
+- **Status**: mismatch
+- **Lectionary**: 384
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:14']`, fix=`['Jn 10:14']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Mt 9:32-38']`, fix=`['Mt 9:32-38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37185a0
