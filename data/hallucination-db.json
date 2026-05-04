@@ -54307,5 +54307,60 @@
       ]
     },
     "checked_at": "2026-05-04T22:31:00+00:00"
+  },
+  "2024-07-15:0": {
+    "date": "2024-07-15",
+    "url": "https://bible.usccb.org/bible/readings/071524.cfm",
+    "lectionary_number": 389,
+    "feast": "Memorial of Saint Bonaventure, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 50:8-9, 16"
+        ],
+        "live": [
+          "PS 50:8-9"
+        ],
+        "fix": [
+          "PS 50:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 5:10"
+        ],
+        "fix": [
+          "MT 5:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 50:8-9"
+      ],
+      "alleluia_verse": [
+        "MT 5:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "IS 1:10-17"
+      ],
+      "responsorial_psalm": [
+        "PS 50:8-9"
+      ],
+      "alleluia_verse": [
+        "MT 5:10"
+      ],
+      "gospel": [
+        "MT 10:34-11"
+      ]
+    },
+    "checked_at": "2026-05-04T22:35:11+00:00"
   }
 }

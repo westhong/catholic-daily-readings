@@ -10671,3 +10671,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 111:1-2, 5-6, 9']`, live=`['Ps 111:1-2']`, fix=`['Ps 111:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d3f17f
+
+### ❌ 2024-07-15 — Memorial of Saint Bonaventure, Bishop and Doctor of the Church
+- **Checked**: 2026-05-04 22:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071524.cfm
+- **Status**: mismatch
+- **Lectionary**: 389
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 50:8-9, 16']`, live=`['PS 50:8-9']`, fix=`['PS 50:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:10']`, fix=`['MT 5:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/260928f
