@@ -10239,3 +10239,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 8:4-5, 6-7, 8-9']`, live=`['Psalm 8:4-5']`, fix=`['Psalm 8:4-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/656795c
+
+### ❌ 2027-02-10 — Ash Wednesday
+- **Checked**: 2026-05-04 19:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021027.cfm
+- **Status**: mismatch
+- **Lectionary**: 219
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **second_reading**: stored=`['2 Corinthians 5:20—6']`, live=`['2 Corinthians 5:20']`, fix=`['2 Corinthians 5:20']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/06fc527
