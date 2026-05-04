@@ -51146,5 +51146,38 @@
       ]
     },
     "checked_at": "2026-05-04T17:30:52+00:00"
+  },
+  "2023-03-31:0": {
+    "date": "2023-03-31",
+    "url": "https://bible.usccb.org/bible/readings/033123.cfm",
+    "lectionary_number": 255,
+    "feast": "Friday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Jn 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 20:10-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 18:2-3"
+      ],
+      "gospel": [
+        "Jn 10:31-42"
+      ]
+    },
+    "checked_at": "2026-05-04T17:35:06+00:00"
   }
 }

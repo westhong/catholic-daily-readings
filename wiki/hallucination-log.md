@@ -10074,3 +10074,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3de5762
+
+### ❌ 2023-03-31 — Friday of the Fifth Week of Lent
+- **Checked**: 2026-05-04 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033123.cfm
+- **Status**: mismatch
+- **Lectionary**: 255
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e53b49c
