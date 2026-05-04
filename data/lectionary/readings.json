@@ -9568,7 +9568,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Corinthians 11:18, 21-30",
+            "citation": "2 Corinthians 11:18",
             "sources": [
               "USCCB"
             ]
@@ -9576,7 +9576,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2-3, 4-5, 6-7",
+            "citation": "Psalm 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -9597,8 +9597,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-06-21": [

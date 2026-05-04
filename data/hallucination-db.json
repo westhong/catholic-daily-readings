@@ -46484,5 +46484,45 @@
       ]
     },
     "checked_at": "2026-05-04T09:25:26+00:00"
+  },
+  "2024-09-10:0": {
+    "date": "2024-09-10",
+    "url": "https://bible.usccb.org/bible/readings/091024.cfm",
+    "lectionary_number": 438,
+    "feast": "Tuesday of the Twenty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 6:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 149:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Lk 6:12-19"
+      ]
+    },
+    "checked_at": "2026-05-04T09:30:40+00:00"
   }
 }
