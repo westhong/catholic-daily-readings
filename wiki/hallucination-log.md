@@ -8821,3 +8821,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 105:2-3, 4-5, 6-7']`, live=`['PS 105:2-3']`, fix=`['PS 105:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/543aa7c
+
+### ❌ 2023-12-17 — Third Sunday of Advent
+- **Checked**: 2026-05-04 06:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121723.cfm
+- **Status**: mismatch
+- **Lectionary**: 8
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Lk 1:46-48, 49-50, 53-54']`, live=`['Lk 1:46-48']`, fix=`['Lk 1:46-48']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 61:1']`, fix=`['Is 61:1']`
+  - **gospel**: stored=`['Jn 1:6-8, 19-28']`, live=`['Jn 1:6-8']`, fix=`['Jn 1:6-8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3de3fd3

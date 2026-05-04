@@ -44860,5 +44860,78 @@
       ]
     },
     "checked_at": "2026-05-04T06:40:26+00:00"
+  },
+  "2023-12-17:0": {
+    "date": "2023-12-17",
+    "url": "https://bible.usccb.org/bible/readings/121723.cfm",
+    "lectionary_number": 8,
+    "feast": "Third Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Lk 1:46-48, 49-50, 53-54"
+        ],
+        "live": [
+          "Lk 1:46-48"
+        ],
+        "fix": [
+          "Lk 1:46-48"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Is 61:1"
+        ],
+        "fix": [
+          "Is 61:1"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 1:6-8, 19-28"
+        ],
+        "live": [
+          "Jn 1:6-8"
+        ],
+        "fix": [
+          "Jn 1:6-8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Lk 1:46-48"
+      ],
+      "alleluia_verse": [
+        "Is 61:1"
+      ],
+      "gospel": [
+        "Jn 1:6-8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 61:1-2"
+      ],
+      "responsorial_psalm": [
+        "Lk 1:46-48"
+      ],
+      "second_reading": [
+        "1 Thes 5:16-24"
+      ],
+      "alleluia_verse": [
+        "Is 61:1"
+      ],
+      "gospel": [
+        "Jn 1:6-8"
+      ]
+    },
+    "checked_at": "2026-05-04T06:45:40+00:00"
   }
 }
