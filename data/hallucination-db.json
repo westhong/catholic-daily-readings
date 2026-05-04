@@ -45467,5 +45467,47 @@
       ]
     },
     "checked_at": "2026-05-04T07:36:03+00:00"
+  },
+  "2023-08-13:0": {
+    "date": "2023-08-13",
+    "url": "https://bible.usccb.org/bible/readings/081323.cfm",
+    "lectionary_number": 115,
+    "feast": "Nineteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 85:9, 10, 11-12, 13-14"
+        ],
+        "live": [
+          "Ps 85:9"
+        ],
+        "fix": [
+          "Ps 85:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 85:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 19:9"
+      ],
+      "responsorial_psalm": [
+        "Ps 85:9"
+      ],
+      "second_reading": [
+        "Rom 9:1-5"
+      ],
+      "gospel": [
+        "Mt 14:22-33"
+      ]
+    },
+    "checked_at": "2026-05-04T07:40:16+00:00"
   }
 }

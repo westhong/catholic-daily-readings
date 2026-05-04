@@ -8932,3 +8932,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
   - **gospel**: stored=`['Lk 14:1, 7-11']`, live=`['Lk 14:1']`, fix=`['Lk 14:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/09d104a
+
+### ❌ 2023-08-13 — Nineteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-04 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081323.cfm
+- **Status**: mismatch
+- **Lectionary**: 115
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 85:9, 10, 11-12, 13-14']`, live=`['Ps 85:9']`, fix=`['Ps 85:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/34cb9c1
