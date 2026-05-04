@@ -8069,3 +8069,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 100
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/75.cfm`, live=fetch failed
+
+### ❌ 2025-09-17 — Wednesday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-04 00:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091725.cfm
+- **Status**: mismatch
+- **Lectionary**: 445
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 111:1-2, 3-4, 5-6']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:63']`, fix=`['See John 6:63']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a3178b

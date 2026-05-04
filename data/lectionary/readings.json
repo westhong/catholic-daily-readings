@@ -21100,7 +21100,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:1-2, 4-5, 17-18, 33-34",
+            "citation": "Psalm 119:1-2",
             "sources": [
               "USCCB"
             ]
@@ -21130,7 +21130,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-16": [
