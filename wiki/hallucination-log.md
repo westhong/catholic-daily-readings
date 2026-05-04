@@ -9207,3 +9207,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
   - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8972dd
+
+### ❌ 2025-05-08 — Thursday of the Third Week of Easter
+- **Checked**: 2026-05-04 10:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050825.cfm
+- **Status**: mismatch
+- **Lectionary**: 276
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 66:8-9, 16-17, 20']`, live=`['Psalm 66:8-9']`, fix=`['Psalm 66:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21c3dd0

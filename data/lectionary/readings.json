@@ -1292,7 +1292,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sir 3:2-6, 12-14",
+            "citation": "Sir 3:2-6",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "1 Sm 1:20-22",
             "sources": [
               "USCCB"
             ]
@@ -1300,7 +1306,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 128:1-2, 3, 4-5",
+            "citation": "Ps 128:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Ps 84:2-3",
             "sources": [
               "USCCB"
             ]
@@ -1309,6 +1321,12 @@
         "second_reading": [
           {
             "citation": "Col 3:12-21",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "1 Jn 3:1-2",
             "sources": [
               "USCCB"
             ]
@@ -1335,8 +1353,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Col 3:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-30": [
