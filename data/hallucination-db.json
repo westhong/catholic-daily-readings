@@ -45412,5 +45412,60 @@
       ]
     },
     "checked_at": "2026-05-04T07:30:48+00:00"
+  },
+  "2023-11-04:0": {
+    "date": "2023-11-04",
+    "url": "https://bible.usccb.org/bible/readings/110423.cfm",
+    "lectionary_number": 484,
+    "feast": "Memorial of Saint Charles Borromeo, Bishop",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:29"
+        ],
+        "fix": [
+          "Mt 11:29"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Lk 14:1, 7-11"
+        ],
+        "live": [
+          "Lk 14:1"
+        ],
+        "fix": [
+          "Lk 14:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 11:29"
+      ],
+      "gospel": [
+        "Lk 14:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 11:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 94:12-13"
+      ],
+      "alleluia_verse": [
+        "Mt 11:29"
+      ],
+      "gospel": [
+        "Lk 14:1"
+      ]
+    },
+    "checked_at": "2026-05-04T07:36:03+00:00"
   }
 }

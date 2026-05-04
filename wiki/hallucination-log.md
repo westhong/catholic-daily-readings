@@ -8922,3 +8922,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['69:8-10, 21-22, 31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/727ab19
+
+### ❌ 2023-11-04 — Memorial of Saint Charles Borromeo, Bishop
+- **Checked**: 2026-05-04 07:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110423.cfm
+- **Status**: mismatch
+- **Lectionary**: 484
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
+  - **gospel**: stored=`['Lk 14:1, 7-11']`, live=`['Lk 14:1']`, fix=`['Lk 14:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/09d104a
