@@ -68470,7 +68470,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Heb 7:1-3, 15-17",
+            "citation": "Heb 7:1-3",
             "sources": [
               "USCCB"
             ]
@@ -68478,7 +68478,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 110:1, 2, 3, 4",
+            "citation": "Ps 110:1",
             "sources": [
               "USCCB"
             ]
@@ -68499,8 +68499,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-19": [

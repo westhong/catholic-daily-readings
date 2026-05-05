@@ -62423,5 +62423,90 @@
       ]
     },
     "checked_at": "2026-05-05T11:45:21+00:00"
+  },
+  "2026-03-08:0": {
+    "date": "2026-03-08",
+    "url": "https://bible.usccb.org/bible/readings/030826.cfm",
+    "lectionary_number": 28,
+    "feast": "Third Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 95:1-2"
+        ],
+        "fix": [
+          "Psalm 95:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Romans 5:1-2, 5-8"
+        ],
+        "live": [
+          "Romans 5:1-2"
+        ],
+        "fix": [
+          "Romans 5:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 4:42, 15"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 4:5-42"
+        ],
+        "live": [
+          "John 4:5-42",
+          "John 4:5-15"
+        ],
+        "fix": [
+          "John 4:5-42",
+          "John 4:5-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "Romans 5:1-2"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "John 4:5-42",
+        "John 4:5-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 17:3-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "second_reading": [
+        "Romans 5:1-2"
+      ],
+      "gospel": [
+        "John 4:5-42",
+        "John 4:5-15"
+      ]
+    },
+    "checked_at": "2026-05-05T11:50:34+00:00"
   }
 }
