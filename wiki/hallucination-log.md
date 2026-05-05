@@ -12336,3 +12336,17 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 50:1,8, 16']`, live=`['Psalm 50:1']`, fix=`['Psalm 50:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c47515
+
+### 🚫 2026-08-23 — 
+- **Checked**: 2026-05-05 12:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/823.cfm
+- **Status**: url_dead
+- **Lectionary**: 121
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/823.cfm`, live=fetch failed
+
+### ✅ 2024-05-19 — Pentecost Sunday
+- **Checked**: 2026-05-05 12:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051924.cfm
+- **Status**: ok
+- **Lectionary**: 62

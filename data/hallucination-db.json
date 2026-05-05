@@ -63016,5 +63016,36 @@
       ]
     },
     "checked_at": "2026-05-05T12:40:07+00:00"
+  },
+  "2026-08-23:0": {
+    "date": "2026-08-23",
+    "url": "https://bible.usccb.org/bible/readings/823.cfm",
+    "lectionary_number": 121,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/823.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T12:45:21+00:00"
+  },
+  "2024-05-19:0": {
+    "date": "2024-05-19",
+    "url": "https://bible.usccb.org/bible/readings/051924.cfm",
+    "lectionary_number": 62,
+    "feast": "Pentecost Sunday",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T12:50:38+00:00"
   }
 }
