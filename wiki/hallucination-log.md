@@ -13196,3 +13196,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 7:2-3, 9']`, live=`['Psalm 7:2-3']`, fix=`['Psalm 7:2-3']`
   - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a77e592
+
+### ❌ 2025-02-19 — Wednesday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-05 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021925.cfm
+- **Status**: mismatch
+- **Lectionary**: 337
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 8:6-13, 20-22']`, live=`['Genesis 8:6-13']`, fix=`['Genesis 8:6-13']`
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 14-15, 18-19']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/402d827

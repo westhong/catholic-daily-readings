@@ -73357,14 +73357,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "116:12-13, 14-15, 16-17",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 6:60-69",
@@ -73380,8 +73373,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 6:63",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-30": [
