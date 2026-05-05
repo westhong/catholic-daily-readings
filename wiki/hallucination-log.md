@@ -11840,3 +11840,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-4, 6']`, live=`['Psalm 1:1-4']`, fix=`['Psalm 1:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 2:13']`, fix=`['1 Thessalonians 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4cbf64c
+
+### ❌ 2026-06-03 — Memorial of Saint Charles Lwanga and Companions, Martyrs
+- **Checked**: 2026-05-05 08:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060326.cfm
+- **Status**: mismatch
+- **Lectionary**: 355
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Timothy 1:1-3, 6-12']`, live=`['2 Timothy 1:1-3']`, fix=`['2 Timothy 1:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 11:25']`, fix=`['John 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87c721c
