@@ -11605,3 +11605,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb8a2d7
+
+### 🚫 2026-09-10 — 
+- **Checked**: 2026-05-05 06:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/910.cfm
+- **Status**: url_dead
+- **Lectionary**: 440
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/910.cfm`, live=fetch failed

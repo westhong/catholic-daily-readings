@@ -59256,5 +59256,24 @@
       ]
     },
     "checked_at": "2026-05-05T06:26:02+00:00"
+  },
+  "2026-09-10:0": {
+    "date": "2026-09-10",
+    "url": "https://bible.usccb.org/bible/readings/910.cfm",
+    "lectionary_number": 440,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/910.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T06:30:15+00:00"
   }
 }
