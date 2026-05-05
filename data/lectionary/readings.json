@@ -76844,7 +76844,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 44:18-21, 23",
+            "citation": "Gn 44:18-21",
             "sources": [
               "USCCB"
             ]
@@ -76852,7 +76852,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 105:16-17, 18-19, 20-21",
+            "citation": "Ps 105:16-17",
             "sources": [
               "USCCB"
             ]
@@ -76873,8 +76873,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-14": [
