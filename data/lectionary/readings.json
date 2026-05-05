@@ -40060,7 +40060,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 6-7, 8-9",
+            "citation": "Psalm 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -40074,15 +40074,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Joel 2:12-13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-05": [

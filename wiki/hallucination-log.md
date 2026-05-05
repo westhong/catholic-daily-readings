@@ -13269,3 +13269,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 132:6-7, 8-10']`, live=`['PS 132:6-7']`, fix=`['PS 132:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/02c2cfd
+
+### ❌ 2023-11-09 — Feast of the Dedication of the Lateran Basilica in Rome
+- **Checked**: 2026-05-05 20:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110923.cfm
+- **Status**: mismatch
+- **Lectionary**: 671
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 47:1-2, 8-9, 12']`, live=`['Ez 47:1-2']`, fix=`['Ez 47:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 46:2-3, 5-6, 8-9']`, live=`['Ps 46:2-3']`, fix=`['Ps 46:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Chr 7:16']`, fix=`['2 Chr 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/36373bc
