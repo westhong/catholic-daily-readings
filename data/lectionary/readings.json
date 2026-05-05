@@ -58281,14 +58281,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "55:7-8, 9-10",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 9:30-37",
@@ -58304,8 +58297,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Gal 6:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-22": [

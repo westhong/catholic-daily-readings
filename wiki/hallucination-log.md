@@ -12369,3 +12369,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 37:3-4, 5-6, 23-24, 39-40']`, live=`['Ps 37:3-4']`, fix=`['Ps 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:25']`, fix=`['Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40fe936
+
+### ❌ 2026-06-10 — Wednesday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-05 13:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061026.cfm
+- **Status**: mismatch
+- **Lectionary**: 361
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 25:4']`, fix=`['Psalm 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d2427e9
