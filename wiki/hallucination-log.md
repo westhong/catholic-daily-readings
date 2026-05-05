@@ -12238,3 +12238,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 4:42, 15']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 4:5-42']`, live=`['John 4:5-42', 'John 4:5-15']`, fix=`['John 4:5-42', 'John 4:5-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/62e8efd
+
+### ❌ 2023-01-18 — Wednesday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-05 11:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011823.cfm
+- **Status**: mismatch
+- **Lectionary**: 313
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 7:1-3, 15-17']`, live=`['Heb 7:1-3']`, fix=`['Heb 7:1-3']`
+  - **responsorial_psalm**: stored=`['Ps 110:1, 2, 3, 4']`, live=`['Ps 110:1']`, fix=`['Ps 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df821d5
