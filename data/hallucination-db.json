@@ -62597,5 +62597,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T12:01:03+00:00"
+  },
+  "2023-10-09:0": {
+    "date": "2023-10-09",
+    "url": "https://bible.usccb.org/bible/readings/100923.cfm",
+    "lectionary_number": 461,
+    "feast": "Monday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Jonah 2:3, 4, 5, 8"
+        ],
+        "live": [
+          "Jonah 2:3"
+        ],
+        "fix": [
+          "Jonah 2:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 13:34"
+        ],
+        "fix": [
+          "Jn 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Jonah 2:3"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jon 1:1–2"
+      ],
+      "responsorial_psalm": [
+        "Jonah 2:3"
+      ],
+      "alleluia_verse": [
+        "Jn 13:34"
+      ],
+      "gospel": [
+        "Lk 10:25-37"
+      ]
+    },
+    "checked_at": "2026-05-05T12:05:20+00:00"
   }
 }

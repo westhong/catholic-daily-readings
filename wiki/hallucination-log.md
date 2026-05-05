@@ -12257,3 +12257,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 195
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261219.cfm`, live=fetch failed
+
+### ❌ 2023-10-09 — Monday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-05 12:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100923.cfm
+- **Status**: mismatch
+- **Lectionary**: 461
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jonah 2:3, 4, 5, 8']`, live=`['Jonah 2:3']`, fix=`['Jonah 2:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b2ff28
