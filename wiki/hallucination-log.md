@@ -11462,3 +11462,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 6-7, 8, 10']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/66afc80
+
+### ❌ 2023-11-02 — The Commemoration of All the Faithful Departed (All Souls)
+- **Checked**: 2026-05-05 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110223.cfm
+- **Status**: mismatch
+- **Lectionary**: 668
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 25:34']`, fix=`['Mt 25:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cfc258a
