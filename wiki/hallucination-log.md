@@ -11888,3 +11888,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 79:8, 9, 11']`, live=`['Psalm 79:8']`, fix=`['Psalm 79:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/95b0f2b
+
+### ❌ 2026-03-20 — Friday of the Fourth Week of Lent
+- **Checked**: 2026-05-05 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032026.cfm
+- **Status**: mismatch
+- **Lectionary**: 248
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:17-18, 19-20, 21']`, live=`['Psalm 34:17-18']`, fix=`['Psalm 34:17-18']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 7:1-2, 10, 25-30']`, live=`['John 7:1-2']`, fix=`['John 7:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03b4435

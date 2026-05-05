@@ -59786,14 +59786,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "139:1",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "second_reading": [
           {
             "citation": "Acts 13:22-26",
@@ -59804,7 +59797,7 @@
         ],
         "gospel": [
           {
-            "citation": "Lk 1:57-66, 80",
+            "citation": "Lk 1:57-66",
             "sources": [
               "USCCB"
             ]
@@ -59817,8 +59810,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Lk 1:76",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-25": [
