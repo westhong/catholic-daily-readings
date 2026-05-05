@@ -37327,7 +37327,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 72:1-2, 3-4, 7-8",
+            "citation": "Psalm 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -37348,8 +37348,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 4:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-06": [
