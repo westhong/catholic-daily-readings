@@ -11557,3 +11557,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 2:6-7, 8-9, 10-11']`, live=`['Psalm 2:6-7']`, fix=`['Psalm 2:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3614d9
+
+### ❌ 2026-02-20 — Friday after Ash Wednesday
+- **Checked**: 2026-05-05 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022026.cfm
+- **Status**: mismatch
+- **Lectionary**: 221
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['See Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4622786
+
+### ✅ 2023-06-24 — Solemnity of the Nativity of Saint John the Baptist
+- **Checked**: 2026-05-05 06:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062423.cfm
+- **Status**: ok
+- **Lectionary**: 586

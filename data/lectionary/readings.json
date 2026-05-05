@@ -82809,7 +82809,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dn 1:1-6, 8-20",
+            "citation": "Dn 1:1-6",
             "sources": [
               "USCCB"
             ]
@@ -82817,7 +82817,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Dn 3:52, 53, 54, 55, 56",
+            "citation": "Dn 3:52",
             "sources": [
               "USCCB"
             ]
@@ -82838,8 +82838,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 24:42",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-28": [

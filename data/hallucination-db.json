@@ -59001,5 +59001,65 @@
       ]
     },
     "checked_at": "2026-05-05T06:00:56+00:00"
+  },
+  "2026-02-20:0": {
+    "date": "2026-02-20",
+    "url": "https://bible.usccb.org/bible/readings/022026.cfm",
+    "lectionary_number": 221,
+    "feast": "Friday after Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 51:3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 51:3-4"
+        ],
+        "fix": [
+          "Psalm 51:3-4"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Amos 5:14"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 58:1-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "gospel": [
+        "Matthew 9:14-15"
+      ]
+    },
+    "checked_at": "2026-05-05T06:05:09+00:00"
+  },
+  "2023-06-24:0": {
+    "date": "2023-06-24",
+    "url": "https://bible.usccb.org/bible/readings/062423.cfm",
+    "lectionary_number": 586,
+    "feast": "Solemnity of the Nativity of Saint John the Baptist",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T06:10:23+00:00"
   }
 }
