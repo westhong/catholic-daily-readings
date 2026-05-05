@@ -58243,5 +58243,77 @@
       ]
     },
     "checked_at": "2026-05-05T04:45:50+00:00"
+  },
+  "2023-04-07:0": {
+    "date": "2023-04-07",
+    "url": "https://bible.usccb.org/bible/readings/040723.cfm",
+    "lectionary_number": 40,
+    "feast": "Good Friday of the Lord’s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 52:13—53"
+        ],
+        "live": [
+          "Is 52:13"
+        ],
+        "fix": [
+          "Is 52:13"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "31:2, 6, 12-13, 15-16, 17, 25"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Phil 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Jn 18:1—19"
+        ],
+        "live": [
+          "Jn 18:1"
+        ],
+        "fix": [
+          "Jn 18:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 52:13"
+      ],
+      "responsorial_psalm": [],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Jn 18:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 52:13"
+      ],
+      "second_reading": [
+        "Heb 4:14-16"
+      ],
+      "gospel": [
+        "Jn 18:1"
+      ]
+    },
+    "checked_at": "2026-05-05T04:51:03+00:00"
   }
 }

@@ -60328,7 +60328,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hos 8:4-7, 11-13",
+            "citation": "Hos 8:4-7",
             "sources": [
               "USCCB"
             ]
@@ -60336,7 +60336,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 115:3-4, 5-6, 7",
+            "citation": "PS 115:3-4",
             "sources": [
               "USCCB"
             ]
@@ -60344,7 +60344,7 @@
         ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Mt 9:32-38",
             "sources": [
               "USCCB"
             ]
@@ -60357,8 +60357,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-10": [

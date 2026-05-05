@@ -11411,3 +11411,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:4-5, 6-7, 16-17, 18-19']`, live=`['Psalm 34:4-5']`, fix=`['Psalm 34:4-5']`
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/93be0a5
+
+### ❌ 2023-04-07 — Good Friday of the Lord’s Passion
+- **Checked**: 2026-05-05 04:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040723.cfm
+- **Status**: mismatch
+- **Lectionary**: 40
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 52:13—53']`, live=`['Is 52:13']`, fix=`['Is 52:13']`
+  - **responsorial_psalm**: stored=`['31:2, 6, 12-13, 15-16, 17, 25']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 18:1—19']`, live=`['Jn 18:1']`, fix=`['Jn 18:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e55f4e
