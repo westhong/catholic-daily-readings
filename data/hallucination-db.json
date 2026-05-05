@@ -66973,5 +66973,75 @@
       ]
     },
     "checked_at": "2026-05-05T19:30:29+00:00"
+  },
+  "2023-07-13:0": {
+    "date": "2023-07-13",
+    "url": "https://bible.usccb.org/bible/readings/071323.cfm",
+    "lectionary_number": 386,
+    "feast": "Thursday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 44:18-21, 23"
+        ],
+        "live": [
+          "Gn 44:18-21"
+        ],
+        "fix": [
+          "Gn 44:18-21"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 105:16-17, 18-19, 20-21"
+        ],
+        "live": [
+          "Ps 105:16-17"
+        ],
+        "fix": [
+          "Ps 105:16-17"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 44:18-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 105:16-17"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 44:18-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 105:16-17"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Mt 10:7-15"
+      ]
+    },
+    "checked_at": "2026-05-05T19:35:41+00:00"
   }
 }

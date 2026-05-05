@@ -13128,3 +13128,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 85:9, 11-12, 13-14']`, live=`['Ps 85:9']`, fix=`['Ps 85:9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0780a3e
+
+### ❌ 2023-07-13 — Thursday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 19:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071323.cfm
+- **Status**: mismatch
+- **Lectionary**: 386
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 44:18-21, 23']`, live=`['Gn 44:18-21']`, fix=`['Gn 44:18-21']`
+  - **responsorial_psalm**: stored=`['Ps 105:16-17, 18-19, 20-21']`, live=`['Ps 105:16-17']`, fix=`['Ps 105:16-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24ad8c8
