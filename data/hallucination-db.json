@@ -67062,5 +67062,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T19:40:54+00:00"
+  },
+  "2024-09-24:0": {
+    "date": "2024-09-24",
+    "url": "https://bible.usccb.org/bible/readings/092424.cfm",
+    "lectionary_number": 450,
+    "feast": "Tuesday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "PRV 21:1-6, 10-13"
+        ],
+        "live": [
+          "PRV 21:1-6"
+        ],
+        "fix": [
+          "PRV 21:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:1, 27, 30, 34, 35, 44"
+        ],
+        "live": [
+          "PS 119:1"
+        ],
+        "fix": [
+          "PS 119:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 11:28"
+        ],
+        "fix": [
+          "LK 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "PRV 21:1-6"
+      ],
+      "responsorial_psalm": [
+        "PS 119:1"
+      ],
+      "alleluia_verse": [
+        "LK 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "PRV 21:1-6"
+      ],
+      "responsorial_psalm": [
+        "PS 119:1"
+      ],
+      "alleluia_verse": [
+        "LK 11:28"
+      ],
+      "gospel": [
+        "LK 8:19-21"
+      ]
+    },
+    "checked_at": "2026-05-05T19:45:08+00:00"
   }
 }

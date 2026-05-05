@@ -13147,3 +13147,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 460
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1003.cfm`, live=fetch failed
+
+### ❌ 2024-09-24 — Tuesday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-05 19:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092424.cfm
+- **Status**: mismatch
+- **Lectionary**: 450
+- **Mismatches**:
+  - **first_reading**: stored=`['PRV 21:1-6, 10-13']`, live=`['PRV 21:1-6']`, fix=`['PRV 21:1-6']`
+  - **responsorial_psalm**: stored=`['PS 119:1, 27, 30, 34, 35, 44']`, live=`['PS 119:1']`, fix=`['PS 119:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8fdd52d
