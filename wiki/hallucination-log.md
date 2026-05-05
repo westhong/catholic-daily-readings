@@ -11349,3 +11349,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b97dcb
+
+### ❌ 2025-07-14 — Memorial of Saint Kateri Tekakwitha, Virgin [In the Dioceses of the United States]
+- **Checked**: 2026-05-05 04:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071425.cfm
+- **Status**: mismatch
+- **Lectionary**: 389
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 1:8-14, 22']`, live=`['Exodus 1:8-14']`, fix=`['Exodus 1:8-14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
+  - **gospel**: stored=`['Matthew 10:34—11']`, live=`['Matthew 10:34']`, fix=`['Matthew 10:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a5f789d
