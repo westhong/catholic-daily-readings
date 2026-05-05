@@ -13435,3 +13435,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 3-4, 7-8']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/081fe9f
+
+### ❌ 2023-11-01 — Solemnity of All Saints
+- **Checked**: 2026-05-05 22:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110123.cfm
+- **Status**: mismatch
+- **Lectionary**: 667
+- **Mismatches**:
+  - **first_reading**: stored=`['Rv 7:2-4, 9-14']`, live=`['Rv 7:2-4']`, fix=`['Rv 7:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79cec87
