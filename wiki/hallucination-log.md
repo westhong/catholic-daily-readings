@@ -12216,3 +12216,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 12:18-19, 21-24']`, live=`['Hebrews 12:18-19']`, fix=`['Hebrews 12:18-19']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd60cd7
+
+### ❌ 2026-02-27 — Friday of the First Week of Lent
+- **Checked**: 2026-05-05 11:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022726.cfm
+- **Status**: mismatch
+- **Lectionary**: 228
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-7']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1ac5031
