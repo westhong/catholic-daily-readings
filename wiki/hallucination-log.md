@@ -12446,3 +12446,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 114:1-2, 3-4, 5-6']`, live=`['Psalm 114:1-2']`, fix=`['Psalm 114:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:135']`, fix=`['Psalm 119:135']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2b8880b
+
+### ❌ 2027-07-06 — Tuesday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 13:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070627.cfm
+- **Status**: mismatch
+- **Lectionary**: 384
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
+  - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 9:32-38']`, fix=`['Matthew 9:32-38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b3f2dd

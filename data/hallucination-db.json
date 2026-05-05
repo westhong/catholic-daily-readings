@@ -63517,5 +63517,60 @@
       ]
     },
     "checked_at": "2026-05-05T13:41:01+00:00"
+  },
+  "2027-07-06:0": {
+    "date": "2027-07-06",
+    "url": "https://bible.usccb.org/bible/readings/070627.cfm",
+    "lectionary_number": 384,
+    "feast": "Tuesday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:14"
+        ],
+        "fix": [
+          "John 10:14"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "of the Kingdom, and curing every disease"
+        ],
+        "live": [
+          "Matthew 9:32-38"
+        ],
+        "fix": [
+          "Matthew 9:32-38"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 10:14"
+      ],
+      "gospel": [
+        "Matthew 9:32-38"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 32:23-33"
+      ],
+      "responsorial_psalm": [
+        "Psalm 17:1"
+      ],
+      "alleluia_verse": [
+        "John 10:14"
+      ],
+      "gospel": [
+        "Matthew 9:32-38"
+      ]
+    },
+    "checked_at": "2026-05-05T13:45:15+00:00"
   }
 }
