@@ -13608,3 +13608,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Is 55:6']`, fix=`['Is 55:6']`
   - **gospel**: stored=`['Mt 7:21, 24-27']`, live=`['Mt 7:21']`, fix=`['Mt 7:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17d1797
+
+### ❌ 2026-05-13 — Wednesday of the Sixth Week of Easter
+- **Checked**: 2026-05-05 23:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051326.cfm
+- **Status**: mismatch
+- **Lectionary**: 293
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 17:15, 22-18:1']`, live=`['Acts 17:15']`, fix=`['Acts 17:15']`
+  - **responsorial_psalm**: stored=`['Psalm 148:1-2, 11-12, 13, 14']`, live=`['Psalm 148:1-2']`, fix=`['Psalm 148:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a78b401
