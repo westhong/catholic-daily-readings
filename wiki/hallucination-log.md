@@ -11073,3 +11073,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 13:34']`, fix=`['JN 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6b681f7
+
+### ❌ 2026-06-22 — Monday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-05 02:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062226.cfm
+- **Status**: mismatch
+- **Lectionary**: 371
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kings 17:5-8, 13-15']`, live=`['2 Kings 17:5-8']`, fix=`['2 Kings 17:5-8']`
+  - **responsorial_psalm**: stored=`['Psalm 60:3, 4-5, 12-13']`, live=`['Psalm 60:3']`, fix=`['Psalm 60:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c74bd54
