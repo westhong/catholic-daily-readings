@@ -11104,3 +11104,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cca2a9
+
+### ❌ 2027-10-01 — Memorial of Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church
+- **Checked**: 2026-05-05 02:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100127.cfm
+- **Status**: mismatch
+- **Lectionary**: 459
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/139fe57
