@@ -10888,3 +10888,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 290
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/050926.cfm`, live=fetch failed
+
+### ❌ 2025-12-31 — The Seventh Day in the Octave of Christmas
+- **Checked**: 2026-05-05 00:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123125.cfm
+- **Status**: mismatch
+- **Lectionary**: 204
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 96:1-2, 11-12, 13']`, live=`['Psalm 96:1-2']`, fix=`['Psalm 96:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3577f34
