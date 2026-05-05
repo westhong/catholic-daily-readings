@@ -10237,7 +10237,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:2-3, 4-5",
+            "citation": "Psalm 19:2-3",
             "sources": [
               "USCCB"
             ]
@@ -10258,11 +10258,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 21:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/062925-Vigil.cfm",
       "date": "2025-06-29",
-      "mass": "Vigil"
+      "mass": "Vigil",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 591,

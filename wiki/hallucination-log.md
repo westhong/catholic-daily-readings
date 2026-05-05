@@ -11279,3 +11279,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 147:12-13, 14-15, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thes 2:14']`, fix=`['See 2 Thes 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20ff455
+
+### ❌ 2025-12-26 — Feast of Saint Stephen, First Martyr
+- **Checked**: 2026-05-05 03:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122625.cfm
+- **Status**: mismatch
+- **Lectionary**: 696
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:26']`, fix=`['Psalm 118:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dcb4cbd
