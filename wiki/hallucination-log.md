@@ -11747,3 +11747,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Isaiah 45:8']`, fix=`['See Isaiah 45:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b5c994d
+
+### ❌ 2027-09-28 — Tuesday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-05 07:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092827.cfm
+- **Status**: mismatch
+- **Lectionary**: 456
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0b72d8f
