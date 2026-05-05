@@ -13506,3 +13506,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abbf4a5
+
+### ❌ 2023-11-24 — Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs
+- **Checked**: 2026-05-05 22:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112423.cfm
+- **Status**: mismatch
+- **Lectionary**: 501
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Mc 4:36-37, 52-59']`, live=`['1 Mc 4:36-37']`, fix=`['1 Mc 4:36-37']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/07c9346

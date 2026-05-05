@@ -68954,5 +68954,60 @@
       ]
     },
     "checked_at": "2026-05-05T22:40:24+00:00"
+  },
+  "2023-11-24:0": {
+    "date": "2023-11-24",
+    "url": "https://bible.usccb.org/bible/readings/112423.cfm",
+    "lectionary_number": 501,
+    "feast": "Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Mc 4:36-37, 52-59"
+        ],
+        "live": [
+          "1 Mc 4:36-37"
+        ],
+        "fix": [
+          "1 Mc 4:36-37"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Mc 4:36-37"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Mc 4:36-37"
+      ],
+      "responsorial_psalm": [
+        "1 Chr 29:10"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Lk 19:45-48"
+      ]
+    },
+    "checked_at": "2026-05-05T22:45:38+00:00"
   }
 }

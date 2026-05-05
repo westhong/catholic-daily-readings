@@ -62746,7 +62746,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ez 1:2-5, 24-28",
+            "citation": "Ez 1:2-5",
             "sources": [
               "USCCB"
             ]
@@ -62754,7 +62754,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 148:1-2, 11-12, 13, 14",
+            "citation": "PS 148:1-2",
             "sources": [
               "USCCB"
             ]
@@ -62775,8 +62775,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Thes 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-13": [
