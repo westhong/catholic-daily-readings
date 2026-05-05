@@ -12784,3 +12784,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:21']`, fix=`['John 17:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c7ef58
+
+### ❌ 2027-09-05 — Twenty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-05 16:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090527.cfm
+- **Status**: mismatch
+- **Lectionary**: 128
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 146:6-7, 8-9, 9-10']`, live=`['Psalm 146:6-7']`, fix=`['Psalm 146:6-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79617aa

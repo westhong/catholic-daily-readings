@@ -65162,5 +65162,47 @@
       ]
     },
     "checked_at": "2026-05-05T16:35:24+00:00"
+  },
+  "2027-09-05:0": {
+    "date": "2027-09-05",
+    "url": "https://bible.usccb.org/bible/readings/090527.cfm",
+    "lectionary_number": 128,
+    "feast": "Twenty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 146:6-7, 8-9, 9-10"
+        ],
+        "live": [
+          "Psalm 146:6-7"
+        ],
+        "fix": [
+          "Psalm 146:6-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 146:6-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 35:4-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 146:6-7"
+      ],
+      "second_reading": [
+        "James 2:1-5"
+      ],
+      "gospel": [
+        "Mark 7:31-37"
+      ]
+    },
+    "checked_at": "2026-05-05T16:40:36+00:00"
   }
 }
