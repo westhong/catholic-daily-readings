@@ -13598,3 +13598,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['130:1-2, 3-4, 5-7']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7da0cc7
+
+### ❌ 2024-12-05 — Thursday of the First Week of Advent
+- **Checked**: 2026-05-05 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120524.cfm
+- **Status**: mismatch
+- **Lectionary**: 178
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Is 55:6']`, fix=`['Is 55:6']`
+  - **gospel**: stored=`['Mt 7:21, 24-27']`, live=`['Mt 7:21']`, fix=`['Mt 7:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/17d1797
