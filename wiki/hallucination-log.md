@@ -13108,3 +13108,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1252f35
+
+### ❌ 2025-10-29 — Wednesday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-05 19:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102925.cfm
+- **Status**: mismatch
+- **Lectionary**: 481
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 13:4-5, 6']`, live=`['Psalm 13:4-5']`, fix=`['Psalm 13:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f603003
