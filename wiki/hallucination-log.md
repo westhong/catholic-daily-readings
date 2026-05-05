@@ -13547,3 +13547,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 13:4-5, 6']`, live=`['Psalm 13:4-5']`, fix=`['Psalm 13:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/907d358
+
+### ❌ 2026-05-14 — The Ascension of the Lord
+- **Checked**: 2026-05-05 23:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051426.cfm
+- **Status**: mismatch
+- **Lectionary**: 58
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 1:1-11']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Psalm 47:2-3, 6-7, 8-9']`, live=`（空白）`, fix=`[]`
+  - **second_reading**: stored=`['Ephesians 1:17-23']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 28:16-20']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b31e9c9

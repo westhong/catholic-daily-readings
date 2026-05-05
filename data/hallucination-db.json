@@ -69189,5 +69189,55 @@
       ]
     },
     "checked_at": "2026-05-05T23:00:18+00:00"
+  },
+  "2026-05-14:0": {
+    "date": "2026-05-14",
+    "url": "https://bible.usccb.org/bible/readings/051426.cfm",
+    "lectionary_number": 58,
+    "feast": "The Ascension of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 1:1-11"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 47:2-3, 6-7, 8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Ephesians 1:17-23"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 28:16-20"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [],
+      "second_reading": [],
+      "gospel": []
+    },
+    "live_readings": {},
+    "checked_at": "2026-05-05T23:05:34+00:00"
   }
 }

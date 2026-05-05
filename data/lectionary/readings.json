@@ -83898,7 +83898,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 19:8, 9, 10, 11",
+            "citation": "PS 19:8",
             "sources": [
               "USCCB"
             ]
@@ -83919,8 +83919,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-09": [
