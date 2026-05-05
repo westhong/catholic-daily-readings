@@ -12512,3 +12512,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 25:34']`, fix=`['Matthew 25:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c1ff246
+
+### ❌ 2027-02-01 — Monday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 14:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020127.cfm
+- **Status**: mismatch
+- **Lectionary**: 323
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['31:20, 21, 22, 23, 24']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4fd8151
