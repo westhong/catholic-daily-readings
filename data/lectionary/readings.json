@@ -59100,14 +59100,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "90:2, 3-4, 10, 14 and 16",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "alleluia": [
           {
             "citation": "Ephesians 1:17-18",
@@ -59115,8 +59108,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-05": [

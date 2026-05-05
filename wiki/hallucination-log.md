@@ -12802,3 +12802,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5d60f77
+
+### ❌ 2027-04-23 — Friday of the Fourth Week of Easter
+- **Checked**: 2026-05-05 16:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042327.cfm
+- **Status**: mismatch
+- **Lectionary**: 283
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 2:6-7, 8-9, 10-11']`, live=`['Psalm 2:6-7']`, fix=`['Psalm 2:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c1ba35b
