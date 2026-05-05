@@ -17514,7 +17514,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:5-6, 7-8, 9",
+            "citation": "Psalm 98:5-6",
             "sources": [
               "USCCB"
             ]
@@ -17543,8 +17543,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-17": [

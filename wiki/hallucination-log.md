@@ -13445,3 +13445,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Rv 7:2-4, 9-14']`, live=`['Rv 7:2-4']`, fix=`['Rv 7:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79cec87
+
+### ❌ 2025-11-07 — Friday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-05 22:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110725.cfm
+- **Status**: mismatch
+- **Lectionary**: 489
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d195642
