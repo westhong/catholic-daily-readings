@@ -11850,3 +11850,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['2 Timothy 1:1-3, 6-12']`, live=`['2 Timothy 1:1-3']`, fix=`['2 Timothy 1:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 11:25']`, fix=`['John 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87c721c
+
+### 🚫 2023-01-31 — 
+- **Checked**: 2026-05-05 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/230131.cfm
+- **Status**: url_dead
+- **Lectionary**: 317
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/230131.cfm`, live=fetch failed
