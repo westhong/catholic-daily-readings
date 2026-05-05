@@ -12911,3 +12911,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Ephesians 1:17-23']`, live=`['Ephesians 1:17-23', 'Hebrews 9:24-28']`, fix=`['Ephesians 1:17-23', 'Hebrews 9:24-28']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 28:19']`, fix=`['Matthew 28:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f12a02
+
+### ❌ 2024-05-22 — Wednesday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-05 17:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052224.cfm
+- **Status**: mismatch
+- **Lectionary**: 343
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 49:2-3, 6-7, 8-10, 11']`, live=`['Ps 49:2-3']`, fix=`['Ps 49:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/164de53

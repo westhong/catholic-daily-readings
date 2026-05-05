@@ -78041,7 +78041,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Nm 13:1-2, 25–14",
+            "citation": "Nm 13:1-2",
             "sources": [
               "USCCB"
             ]
@@ -78057,7 +78057,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 15: 21-28",
+            "citation": "Mt 15: 21",
             "sources": [
               "USCCB"
             ]
@@ -78070,8 +78070,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-10": [

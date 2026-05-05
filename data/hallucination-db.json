@@ -65820,5 +65820,60 @@
       ]
     },
     "checked_at": "2026-05-05T17:41:02+00:00"
+  },
+  "2024-05-22:0": {
+    "date": "2024-05-22",
+    "url": "https://bible.usccb.org/bible/readings/052224.cfm",
+    "lectionary_number": 343,
+    "feast": "Wednesday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 49:2-3, 6-7, 8-10, 11"
+        ],
+        "live": [
+          "Ps 49:2-3"
+        ],
+        "fix": [
+          "Ps 49:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 49:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 4:13-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 49:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Mk 9:38-40"
+      ]
+    },
+    "checked_at": "2026-05-05T17:45:15+00:00"
   }
 }
