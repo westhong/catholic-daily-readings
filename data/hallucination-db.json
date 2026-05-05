@@ -59275,5 +59275,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T06:30:15+00:00"
+  },
+  "2023-10-17:0": {
+    "date": "2023-10-17",
+    "url": "https://bible.usccb.org/bible/readings/101723.cfm",
+    "lectionary_number": 468,
+    "feast": "Memorial of Saint Ignatius of Antioch, Bishop and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:2-3, 4-5"
+        ],
+        "live": [
+          "Ps 19:2-3"
+        ],
+        "fix": [
+          "Ps 19:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Heb 4:12"
+        ],
+        "fix": [
+          "Heb 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 1:16-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ],
+      "gospel": [
+        "Lk 11:37-41"
+      ]
+    },
+    "checked_at": "2026-05-05T06:35:31+00:00"
   }
 }
