@@ -66322,5 +66322,63 @@
       ]
     },
     "checked_at": "2026-05-05T18:25:49+00:00"
+  },
+  "2025-11-23:0": {
+    "date": "2025-11-23",
+    "url": "https://bible.usccb.org/bible/readings/112325.cfm",
+    "lectionary_number": 162,
+    "feast": "The Solemnity of Our Lord Jesus Christ, King of the Universe",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 122:1-2, 3-4, 4-5"
+        ],
+        "live": [
+          "Psalm 122:1-2"
+        ],
+        "fix": [
+          "Psalm 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 11:9"
+        ],
+        "fix": [
+          "Mark 11:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "Mark 11:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 5:1-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "second_reading": [
+        "Colossians 1:12-20"
+      ],
+      "alleluia_verse": [
+        "Mark 11:9"
+      ],
+      "gospel": [
+        "Luke 23:35-43"
+      ]
+    },
+    "checked_at": "2026-05-05T18:31:01+00:00"
   }
 }

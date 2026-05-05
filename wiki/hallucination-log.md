@@ -13001,3 +13001,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ruth 2:1-3, 8-11']`, live=`['Ruth 2:1-3']`, fix=`['Ruth 2:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 23:9']`, fix=`['Matthew 23:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e21bbe9
+
+### ❌ 2025-11-23 — The Solemnity of Our Lord Jesus Christ, King of the Universe
+- **Checked**: 2026-05-05 18:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112325.cfm
+- **Status**: mismatch
+- **Lectionary**: 162
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4, 4-5']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 11:9']`, fix=`['Mark 11:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1847518
