@@ -12074,3 +12074,20 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 51:3-4, 18-19, 20-21']`, live=`['PS 51:3-4']`, fix=`['PS 51:3-4']`
   - **verse_before_gospel**: stored=`['Ps 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9f3190f
+
+### ❌ 2026-05-10 — Sixth Sunday of Easter
+- **Checked**: 2026-05-05 10:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051026.cfm
+- **Status**: mismatch
+- **Lectionary**: 55
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 8:5-8, 14-17']`, live=`['Acts 8:5-8']`, fix=`['Acts 8:5-8']`
+  - **responsorial_psalm**: stored=`['Psalm 66:1-3, 4-5, 6-7, 16, 20']`, live=`['Psalm 66:1-3']`, fix=`['Psalm 66:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cff617
+
+### ✅ 2025-09-14 — Feast of the Exaltation of the Holy Cross
+- **Checked**: 2026-05-05 10:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091425.cfm
+- **Status**: ok
+- **Lectionary**: 638
