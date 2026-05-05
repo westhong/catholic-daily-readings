@@ -11869,3 +11869,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **verse_before_gospel**: stored=`['Isaiah 61:1 (cited in Luke 4:18)']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cbb9ee1
+
+### 🚫 2026-09-07 — 
+- **Checked**: 2026-05-05 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/907.cfm
+- **Status**: url_dead
+- **Lectionary**: 437
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/907.cfm`, live=fetch failed

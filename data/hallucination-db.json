@@ -60601,5 +60601,24 @@
       ]
     },
     "checked_at": "2026-05-05T08:40:41+00:00"
+  },
+  "2026-09-07:0": {
+    "date": "2026-09-07",
+    "url": "https://bible.usccb.org/bible/readings/907.cfm",
+    "lectionary_number": 437,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/907.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T08:45:57+00:00"
   }
 }

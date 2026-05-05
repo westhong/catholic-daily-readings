@@ -43697,7 +43697,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sirach 36:1, 4-5",
+            "citation": "Sirach 36:1",
             "sources": [
               "USCCB"
             ]
@@ -43705,7 +43705,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 79:8, 9, 11",
+            "citation": "Psalm 79:8",
             "sources": [
               "USCCB"
             ]
@@ -43726,8 +43726,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 10:45",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-27": [
