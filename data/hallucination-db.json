@@ -69610,5 +69610,63 @@
       ]
     },
     "checked_at": "2026-05-05T23:40:58+00:00"
+  },
+  "2024-11-24:0": {
+    "date": "2024-11-24",
+    "url": "https://bible.usccb.org/bible/readings/112424.cfm",
+    "lectionary_number": 161,
+    "feast": "The Solemnity of Our Lord Jesus Christ, King of the Universe",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 93:1, 1-2, 5"
+        ],
+        "live": [
+          "Ps 93:1"
+        ],
+        "fix": [
+          "Ps 93:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 11:9"
+        ],
+        "fix": [
+          "Mk 11:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "alleluia_verse": [
+        "Mk 11:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 7:13-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "second_reading": [
+        "Rv 1:5-8"
+      ],
+      "alleluia_verse": [
+        "Mk 11:9"
+      ],
+      "gospel": [
+        "Jn 18:33"
+      ]
+    },
+    "checked_at": "2026-05-05T23:45:10+00:00"
   }
 }

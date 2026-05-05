@@ -13629,3 +13629,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 86:3-4, 5-6, 9-10']`, live=`['Ps 86:3-4']`, fix=`['Ps 86:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Rom 8:15']`, fix=`['Rom 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbd644b
+
+### ❌ 2024-11-24 — The Solemnity of Our Lord Jesus Christ, King of the Universe
+- **Checked**: 2026-05-05 23:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112424.cfm
+- **Status**: mismatch
+- **Lectionary**: 161
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 93:1, 1-2, 5']`, live=`['Ps 93:1']`, fix=`['Ps 93:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 11:9']`, fix=`['Mk 11:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/12f40e4
