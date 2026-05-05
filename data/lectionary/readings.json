@@ -23778,32 +23778,17 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 50:4-9a",
-            "sources": [
-              "USCCB",
-              "CatholicGallery",
-              "Prayla"
-            ]
-          },
-          {
             "citation": "Isaiah 50:4-9",
             "sources": [
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 69:8-10, 21-22, 31 and 33-34",
+            "citation": "Psalm 69:8-10",
             "sources": [
-              "USCCB",
-              "CatholicGallery"
-            ]
-          },
-          {
-            "citation": "Psalm 69:8-10, 21-22, 31, 33-34",
-            "sources": [
-              "CatholicOnline"
+              "USCCB"
             ]
           }
         ],
@@ -23818,7 +23803,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-02": [

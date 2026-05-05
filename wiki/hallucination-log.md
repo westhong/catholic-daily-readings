@@ -12736,3 +12736,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9aa7f2d
+
+### ❌ 2024-10-23 — Wednesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 16:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102324.cfm
+- **Status**: mismatch
+- **Lectionary**: 475
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['IS 12:2-3, 4']`, live=`['IS 12:2-3']`, fix=`['IS 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 24:42']`, fix=`['MT 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eca62aa
