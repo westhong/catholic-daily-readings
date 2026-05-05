@@ -17515,7 +17515,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Maccabees 1:10-15, 41-43, 54-57, 62-63",
+            "citation": "1 Maccabees 1:10-15",
             "sources": [
               "USCCB"
             ]
@@ -17523,7 +17523,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:53, 61, 134, 150, 155, 158",
+            "citation": "Psalm 119:53",
             "sources": [
               "USCCB"
             ]
@@ -17544,8 +17544,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-18": [

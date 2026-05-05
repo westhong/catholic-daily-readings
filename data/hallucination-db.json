@@ -66698,5 +66698,60 @@
       ]
     },
     "checked_at": "2026-05-05T19:05:31+00:00"
+  },
+  "2026-05-02:0": {
+    "date": "2026-05-02",
+    "url": "https://bible.usccb.org/bible/readings/050226.cfm",
+    "lectionary_number": 284,
+    "feast": "Memorial of Saint Athanasius, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 98:1, 2-3ab, 3cd-4"
+        ],
+        "live": [
+          "Psalm 98:1"
+        ],
+        "fix": [
+          "Psalm 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:31"
+        ],
+        "fix": [
+          "John 8:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "John 8:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 13:44-52"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "John 8:31"
+      ],
+      "gospel": [
+        "John 14:7-14"
+      ]
+    },
+    "checked_at": "2026-05-05T19:10:43+00:00"
   }
 }

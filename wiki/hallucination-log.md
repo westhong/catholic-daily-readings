@@ -13078,3 +13078,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Chronicles 7:16']`, fix=`['2 Chronicles 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3c34c6
+
+### ❌ 2026-05-02 — Memorial of Saint Athanasius, Bishop and Doctor of the Church
+- **Checked**: 2026-05-05 19:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050226.cfm
+- **Status**: mismatch
+- **Lectionary**: 284
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3ab, 3cd-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbb12b4
