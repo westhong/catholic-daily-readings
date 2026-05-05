@@ -65743,5 +65743,82 @@
       ]
     },
     "checked_at": "2026-05-05T17:35:50+00:00"
+  },
+  "2025-05-29:1": {
+    "date": "2025-05-29",
+    "url": "https://bible.usccb.org/bible/readings/052925-Ascension.cfm",
+    "lectionary_number": 58,
+    "feast": "Solemnity of the Ascension of the Lord",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 47:2-3, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 47:2-3"
+        ],
+        "fix": [
+          "Psalm 47:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Ephesians 1:17-23"
+        ],
+        "live": [
+          "Ephesians 1:17-23",
+          "Hebrews 9:24-28"
+        ],
+        "fix": [
+          "Ephesians 1:17-23",
+          "Hebrews 9:24-28"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 28:19"
+        ],
+        "fix": [
+          "Matthew 28:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 47:2-3"
+      ],
+      "second_reading": [
+        "Ephesians 1:17-23",
+        "Hebrews 9:24-28"
+      ],
+      "alleluia_verse": [
+        "Matthew 28:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 1:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 47:2-3"
+      ],
+      "second_reading": [
+        "Ephesians 1:17-23",
+        "Hebrews 9:24-28"
+      ],
+      "alleluia_verse": [
+        "Matthew 28:19"
+      ],
+      "gospel": [
+        "Luke 24:46-53"
+      ]
+    },
+    "checked_at": "2026-05-05T17:41:02+00:00"
   }
 }

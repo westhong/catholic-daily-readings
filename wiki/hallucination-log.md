@@ -12900,3 +12900,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b97c56
+
+### ❌ 2025-05-29 — Solemnity of the Ascension of the Lord
+- **Checked**: 2026-05-05 17:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052925-Ascension.cfm
+- **Status**: mismatch
+- **Lectionary**: 58
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 47:2-3, 6-7, 8-9']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
+  - **second_reading**: stored=`['Ephesians 1:17-23']`, live=`['Ephesians 1:17-23', 'Hebrews 9:24-28']`, fix=`['Ephesians 1:17-23', 'Hebrews 9:24-28']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 28:19']`, fix=`['Matthew 28:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f12a02
