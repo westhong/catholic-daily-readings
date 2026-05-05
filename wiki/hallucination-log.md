@@ -12725,3 +12725,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a79d69
+
+### ❌ 2027-03-09 — Tuesday of the Fourth Week of Lent
+- **Checked**: 2026-05-05 16:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030927.cfm
+- **Status**: mismatch
+- **Lectionary**: 245
+- **Mismatches**:
+  - **first_reading**: stored=`['Ezekiel 47:1-9, 12']`, live=`['Ezekiel 47:1-9']`, fix=`['Ezekiel 47:1-9']`
+  - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
+  - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9aa7f2d

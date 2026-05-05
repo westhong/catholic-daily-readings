@@ -65981,7 +65981,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "IS 12:2-3, 4",
+            "citation": "IS 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -66002,8 +66002,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "MT 24:42",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-24": [
