@@ -66469,5 +66469,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T18:40:24+00:00"
+  },
+  "2025-02-21:0": {
+    "date": "2025-02-21",
+    "url": "https://bible.usccb.org/bible/readings/022125.cfm",
+    "lectionary_number": 339,
+    "feast": "Friday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 33:10-11, 12-13, 14-15"
+        ],
+        "live": [
+          "Psalm 33:10-11"
+        ],
+        "fix": [
+          "Psalm 33:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:15"
+        ],
+        "fix": [
+          "John 15:15"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "will save it. What profit is there for o"
+        ],
+        "live": [
+          "Mark 8:34"
+        ],
+        "fix": [
+          "Mark 8:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 33:10-11"
+      ],
+      "alleluia_verse": [
+        "John 15:15"
+      ],
+      "gospel": [
+        "Mark 8:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 11:1-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 33:10-11"
+      ],
+      "alleluia_verse": [
+        "John 15:15"
+      ],
+      "gospel": [
+        "Mark 8:34"
+      ]
+    },
+    "checked_at": "2026-05-05T18:45:37+00:00"
   }
 }
