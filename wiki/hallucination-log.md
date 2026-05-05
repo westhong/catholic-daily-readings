@@ -11141,3 +11141,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 16-17, 18-19, 20-21']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:63']`, fix=`['John 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c616b3d
+
+### 🚫 2026-10-28 — 
+- **Checked**: 2026-05-05 02:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1028.cfm
+- **Status**: url_dead
+- **Lectionary**: 666
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1028.cfm`, live=fetch failed
