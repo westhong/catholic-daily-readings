@@ -63080,5 +63080,60 @@
       ]
     },
     "checked_at": "2026-05-05T12:55:49+00:00"
+  },
+  "2023-01-27:0": {
+    "date": "2023-01-27",
+    "url": "https://bible.usccb.org/bible/readings/012723.cfm",
+    "lectionary_number": 321,
+    "feast": "Friday of the Third Week of Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 37:3-4, 5-6, 23-24, 39-40"
+        ],
+        "live": [
+          "Ps 37:3-4"
+        ],
+        "fix": [
+          "Ps 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:25"
+        ],
+        "fix": [
+          "Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 10:32-39"
+      ],
+      "responsorial_psalm": [
+        "Ps 37:3-4"
+      ],
+      "alleluia_verse": [
+        "Mt 11:25"
+      ],
+      "gospel": [
+        "Mk 4:26-34"
+      ]
+    },
+    "checked_at": "2026-05-05T13:01:04+00:00"
   }
 }
