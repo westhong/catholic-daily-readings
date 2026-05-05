@@ -11997,3 +11997,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 11:28']`, fix=`['MT 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e652cda
+
+### ❌ 2023-07-07 — Friday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 09:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070723.cfm
+- **Status**: mismatch
+- **Lectionary**: 381
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 23:1-4, 19']`, live=`['Gn 23:1-4']`, fix=`['Gn 23:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a5144aa
