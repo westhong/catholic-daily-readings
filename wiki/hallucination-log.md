@@ -11500,3 +11500,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 409
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/805.cfm`, live=fetch failed
+
+### ❌ 2027-09-17 — Friday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091727.cfm
+- **Status**: mismatch
+- **Lectionary**: 447
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 49:6-7, 8-10, 17-18, 19-20']`, live=`['Psalm 49:6-7']`, fix=`['Psalm 49:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/52c65e2
