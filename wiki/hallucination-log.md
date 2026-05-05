@@ -12027,3 +12027,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Phil 3:8-9']`, fix=`['Phil 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/922dfe1
+
+### ❌ 2024-05-11 — Saturday of the Sixth Week of Easter
+- **Checked**: 2026-05-05 10:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051124.cfm
+- **Status**: mismatch
+- **Lectionary**: 296
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['47:2-3, 8-9, 10']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:28']`, fix=`['Jn 16:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/865ba98
