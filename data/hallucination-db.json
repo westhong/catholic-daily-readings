@@ -62927,5 +62927,24 @@
       ]
     },
     "checked_at": "2026-05-05T12:30:37+00:00"
+  },
+  "2026-10-08:0": {
+    "date": "2026-10-08",
+    "url": "https://bible.usccb.org/bible/readings/1008.cfm",
+    "lectionary_number": 464,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1008.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T12:35:50+00:00"
   }
 }

@@ -3854,7 +3854,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 4:1-15, 25",
+            "citation": "Genesis 4:1-15",
             "sources": [
               "USCCB"
             ]
@@ -3862,7 +3862,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 50:1,8, 16",
+            "citation": "Psalm 50:1",
             "sources": [
               "USCCB"
             ]
@@ -3883,8 +3883,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-18": [

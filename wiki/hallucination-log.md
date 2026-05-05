@@ -12317,3 +12317,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a98801e
+
+### 🚫 2026-10-08 — 
+- **Checked**: 2026-05-05 12:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1008.cfm
+- **Status**: url_dead
+- **Lectionary**: 464
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1008.cfm`, live=fetch failed
