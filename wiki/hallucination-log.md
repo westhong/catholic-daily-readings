@@ -11391,3 +11391,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 69:3, 14, 30-31, 33-34']`, live=`['Ps 69:3']`, fix=`['Ps 69:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d39724
+
+### ❌ 2024-01-18 — Thursday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-05 04:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011824.cfm
+- **Status**: mismatch
+- **Lectionary**: 314
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['56:2-3, 9-10']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Tm 1:10']`, fix=`['2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d494e04
