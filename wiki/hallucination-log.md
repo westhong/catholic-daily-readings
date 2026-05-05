@@ -13559,3 +13559,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Ephesians 1:17-23']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 28:16-20']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b31e9c9
+
+### ❌ 2023-11-30 — Feast of Saint Andrew, Apostle
+- **Checked**: 2026-05-05 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/113023.cfm
+- **Status**: mismatch
+- **Lectionary**: 684
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 19:8, 9, 10, 11']`, live=`['PS 19:8']`, fix=`['PS 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0cd1410

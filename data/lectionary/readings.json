@@ -40535,7 +40535,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 12-13, 14-15",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -40560,7 +40560,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/031427-YearB.cfm",
       "date": "2027-03-14",
-      "mass": "YearB"
+      "mass": "YearB",
+      "mass_idx": 1
     }
   ],
   "2027-03-15": [

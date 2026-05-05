@@ -69239,5 +69239,60 @@
     },
     "live_readings": {},
     "checked_at": "2026-05-05T23:05:34+00:00"
+  },
+  "2023-11-30:0": {
+    "date": "2023-11-30",
+    "url": "https://bible.usccb.org/bible/readings/113023.cfm",
+    "lectionary_number": 684,
+    "feast": "Feast of Saint Andrew, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "PS 19:8"
+        ],
+        "fix": [
+          "PS 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:19"
+        ],
+        "fix": [
+          "Mt 4:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 19:8"
+      ],
+      "alleluia_verse": [
+        "Mt 4:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 10:9-18"
+      ],
+      "responsorial_psalm": [
+        "PS 19:8"
+      ],
+      "alleluia_verse": [
+        "Mt 4:19"
+      ],
+      "gospel": [
+        "Mt 4:18-22"
+      ]
+    },
+    "checked_at": "2026-05-05T23:10:47+00:00"
   }
 }
