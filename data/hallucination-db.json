@@ -63880,5 +63880,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T14:25:09+00:00"
+  },
+  "2026-03-10:0": {
+    "date": "2026-03-10",
+    "url": "https://bible.usccb.org/bible/readings/031026.cfm",
+    "lectionary_number": 238,
+    "feast": "Tuesday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Daniel 3:25, 34-43"
+        ],
+        "live": [
+          "Daniel 3:25"
+        ],
+        "fix": [
+          "Daniel 3:25"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Joel 2:12-13"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Daniel 3:25"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 3:25"
+      ],
+      "responsorial_psalm": [
+        "Psalm 25:4-5"
+      ],
+      "gospel": [
+        "Matthew 18:21-35"
+      ]
+    },
+    "checked_at": "2026-05-05T14:30:26+00:00"
   }
 }

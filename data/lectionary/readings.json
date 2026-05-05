@@ -59343,7 +59343,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 98:1, 2-3",
+            "citation": "PS 98:1",
             "sources": [
               "USCCB"
             ]
@@ -59364,8 +59364,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-12": [
