@@ -11381,3 +11381,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ezekiel 33:11']`, fix=`['Ezekiel 33:11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf21d26
+
+### ❌ 2023-07-18 — Tuesday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 04:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071823.cfm
+- **Status**: mismatch
+- **Lectionary**: 390
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 69:3, 14, 30-31, 33-34']`, live=`['Ps 69:3']`, fix=`['Ps 69:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d39724

@@ -52658,14 +52658,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "56:2-3, 9-10",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 3:7-12",
@@ -52681,8 +52674,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Tm 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-19": [
