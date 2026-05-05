@@ -55787,5 +55787,51 @@
       ]
     },
     "checked_at": "2026-05-05T00:50:59+00:00"
+  },
+  "2023-01-10:0": {
+    "date": "2023-01-10",
+    "url": "https://bible.usccb.org/bible/readings/011023.cfm",
+    "lectionary_number": 306,
+    "feast": "Tuesday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "8:2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 1 Thes 2:13"
+        ],
+        "fix": [
+          "See 1 Thes 2:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See 1 Thes 2:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 2:5-12"
+      ],
+      "alleluia_verse": [
+        "See 1 Thes 2:13"
+      ],
+      "gospel": [
+        "Mk 1:21-28"
+      ]
+    },
+    "checked_at": "2026-05-05T00:55:10+00:00"
   }
 }
