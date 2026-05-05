@@ -66944,14 +66944,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "96:10, 11-12, 13",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "LK 21:5-11",
@@ -66967,8 +66960,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "RV 2:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-27": [

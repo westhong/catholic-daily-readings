@@ -55833,5 +55833,60 @@
       ]
     },
     "checked_at": "2026-05-05T00:55:10+00:00"
+  },
+  "2023-11-06:0": {
+    "date": "2023-11-06",
+    "url": "https://bible.usccb.org/bible/readings/110623.cfm",
+    "lectionary_number": 485,
+    "feast": "Monday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 69:30-31, 33-34, 36"
+        ],
+        "live": [
+          "Ps 69:30-31"
+        ],
+        "fix": [
+          "Ps 69:30-31"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:31"
+        ],
+        "fix": [
+          "Jn 8:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 69:30-31"
+      ],
+      "alleluia_verse": [
+        "Jn 8:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 11:29-36"
+      ],
+      "responsorial_psalm": [
+        "Ps 69:30-31"
+      ],
+      "alleluia_verse": [
+        "Jn 8:31"
+      ],
+      "gospel": [
+        "Lk 14:12-14"
+      ]
+    },
+    "checked_at": "2026-05-05T01:00:21+00:00"
   }
 }

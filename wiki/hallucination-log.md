@@ -10956,3 +10956,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['8:2']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thes 2:13']`, fix=`['See 1 Thes 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/61b8648
+
+### ❌ 2023-11-06 — Monday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-05 01:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110623.cfm
+- **Status**: mismatch
+- **Lectionary**: 485
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 69:30-31, 33-34, 36']`, live=`['Ps 69:30-31']`, fix=`['Ps 69:30-31']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37a849a
