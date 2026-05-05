@@ -69555,5 +69555,60 @@
       ]
     },
     "checked_at": "2026-05-05T23:35:44+00:00"
+  },
+  "2023-10-11:0": {
+    "date": "2023-10-11",
+    "url": "https://bible.usccb.org/bible/readings/101123.cfm",
+    "lectionary_number": 463,
+    "feast": "Wednesday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 86:3-4, 5-6, 9-10"
+        ],
+        "live": [
+          "Ps 86:3-4"
+        ],
+        "fix": [
+          "Ps 86:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Rom 8:15"
+        ],
+        "fix": [
+          "Rom 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 86:3-4"
+      ],
+      "alleluia_verse": [
+        "Rom 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jon 4:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 86:3-4"
+      ],
+      "alleluia_verse": [
+        "Rom 8:15"
+      ],
+      "gospel": [
+        "Lk 11:1-4"
+      ]
+    },
+    "checked_at": "2026-05-05T23:40:58+00:00"
   }
 }

@@ -67899,7 +67899,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 93:1, 1-2, 5",
+            "citation": "Ps 93:1",
             "sources": [
               "USCCB"
             ]
@@ -67928,8 +67928,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 11:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-25": [
