@@ -60256,5 +60256,60 @@
       ]
     },
     "checked_at": "2026-05-05T08:10:12+00:00"
+  },
+  "2025-05-20:0": {
+    "date": "2025-05-20",
+    "url": "https://bible.usccb.org/bible/readings/052025.cfm",
+    "lectionary_number": 286,
+    "feast": "Tuesday of Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 145:10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 145:10-11"
+        ],
+        "fix": [
+          "Psalm 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 24:46"
+        ],
+        "fix": [
+          "See Luke 24:46"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Luke 24:46"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 14:19-28"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Luke 24:46"
+      ],
+      "gospel": [
+        "John 14:27-31"
+      ]
+    },
+    "checked_at": "2026-05-05T08:15:26+00:00"
   }
 }

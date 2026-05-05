@@ -11808,3 +11808,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/51f99cd
+
+### ❌ 2025-05-20 — Tuesday of Fifth Week of Easter
+- **Checked**: 2026-05-05 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052025.cfm
+- **Status**: mismatch
+- **Lectionary**: 286
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/267f2cb
