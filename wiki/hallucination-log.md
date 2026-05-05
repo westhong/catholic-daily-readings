@@ -13588,3 +13588,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 47:2-3, 4-5, 6-7']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d53542
+
+### ❌ 2023-03-03 — Friday of the First Week of Lent
+- **Checked**: 2026-05-05 23:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030323.cfm
+- **Status**: mismatch
+- **Lectionary**: 228
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['130:1-2, 3-4, 5-7']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7da0cc7

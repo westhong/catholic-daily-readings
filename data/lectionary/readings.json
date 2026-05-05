@@ -207,7 +207,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 7:21, 24-27",
+            "citation": "Mt 7:21",
             "sources": [
               "USCCB"
             ]
@@ -220,8 +220,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Is 55:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-06": [
