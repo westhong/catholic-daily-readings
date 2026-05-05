@@ -64456,5 +64456,51 @@
       ]
     },
     "checked_at": "2026-05-05T15:30:33+00:00"
+  },
+  "2024-01-16:0": {
+    "date": "2024-01-16",
+    "url": "https://bible.usccb.org/bible/readings/011624.cfm",
+    "lectionary_number": 312,
+    "feast": "Tuesday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "89:20, 21-22, 27-28"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Eph 1:17-18"
+        ],
+        "fix": [
+          "See Eph 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 16:1-13"
+      ],
+      "alleluia_verse": [
+        "See Eph 1:17-18"
+      ],
+      "gospel": [
+        "Mk 2:23-28"
+      ]
+    },
+    "checked_at": "2026-05-05T15:35:46+00:00"
   }
 }

@@ -12654,3 +12654,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 13:15-17, 20-21']`, live=`['Hebrews 13:15-17']`, fix=`['Hebrews 13:15-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf4e6e5
+
+### ❌ 2024-01-16 — Tuesday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-05 15:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011624.cfm
+- **Status**: mismatch
+- **Lectionary**: 312
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['89:20, 21-22, 27-28']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/086ab40
