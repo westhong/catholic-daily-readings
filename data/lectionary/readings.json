@@ -49875,7 +49875,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 9:2-3, 6",
+            "citation": "Psalm 9:2-3",
             "sources": [
               "USCCB"
             ]
@@ -49888,8 +49888,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 12:31",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-09": [
