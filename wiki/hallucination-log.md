@@ -10870,3 +10870,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 16:1-2a and 5, 7-8, 9-10, 11']`, live=`['Psalm 16:1-2']`, fix=`['Psalm 16:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:21']`, fix=`['John 17:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c006843
+
+### ❌ 2026-02-01 — Fourth Sunday in Ordinary Time
+- **Checked**: 2026-05-05 00:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020126.cfm
+- **Status**: mismatch
+- **Lectionary**: 70
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 146:6-7, 8-9, 9-10']`, live=`['Psalm 146:6-7']`, fix=`['Psalm 146:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:12']`, fix=`['Matthew 5:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2b805b3

@@ -55422,5 +55422,63 @@
       ]
     },
     "checked_at": "2026-05-05T00:11:03+00:00"
+  },
+  "2026-02-01:0": {
+    "date": "2026-02-01",
+    "url": "https://bible.usccb.org/bible/readings/020126.cfm",
+    "lectionary_number": 70,
+    "feast": "Fourth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 146:6-7, 8-9, 9-10"
+        ],
+        "live": [
+          "Psalm 146:6-7"
+        ],
+        "fix": [
+          "Psalm 146:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:12"
+        ],
+        "fix": [
+          "Matthew 5:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 146:6-7"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zephaniah 2:3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 146:6-7"
+      ],
+      "second_reading": [
+        "1 Corinthians 1:26-31"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:12"
+      ],
+      "gospel": [
+        "Matthew 5:1-12"
+      ]
+    },
+    "checked_at": "2026-05-05T00:15:15+00:00"
   }
 }
