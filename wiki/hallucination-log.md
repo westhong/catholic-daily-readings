@@ -11441,3 +11441,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/120623.cfm
 - **Status**: ok
 - **Lectionary**: 177
+
+### ❌ 2024-02-01 — Thursday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 05:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020124.cfm
+- **Status**: mismatch
+- **Lectionary**: 326
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kgs 2:1-4, 10-12']`, live=`['1 Kgs 2:1-4']`, fix=`['1 Kgs 2:1-4']`
+  - **responsorial_psalm**: stored=`['1 Chronicles 29:10, 11']`, live=`['1 Chronicles 29:10']`, fix=`['1 Chronicles 29:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f995ea4

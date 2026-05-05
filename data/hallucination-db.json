@@ -58422,5 +58422,75 @@
       ]
     },
     "checked_at": "2026-05-05T05:00:29+00:00"
+  },
+  "2024-02-01:0": {
+    "date": "2024-02-01",
+    "url": "https://bible.usccb.org/bible/readings/020124.cfm",
+    "lectionary_number": 326,
+    "feast": "Thursday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kgs 2:1-4, 10-12"
+        ],
+        "live": [
+          "1 Kgs 2:1-4"
+        ],
+        "fix": [
+          "1 Kgs 2:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "1 Chronicles 29:10, 11"
+        ],
+        "live": [
+          "1 Chronicles 29:10"
+        ],
+        "fix": [
+          "1 Chronicles 29:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Kgs 2:1-4"
+      ],
+      "responsorial_psalm": [
+        "1 Chronicles 29:10"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 2:1-4"
+      ],
+      "responsorial_psalm": [
+        "1 Chronicles 29:10"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Mk 6:7-13"
+      ]
+    },
+    "checked_at": "2026-05-05T05:05:40+00:00"
   }
 }
