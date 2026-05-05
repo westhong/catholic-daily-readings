@@ -10829,3 +10829,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 18-19, 20-21']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/90a9c15
+
+### ❌ 2023-02-19 — Seventh Sunday in Ordinary Time
+- **Checked**: 2026-05-04 23:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021923.cfm
+- **Status**: mismatch
+- **Lectionary**: 79
+- **Mismatches**:
+  - **first_reading**: stored=`['Lv 19:1-2, 17-18']`, live=`['Lv 19:1-2']`, fix=`['Lv 19:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 8, 10, 12-13']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb8795b
