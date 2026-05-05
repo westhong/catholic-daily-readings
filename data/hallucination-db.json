@@ -67268,5 +67268,53 @@
       ]
     },
     "checked_at": "2026-05-05T20:00:49+00:00"
+  },
+  "2025-04-05:0": {
+    "date": "2025-04-05",
+    "url": "https://bible.usccb.org/bible/readings/040525.cfm",
+    "lectionary_number": 249,
+    "feast": "Saturday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 7:2-3, 9"
+        ],
+        "live": [
+          "Psalm 7:2-3"
+        ],
+        "fix": [
+          "Psalm 7:2-3"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Luke 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 7:2-3"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 11:18-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 7:2-3"
+      ],
+      "gospel": [
+        "John 7:40-53"
+      ]
+    },
+    "checked_at": "2026-05-05T20:06:02+00:00"
   }
 }

@@ -13186,3 +13186,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Is 42:1-4, 6-7']`, live=`['Is 42:1-4', 'Is 55:1-11']`, fix=`['Is 42:1-4', 'Is 55:1-11']`
   - **responsorial_psalm**: stored=`['Ps 29:1-2, 3-4, 3, 9-10']`, live=`['Ps 29:1-2', 'Is 12:2-3']`, fix=`['Ps 29:1-2', 'Is 12:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/faad8a8
+
+### ❌ 2025-04-05 — Saturday of the Fourth Week of Lent
+- **Checked**: 2026-05-05 20:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040525.cfm
+- **Status**: mismatch
+- **Lectionary**: 249
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 7:2-3, 9']`, live=`['Psalm 7:2-3']`, fix=`['Psalm 7:2-3']`
+  - **verse_before_gospel**: stored=`['See Luke 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a77e592

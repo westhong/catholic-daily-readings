@@ -3967,7 +3967,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 8:6-13, 20-22",
+            "citation": "Genesis 8:6-13",
             "sources": [
               "USCCB"
             ]
@@ -3975,7 +3975,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 116:12-13, 14-15, 18-19",
+            "citation": "Psalm 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -3996,8 +3996,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-20": [
