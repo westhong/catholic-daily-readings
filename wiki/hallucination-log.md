@@ -12157,3 +12157,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0bacf84
+
+### ❌ 2025-06-03 — Memorial of Saint Charles Lwanga and Companions, Martyrs
+- **Checked**: 2026-05-05 11:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060325.cfm
+- **Status**: mismatch
+- **Lectionary**: 298
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 68:10-11, 20-21']`, live=`['Psalm 68:10-11']`, fix=`['Psalm 68:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9d5da
