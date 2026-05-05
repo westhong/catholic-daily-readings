@@ -11877,3 +11877,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 437
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/907.cfm`, live=fetch failed
+
+### ❌ 2027-05-26 — Memorial of Saint Philip Neri, Priest
+- **Checked**: 2026-05-05 08:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052627.cfm
+- **Status**: mismatch
+- **Lectionary**: 349
+- **Mismatches**:
+  - **first_reading**: stored=`['Sirach 36:1, 4-5']`, live=`['Sirach 36:1']`, fix=`['Sirach 36:1']`
+  - **responsorial_psalm**: stored=`['Psalm 79:8, 9, 11']`, live=`['Psalm 79:8']`, fix=`['Psalm 79:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/95b0f2b

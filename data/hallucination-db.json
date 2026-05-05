@@ -60620,5 +60620,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T08:45:57+00:00"
+  },
+  "2027-05-26:0": {
+    "date": "2027-05-26",
+    "url": "https://bible.usccb.org/bible/readings/052627.cfm",
+    "lectionary_number": 349,
+    "feast": "Memorial of Saint Philip Neri, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Sirach 36:1, 4-5"
+        ],
+        "live": [
+          "Sirach 36:1"
+        ],
+        "fix": [
+          "Sirach 36:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 79:8, 9, 11"
+        ],
+        "live": [
+          "Psalm 79:8"
+        ],
+        "fix": [
+          "Psalm 79:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 10:45"
+        ],
+        "fix": [
+          "Mark 10:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Sirach 36:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 79:8"
+      ],
+      "alleluia_verse": [
+        "Mark 10:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 36:1"
+      ],
+      "responsorial_psalm": [
+        "Psalm 79:8"
+      ],
+      "alleluia_verse": [
+        "Mark 10:45"
+      ],
+      "gospel": [
+        "Mark 10:32-45"
+      ]
+    },
+    "checked_at": "2026-05-05T08:50:21+00:00"
   }
 }
