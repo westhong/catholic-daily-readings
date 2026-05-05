@@ -23340,7 +23340,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 130:1-2, 3-4, 5-6, 7-8",
+            "citation": "Psalm 130:1-2",
             "sources": [
               "USCCB"
             ]
@@ -23360,17 +23360,17 @@
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "verse_before_gospel": [
+          },
           {
-            "citation": "John 11:25a, 26",
+            "citation": "John 11:3-7",
             "sources": [
               "USCCB"
             ]
           }
-        ]
-      }
+        ],
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2026-03-23": [
