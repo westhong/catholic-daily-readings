@@ -11472,3 +11472,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 25:34']`, fix=`['Mt 25:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cfc258a
+
+### ❌ 2027-06-12 — Saturday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-05 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061227.cfm
+- **Status**: mismatch
+- **Lectionary**: 364
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103:1-2, 3-4, 9-10, 11-12']`, live=`['Psalm 103:1-2']`, fix=`['Psalm 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2203ea
