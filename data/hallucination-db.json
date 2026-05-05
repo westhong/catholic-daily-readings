@@ -67132,5 +67132,60 @@
       ]
     },
     "checked_at": "2026-05-05T19:45:08+00:00"
+  },
+  "2024-10-18:0": {
+    "date": "2024-10-18",
+    "url": "https://bible.usccb.org/bible/readings/101824.cfm",
+    "lectionary_number": 661,
+    "feast": "Feast of Saint Luke, evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:10-11, 12-13, 17-18"
+        ],
+        "live": [
+          "Ps 145:10-11"
+        ],
+        "fix": [
+          "Ps 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Tm 4:10-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Lk 10:1-9"
+      ]
+    },
+    "checked_at": "2026-05-05T19:50:21+00:00"
   }
 }

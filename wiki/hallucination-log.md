@@ -13158,3 +13158,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 119:1, 27, 30, 34, 35, 44']`, live=`['PS 119:1']`, fix=`['PS 119:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 11:28']`, fix=`['LK 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8fdd52d
+
+### ❌ 2024-10-18 — Feast of Saint Luke, evangelist
+- **Checked**: 2026-05-05 19:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101824.cfm
+- **Status**: mismatch
+- **Lectionary**: 661
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13, 17-18']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/65428df
