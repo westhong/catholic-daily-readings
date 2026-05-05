@@ -55728,5 +55728,24 @@
       ]
     },
     "checked_at": "2026-05-05T00:40:20+00:00"
+  },
+  "2026-07-14:0": {
+    "date": "2026-07-14",
+    "url": "https://bible.usccb.org/bible/readings/714.cfm",
+    "lectionary_number": 390,
+    "feast": "Memorial of Saint Kateri Tekakwitha, Virgin  [In the Dioceses of the United States]",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/714.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T00:45:33+00:00"
   }
 }

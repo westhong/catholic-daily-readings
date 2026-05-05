@@ -10929,3 +10929,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['105:2-3, 36-37, 42-43']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thes 2:14']`, fix=`['See 2 Thes 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7288ec6
+
+### 🚫 2026-07-14 — Memorial of Saint Kateri Tekakwitha, Virgin  [In the Dioceses of the United States]
+- **Checked**: 2026-05-05 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/714.cfm
+- **Status**: url_dead
+- **Lectionary**: 390
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/714.cfm`, live=fetch failed
