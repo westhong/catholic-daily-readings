@@ -59368,5 +59368,47 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T06:45:05+00:00"
+  },
+  "2023-10-08:0": {
+    "date": "2023-10-08",
+    "url": "https://bible.usccb.org/bible/readings/100823.cfm",
+    "lectionary_number": 139,
+    "feast": "Twenty-seventh Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 80:9, 12, 13-14, 15-16, 19-20"
+        ],
+        "live": [
+          "Ps 80:9"
+        ],
+        "fix": [
+          "Ps 80:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 80:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 5:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 80:9"
+      ],
+      "second_reading": [
+        "Phil 4:6-9"
+      ],
+      "gospel": [
+        "Mt 21:33-43"
+      ]
+    },
+    "checked_at": "2026-05-05T06:50:21+00:00"
   }
 }

@@ -11639,3 +11639,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 506
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261126.cfm`, live=fetch failed
+
+### ❌ 2023-10-08 — Twenty-seventh Sunday in Ordinary Time
+- **Checked**: 2026-05-05 06:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100823.cfm
+- **Status**: mismatch
+- **Lectionary**: 139
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 80:9, 12, 13-14, 15-16, 19-20']`, live=`['Ps 80:9']`, fix=`['Ps 80:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20d98c6
