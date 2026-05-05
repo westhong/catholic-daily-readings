@@ -11095,3 +11095,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/deaa276
+
+### ❌ 2025-10-03 — Friday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-05 02:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100325.cfm
+- **Status**: mismatch
+- **Lectionary**: 459
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cca2a9
