@@ -12540,3 +12540,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Daniel 3:25, 34-43']`, live=`['Daniel 3:25']`, fix=`['Daniel 3:25']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3f10818
+
+### ❌ 2024-06-11 — Memorial of Saint Barnabas, Apostle
+- **Checked**: 2026-05-05 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061124.cfm
+- **Status**: mismatch
+- **Lectionary**: 580
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/53e4336
