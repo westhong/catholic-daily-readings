@@ -12167,3 +12167,21 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 68:10-11, 20-21']`, live=`['Psalm 68:10-11']`, fix=`['Psalm 68:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9d5da
+
+### ❌ 2027-06-04 — Solemnity of Most Sacred Heart of Jesus
+- **Checked**: 2026-05-05 11:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060427.cfm
+- **Status**: mismatch
+- **Lectionary**: 171
+- **Mismatches**:
+  - **first_reading**: stored=`['Hosea 11:1, 3-4, 8']`, live=`['Hosea 11:1']`, fix=`['Hosea 11:1']`
+  - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4, 5-6']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
+  - **second_reading**: stored=`['Ephesians 3:8-12, 14-19']`, live=`['Ephesians 3:8-12']`, fix=`['Ephesians 3:8-12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:29']`, fix=`['Matthew 11:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4070342
+
+### ✅ 2023-05-18 — Thursday of the Sixth Week of Easter - Ascension
+- **Checked**: 2026-05-05 11:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051823.cfm
+- **Status**: ok
+- **Lectionary**: 58
