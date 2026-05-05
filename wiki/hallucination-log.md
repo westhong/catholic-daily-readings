@@ -11690,3 +11690,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 18:1—19']`, live=`['John 18:1']`, fix=`['John 18:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/307f4af
+
+### ❌ 2027-10-29 — Friday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-05 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102927.cfm
+- **Status**: mismatch
+- **Lectionary**: 483
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a24c46

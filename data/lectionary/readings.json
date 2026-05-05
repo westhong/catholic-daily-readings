@@ -66979,14 +66979,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "150:1",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 19:11-28",
@@ -67002,8 +66995,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-21": [
