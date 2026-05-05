@@ -11756,3 +11756,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0b72d8f
+
+### ❌ 2023-01-03 — Christmas Weekday
+- **Checked**: 2026-05-05 07:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010323.cfm
+- **Status**: mismatch
+- **Lectionary**: 206
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 98:1, 3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 1:14']`, fix=`['JN 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4e114e8
