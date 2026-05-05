@@ -13425,3 +13425,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Revelation 7:2-4, 9-14']`, live=`['Revelation 7:2-4']`, fix=`['Revelation 7:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:28']`, fix=`['Matthew 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/87834a8
+
+### ❌ 2027-01-05 — Memorial of Saint John Neumann, Bishop
+- **Checked**: 2026-05-05 22:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010527.cfm
+- **Status**: mismatch
+- **Lectionary**: 213
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 3-4, 7-8']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/081fe9f
