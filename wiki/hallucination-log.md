@@ -12275,3 +12275,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 445
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/916.cfm`, live=fetch failed
+
+### ❌ 2025-05-11 — Fourth Sunday of Easter
+- **Checked**: 2026-05-05 12:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051125.cfm
+- **Status**: mismatch
+- **Lectionary**: 51
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 13:14, 43-52']`, live=`['Acts 13:14']`, fix=`['Acts 13:14']`
+  - **responsorial_psalm**: stored=`['Psalm 100:1-2, 3, 5']`, live=`['Psalm 100:1-2']`, fix=`['Psalm 100:1-2']`
+  - **second_reading**: stored=`['Revelation 7:9, 14']`, live=`['Revelation 7:9']`, fix=`['Revelation 7:9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9deb7a2

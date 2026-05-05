@@ -62671,5 +62671,93 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T12:10:34+00:00"
+  },
+  "2025-05-11:0": {
+    "date": "2025-05-11",
+    "url": "https://bible.usccb.org/bible/readings/051125.cfm",
+    "lectionary_number": 51,
+    "feast": "Fourth Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 13:14, 43-52"
+        ],
+        "live": [
+          "Acts 13:14"
+        ],
+        "fix": [
+          "Acts 13:14"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 100:1-2, 3, 5"
+        ],
+        "live": [
+          "Psalm 100:1-2"
+        ],
+        "fix": [
+          "Psalm 100:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Revelation 7:9, 14"
+        ],
+        "live": [
+          "Revelation 7:9"
+        ],
+        "fix": [
+          "Revelation 7:9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:14"
+        ],
+        "fix": [
+          "John 10:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 13:14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1-2"
+      ],
+      "second_reading": [
+        "Revelation 7:9"
+      ],
+      "alleluia_verse": [
+        "John 10:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 13:14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 100:1-2"
+      ],
+      "second_reading": [
+        "Revelation 7:9"
+      ],
+      "alleluia_verse": [
+        "John 10:14"
+      ],
+      "gospel": [
+        "John 10:27-30"
+      ]
+    },
+    "checked_at": "2026-05-05T12:15:54+00:00"
   }
 }
