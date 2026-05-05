@@ -11668,3 +11668,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:4-5, 18-19, 20, 22']`, live=`['Ps 33:4-5']`, fix=`['Ps 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a904091
+
+### ❌ 2025-08-11 — Memorial of Saint Clare, Virgin
+- **Checked**: 2026-05-05 07:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081125.cfm
+- **Status**: mismatch
+- **Lectionary**: 413
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b56b19e
