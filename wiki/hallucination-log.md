@@ -13379,3 +13379,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/22371a2
+
+### ❌ 2024-02-23 — Friday of the First Week of Lent
+- **Checked**: 2026-05-05 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022324.cfm
+- **Status**: mismatch
+- **Lectionary**: 228
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 130:1-2, 3-4, 5-7']`, live=`['Ps 130:1-2']`, fix=`['Ps 130:1-2']`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0d5f67c

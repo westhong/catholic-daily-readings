@@ -68303,5 +68303,53 @@
       ]
     },
     "checked_at": "2026-05-05T21:35:35+00:00"
+  },
+  "2024-02-23:0": {
+    "date": "2024-02-23",
+    "url": "https://bible.usccb.org/bible/readings/022324.cfm",
+    "lectionary_number": 228,
+    "feast": "Friday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 130:1-2, 3-4, 5-7"
+        ],
+        "live": [
+          "Ps 130:1-2"
+        ],
+        "fix": [
+          "Ps 130:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ez 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 130:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 18:21-28"
+      ],
+      "responsorial_psalm": [
+        "Ps 130:1-2"
+      ],
+      "gospel": [
+        "Mt 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-05T21:40:47+00:00"
   }
 }
