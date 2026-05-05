@@ -56170,5 +56170,60 @@
       ]
     },
     "checked_at": "2026-05-05T01:25:24+00:00"
+  },
+  "2024-10-10:0": {
+    "date": "2024-10-10",
+    "url": "https://bible.usccb.org/bible/readings/101024.cfm",
+    "lectionary_number": 464,
+    "feast": "Thursday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "LK 1:69-70, 71-72, 73-75"
+        ],
+        "live": [
+          "LK 1:69-70"
+        ],
+        "fix": [
+          "LK 1:69-70"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "ACTS 16:14"
+        ],
+        "fix": [
+          "ACTS 16:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "LK 1:69-70"
+      ],
+      "alleluia_verse": [
+        "ACTS 16:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 3:1-5"
+      ],
+      "responsorial_psalm": [
+        "LK 1:69-70"
+      ],
+      "alleluia_verse": [
+        "ACTS 16:14"
+      ],
+      "gospel": [
+        "LK 11:5-13"
+      ]
+    },
+    "checked_at": "2026-05-05T01:30:35+00:00"
   }
 }

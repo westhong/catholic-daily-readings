@@ -11017,3 +11017,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['PS 27:1, 4, 13-14']`, live=`['PS 27:1']`, fix=`['PS 27:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/317d6a9
+
+### ❌ 2024-10-10 — Thursday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-05 01:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101024.cfm
+- **Status**: mismatch
+- **Lectionary**: 464
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['LK 1:69-70, 71-72, 73-75']`, live=`['LK 1:69-70']`, fix=`['LK 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['ACTS 16:14']`, fix=`['ACTS 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8b637eb

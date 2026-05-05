@@ -2471,7 +2471,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 111:1-2, 4-5, 9, 10",
+            "citation": "Psalm 111:1-2",
             "sources": [
               "USCCB"
             ]
@@ -2492,8 +2492,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-22": [
