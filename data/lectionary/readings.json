@@ -26115,7 +26115,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:2-3ab, 4-5acd, 6-7ab",
+            "citation": "Psalm 68:2-3",
             "sources": [
               "USCCB"
             ]
@@ -26136,8 +26136,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Colossians 3:1",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-19": [

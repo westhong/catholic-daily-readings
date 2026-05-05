@@ -11209,3 +11209,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5134885
+
+### ❌ 2026-06-07 — The Solemnity of the Most Holy Body and Blood of Christ
+- **Checked**: 2026-05-05 03:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060726.cfm
+- **Status**: mismatch
+- **Lectionary**: 167
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 8:2-3, 14']`, live=`['Deuteronomy 8:2-3']`, fix=`['Deuteronomy 8:2-3']`
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8cb05b6

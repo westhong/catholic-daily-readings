@@ -57139,5 +57139,78 @@
       ]
     },
     "checked_at": "2026-05-05T03:05:28+00:00"
+  },
+  "2026-06-07:0": {
+    "date": "2026-06-07",
+    "url": "https://bible.usccb.org/bible/readings/060726.cfm",
+    "lectionary_number": 167,
+    "feast": "The Solemnity of the Most Holy Body and Blood of Christ",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Deuteronomy 8:2-3, 14"
+        ],
+        "live": [
+          "Deuteronomy 8:2-3"
+        ],
+        "fix": [
+          "Deuteronomy 8:2-3"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:51"
+        ],
+        "fix": [
+          "John 6:51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Deuteronomy 8:2-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 8:2-3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "second_reading": [
+        "1 Corinthians 10:16-17"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ],
+      "gospel": [
+        "John 6:51-58"
+      ]
+    },
+    "checked_at": "2026-05-05T03:10:42+00:00"
   }
 }
