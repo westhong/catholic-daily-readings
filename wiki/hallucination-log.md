@@ -11710,3 +11710,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['150:1']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8be55b6
+
+### ❌ 2026-02-10 — Memorial of Saint Scholastica, Virgin
+- **Checked**: 2026-05-05 07:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021026.cfm
+- **Status**: mismatch
+- **Lectionary**: 330
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kings 8:22-23, 27-30']`, live=`['1 Kings 8:22-23']`, fix=`['1 Kings 8:22-23']`
+  - **responsorial_psalm**: stored=`['Psalm 84:3, 4, 5 and 10, 11']`, live=`['Psalm 84:3']`, fix=`['Psalm 84:3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1cc0505

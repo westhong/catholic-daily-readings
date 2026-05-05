@@ -59760,5 +59760,75 @@
       ]
     },
     "checked_at": "2026-05-05T07:20:42+00:00"
+  },
+  "2026-02-10:0": {
+    "date": "2026-02-10",
+    "url": "https://bible.usccb.org/bible/readings/021026.cfm",
+    "lectionary_number": 330,
+    "feast": "Memorial of Saint Scholastica, Virgin",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kings 8:22-23, 27-30"
+        ],
+        "live": [
+          "1 Kings 8:22-23"
+        ],
+        "fix": [
+          "1 Kings 8:22-23"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 84:3, 4, 5 and 10, 11"
+        ],
+        "live": [
+          "Psalm 84:3"
+        ],
+        "fix": [
+          "Psalm 84:3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:36"
+        ],
+        "fix": [
+          "Psalm 119:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Kings 8:22-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 84:3"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 8:22-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 84:3"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:36"
+      ],
+      "gospel": [
+        "Mark 7:1-13"
+      ]
+    },
+    "checked_at": "2026-05-05T07:25:55+00:00"
   }
 }
