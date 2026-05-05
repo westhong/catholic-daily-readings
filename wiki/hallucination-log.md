@@ -11788,3 +11788,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mark 14:1-15']`, live=`['Mark 14:1-15', 'Mark 15:1-39']`, fix=`['Mark 14:1-15', 'Mark 15:1-39']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a807594
+
+### ❌ 2023-01-14 — Saturday of the First Week in Ordinary Time
+- **Checked**: 2026-05-05 08:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011423.cfm
+- **Status**: mismatch
+- **Lectionary**: 310
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['19:8, 9, 10, 15']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e3ed499
