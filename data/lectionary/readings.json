@@ -24666,7 +24666,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 2:14, 22-33",
+            "citation": "Acts 2:14",
             "sources": [
               "USCCB"
             ]
@@ -24674,7 +24674,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 16:1-2, 5, 7-8, 9-10, 11",
+            "citation": "Psalm 16:1-2",
             "sources": [
               "USCCB"
             ]
@@ -24704,7 +24704,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-20": [

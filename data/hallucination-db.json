@@ -57322,5 +57322,60 @@
       ]
     },
     "checked_at": "2026-05-05T03:20:08+00:00"
+  },
+  "2024-05-29:0": {
+    "date": "2024-05-29",
+    "url": "https://bible.usccb.org/bible/readings/052924.cfm",
+    "lectionary_number": 349,
+    "feast": "Wednesday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Ps 147:12-13"
+        ],
+        "fix": [
+          "Ps 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 10:45"
+        ],
+        "fix": [
+          "Mk 10:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "alleluia_verse": [
+        "Mk 10:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 1:18-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "alleluia_verse": [
+        "Mk 10:45"
+      ],
+      "gospel": [
+        "Mk 10:32-45"
+      ]
+    },
+    "checked_at": "2026-05-05T03:25:21+00:00"
   }
 }

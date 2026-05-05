@@ -11240,3 +11240,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Sirach 44:1, 9-13']`, live=`['Sirach 44:1']`, fix=`['Sirach 44:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fad110e
+
+### ❌ 2024-05-29 — Wednesday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-05 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052924.cfm
+- **Status**: mismatch
+- **Lectionary**: 349
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 147:12-13, 14-15, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f05bb0
