@@ -60079,5 +60079,81 @@
       ]
     },
     "checked_at": "2026-05-05T07:55:23+00:00"
+  },
+  "2027-03-21:0": {
+    "date": "2027-03-21",
+    "url": "https://bible.usccb.org/bible/readings/032127.cfm",
+    "lectionary_number": 37,
+    "feast": "Palm Sunday of the Lord&#039;s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 50:4-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 22:8-9, 17-18, 19-20, 23-24"
+        ],
+        "live": [
+          "Psalm 22:8-9"
+        ],
+        "fix": [
+          "Psalm 22:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Philippians 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mark 14:1-15"
+        ],
+        "live": [
+          "Mark 14:1-15",
+          "Mark 15:1-39"
+        ],
+        "fix": [
+          "Mark 14:1-15",
+          "Mark 15:1-39"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mark 14:1-15",
+        "Mark 15:1-39"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "second_reading": [
+        "Philippians 2:6-11"
+      ],
+      "gospel": [
+        "Mark 14:1-15",
+        "Mark 15:1-39"
+      ]
+    },
+    "checked_at": "2026-05-05T08:00:39+00:00"
   }
 }
