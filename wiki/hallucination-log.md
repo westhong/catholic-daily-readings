@@ -11319,3 +11319,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
   - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6ce1bf8
+
+### ❌ 2023-11-17 — Memorial of Saint Elizabeth of Hungary, Religious
+- **Checked**: 2026-05-05 04:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111723.cfm
+- **Status**: mismatch
+- **Lectionary**: 495
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 21:28']`, fix=`['Lk 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b9c10c
