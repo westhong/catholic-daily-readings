@@ -61586,5 +61586,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T10:20:34+00:00"
+  },
+  "2024-03-09:0": {
+    "date": "2024-03-09",
+    "url": "https://bible.usccb.org/bible/readings/030924.cfm",
+    "lectionary_number": 242,
+    "feast": "Saturday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 51:3-4, 18-19, 20-21"
+        ],
+        "live": [
+          "PS 51:3-4"
+        ],
+        "fix": [
+          "PS 51:3-4"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ps 95:8"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 51:3-4"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 6:1-6"
+      ],
+      "responsorial_psalm": [
+        "PS 51:3-4"
+      ],
+      "gospel": [
+        "Lk 18:9-14"
+      ]
+    },
+    "checked_at": "2026-05-05T10:25:47+00:00"
   }
 }
