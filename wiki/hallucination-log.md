@@ -13217,3 +13217,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['116:12-13, 14-15, 16-17']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:63']`, fix=`['See Jn 6:63']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/968df2c
+
+### ❌ 2027-05-23 — The Solemnity of the Most Holy Trinity
+- **Checked**: 2026-05-05 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052327.cfm
+- **Status**: mismatch
+- **Lectionary**: 165
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 4:32-34, 39-40']`, live=`['Deuteronomy 4:32-34']`, fix=`['Deuteronomy 4:32-34']`
+  - **responsorial_psalm**: stored=`['Psalm 33:4-5, 6, 9, 18-19, 20, 22']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Revelation 1:8']`, fix=`['Revelation 1:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abf9064
