@@ -63175,5 +63175,51 @@
       ]
     },
     "checked_at": "2026-05-05T13:05:18+00:00"
+  },
+  "2024-05-21:0": {
+    "date": "2024-05-21",
+    "url": "https://bible.usccb.org/bible/readings/052124.cfm",
+    "lectionary_number": 342,
+    "feast": "Tuesday of the Seventh Week of Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "55:7-8, 9-10"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Gal 6:14"
+        ],
+        "fix": [
+          "Gal 6:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 4:1-10"
+      ],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ],
+      "gospel": [
+        "Mk 9:30-37"
+      ]
+    },
+    "checked_at": "2026-05-05T13:10:32+00:00"
   }
 }
