@@ -12091,3 +12091,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/091425.cfm
 - **Status**: ok
 - **Lectionary**: 638
+
+### ❌ 2023-02-11 — Saturday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-05 10:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021123.cfm
+- **Status**: mismatch
+- **Lectionary**: 334
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 90:2, 3-4']`, live=`['Ps 90:2']`, fix=`['Ps 90:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/da202dd

@@ -61732,5 +61732,60 @@
       ]
     },
     "checked_at": "2026-05-05T10:35:13+00:00"
+  },
+  "2023-02-11:0": {
+    "date": "2023-02-11",
+    "url": "https://bible.usccb.org/bible/readings/021123.cfm",
+    "lectionary_number": 334,
+    "feast": "Saturday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 90:2, 3-4"
+        ],
+        "live": [
+          "Ps 90:2"
+        ],
+        "fix": [
+          "Ps 90:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 90:2"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 3:9-24"
+      ],
+      "responsorial_psalm": [
+        "Ps 90:2"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Mk 8:1-10"
+      ]
+    },
+    "checked_at": "2026-05-05T10:40:23+00:00"
   }
 }
