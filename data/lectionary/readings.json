@@ -80721,7 +80721,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Jonah 2:3, 4, 5, 8",
+            "citation": "Jonah 2:3",
             "sources": [
               "USCCB"
             ]
@@ -80742,8 +80742,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 13:34",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-10": [

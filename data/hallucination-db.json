@@ -62578,5 +62578,24 @@
       ]
     },
     "checked_at": "2026-05-05T11:55:50+00:00"
+  },
+  "2026-12-19:0": {
+    "date": "2026-12-19",
+    "url": "https://bible.usccb.org/bible/readings/261219.cfm",
+    "lectionary_number": 195,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261219.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T12:01:03+00:00"
   }
 }
