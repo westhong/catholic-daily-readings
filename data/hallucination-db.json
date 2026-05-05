@@ -64620,5 +64620,60 @@
       ]
     },
     "checked_at": "2026-05-05T15:45:13+00:00"
+  },
+  "2024-07-11:0": {
+    "date": "2024-07-11",
+    "url": "https://bible.usccb.org/bible/readings/071124.cfm",
+    "lectionary_number": 386,
+    "feast": "Memorial of Saint Benedict, abbot",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hos 11:1-4, 8"
+        ],
+        "live": [
+          "Hos 11:1-4"
+        ],
+        "fix": [
+          "Hos 11:1-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hos 11:1-4"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 11:1-4"
+      ],
+      "responsorial_psalm": [
+        "PS 80:2"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Mt 10:7-15"
+      ]
+    },
+    "checked_at": "2026-05-05T15:50:26+00:00"
   }
 }

@@ -12685,3 +12685,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/683a234
+
+### ❌ 2024-07-11 — Memorial of Saint Benedict, abbot
+- **Checked**: 2026-05-05 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071124.cfm
+- **Status**: mismatch
+- **Lectionary**: 386
+- **Mismatches**:
+  - **first_reading**: stored=`['Hos 11:1-4, 8']`, live=`['Hos 11:1-4']`, fix=`['Hos 11:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2fd675d
