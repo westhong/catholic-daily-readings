@@ -11510,3 +11510,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 49:6-7, 8-10, 17-18, 19-20']`, live=`['Psalm 49:6-7']`, fix=`['Psalm 49:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/52c65e2
+
+### 🚫 2026-12-30 — 
+- **Checked**: 2026-05-05 05:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261230.cfm
+- **Status**: url_dead
+- **Lectionary**: 203
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261230.cfm`, live=fetch failed

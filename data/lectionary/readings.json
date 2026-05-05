@@ -21130,7 +21130,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 18:9-10, 14",
+            "citation": "2 Samuel 18:9-10",
             "sources": [
               "USCCB"
             ]
@@ -21138,7 +21138,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 86:1-2, 3-4, 5-6",
+            "citation": "Psalm 86:1-2",
             "sources": [
               "USCCB"
             ]
@@ -21159,8 +21159,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-04": [
