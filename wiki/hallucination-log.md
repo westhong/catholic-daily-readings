@@ -11968,3 +11968,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 15:26']`, fix=`['JN 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f0abfbd
+
+### ❌ 2026-03-13 — Friday of the Third Week of Lent
+- **Checked**: 2026-05-05 09:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031326.cfm
+- **Status**: mismatch
+- **Lectionary**: 241
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7021643

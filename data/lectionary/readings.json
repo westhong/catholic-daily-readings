@@ -82228,7 +82228,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Rom 16:3-9, 16, 22-27",
+            "citation": "Rom 16:3-9",
             "sources": [
               "USCCB"
             ]
@@ -82244,7 +82244,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 145:2-3, 4-5, 10-11",
+            "citation": "Ps 145:2-3",
             "sources": [
               "USCCB"
             ]
@@ -82257,8 +82257,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Cor 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-12": [
