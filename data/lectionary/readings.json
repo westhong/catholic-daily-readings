@@ -53345,7 +53345,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Kgs 2:1-4, 10-12",
+            "citation": "1 Kgs 2:1-4",
             "sources": [
               "USCCB"
             ]
@@ -53353,7 +53353,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "1 Chronicles 29:10, 11",
+            "citation": "1 Chronicles 29:10",
             "sources": [
               "USCCB"
             ]
@@ -53374,8 +53374,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-02": [
