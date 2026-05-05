@@ -43407,11 +43407,29 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Exodus 19:3-8",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Ezekiel 37:1-14",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Joel 3:1-5",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 104:1-2, 24, 35, 27-28, 29, 30",
+            "citation": "Psalm 104:1-2",
             "sources": [
               "USCCB"
             ]
@@ -43436,7 +43454,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/051627-Vigil.cfm",
       "date": "2027-05-16",
-      "mass": "Vigil"
+      "mass": "Vigil",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 63,

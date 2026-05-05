@@ -12972,3 +12972,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 14']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ebe4e7c
+
+### ❌ 2027-10-25 — Monday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-05 18:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102527.cfm
+- **Status**: mismatch
+- **Lectionary**: 479
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cca4198
