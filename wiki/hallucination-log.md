@@ -11573,3 +11573,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/062423.cfm
 - **Status**: ok
 - **Lectionary**: 586
+
+### ❌ 2023-11-27 — Monday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112723.cfm
+- **Status**: mismatch
+- **Lectionary**: 503
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 1:1-6, 8-20']`, live=`['Dn 1:1-6']`, fix=`['Dn 1:1-6']`
+  - **responsorial_psalm**: stored=`['Dn 3:52, 53, 54, 55, 56']`, live=`['Dn 3:52']`, fix=`['Dn 3:52']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df5d77f

@@ -59061,5 +59061,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T06:10:23+00:00"
+  },
+  "2023-11-27:0": {
+    "date": "2023-11-27",
+    "url": "https://bible.usccb.org/bible/readings/112723.cfm",
+    "lectionary_number": 503,
+    "feast": "Monday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dn 1:1-6, 8-20"
+        ],
+        "live": [
+          "Dn 1:1-6"
+        ],
+        "fix": [
+          "Dn 1:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Dn 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Dn 3:52"
+        ],
+        "fix": [
+          "Dn 3:52"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 24:42"
+        ],
+        "fix": [
+          "Mt 24:42"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dn 1:1-6"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ],
+      "alleluia_verse": [
+        "Mt 24:42"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dn 1:1-6"
+      ],
+      "responsorial_psalm": [
+        "Dn 3:52"
+      ],
+      "alleluia_verse": [
+        "Mt 24:42"
+      ],
+      "gospel": [
+        "Lk 21:1-4"
+      ]
+    },
+    "checked_at": "2026-05-05T06:15:34+00:00"
   }
 }
