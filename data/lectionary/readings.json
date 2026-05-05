@@ -77705,7 +77705,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 56:1, 6-7",
+            "citation": "Is 56:1",
             "sources": [
               "USCCB"
             ]
@@ -77713,7 +77713,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 67:2-3, 5, 6, 8",
+            "citation": "Ps 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -77721,7 +77721,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Rom 11:13-15, 29-32",
+            "citation": "Rom 11:13-15",
             "sources": [
               "USCCB"
             ]
@@ -77743,7 +77743,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-21": [

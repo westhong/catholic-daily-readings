@@ -10987,3 +10987,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:14-15']`, fix=`['John 3:14-15']`
   - **gospel**: stored=`['John 3:7b-15']`, live=`['John 3:7']`, fix=`['John 3:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8486de6
+
+### ❌ 2023-12-16 — Saturday of the Second Week of Advent
+- **Checked**: 2026-05-05 01:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121623.cfm
+- **Status**: mismatch
+- **Lectionary**: 186
+- **Mismatches**:
+  - **first_reading**: stored=`['Sir 48:1-4, 9-11']`, live=`['Sir 48:1-4']`, fix=`['Sir 48:1-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/975a751
