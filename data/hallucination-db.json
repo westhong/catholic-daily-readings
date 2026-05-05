@@ -65590,5 +65590,63 @@
       ]
     },
     "checked_at": "2026-05-05T17:20:12+00:00"
+  },
+  "2024-01-14:0": {
+    "date": "2024-01-14",
+    "url": "https://bible.usccb.org/bible/readings/011424.cfm",
+    "lectionary_number": 65,
+    "feast": "Second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 40:2, 4, 7-8, 8-9, 10"
+        ],
+        "live": [
+          "Ps 40:2"
+        ],
+        "fix": [
+          "Ps 40:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 1:41"
+        ],
+        "fix": [
+          "Jn 1:41"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 40:2"
+      ],
+      "alleluia_verse": [
+        "Jn 1:41"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 3:3"
+      ],
+      "responsorial_psalm": [
+        "Ps 40:2"
+      ],
+      "second_reading": [
+        "1 Cor 6:13"
+      ],
+      "alleluia_verse": [
+        "Jn 1:41"
+      ],
+      "gospel": [
+        "Jn 1:35-42"
+      ]
+    },
+    "checked_at": "2026-05-05T17:25:25+00:00"
   }
 }

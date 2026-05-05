@@ -12871,3 +12871,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['33:4-5, 18-19, 20']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3635f90
+
+### ❌ 2024-01-14 — Second Sunday in Ordinary Time
+- **Checked**: 2026-05-05 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011424.cfm
+- **Status**: mismatch
+- **Lectionary**: 65
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 40:2, 4, 7-8, 8-9, 10']`, live=`['Ps 40:2']`, fix=`['Ps 40:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:41']`, fix=`['Jn 1:41']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca6e244

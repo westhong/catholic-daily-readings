@@ -27060,7 +27060,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 96:10, 11-12, 13",
+            "citation": "Psalm 96:10",
             "sources": [
               "USCCB"
             ]
@@ -27081,8 +27081,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-30": [
