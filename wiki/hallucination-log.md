@@ -10966,3 +10966,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 69:30-31, 33-34, 36']`, live=`['Ps 69:30-31']`, fix=`['Ps 69:30-31']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37a849a
+
+### ❌ 2024-11-26 — Tuesday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 01:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112624.cfm
+- **Status**: mismatch
+- **Lectionary**: 504
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['96:10, 11-12, 13']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['RV 2:10']`, fix=`['RV 2:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/47aa01c

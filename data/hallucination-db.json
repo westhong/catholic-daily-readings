@@ -55888,5 +55888,51 @@
       ]
     },
     "checked_at": "2026-05-05T01:00:21+00:00"
+  },
+  "2024-11-26:0": {
+    "date": "2024-11-26",
+    "url": "https://bible.usccb.org/bible/readings/112624.cfm",
+    "lectionary_number": 504,
+    "feast": "Tuesday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "96:10, 11-12, 13"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "RV 2:10"
+        ],
+        "fix": [
+          "RV 2:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "RV 2:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "RV 14:14-19"
+      ],
+      "alleluia_verse": [
+        "RV 2:10"
+      ],
+      "gospel": [
+        "LK 21:5-11"
+      ]
+    },
+    "checked_at": "2026-05-05T01:05:35+00:00"
   }
 }

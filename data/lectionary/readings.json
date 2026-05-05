@@ -24392,7 +24392,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 93:1ab, 1cd-2, 5",
+            "citation": "Psalm 93:1",
             "sources": [
               "USCCB"
             ]
@@ -24408,13 +24408,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 3:7b-15",
+            "citation": "John 3:7",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 3:14-15",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-15": [
