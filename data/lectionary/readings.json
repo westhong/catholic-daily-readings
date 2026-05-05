@@ -67560,14 +67560,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "8:2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 1:21-28",
@@ -67583,8 +67576,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 1 Thes 2:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-11": [

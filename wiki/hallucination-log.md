@@ -10937,3 +10937,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 390
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/714.cfm`, live=fetch failed
+
+### ❌ 2024-06-27 — Thursday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-05 00:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062724.cfm
+- **Status**: mismatch
+- **Lectionary**: 374
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1636c53

@@ -55747,5 +55747,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T00:45:33+00:00"
+  },
+  "2024-06-27:0": {
+    "date": "2024-06-27",
+    "url": "https://bible.usccb.org/bible/readings/062724.cfm",
+    "lectionary_number": 374,
+    "feast": "Thursday of the Twelfth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 24:8-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 79:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Mt 7:21-29"
+      ]
+    },
+    "checked_at": "2026-05-05T00:50:59+00:00"
   }
 }
