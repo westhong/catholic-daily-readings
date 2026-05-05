@@ -13258,3 +13258,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a8c515e
+
+### ❌ 2024-02-05 — Memorial of Saint Agatha, Virgin and Martyr
+- **Checked**: 2026-05-05 20:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020524.cfm
+- **Status**: mismatch
+- **Lectionary**: 329
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Kgs 8:1-7, 9-13']`, live=`['1 Kgs 8:1-7']`, fix=`['1 Kgs 8:1-7']`
+  - **responsorial_psalm**: stored=`['PS 132:6-7, 8-10']`, live=`['PS 132:6-7']`, fix=`['PS 132:6-7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/02c2cfd

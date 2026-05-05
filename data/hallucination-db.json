@@ -67663,5 +67663,75 @@
       ]
     },
     "checked_at": "2026-05-05T20:35:14+00:00"
+  },
+  "2024-02-05:0": {
+    "date": "2024-02-05",
+    "url": "https://bible.usccb.org/bible/readings/020524.cfm",
+    "lectionary_number": 329,
+    "feast": "Memorial of Saint Agatha, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Kgs 8:1-7, 9-13"
+        ],
+        "live": [
+          "1 Kgs 8:1-7"
+        ],
+        "fix": [
+          "1 Kgs 8:1-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 132:6-7, 8-10"
+        ],
+        "live": [
+          "PS 132:6-7"
+        ],
+        "fix": [
+          "PS 132:6-7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 4:23"
+        ],
+        "fix": [
+          "See Mt 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Kgs 8:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 132:6-7"
+      ],
+      "alleluia_verse": [
+        "See Mt 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 8:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 132:6-7"
+      ],
+      "alleluia_verse": [
+        "See Mt 4:23"
+      ],
+      "gospel": [
+        "MK 6:53-56"
+      ]
+    },
+    "checked_at": "2026-05-05T20:40:26+00:00"
   }
 }
