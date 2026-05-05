@@ -11584,3 +11584,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Dn 3:52, 53, 54, 55, 56']`, live=`['Dn 3:52']`, fix=`['Dn 3:52']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df5d77f
+
+### ❌ 2023-02-09 — Thursday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-05 06:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020923.cfm
+- **Status**: mismatch
+- **Lectionary**: 332
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26faf9a

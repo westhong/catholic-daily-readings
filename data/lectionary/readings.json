@@ -11702,7 +11702,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 32:15-24, 30-34",
+            "citation": "Exodus 32:15-24",
             "sources": [
               "USCCB"
             ]
@@ -11710,7 +11710,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 106:19-20, 21-22, 23",
+            "citation": "Psalm 106:19-20",
             "sources": [
               "USCCB"
             ]
@@ -11731,8 +11731,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "James 1:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-29": [
