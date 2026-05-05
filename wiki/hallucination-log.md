@@ -11529,3 +11529,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8911089
+
+### 🚫 2026-10-11 — 
+- **Checked**: 2026-05-05 05:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1011.cfm
+- **Status**: url_dead
+- **Lectionary**: 142
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1011.cfm`, live=fetch failed
