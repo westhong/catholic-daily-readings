@@ -11084,3 +11084,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 60:3, 4-5, 12-13']`, live=`['Psalm 60:3']`, fix=`['Psalm 60:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c74bd54
+
+### ❌ 2023-07-27 — Thursday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 02:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072723.cfm
+- **Status**: mismatch
+- **Lectionary**: 398
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 19:1-2, 9-11, 16-20']`, live=`['Ex 19:1-2']`, fix=`['Ex 19:1-2']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/deaa276

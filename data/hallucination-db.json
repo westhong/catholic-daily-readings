@@ -56504,5 +56504,75 @@
       ]
     },
     "checked_at": "2026-05-05T02:00:50+00:00"
+  },
+  "2023-07-27:0": {
+    "date": "2023-07-27",
+    "url": "https://bible.usccb.org/bible/readings/072723.cfm",
+    "lectionary_number": 398,
+    "feast": "Thursday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 19:1-2, 9-11, 16-20"
+        ],
+        "live": [
+          "Ex 19:1-2"
+        ],
+        "fix": [
+          "Ex 19:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Daniel 3:52"
+        ],
+        "fix": [
+          "Daniel 3:52"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Mt 13:10-17"
+      ]
+    },
+    "checked_at": "2026-05-05T02:06:02+00:00"
   }
 }
