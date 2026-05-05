@@ -52933,14 +52933,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "89:20, 21-22, 27-28",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 2:23-28",
@@ -52956,8 +52949,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Eph 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-17": [

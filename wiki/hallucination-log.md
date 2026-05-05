@@ -12644,3 +12644,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 503
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261123.cfm`, live=fetch failed
+
+### ❌ 2025-02-08 — Saturday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020825.cfm
+- **Status**: mismatch
+- **Lectionary**: 328
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 13:15-17, 20-21']`, live=`['Hebrews 13:15-17']`, fix=`['Hebrews 13:15-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cf4e6e5
