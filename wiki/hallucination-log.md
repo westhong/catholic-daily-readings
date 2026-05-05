@@ -12206,3 +12206,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/caaf287
+
+### ❌ 2025-02-06 — Memorial of Saint Paul Miki and Companions, Martyrs
+- **Checked**: 2026-05-05 11:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020625.cfm
+- **Status**: mismatch
+- **Lectionary**: 326
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 12:18-19, 21-24']`, live=`['Hebrews 12:18-19']`, fix=`['Hebrews 12:18-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd60cd7
