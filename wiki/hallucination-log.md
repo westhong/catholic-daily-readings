@@ -11940,3 +11940,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a825495
+
+### ❌ 2027-04-07 — Memorial of Saint John Baptist de la Salle, Priest
+- **Checked**: 2026-05-05 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040727.cfm
+- **Status**: mismatch
+- **Lectionary**: 269
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 4-5, 6-7, 8-9']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d958006
