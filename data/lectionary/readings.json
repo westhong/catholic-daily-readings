@@ -12441,7 +12441,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 147:12-13, 14-15, 19-20",
+            "citation": "Psalm 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -12462,8 +12462,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Thessalonians 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-12": [

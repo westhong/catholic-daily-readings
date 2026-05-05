@@ -59465,5 +59465,63 @@
       ]
     },
     "checked_at": "2026-05-05T06:55:33+00:00"
+  },
+  "2024-10-20:0": {
+    "date": "2024-10-20",
+    "url": "https://bible.usccb.org/bible/readings/102024.cfm",
+    "lectionary_number": 146,
+    "feast": "Twenty-ninth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:4-5, 18-19, 20, 22"
+        ],
+        "live": [
+          "Ps 33:4-5"
+        ],
+        "fix": [
+          "Ps 33:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 10:45"
+        ],
+        "fix": [
+          "Mk 10:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "alleluia_verse": [
+        "Mk 10:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 53:10-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "second_reading": [
+        "Heb 4:14-16"
+      ],
+      "alleluia_verse": [
+        "Mk 10:45"
+      ],
+      "gospel": [
+        "Mk 10:35-45"
+      ]
+    },
+    "checked_at": "2026-05-05T07:00:47+00:00"
   }
 }
