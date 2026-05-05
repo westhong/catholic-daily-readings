@@ -13351,3 +13351,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Cor 9:16-19, 22-23']`, live=`['1 Cor 9:16-19']`, fix=`['1 Cor 9:16-19']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e05d1a9
+
+### ❌ 2027-04-15 — Thursday of the Third Week of Easter
+- **Checked**: 2026-05-05 21:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041527.cfm
+- **Status**: mismatch
+- **Lectionary**: 276
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 66:8-9, 16-17, 20']`, live=`['Psalm 66:8-9']`, fix=`['Psalm 66:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/906eb7e

@@ -55375,7 +55375,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 42:2, 3",
+            "citation": "PS 42:2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "See Ps 130:5",
             "sources": [
               "USCCB"
             ]
@@ -55389,7 +55395,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-03-05": [
