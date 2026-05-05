@@ -57467,5 +57467,60 @@
       ]
     },
     "checked_at": "2026-05-05T03:35:48+00:00"
+  },
+  "2023-08-14:0": {
+    "date": "2023-08-14",
+    "url": "https://bible.usccb.org/bible/readings/081423.cfm",
+    "lectionary_number": 413,
+    "feast": "Memorial of Saint Maximilian Kolbe, Priest and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Ps 147:12-13"
+        ],
+        "fix": [
+          "Ps 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thes 2:14"
+        ],
+        "fix": [
+          "See 2 Thes 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 10:12-22"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ],
+      "gospel": [
+        "Mt 17:22-27"
+      ]
+    },
+    "checked_at": "2026-05-05T03:41:01+00:00"
   }
 }
