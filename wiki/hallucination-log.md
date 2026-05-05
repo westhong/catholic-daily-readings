@@ -11055,3 +11055,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thes 2:14']`, fix=`['See 2 Thes 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/350e2b2
+
+### ❌ 2025-09-01 — Monday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-05 01:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090125.cfm
+- **Status**: mismatch
+- **Lectionary**: 431
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 4:18']`, fix=`['See Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/944d574
