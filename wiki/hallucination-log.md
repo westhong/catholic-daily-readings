@@ -12111,3 +12111,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 25:4-5, 6-7, 8-9']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
   - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/72adc28
+
+### 🚫 2026-11-20 — 
+- **Checked**: 2026-05-05 10:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261120.cfm
+- **Status**: url_dead
+- **Lectionary**: 501
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261120.cfm`, live=fetch failed
