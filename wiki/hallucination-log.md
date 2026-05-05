@@ -11678,3 +11678,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b56b19e
+
+### ❌ 2027-03-26 — Good Friday of the Lord’s Passion
+- **Checked**: 2026-05-05 07:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032627.cfm
+- **Status**: mismatch
+- **Lectionary**: 40
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 52:13—53']`, live=`['Isaiah 52:13']`, fix=`['Isaiah 52:13']`
+  - **responsorial_psalm**: stored=`['Psalm 31:2, 6, 12-13, 15-16, 17, 25']`, live=`['Psalm 31:2']`, fix=`['Psalm 31:2']`
+  - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 18:1—19']`, live=`['John 18:1']`, fix=`['John 18:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/307f4af
