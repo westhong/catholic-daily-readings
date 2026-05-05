@@ -13495,3 +13495,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 412
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/808.cfm`, live=fetch failed
+
+### ❌ 2027-07-26 — Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary
+- **Checked**: 2026-05-05 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072627.cfm
+- **Status**: mismatch
+- **Lectionary**: 401
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 32:15-24, 30-34']`, live=`['Exodus 32:15-24']`, fix=`['Exodus 32:15-24']`
+  - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abbf4a5
