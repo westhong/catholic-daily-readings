@@ -13067,3 +13067,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
   - **verse_before_gospel**: stored=`['Mt 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9fcd7b5
+
+### ❌ 2025-11-09 — Feast of the Dedication of the Lateran Basilica in Rome
+- **Checked**: 2026-05-05 19:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110925.cfm
+- **Status**: mismatch
+- **Lectionary**: 671
+- **Mismatches**:
+  - **first_reading**: stored=`['Ezekiel 47:1-2, 8-9, 12']`, live=`['Ezekiel 47:1-2']`, fix=`['Ezekiel 47:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 46:2-3, 5-6, 8-9']`, live=`['Psalm 46:2-3']`, fix=`['Psalm 46:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Chronicles 7:16']`, fix=`['2 Chronicles 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3c34c6
