@@ -12589,3 +12589,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 11:1-45']`, live=`['John 11:1-45', 'John 11:3-7']`, fix=`['John 11:1-45', 'John 11:3-7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0cea0bf
+
+### 🚫 2026-12-23 — 
+- **Checked**: 2026-05-05 15:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261223.cfm
+- **Status**: url_dead
+- **Lectionary**: 199
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261223.cfm`, live=fetch failed
