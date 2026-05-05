@@ -12881,3 +12881,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 40:2, 4, 7-8, 8-9, 10']`, live=`['Ps 40:2']`, fix=`['Ps 40:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:41']`, fix=`['Jn 1:41']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca6e244
+
+### ❌ 2026-05-29 — Friday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-05 17:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052926.cfm
+- **Status**: mismatch
+- **Lectionary**: 351
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 96:10, 11-12, 13']`, live=`['Psalm 96:10']`, fix=`['Psalm 96:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c447b9

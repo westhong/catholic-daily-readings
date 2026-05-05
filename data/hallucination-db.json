@@ -65648,5 +65648,60 @@
       ]
     },
     "checked_at": "2026-05-05T17:25:25+00:00"
+  },
+  "2026-05-29:0": {
+    "date": "2026-05-29",
+    "url": "https://bible.usccb.org/bible/readings/052926.cfm",
+    "lectionary_number": 351,
+    "feast": "Friday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 96:10, 11-12, 13"
+        ],
+        "live": [
+          "Psalm 96:10"
+        ],
+        "fix": [
+          "Psalm 96:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 15:16"
+        ],
+        "fix": [
+          "See John 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 96:10"
+      ],
+      "alleluia_verse": [
+        "See John 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Peter 4:7-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:10"
+      ],
+      "alleluia_verse": [
+        "See John 15:16"
+      ],
+      "gospel": [
+        "Mark 11:11-26"
+      ]
+    },
+    "checked_at": "2026-05-05T17:30:37+00:00"
   }
 }
