@@ -4062,7 +4062,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:10-11, 12-13, 14-15",
+            "citation": "Psalm 33:10-11",
             "sources": [
               "USCCB"
             ]
@@ -4070,7 +4070,7 @@
         ],
         "gospel": [
           {
-            "citation": "will save it. What profit is there for o",
+            "citation": "Mark 8:34",
             "sources": [
               "USCCB"
             ]
@@ -4083,8 +4083,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-22": [

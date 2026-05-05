@@ -13022,3 +13022,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 148:1-2, 11-12, 13, 14']`, live=`['Ps 148:1-2']`, fix=`['Ps 148:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:16']`, fix=`['Jn 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/558e2b6
+
+### 🚫 2026-11-10 — 
+- **Checked**: 2026-05-05 18:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261110.cfm
+- **Status**: url_dead
+- **Lectionary**: 492
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261110.cfm`, live=fetch failed
