@@ -12664,3 +12664,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['89:20, 21-22, 27-28']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Eph 1:17-18']`, fix=`['See Eph 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/086ab40
+
+### ❌ 2023-10-27 — Friday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 15:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102723.cfm
+- **Status**: mismatch
+- **Lectionary**: 477
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:66, 68, 76, 77, 93, 94']`, live=`['Ps 119:66']`, fix=`['Ps 119:66']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/61f7b3d

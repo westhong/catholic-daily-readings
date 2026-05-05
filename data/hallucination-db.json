@@ -64502,5 +64502,60 @@
       ]
     },
     "checked_at": "2026-05-05T15:35:46+00:00"
+  },
+  "2023-10-27:0": {
+    "date": "2023-10-27",
+    "url": "https://bible.usccb.org/bible/readings/102723.cfm",
+    "lectionary_number": 477,
+    "feast": "Friday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:66, 68, 76, 77, 93, 94"
+        ],
+        "live": [
+          "Ps 119:66"
+        ],
+        "fix": [
+          "Ps 119:66"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 11:25"
+        ],
+        "fix": [
+          "See Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:66"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 7:18-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:66"
+      ],
+      "alleluia_verse": [
+        "See Mt 11:25"
+      ],
+      "gospel": [
+        "Lk 12:54-59"
+      ]
+    },
+    "checked_at": "2026-05-05T15:41:01+00:00"
   }
 }
