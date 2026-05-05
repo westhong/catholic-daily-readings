@@ -12636,3 +12636,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 147:12-13, 14-15, 19-20']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['SEE Mk 9:6']`, fix=`['SEE Mk 9:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6bd44f6
+
+### 🚫 2026-11-23 — 
+- **Checked**: 2026-05-05 15:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261123.cfm
+- **Status**: url_dead
+- **Lectionary**: 503
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261123.cfm`, live=fetch failed
