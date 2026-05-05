@@ -11798,3 +11798,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['19:8, 9, 10, 15']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 4:18']`, fix=`['Lk 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e3ed499
+
+### ❌ 2025-01-20 — Monday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-05 08:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012025.cfm
+- **Status**: mismatch
+- **Lectionary**: 311
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/51f99cd
