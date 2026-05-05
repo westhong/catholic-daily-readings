@@ -13361,3 +13361,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 66:8-9, 16-17, 20']`, live=`['Psalm 66:8-9']`, fix=`['Psalm 66:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/906eb7e
+
+### ❌ 2024-03-04 — Monday of the Third Week of Lent
+- **Checked**: 2026-05-05 21:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030424.cfm
+- **Status**: mismatch
+- **Lectionary**: 237
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 42:2, 3']`, live=`['PS 42:2', 'See Ps 130:5']`, fix=`['PS 42:2', 'See Ps 130:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0125213
