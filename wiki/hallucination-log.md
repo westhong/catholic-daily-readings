@@ -11045,3 +11045,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 450
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/922.cfm`, live=fetch failed
+
+### ❌ 2024-10-30 — Wednesday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-05 01:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103024.cfm
+- **Status**: mismatch
+- **Lectionary**: 481
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thes 2:14']`, fix=`['See 2 Thes 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/350e2b2

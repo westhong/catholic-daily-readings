@@ -56299,5 +56299,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T01:41:02+00:00"
+  },
+  "2024-10-30:0": {
+    "date": "2024-10-30",
+    "url": "https://bible.usccb.org/bible/readings/103024.cfm",
+    "lectionary_number": 481,
+    "feast": "Wednesday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:10-11, 12-13"
+        ],
+        "live": [
+          "Ps 145:10-11"
+        ],
+        "fix": [
+          "Ps 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thes 2:14"
+        ],
+        "fix": [
+          "See 2 Thes 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Eph 6:1-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ],
+      "gospel": [
+        "Lk 13:22-30"
+      ]
+    },
+    "checked_at": "2026-05-05T01:45:15+00:00"
   }
 }
