@@ -13011,3 +13011,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4, 4-5']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 11:9']`, fix=`['Mark 11:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1847518
+
+### ❌ 2023-05-17 — Wednesday of the Sixth Week of Easter
+- **Checked**: 2026-05-05 18:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051723.cfm
+- **Status**: mismatch
+- **Lectionary**: 293
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 17:15, 22—18']`, live=`['Acts 17:15']`, fix=`['Acts 17:15']`
+  - **responsorial_psalm**: stored=`['Ps 148:1-2, 11-12, 13, 14']`, live=`['Ps 148:1-2']`, fix=`['Ps 148:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:16']`, fix=`['Jn 14:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/558e2b6
