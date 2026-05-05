@@ -55554,5 +55554,60 @@
       ]
     },
     "checked_at": "2026-05-05T00:25:40+00:00"
+  },
+  "2023-01-16:0": {
+    "date": "2023-01-16",
+    "url": "https://bible.usccb.org/bible/readings/011623.cfm",
+    "lectionary_number": 311,
+    "feast": "Monday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 110:1, 2, 3, 4"
+        ],
+        "live": [
+          "Ps 110:1"
+        ],
+        "fix": [
+          "Ps 110:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Heb 4:12"
+        ],
+        "fix": [
+          "Heb 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 110:1"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Heb 5:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 110:1"
+      ],
+      "alleluia_verse": [
+        "Heb 4:12"
+      ],
+      "gospel": [
+        "Mk 2:18-22"
+      ]
+    },
+    "checked_at": "2026-05-05T00:30:52+00:00"
   }
 }

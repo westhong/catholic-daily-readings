@@ -10898,3 +10898,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 96:1-2, 11-12, 13']`, live=`['Psalm 96:1-2']`, fix=`['Psalm 96:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3577f34
+
+### ❌ 2023-01-16 — Monday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-05 00:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011623.cfm
+- **Status**: mismatch
+- **Lectionary**: 311
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 110:1, 2, 3, 4']`, live=`['Ps 110:1']`, fix=`['Ps 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/969d48b

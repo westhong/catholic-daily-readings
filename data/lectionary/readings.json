@@ -82096,7 +82096,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Prv 31:10-13, 19-20, 30-31",
+            "citation": "Prv 31:10-13",
             "sources": [
               "USCCB"
             ]
@@ -82104,7 +82104,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 128:1-2, 3, 4-5",
+            "citation": "Ps 128:1-2",
             "sources": [
               "USCCB"
             ]
@@ -82133,8 +82133,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-20": [
