@@ -16765,7 +16765,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Revelation 7:2-4, 9-14",
+            "citation": "Revelation 7:2-4",
             "sources": [
               "USCCB"
             ]
@@ -16802,8 +16802,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-02": [

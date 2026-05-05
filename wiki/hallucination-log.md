@@ -13406,3 +13406,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 106
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/719.cfm`, live=fetch failed
+
+### ❌ 2027-06-10 — Thursday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-05 21:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061027.cfm
+- **Status**: mismatch
+- **Lectionary**: 362
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8871249

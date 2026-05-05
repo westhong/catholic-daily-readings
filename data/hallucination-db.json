@@ -68410,5 +68410,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T21:50:13+00:00"
+  },
+  "2027-06-10:0": {
+    "date": "2027-06-10",
+    "url": "https://bible.usccb.org/bible/readings/061027.cfm",
+    "lectionary_number": 362,
+    "feast": "Thursday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 13:34"
+        ],
+        "fix": [
+          "John 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 3:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 85:9"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ],
+      "gospel": [
+        "Matthew 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-05T21:55:28+00:00"
   }
 }
