@@ -13228,3 +13228,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:4-5, 6, 9, 18-19, 20, 22']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Revelation 1:8']`, fix=`['Revelation 1:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/abf9064
+
+### ❌ 2025-12-01 — Monday of the First Week of Advent
+- **Checked**: 2026-05-05 20:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120125.cfm
+- **Status**: mismatch
+- **Lectionary**: 175
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Psalm 80:4']`, fix=`['See Psalm 80:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0332433

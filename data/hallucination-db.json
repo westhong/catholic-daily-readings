@@ -67505,5 +67505,60 @@
       ]
     },
     "checked_at": "2026-05-05T20:20:37+00:00"
+  },
+  "2025-12-01:0": {
+    "date": "2025-12-01",
+    "url": "https://bible.usccb.org/bible/readings/120125.cfm",
+    "lectionary_number": 175,
+    "feast": "Monday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 122:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 122:1-2"
+        ],
+        "fix": [
+          "Psalm 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Psalm 80:4"
+        ],
+        "fix": [
+          "See Psalm 80:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "See Psalm 80:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 4:2-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122:1-2"
+      ],
+      "alleluia_verse": [
+        "See Psalm 80:4"
+      ],
+      "gospel": [
+        "Matthew 8:5-11"
+      ]
+    },
+    "checked_at": "2026-05-05T20:25:50+00:00"
   }
 }
