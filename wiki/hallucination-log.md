@@ -12456,3 +12456,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 9:32-38']`, fix=`['Matthew 9:32-38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b3f2dd
+
+### ❌ 2024-04-27 — Saturday of the Fourth Week of Easter
+- **Checked**: 2026-05-05 13:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042724.cfm
+- **Status**: mismatch
+- **Lectionary**: 284
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['98:1, 2-3']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:31']`, fix=`['Jn 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c172924
