@@ -13537,3 +13537,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:2-3, 36-37, 42-43']`, live=`['Psalm 105:2-3']`, fix=`['Psalm 105:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d5859e1
+
+### ❌ 2027-10-27 — Wednesday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-05 23:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102727.cfm
+- **Status**: mismatch
+- **Lectionary**: 481
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 13:4-5, 6']`, live=`['Psalm 13:4-5']`, fix=`['Psalm 13:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Thessalonians 2:14']`, fix=`['See 2 Thessalonians 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/907d358

@@ -69134,5 +69134,60 @@
       ]
     },
     "checked_at": "2026-05-05T22:55:06+00:00"
+  },
+  "2027-10-27:0": {
+    "date": "2027-10-27",
+    "url": "https://bible.usccb.org/bible/readings/102727.cfm",
+    "lectionary_number": 481,
+    "feast": "Wednesday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 13:4-5, 6"
+        ],
+        "live": [
+          "Psalm 13:4-5"
+        ],
+        "fix": [
+          "Psalm 13:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thessalonians 2:14"
+        ],
+        "fix": [
+          "See 2 Thessalonians 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 13:4-5"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 8:26-30"
+      ],
+      "responsorial_psalm": [
+        "Psalm 13:4-5"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ],
+      "gospel": [
+        "Luke 13:22-30"
+      ]
+    },
+    "checked_at": "2026-05-05T23:00:18+00:00"
   }
 }
