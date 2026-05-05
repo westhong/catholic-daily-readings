@@ -12398,3 +12398,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9a4d01
+
+### 🚫 2026-12-25 — 
+- **Checked**: 2026-05-05 13:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261225.cfm
+- **Status**: url_dead
+- **Lectionary**: 15
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261225.cfm`, live=fetch failed
