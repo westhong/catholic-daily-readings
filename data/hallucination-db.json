@@ -63666,5 +63666,53 @@
       ]
     },
     "checked_at": "2026-05-05T13:55:44+00:00"
+  },
+  "2025-03-14:0": {
+    "date": "2025-03-14",
+    "url": "https://bible.usccb.org/bible/readings/031425.cfm",
+    "lectionary_number": 228,
+    "feast": "Friday of the First Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 130:1-2, 3-4, 5-7"
+        ],
+        "live": [
+          "Psalm 130:1-2"
+        ],
+        "fix": [
+          "Psalm 130:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ezekiel 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 130:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ezekiel 18:21-28"
+      ],
+      "responsorial_psalm": [
+        "Psalm 130:1-2"
+      ],
+      "gospel": [
+        "Matthew 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-05T14:00:57+00:00"
   }
 }
