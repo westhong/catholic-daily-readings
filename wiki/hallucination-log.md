@@ -12056,3 +12056,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Timothy 1:1-2, 12-14']`, live=`['1 Timothy 1:1-2']`, fix=`['1 Timothy 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 17:17']`, fix=`['See John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1fe8b14
+
+### 🚫 2026-08-18 — 
+- **Checked**: 2026-05-05 10:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/818.cfm
+- **Status**: url_dead
+- **Lectionary**: 420
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/818.cfm`, live=fetch failed

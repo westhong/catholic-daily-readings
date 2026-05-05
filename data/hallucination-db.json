@@ -61567,5 +61567,24 @@
       ]
     },
     "checked_at": "2026-05-05T10:15:21+00:00"
+  },
+  "2026-08-18:0": {
+    "date": "2026-08-18",
+    "url": "https://bible.usccb.org/bible/readings/818.cfm",
+    "lectionary_number": 420,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/818.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T10:20:34+00:00"
   }
 }
