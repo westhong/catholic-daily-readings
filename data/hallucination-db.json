@@ -68078,5 +68078,93 @@
       ]
     },
     "checked_at": "2026-05-05T21:15:49+00:00"
+  },
+  "2024-02-04:0": {
+    "date": "2024-02-04",
+    "url": "https://bible.usccb.org/bible/readings/020424.cfm",
+    "lectionary_number": 74,
+    "feast": "Fifth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jb 7:1-4, 6-7"
+        ],
+        "live": [
+          "Jb 7:1-4"
+        ],
+        "fix": [
+          "Jb 7:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 147:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 147:1-2"
+        ],
+        "fix": [
+          "Ps 147:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Cor 9:16-19, 22-23"
+        ],
+        "live": [
+          "1 Cor 9:16-19"
+        ],
+        "fix": [
+          "1 Cor 9:16-19"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 8:17"
+        ],
+        "fix": [
+          "Mt 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jb 7:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 9:16-19"
+      ],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jb 7:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 147:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 9:16-19"
+      ],
+      "alleluia_verse": [
+        "Mt 8:17"
+      ],
+      "gospel": [
+        "Mk 1:29-39"
+      ]
+    },
+    "checked_at": "2026-05-05T21:21:00+00:00"
   }
 }

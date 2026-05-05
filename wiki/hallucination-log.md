@@ -13339,3 +13339,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Esther C:12, 14-16, 23-25 Queen Esther,']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Psalm 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6e42d5e
+
+### ❌ 2024-02-04 — Fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-05 21:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020424.cfm
+- **Status**: mismatch
+- **Lectionary**: 74
+- **Mismatches**:
+  - **first_reading**: stored=`['Jb 7:1-4, 6-7']`, live=`['Jb 7:1-4']`, fix=`['Jb 7:1-4']`
+  - **responsorial_psalm**: stored=`['Ps 147:1-2, 3-4, 5-6']`, live=`['Ps 147:1-2']`, fix=`['Ps 147:1-2']`
+  - **second_reading**: stored=`['1 Cor 9:16-19, 22-23']`, live=`['1 Cor 9:16-19']`, fix=`['1 Cor 9:16-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 8:17']`, fix=`['Mt 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e05d1a9
