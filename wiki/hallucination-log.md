@@ -12981,3 +12981,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cca4198
+
+### ❌ 2027-05-16 — Pentecost Sunday - Vigil Mass
+- **Checked**: 2026-05-05 18:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051627-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 62
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 11:1-9']`, live=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`, fix=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24, 35, 27-28, 29, 30']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03251d1
