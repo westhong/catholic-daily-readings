@@ -11818,3 +11818,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/267f2cb
+
+### ❌ 2025-01-12 — The Baptism of the Lord
+- **Checked**: 2026-05-05 08:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011225.cfm
+- **Status**: mismatch
+- **Lectionary**: 21
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 42:1-4, 6-7']`, live=`['Isaiah 42:1-4']`, fix=`['Isaiah 42:1-4']`
+  - **responsorial_psalm**: stored=`['Psalm 29:1-2, 3-4, 3, 9-10']`, live=`['Psalm 29:1-2', 'Psalm 104:1']`, fix=`['Psalm 29:1-2', 'Psalm 104:1']`
+  - **second_reading**: stored=`['Acts 10:34-38']`, live=`['Acts 10:34-38', 'Titus 2:11-14']`, fix=`['Acts 10:34-38', 'Titus 2:11-14']`
+  - **gospel**: stored=`['Luke 3:15-16, 21-22']`, live=`['Luke 3:15-16']`, fix=`['Luke 3:15-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a79967

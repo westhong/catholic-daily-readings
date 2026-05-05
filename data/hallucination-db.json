@@ -60311,5 +60311,100 @@
       ]
     },
     "checked_at": "2026-05-05T08:15:26+00:00"
+  },
+  "2025-01-12:0": {
+    "date": "2025-01-12",
+    "url": "https://bible.usccb.org/bible/readings/011225.cfm",
+    "lectionary_number": 21,
+    "feast": "The Baptism of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 42:1-4, 6-7"
+        ],
+        "live": [
+          "Isaiah 42:1-4"
+        ],
+        "fix": [
+          "Isaiah 42:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 29:1-2, 3-4, 3, 9-10"
+        ],
+        "live": [
+          "Psalm 29:1-2",
+          "Psalm 104:1"
+        ],
+        "fix": [
+          "Psalm 29:1-2",
+          "Psalm 104:1"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Acts 10:34-38"
+        ],
+        "live": [
+          "Acts 10:34-38",
+          "Titus 2:11-14"
+        ],
+        "fix": [
+          "Acts 10:34-38",
+          "Titus 2:11-14"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 3:15-16, 21-22"
+        ],
+        "live": [
+          "Luke 3:15-16"
+        ],
+        "fix": [
+          "Luke 3:15-16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Isaiah 42:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 29:1-2",
+        "Psalm 104:1"
+      ],
+      "second_reading": [
+        "Acts 10:34-38",
+        "Titus 2:11-14"
+      ],
+      "gospel": [
+        "Luke 3:15-16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 42:1-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 29:1-2",
+        "Psalm 104:1"
+      ],
+      "second_reading": [
+        "Acts 10:34-38",
+        "Titus 2:11-14"
+      ],
+      "gospel": [
+        "Luke 3:15-16"
+      ]
+    },
+    "checked_at": "2026-05-05T08:20:40+00:00"
   }
 }

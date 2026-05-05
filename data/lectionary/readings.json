@@ -43400,7 +43400,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 1:1-4, 6",
+            "citation": "Psalm 1:1-4",
             "sources": [
               "USCCB"
             ]
@@ -43421,8 +43421,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Thessalonians 2:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-21": [
