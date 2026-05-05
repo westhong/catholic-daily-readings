@@ -12861,3 +12861,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['19:8, 9, 10, 11']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e97894d
+
+### ❌ 2024-04-02 — Tuesday in the Octave of Easter
+- **Checked**: 2026-05-05 17:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040224.cfm
+- **Status**: mismatch
+- **Lectionary**: 262
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['33:4-5, 18-19, 20']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3635f90
