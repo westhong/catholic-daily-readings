@@ -13370,3 +13370,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['PS 42:2, 3']`, live=`['PS 42:2', 'See Ps 130:5']`, fix=`['PS 42:2', 'See Ps 130:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0125213
+
+### ❌ 2024-07-30 — Tuesday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-05 21:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/073024.cfm
+- **Status**: mismatch
+- **Lectionary**: 402
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/22371a2

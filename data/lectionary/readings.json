@@ -55000,7 +55000,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 130:1-2, 3-4, 5-7",
+            "citation": "Ps 130:1-2",
             "sources": [
               "USCCB"
             ]
@@ -55014,15 +55014,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ez 18:31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-24": [

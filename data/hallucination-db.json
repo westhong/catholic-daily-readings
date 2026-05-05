@@ -68264,5 +68264,44 @@
       ]
     },
     "checked_at": "2026-05-05T21:30:24+00:00"
+  },
+  "2024-07-30:0": {
+    "date": "2024-07-30",
+    "url": "https://bible.usccb.org/bible/readings/073024.cfm",
+    "lectionary_number": 402,
+    "feast": "Tuesday of the Seventeenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 79:8, 9, 11"
+        ],
+        "live": [
+          "Ps 79:8"
+        ],
+        "fix": [
+          "Ps 79:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 79:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 14:17-22"
+      ],
+      "responsorial_psalm": [
+        "Ps 79:8"
+      ],
+      "gospel": [
+        "Mt 13:36-43"
+      ]
+    },
+    "checked_at": "2026-05-05T21:35:35+00:00"
   }
 }
