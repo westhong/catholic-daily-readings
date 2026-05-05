@@ -55682,5 +55682,51 @@
       ]
     },
     "checked_at": "2026-05-05T00:35:04+00:00"
+  },
+  "2023-11-18:0": {
+    "date": "2023-11-18",
+    "url": "https://bible.usccb.org/bible/readings/111823.cfm",
+    "lectionary_number": 496,
+    "feast": "Saturday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "105:2-3, 36-37, 42-43"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thes 2:14"
+        ],
+        "fix": [
+          "See 2 Thes 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 18:14-16"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ],
+      "gospel": [
+        "Lk 18:1-8"
+      ]
+    },
+    "checked_at": "2026-05-05T00:40:20+00:00"
   }
 }
