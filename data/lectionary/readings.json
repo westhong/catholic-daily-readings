@@ -11016,7 +11016,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 1:8-14, 22",
+            "citation": "Exodus 1:8-14",
             "sources": [
               "USCCB"
             ]
@@ -11032,7 +11032,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 10:34—11",
+            "citation": "Matthew 10:34",
             "sources": [
               "USCCB"
             ]
@@ -11045,8 +11045,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-15": [

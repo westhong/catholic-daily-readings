@@ -11338,3 +11338,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 24:1-2, 3-4']`, live=`['Psalm 24:1-2']`, fix=`['Psalm 24:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c3d889d
+
+### ❌ 2027-07-08 — Thursday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070827.cfm
+- **Status**: mismatch
+- **Lectionary**: 386
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 44:18-21, 23']`, live=`['Genesis 44:18-21']`, fix=`['Genesis 44:18-21']`
+  - **responsorial_psalm**: stored=`['Psalm 105:16-17, 18-19, 20-21']`, live=`['Psalm 105:16-17']`, fix=`['Psalm 105:16-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b97dcb
