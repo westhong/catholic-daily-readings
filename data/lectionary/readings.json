@@ -43862,7 +43862,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Deuteronomy 4:32-34, 39-40",
+            "citation": "Deuteronomy 4:32-34",
             "sources": [
               "USCCB"
             ]
@@ -43870,7 +43870,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:4-5, 6, 9, 18-19, 20, 22",
+            "citation": "Psalm 33:4-5",
             "sources": [
               "USCCB"
             ]
@@ -43899,8 +43899,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Revelation 1:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-24": [

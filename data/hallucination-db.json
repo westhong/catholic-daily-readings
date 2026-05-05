@@ -67386,5 +67386,51 @@
       ]
     },
     "checked_at": "2026-05-05T20:10:13+00:00"
+  },
+  "2023-04-29:0": {
+    "date": "2023-04-29",
+    "url": "https://bible.usccb.org/bible/readings/042923.cfm",
+    "lectionary_number": 278,
+    "feast": "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "116:12-13, 14-15, 16-17"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 6:63"
+        ],
+        "fix": [
+          "See Jn 6:63"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Jn 6:63"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:31-42"
+      ],
+      "alleluia_verse": [
+        "See Jn 6:63"
+      ],
+      "gospel": [
+        "Jn 6:60-69"
+      ]
+    },
+    "checked_at": "2026-05-05T20:15:25+00:00"
   }
 }

@@ -13207,3 +13207,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 14-15, 18-19']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/402d827
+
+### ❌ 2023-04-29 — Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church
+- **Checked**: 2026-05-05 20:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042923.cfm
+- **Status**: mismatch
+- **Lectionary**: 278
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['116:12-13, 14-15, 16-17']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 6:63']`, fix=`['See Jn 6:63']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/968df2c
