@@ -12388,3 +12388,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['55:7-8, 9-10']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Gal 6:14']`, fix=`['Gal 6:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a151f91
+
+### ❌ 2027-06-03 — Memorial of Saint Charles Lwanga and Companions, Martyrs
+- **Checked**: 2026-05-05 13:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060327.cfm
+- **Status**: mismatch
+- **Lectionary**: 356
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 128:1-2, 3, 4-5']`, live=`['Psalm 128:1-2']`, fix=`['Psalm 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d9a4d01
