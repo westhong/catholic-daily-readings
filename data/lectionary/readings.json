@@ -3284,7 +3284,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 12:18-19, 21-24",
+            "citation": "Hebrews 12:18-19",
             "sources": [
               "USCCB"
             ]
@@ -3313,8 +3313,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-07": [

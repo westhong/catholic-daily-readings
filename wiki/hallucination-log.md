@@ -12195,3 +12195,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 10, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Timothy 3:16']`, fix=`['1 Timothy 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aa58126
+
+### ❌ 2026-03-15 — Fourth Sunday of Lent
+- **Checked**: 2026-05-05 11:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031526.cfm
+- **Status**: mismatch
+- **Lectionary**: 31
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 23: 1-3']`, live=`['Psalm 23: 1']`, fix=`['Psalm 23: 1']`
+  - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/caaf287
