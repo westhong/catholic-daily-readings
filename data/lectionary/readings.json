@@ -68940,7 +68940,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 37:3-4, 5-6, 23-24, 39-40",
+            "citation": "Ps 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -68961,8 +68961,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-28": [

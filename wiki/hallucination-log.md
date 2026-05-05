@@ -12350,3 +12350,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/051924.cfm
 - **Status**: ok
 - **Lectionary**: 62
+
+### ❌ 2023-03-17 — Friday of the Third Week of Lent
+- **Checked**: 2026-05-05 12:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031723.cfm
+- **Status**: mismatch
+- **Lectionary**: 241
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Mt 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d8edf5
