@@ -58492,5 +58492,63 @@
       ]
     },
     "checked_at": "2026-05-05T05:05:40+00:00"
+  },
+  "2026-06-12:0": {
+    "date": "2026-06-12",
+    "url": "https://bible.usccb.org/bible/readings/061226.cfm",
+    "lectionary_number": 170,
+    "feast": "Solemnity of the Most Sacred Heart of Jesus",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 103:1-2, 3-4, 6-7, 8, 10"
+        ],
+        "live": [
+          "Psalm 103:1-2"
+        ],
+        "fix": [
+          "Psalm 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 11:29"
+        ],
+        "fix": [
+          "Matthew 11:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 7:6-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 103:1-2"
+      ],
+      "second_reading": [
+        "1 John 4:7-16"
+      ],
+      "alleluia_verse": [
+        "Matthew 11:29"
+      ],
+      "gospel": [
+        "Matthew 11:25-30"
+      ]
+    },
+    "checked_at": "2026-05-05T05:10:54+00:00"
   }
 }
