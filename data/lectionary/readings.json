@@ -38500,14 +38500,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "31:20, 21, 22, 23, 24",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mark 5:1-20",
@@ -38523,8 +38516,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-02": [
