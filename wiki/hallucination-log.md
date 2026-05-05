@@ -11910,3 +11910,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:76']`, fix=`['See Lk 1:76']`
   - **gospel**: stored=`['Lk 1:57-66, 80']`, live=`['Lk 1:57-66']`, fix=`['Lk 1:57-66']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6a25f2f
+
+### ❌ 2026-04-17 — Friday of the Second Week of Easter
+- **Checked**: 2026-05-05 09:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041726.cfm
+- **Status**: mismatch
+- **Lectionary**: 271
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 4, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1e1ef3
