@@ -67894,5 +67894,59 @@
       ]
     },
     "checked_at": "2026-05-05T20:56:03+00:00"
+  },
+  "2023-04-08:0": {
+    "date": "2023-04-08",
+    "url": "https://bible.usccb.org/bible/readings/040823.cfm",
+    "lectionary_number": 41,
+    "feast": "Holy Saturday At the Easter Vigil in the Holy Night of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 1:1—2"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 16:5, 8, 9-10, 11"
+        ],
+        "live": [
+          "Ps 118:1-2"
+        ],
+        "fix": [
+          "Ps 118:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Gn 22:1-18"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "second_reading": []
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "gospel": [
+        "Mt 28:1-10"
+      ]
+    },
+    "checked_at": "2026-05-05T21:00:14+00:00"
   }
 }
