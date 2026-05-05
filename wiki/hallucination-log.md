@@ -11149,3 +11149,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 666
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1028.cfm`, live=fetch failed
+
+### ❌ 2025-01-01 — Solemnity of the Blessed Virgin Mary, the Mother of God The Octave Day of Christmas
+- **Checked**: 2026-05-05 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010125.cfm
+- **Status**: mismatch
+- **Lectionary**: 18
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6, 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c817a60
