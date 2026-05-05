@@ -11179,3 +11179,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Wis 12:13, 16-19']`, live=`['Wis 12:13']`, fix=`['Wis 12:13']`
   - **responsorial_psalm**: stored=`['Ps 86:5-6, 9-10, 15-16']`, live=`['Ps 86:5-6']`, fix=`['Ps 86:5-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6066b29
+
+### ❌ 2025-09-24 — Wednesday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-05 02:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092425.cfm
+- **Status**: mismatch
+- **Lectionary**: 451
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85634b9
