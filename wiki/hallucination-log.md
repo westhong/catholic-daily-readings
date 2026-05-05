@@ -12325,3 +12325,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 464
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1008.cfm`, live=fetch failed
+
+### ❌ 2025-02-17 — Monday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-05 12:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021725.cfm
+- **Status**: mismatch
+- **Lectionary**: 335
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 4:1-15, 25']`, live=`['Genesis 4:1-15']`, fix=`['Genesis 4:1-15']`
+  - **responsorial_psalm**: stored=`['Psalm 50:1,8, 16']`, live=`['Psalm 50:1']`, fix=`['Psalm 50:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c47515
