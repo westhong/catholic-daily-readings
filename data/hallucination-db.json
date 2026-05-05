@@ -66753,5 +66753,75 @@
       ]
     },
     "checked_at": "2026-05-05T19:10:43+00:00"
+  },
+  "2025-11-17:0": {
+    "date": "2025-11-17",
+    "url": "https://bible.usccb.org/bible/readings/111725.cfm",
+    "lectionary_number": 497,
+    "feast": "Memorial of Saint Elizabeth of Hungary, Religious",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Maccabees 1:10-15, 41-43, 54-57, 62-63"
+        ],
+        "live": [
+          "1 Maccabees 1:10-15"
+        ],
+        "fix": [
+          "1 Maccabees 1:10-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:53, 61, 134, 150, 155, 158"
+        ],
+        "live": [
+          "Psalm 119:53"
+        ],
+        "fix": [
+          "Psalm 119:53"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Maccabees 1:10-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:53"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Maccabees 1:10-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:53"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "Luke 18:35-43"
+      ]
+    },
+    "checked_at": "2026-05-05T19:15:55+00:00"
   }
 }

@@ -13088,3 +13088,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3ab, 3cd-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fbb12b4
+
+### ❌ 2025-11-17 — Memorial of Saint Elizabeth of Hungary, Religious
+- **Checked**: 2026-05-05 19:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111725.cfm
+- **Status**: mismatch
+- **Lectionary**: 497
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Maccabees 1:10-15, 41-43, 54-57, 62-63']`, live=`['1 Maccabees 1:10-15']`, fix=`['1 Maccabees 1:10-15']`
+  - **responsorial_psalm**: stored=`['Psalm 119:53, 61, 134, 150, 155, 158']`, live=`['Psalm 119:53']`, fix=`['Psalm 119:53']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9dcf359
