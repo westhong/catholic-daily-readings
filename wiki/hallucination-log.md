@@ -11959,3 +11959,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Jn 1:14ab']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f71cc35
+
+### ❌ 2024-10-19 — Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs
+- **Checked**: 2026-05-05 09:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101924.cfm
+- **Status**: mismatch
+- **Lectionary**: 472
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 15:26']`, fix=`['JN 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f0abfbd

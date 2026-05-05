@@ -61076,5 +61076,45 @@
       ]
     },
     "checked_at": "2026-05-05T09:25:58+00:00"
+  },
+  "2024-10-19:0": {
+    "date": "2024-10-19",
+    "url": "https://bible.usccb.org/bible/readings/101924.cfm",
+    "lectionary_number": 472,
+    "feast": "Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 15:26"
+        ],
+        "fix": [
+          "JN 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "JN 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EPH 1:15-23"
+      ],
+      "responsorial_psalm": [
+        "PS 8:2-3"
+      ],
+      "alleluia_verse": [
+        "JN 15:26"
+      ],
+      "gospel": [
+        "LK 12:8-12"
+      ]
+    },
+    "checked_at": "2026-05-05T09:30:13+00:00"
   }
 }
