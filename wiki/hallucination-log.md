@@ -12843,3 +12843,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 95:1-2, 6-7, 8-9']`, live=`['Ps 95:1-2']`, fix=`['Ps 95:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/38fb069
+
+### 🚫 2026-11-04 — 
+- **Checked**: 2026-05-05 17:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261104.cfm
+- **Status**: url_dead
+- **Lectionary**: 487
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261104.cfm`, live=fetch failed
