@@ -12436,3 +12436,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 115:1-2, 3-4, 15-16']`, live=`['Ps 115:1-2']`, fix=`['Ps 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:26']`, fix=`['Jn 14:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb0b4ca
+
+### ❌ 2025-08-14 — Memorial of Saint Maximilian Kolbe, Priest and Martyr
+- **Checked**: 2026-05-05 13:41 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081425.cfm
+- **Status**: mismatch
+- **Lectionary**: 416
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 114:1-2, 3-4, 5-6']`, live=`['Psalm 114:1-2']`, fix=`['Psalm 114:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:135']`, fix=`['Psalm 119:135']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2b8880b

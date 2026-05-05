@@ -63462,5 +63462,60 @@
       ]
     },
     "checked_at": "2026-05-05T13:35:47+00:00"
+  },
+  "2025-08-14:0": {
+    "date": "2025-08-14",
+    "url": "https://bible.usccb.org/bible/readings/081425.cfm",
+    "lectionary_number": 416,
+    "feast": "Memorial of Saint Maximilian Kolbe, Priest and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 114:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 114:1-2"
+        ],
+        "fix": [
+          "Psalm 114:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:135"
+        ],
+        "fix": [
+          "Psalm 119:135"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 114:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:135"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Joshua 3:7-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 114:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:135"
+      ],
+      "gospel": [
+        "Matthew 18:21–19"
+      ]
+    },
+    "checked_at": "2026-05-05T13:41:01+00:00"
   }
 }
