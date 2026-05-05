@@ -12007,3 +12007,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Gn 23:1-4, 19']`, live=`['Gn 23:1-4']`, fix=`['Gn 23:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a5144aa
+
+### ❌ 2023-12-25 — The Nativity of the Lord (Christmas) Mass during the Night
+- **Checked**: 2026-05-05 09:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122523-Night.cfm
+- **Status**: mismatch
+- **Lectionary**: 14
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 96: 1-2, 2-3, 11-12, 13']`, live=`['Ps 96: 1']`, fix=`['Ps 96: 1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:10-11']`, fix=`['Lk 2:10-11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7e8434
