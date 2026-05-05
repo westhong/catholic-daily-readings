@@ -12715,3 +12715,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Zechariah 2:14-17']`, live=`['Zechariah 2:14-17', 'Revelation 11:19']`, fix=`['Zechariah 2:14-17', 'Revelation 11:19']`
   - **gospel**: stored=`['Luke 1:26-38']`, live=`['Luke 1:26-38', 'Luke 1:39-47']`, fix=`['Luke 1:26-38', 'Luke 1:39-47']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/82db2e7
+
+### ❌ 2027-10-07 — Memorial of Our Lady of the Rosary
+- **Checked**: 2026-05-05 16:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100727.cfm
+- **Status**: mismatch
+- **Lectionary**: 464
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a79d69
