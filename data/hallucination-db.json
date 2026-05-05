@@ -61040,5 +61040,41 @@
       ]
     },
     "checked_at": "2026-05-05T09:20:45+00:00"
+  },
+  "2023-03-25:0": {
+    "date": "2023-03-25",
+    "url": "https://bible.usccb.org/bible/readings/032523.cfm",
+    "lectionary_number": 545,
+    "feast": "Solemnity of the Annunciation of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Jn 1:14ab"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 7:10-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 40:7-8"
+      ],
+      "second_reading": [
+        "Heb 10:4-10"
+      ],
+      "gospel": [
+        "Lk 1:26-38"
+      ]
+    },
+    "checked_at": "2026-05-05T09:25:58+00:00"
   }
 }
