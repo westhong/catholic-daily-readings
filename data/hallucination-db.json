@@ -69079,5 +69079,60 @@
       ]
     },
     "checked_at": "2026-05-05T22:50:52+00:00"
+  },
+  "2025-11-15:0": {
+    "date": "2025-11-15",
+    "url": "https://bible.usccb.org/bible/readings/111525.cfm",
+    "lectionary_number": 496,
+    "feast": "Saturday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 105:2-3, 36-37, 42-43"
+        ],
+        "live": [
+          "Psalm 105:2-3"
+        ],
+        "fix": [
+          "Psalm 105:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thessalonians 2:14"
+        ],
+        "fix": [
+          "See 2 Thessalonians 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 105:2-3"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 18:14-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 105:2-3"
+      ],
+      "alleluia_verse": [
+        "See 2 Thessalonians 2:14"
+      ],
+      "gospel": [
+        "Luke 18:1-8"
+      ]
+    },
+    "checked_at": "2026-05-05T22:55:06+00:00"
   }
 }
