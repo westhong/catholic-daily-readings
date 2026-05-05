@@ -12101,3 +12101,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 90:2, 3-4']`, live=`['Ps 90:2']`, fix=`['Ps 90:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/da202dd
+
+### ❌ 2024-02-18 — First Sunday of Lent
+- **Checked**: 2026-05-05 10:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021824.cfm
+- **Status**: mismatch
+- **Lectionary**: 23
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 25:4-5, 6-7, 8-9']`, live=`['Ps 25:4-5']`, fix=`['Ps 25:4-5']`
+  - **verse_before_gospel**: stored=`['Mt 4:4b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/72adc28
