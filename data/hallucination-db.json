@@ -56862,5 +56862,60 @@
       ]
     },
     "checked_at": "2026-05-05T02:40:26+00:00"
+  },
+  "2023-04-21:0": {
+    "date": "2023-04-21",
+    "url": "https://bible.usccb.org/bible/readings/042123.cfm",
+    "lectionary_number": 271,
+    "feast": "Friday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 27:1, 4, 13-14"
+        ],
+        "live": [
+          "Ps 27:1"
+        ],
+        "fix": [
+          "Ps 27:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:34-42"
+      ],
+      "responsorial_psalm": [
+        "Ps 27:1"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Jn 6:1-15"
+      ]
+    },
+    "checked_at": "2026-05-05T02:45:37+00:00"
   }
 }

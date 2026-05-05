@@ -76481,7 +76481,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Wis 12:13, 16-19",
+            "citation": "Wis 12:13",
             "sources": [
               "USCCB"
             ]
@@ -76489,7 +76489,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 86:5-6, 9-10, 15-16",
+            "citation": "Ps 86:5-6",
             "sources": [
               "USCCB"
             ]
@@ -76519,7 +76519,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-24": [
