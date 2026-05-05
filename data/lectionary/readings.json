@@ -64721,7 +64721,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "PRV 21:1-6, 10-13",
+            "citation": "PRV 21:1-6",
             "sources": [
               "USCCB"
             ]
@@ -64729,7 +64729,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:1, 27, 30, 34, 35, 44",
+            "citation": "PS 119:1",
             "sources": [
               "USCCB"
             ]
@@ -64750,8 +64750,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "LK 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-25": [

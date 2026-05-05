@@ -67043,5 +67043,24 @@
       ]
     },
     "checked_at": "2026-05-05T19:35:41+00:00"
+  },
+  "2026-10-03:0": {
+    "date": "2026-10-03",
+    "url": "https://bible.usccb.org/bible/readings/1003.cfm",
+    "lectionary_number": 460,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/1003.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T19:40:54+00:00"
   }
 }

@@ -13139,3 +13139,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 105:16-17, 18-19, 20-21']`, live=`['Ps 105:16-17']`, fix=`['Ps 105:16-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24ad8c8
+
+### 🚫 2026-10-03 — 
+- **Checked**: 2026-05-05 19:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1003.cfm
+- **Status**: url_dead
+- **Lectionary**: 460
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1003.cfm`, live=fetch failed
