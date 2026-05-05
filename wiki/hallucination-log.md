@@ -11260,3 +11260,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
   - **responsorial_psalm**: stored=`['Psalm 16:1-2, 5, 7-8, 9-10, 11']`, live=`['Psalm 16:1-2']`, fix=`['Psalm 16:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a32001
+
+### ❌ 2025-03-31 — Monday of the Fourth Week of Lent
+- **Checked**: 2026-05-05 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033125.cfm
+- **Status**: mismatch
+- **Lectionary**: 244
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cd0fe48
