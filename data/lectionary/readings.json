@@ -57793,14 +57793,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "47:2-3, 8-9, 10",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 16:23",
@@ -57816,8 +57809,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 16:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-12": [

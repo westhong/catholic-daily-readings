@@ -12017,3 +12017,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 96: 1-2, 2-3, 11-12, 13']`, live=`['Ps 96: 1']`, fix=`['Ps 96: 1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:10-11']`, fix=`['Lk 2:10-11']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7e8434
+
+### ❌ 2023-10-26 — Thursday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 10:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102623.cfm
+- **Status**: mismatch
+- **Lectionary**: 476
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Phil 3:8-9']`, fix=`['Phil 3:8-9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/922dfe1
