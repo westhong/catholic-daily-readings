@@ -65421,5 +65421,63 @@
       ]
     },
     "checked_at": "2026-05-05T17:00:22+00:00"
+  },
+  "2023-09-10:0": {
+    "date": "2023-09-10",
+    "url": "https://bible.usccb.org/bible/readings/091023.cfm",
+    "lectionary_number": 127,
+    "feast": "Twenty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 95:1-2"
+        ],
+        "fix": [
+          "Ps 95:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 5:19"
+        ],
+        "fix": [
+          "2 Cor 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 95:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 33:7-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 95:1-2"
+      ],
+      "second_reading": [
+        "Rom 13:8-10"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ],
+      "gospel": [
+        "Mt 18:15-20"
+      ]
+    },
+    "checked_at": "2026-05-05T17:05:35+00:00"
   }
 }

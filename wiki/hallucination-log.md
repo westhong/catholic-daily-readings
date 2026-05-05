@@ -12833,3 +12833,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 40:2, 3, 4, 18']`, live=`['Psalm 40:2']`, fix=`['Psalm 40:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/55f5951
+
+### ❌ 2023-09-10 — Twenty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-05 17:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091023.cfm
+- **Status**: mismatch
+- **Lectionary**: 127
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 95:1-2, 6-7, 8-9']`, live=`['Ps 95:1-2']`, fix=`['Ps 95:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/38fb069
