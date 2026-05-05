@@ -11064,3 +11064,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 4:18']`, fix=`['See Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/944d574
+
+### ❌ 2024-10-07 — Memorial of Our Lady of the Rosary
+- **Checked**: 2026-05-05 01:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100724.cfm
+- **Status**: mismatch
+- **Lectionary**: 461
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 13:34']`, fix=`['JN 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6b681f7

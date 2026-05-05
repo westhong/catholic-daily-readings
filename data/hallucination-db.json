@@ -56394,5 +56394,45 @@
       ]
     },
     "checked_at": "2026-05-05T01:50:26+00:00"
+  },
+  "2024-10-07:0": {
+    "date": "2024-10-07",
+    "url": "https://bible.usccb.org/bible/readings/100724.cfm",
+    "lectionary_number": 461,
+    "feast": "Memorial of Our Lady of the Rosary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 13:34"
+        ],
+        "fix": [
+          "JN 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "JN 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 1:6-12"
+      ],
+      "responsorial_psalm": [
+        "PS 111:1"
+      ],
+      "alleluia_verse": [
+        "JN 13:34"
+      ],
+      "gospel": [
+        "LK 10:25-37"
+      ]
+    },
+    "checked_at": "2026-05-05T01:55:38+00:00"
   }
 }
