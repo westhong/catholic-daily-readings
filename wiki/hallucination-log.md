@@ -12705,3 +12705,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 2-3, 3-4, 5-6']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **gospel**: stored=`['Jn 1:1-18']`, live=`['Jn 1:1-18', 'Jn 1:1-5']`, fix=`['Jn 1:1-18', 'Jn 1:1-5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/728f461
+
+### ❌ 2025-12-12 — Feast of Our Lady of Guadalupe
+- **Checked**: 2026-05-05 16:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121225.cfm
+- **Status**: mismatch
+- **Lectionary**: 690
+- **Mismatches**:
+  - **first_reading**: stored=`['Zechariah 2:14-17']`, live=`['Zechariah 2:14-17', 'Revelation 11:19']`, fix=`['Zechariah 2:14-17', 'Revelation 11:19']`
+  - **gospel**: stored=`['Luke 1:26-38']`, live=`['Luke 1:26-38', 'Luke 1:39-47']`, fix=`['Luke 1:26-38', 'Luke 1:39-47']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/82db2e7
