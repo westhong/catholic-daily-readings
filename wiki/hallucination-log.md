@@ -12851,3 +12851,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 487
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261104.cfm`, live=fetch failed
+
+### ❌ 2024-11-30 — Feast of Saint Andrew, Apostle
+- **Checked**: 2026-05-05 17:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/113024.cfm
+- **Status**: mismatch
+- **Lectionary**: 684
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['19:8, 9, 10, 11']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e97894d

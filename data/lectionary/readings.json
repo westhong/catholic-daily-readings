@@ -56249,14 +56249,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "33:4-5, 18-19, 20",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 20:11-18",
@@ -56272,8 +56265,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-03": [
