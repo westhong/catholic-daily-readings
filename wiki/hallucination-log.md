@@ -12578,3 +12578,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['19:8, 9, 10, 11']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 8:15']`, fix=`['See Lk 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d135826
+
+### ❌ 2026-03-22 — Fifth Sunday of Lent
+- **Checked**: 2026-05-05 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032226.cfm
+- **Status**: mismatch
+- **Lectionary**: 34
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
+  - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 11:1-45']`, live=`['John 11:1-45', 'John 11:3-7']`, fix=`['John 11:1-45', 'John 11:3-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0cea0bf
