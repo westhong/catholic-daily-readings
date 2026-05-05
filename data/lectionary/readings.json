@@ -26172,7 +26172,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 22:30; 23:6-11",
+            "citation": "Acts 22:30",
             "sources": [
               "USCCB"
             ]
@@ -26180,7 +26180,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+            "citation": "Psalm 16:1-2",
             "sources": [
               "USCCB"
             ]
@@ -26201,8 +26201,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 17:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-22": [

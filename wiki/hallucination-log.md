@@ -10849,3 +10849,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 16:7']`, fix=`['See John 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eb2d450
+
+### ❌ 2027-08-28 — Memorial of Saint Augustine, Bishop and Doctor of the Church
+- **Checked**: 2026-05-05 00:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082827.cfm
+- **Status**: mismatch
+- **Lectionary**: 430
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 7-8, 9']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2e4624b
