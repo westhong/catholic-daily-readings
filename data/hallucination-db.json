@@ -55257,5 +55257,45 @@
       ]
     },
     "checked_at": "2026-05-04T23:55:23+00:00"
+  },
+  "2027-05-04:0": {
+    "date": "2027-05-04",
+    "url": "https://bible.usccb.org/bible/readings/050427.cfm",
+    "lectionary_number": 292,
+    "feast": "Tuesday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 16:7"
+        ],
+        "fix": [
+          "See John 16:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See John 16:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:22-34"
+      ],
+      "responsorial_psalm": [
+        "Psalm 138:1-2"
+      ],
+      "alleluia_verse": [
+        "See John 16:7"
+      ],
+      "gospel": [
+        "John 16:5-11"
+      ]
+    },
+    "checked_at": "2026-05-05T00:00:35+00:00"
   }
 }

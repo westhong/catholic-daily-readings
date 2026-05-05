@@ -10840,3 +10840,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 8, 10, 12-13']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb8795b
+
+### ❌ 2027-05-04 — Tuesday of the Sixth Week of Easter
+- **Checked**: 2026-05-05 00:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050427.cfm
+- **Status**: mismatch
+- **Lectionary**: 292
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 16:7']`, fix=`['See John 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eb2d450
