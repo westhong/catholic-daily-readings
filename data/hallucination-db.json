@@ -65027,5 +65027,45 @@
       ]
     },
     "checked_at": "2026-05-05T16:20:47+00:00"
+  },
+  "2025-09-11:0": {
+    "date": "2025-09-11",
+    "url": "https://bible.usccb.org/bible/readings/091125.cfm",
+    "lectionary_number": 440,
+    "feast": "Thursday of the Twenty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 John 4:12"
+        ],
+        "fix": [
+          "1 John 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "1 John 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 3:12-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 150:1"
+      ],
+      "alleluia_verse": [
+        "1 John 4:12"
+      ],
+      "gospel": [
+        "Luke 6:27-38"
+      ]
+    },
+    "checked_at": "2026-05-05T16:26:00+00:00"
   }
 }

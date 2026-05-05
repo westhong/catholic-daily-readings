@@ -12756,3 +12756,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Isaiah 50:4-9a', 'Isaiah 50:4-9']`, live=`['Isaiah 50:4-9']`, fix=`['Isaiah 50:4-9']`
   - **responsorial_psalm**: stored=`['Psalm 69:8-10, 21-22, 31 and 33-34', 'Psalm 69:8-10, 21-22, 31, 33-34']`, live=`['Psalm 69:8-10']`, fix=`['Psalm 69:8-10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15c318c
+
+### ❌ 2025-09-11 — Thursday of the Twenty-third Week in Ordinary Time
+- **Checked**: 2026-05-05 16:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091125.cfm
+- **Status**: mismatch
+- **Lectionary**: 440
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:12']`, fix=`['1 John 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/08244de
