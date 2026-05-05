@@ -13398,3 +13398,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/205e8b7
+
+### 🚫 2026-07-19 — Sixteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-05 21:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/719.cfm
+- **Status**: url_dead
+- **Lectionary**: 106
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/719.cfm`, live=fetch failed
