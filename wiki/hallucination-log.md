@@ -12267,3 +12267,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jonah 2:3, 4, 5, 8']`, live=`['Jonah 2:3']`, fix=`['Jonah 2:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 13:34']`, fix=`['Jn 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b2ff28
+
+### 🚫 2026-09-16 — 
+- **Checked**: 2026-05-05 12:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/916.cfm
+- **Status**: url_dead
+- **Lectionary**: 445
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/916.cfm`, live=fetch failed

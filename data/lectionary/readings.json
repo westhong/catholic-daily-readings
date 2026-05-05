@@ -7699,7 +7699,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 13:14, 43-52",
+            "citation": "Acts 13:14",
             "sources": [
               "USCCB"
             ]
@@ -7707,7 +7707,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 100:1-2, 3, 5",
+            "citation": "Psalm 100:1-2",
             "sources": [
               "USCCB"
             ]
@@ -7715,7 +7715,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Revelation 7:9, 14",
+            "citation": "Revelation 7:9",
             "sources": [
               "USCCB"
             ]
@@ -7736,8 +7736,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-12": [
