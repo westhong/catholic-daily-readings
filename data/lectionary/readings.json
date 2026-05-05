@@ -4999,7 +4999,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 130:1-2, 3-4, 5-7",
+            "citation": "Psalm 130:1-2",
             "sources": [
               "USCCB"
             ]
@@ -5013,15 +5013,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ezekiel 18:31",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2025-03-15": [

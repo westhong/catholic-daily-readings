@@ -63618,5 +63618,53 @@
       ]
     },
     "checked_at": "2026-05-05T13:50:30+00:00"
+  },
+  "2026-03-02:0": {
+    "date": "2026-03-02",
+    "url": "https://bible.usccb.org/bible/readings/030226.cfm",
+    "lectionary_number": 230,
+    "feast": "Monday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 79:8, 9, 11"
+        ],
+        "live": [
+          "Psalm 79:8"
+        ],
+        "fix": [
+          "Psalm 79:8"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See John 6:63c, 68c"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 79:8"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 9:4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 79:8"
+      ],
+      "gospel": [
+        "Luke 6:36-38"
+      ]
+    },
+    "checked_at": "2026-05-05T13:55:44+00:00"
   }
 }
