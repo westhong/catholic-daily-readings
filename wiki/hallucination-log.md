@@ -11121,3 +11121,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 698
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/122823.cfm`, live=fetch failed
+
+### ❌ 2024-07-22 — Feast of Saint Mary Magdalene
+- **Checked**: 2026-05-05 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072224.cfm
+- **Status**: mismatch
+- **Lectionary**: 603
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 63:2, 3-4, 5-6, 8-9']`, live=`['PS 63:2']`, fix=`['PS 63:2']`
+  - **gospel**: stored=`['Jn 20:1-2, 11-18']`, live=`['Jn 20:1-2']`, fix=`['Jn 20:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8ecccce
