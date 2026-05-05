@@ -55480,5 +55480,24 @@
       ]
     },
     "checked_at": "2026-05-05T00:15:15+00:00"
+  },
+  "2026-05-09:0": {
+    "date": "2026-05-09",
+    "url": "https://bible.usccb.org/bible/readings/050926.cfm",
+    "lectionary_number": 290,
+    "feast": "Saturday of the Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/050926.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-05T00:20:27+00:00"
   }
 }
