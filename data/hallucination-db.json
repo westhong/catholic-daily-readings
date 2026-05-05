@@ -61857,5 +61857,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T10:50:49+00:00"
+  },
+  "2027-02-24:0": {
+    "date": "2027-02-24",
+    "url": "https://bible.usccb.org/bible/readings/022427.cfm",
+    "lectionary_number": 232,
+    "feast": "Wednesday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 31:5-6, 14, 15-16"
+        ],
+        "live": [
+          "Psalm 31:5-6"
+        ],
+        "fix": [
+          "Psalm 31:5-6"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "John 8:12"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 31:5-6"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 18:18-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 31:5-6"
+      ],
+      "gospel": [
+        "Matthew 20:17-28"
+      ]
+    },
+    "checked_at": "2026-05-05T10:56:04+00:00"
   }
 }

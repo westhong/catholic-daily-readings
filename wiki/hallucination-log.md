@@ -12119,3 +12119,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 501
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261120.cfm`, live=fetch failed
+
+### ❌ 2027-02-24 — Wednesday of the Second Week of Lent
+- **Checked**: 2026-05-05 10:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022427.cfm
+- **Status**: mismatch
+- **Lectionary**: 232
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 31:5-6, 14, 15-16']`, live=`['Psalm 31:5-6']`, fix=`['Psalm 31:5-6']`
+  - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a0d9783
