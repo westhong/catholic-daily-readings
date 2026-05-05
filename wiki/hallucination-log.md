@@ -12991,3 +12991,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 11:1-9']`, live=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`, fix=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`
   - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24, 35, 27-28, 29, 30']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03251d1
+
+### ❌ 2027-08-21 — Memorial of Saint Pius X, Pope
+- **Checked**: 2026-05-05 18:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082127.cfm
+- **Status**: mismatch
+- **Lectionary**: 424
+- **Mismatches**:
+  - **first_reading**: stored=`['Ruth 2:1-3, 8-11']`, live=`['Ruth 2:1-3']`, fix=`['Ruth 2:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 23:9']`, fix=`['Matthew 23:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e21bbe9
