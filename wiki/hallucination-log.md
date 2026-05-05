@@ -10997,3 +10997,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Sir 48:1-4, 9-11']`, live=`['Sir 48:1-4']`, fix=`['Sir 48:1-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 3:4']`, fix=`['Lk 3:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/975a751
+
+### ❌ 2023-08-20 — Twentieth Sunday in Ordinary Time
+- **Checked**: 2026-05-05 01:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082023.cfm
+- **Status**: mismatch
+- **Lectionary**: 118
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 56:1, 6-7']`, live=`['Is 56:1']`, fix=`['Is 56:1']`
+  - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 6, 8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
+  - **second_reading**: stored=`['Rom 11:13-15, 29-32']`, live=`['Rom 11:13-15']`, fix=`['Rom 11:13-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f6f0505

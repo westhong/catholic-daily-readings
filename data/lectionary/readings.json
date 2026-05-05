@@ -242,7 +242,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 27:1, 4, 13-14",
+            "citation": "PS 27:1",
             "sources": [
               "USCCB"
             ]
@@ -256,7 +256,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-07": [
