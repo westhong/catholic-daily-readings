@@ -13041,3 +13041,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
   - **gospel**: stored=`['will save it. What profit is there for o']`, live=`['Mark 8:34']`, fix=`['Mark 8:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cce4018
+
+### 🚫 2026-08-12 — 
+- **Checked**: 2026-05-05 18:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/812.cfm
+- **Status**: url_dead
+- **Lectionary**: 415
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/812.cfm`, live=fetch failed
