@@ -12921,3 +12921,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 49:2-3, 6-7, 8-10, 11']`, live=`['Ps 49:2-3']`, fix=`['Ps 49:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/164de53
+
+### ❌ 2023-08-09 — Wednesday of the Eighteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 17:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080923.cfm
+- **Status**: mismatch
+- **Lectionary**: 409
+- **Mismatches**:
+  - **first_reading**: stored=`['Nm 13:1-2, 25–14']`, live=`['Nm 13:1-2']`, fix=`['Nm 13:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+  - **gospel**: stored=`['Mt 15: 21-28']`, live=`['Mt 15: 21']`, fix=`['Mt 15: 21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/afd145f

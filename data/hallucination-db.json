@@ -65875,5 +65875,75 @@
       ]
     },
     "checked_at": "2026-05-05T17:45:15+00:00"
+  },
+  "2023-08-09:0": {
+    "date": "2023-08-09",
+    "url": "https://bible.usccb.org/bible/readings/080923.cfm",
+    "lectionary_number": 409,
+    "feast": "Wednesday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Nm 13:1-2, 25–14"
+        ],
+        "live": [
+          "Nm 13:1-2"
+        ],
+        "fix": [
+          "Nm 13:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 15: 21-28"
+        ],
+        "live": [
+          "Mt 15: 21"
+        ],
+        "fix": [
+          "Mt 15: 21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Nm 13:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mt 15: 21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 13:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 106:6-7"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mt 15: 21"
+      ]
+    },
+    "checked_at": "2026-05-05T17:50:27+00:00"
   }
 }
