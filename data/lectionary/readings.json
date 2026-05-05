@@ -54126,7 +54126,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jb 7:1-4, 6-7",
+            "citation": "Jb 7:1-4",
             "sources": [
               "USCCB"
             ]
@@ -54134,7 +54134,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 147:1-2, 3-4, 5-6",
+            "citation": "Ps 147:1-2",
             "sources": [
               "USCCB"
             ]
@@ -54142,7 +54142,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Cor 9:16-19, 22-23",
+            "citation": "1 Cor 9:16-19",
             "sources": [
               "USCCB"
             ]
@@ -54163,8 +54163,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 8:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-05": [
