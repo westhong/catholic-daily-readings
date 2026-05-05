@@ -13176,3 +13176,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 176
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261201.cfm`, live=fetch failed
+
+### ❌ 2024-01-08 — The Baptism of the Lord
+- **Checked**: 2026-05-05 20:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010824.cfm
+- **Status**: mismatch
+- **Lectionary**: 21
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 42:1-4, 6-7']`, live=`['Is 42:1-4', 'Is 55:1-11']`, fix=`['Is 42:1-4', 'Is 55:1-11']`
+  - **responsorial_psalm**: stored=`['Ps 29:1-2, 3-4, 3, 9-10']`, live=`['Ps 29:1-2', 'Is 12:2-3']`, fix=`['Ps 29:1-2', 'Is 12:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/faad8a8

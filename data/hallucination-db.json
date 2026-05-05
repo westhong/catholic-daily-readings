@@ -67206,5 +67206,67 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T19:55:33+00:00"
+  },
+  "2024-01-08:0": {
+    "date": "2024-01-08",
+    "url": "https://bible.usccb.org/bible/readings/010824.cfm",
+    "lectionary_number": 21,
+    "feast": "The Baptism of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 42:1-4, 6-7"
+        ],
+        "live": [
+          "Is 42:1-4",
+          "Is 55:1-11"
+        ],
+        "fix": [
+          "Is 42:1-4",
+          "Is 55:1-11"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 29:1-2, 3-4, 3, 9-10"
+        ],
+        "live": [
+          "Ps 29:1-2",
+          "Is 12:2-3"
+        ],
+        "fix": [
+          "Ps 29:1-2",
+          "Is 12:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 42:1-4",
+        "Is 55:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 29:1-2",
+        "Is 12:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 42:1-4",
+        "Is 55:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 29:1-2",
+        "Is 12:2-3"
+      ],
+      "gospel": [
+        "Mk 1:7-11"
+      ]
+    },
+    "checked_at": "2026-05-05T20:00:49+00:00"
   }
 }
