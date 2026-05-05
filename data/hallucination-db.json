@@ -59714,5 +59714,51 @@
       ]
     },
     "checked_at": "2026-05-05T07:15:29+00:00"
+  },
+  "2024-11-20:0": {
+    "date": "2024-11-20",
+    "url": "https://bible.usccb.org/bible/readings/112024.cfm",
+    "lectionary_number": 499,
+    "feast": "Wednesday of the Thirty-third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "150:1"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rv 4:1-11"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Lk 19:11-28"
+      ]
+    },
+    "checked_at": "2026-05-05T07:20:42+00:00"
   }
 }

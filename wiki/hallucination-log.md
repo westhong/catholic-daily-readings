@@ -11700,3 +11700,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a24c46
+
+### ❌ 2024-11-20 — Wednesday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-05 07:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112024.cfm
+- **Status**: mismatch
+- **Lectionary**: 499
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['150:1']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8be55b6
