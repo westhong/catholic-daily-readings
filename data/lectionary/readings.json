@@ -54184,7 +54184,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Kgs 8:1-7, 9-13",
+            "citation": "1 Kgs 8:1-7",
             "sources": [
               "USCCB"
             ]
@@ -54192,7 +54192,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 132:6-7, 8-10",
+            "citation": "PS 132:6-7",
             "sources": [
               "USCCB"
             ]
@@ -54213,8 +54213,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-06": [
