@@ -60861,7 +60861,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 63:2, 3-4, 5-6, 8-9",
+            "citation": "PS 63:2",
             "sources": [
               "USCCB"
             ]
@@ -60869,13 +60869,14 @@
         ],
         "gospel": [
           {
-            "citation": "Jn 20:1-2, 11-18",
+            "citation": "Jn 20:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-23": [

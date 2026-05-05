@@ -11113,3 +11113,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/139fe57
+
+### 🚫 2023-12-28 — Feast of the Holy Innocents, martyrs
+- **Checked**: 2026-05-05 02:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122823.cfm
+- **Status**: url_dead
+- **Lectionary**: 698
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/122823.cfm`, live=fetch failed
