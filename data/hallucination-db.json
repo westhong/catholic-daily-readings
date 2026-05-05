@@ -67806,5 +67806,53 @@
       ]
     },
     "checked_at": "2026-05-05T20:45:39+00:00"
+  },
+  "2027-03-04:0": {
+    "date": "2027-03-04",
+    "url": "https://bible.usccb.org/bible/readings/030427.cfm",
+    "lectionary_number": 240,
+    "feast": "Thursday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 95:1-2"
+        ],
+        "fix": [
+          "Psalm 95:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Joel 2:12-13"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 7:23-28"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "gospel": [
+        "Luke 11:14-23"
+      ]
+    },
+    "checked_at": "2026-05-05T20:50:51+00:00"
   }
 }
