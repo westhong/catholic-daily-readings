@@ -52776,7 +52776,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 42:1-4, 6-7",
+            "citation": "Is 42:1-4",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Is 55:1-11",
             "sources": [
               "USCCB"
             ]
@@ -52784,7 +52790,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 29:1-2, 3-4, 3, 9-10",
+            "citation": "Ps 29:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Is 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -52806,7 +52818,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-09": [
