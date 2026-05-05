@@ -11288,3 +11288,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:26']`, fix=`['Psalm 118:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dcb4cbd
+
+### ❌ 2025-06-29 — Solemnity of Saints Peter and Paul, Apostles Vigil
+- **Checked**: 2026-05-05 03:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062925-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 590
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 21:17']`, fix=`['John 21:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f0d332
