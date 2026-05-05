@@ -69294,5 +69294,47 @@
       ]
     },
     "checked_at": "2026-05-05T23:10:47+00:00"
+  },
+  "2027-03-14:1": {
+    "date": "2027-03-14",
+    "url": "https://bible.usccb.org/bible/readings/031427-YearB.cfm",
+    "lectionary_number": 35,
+    "feast": "Fifth Sunday of Lent Year B",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 51:3-4, 12-13, 14-15"
+        ],
+        "live": [
+          "Psalm 51:3-4"
+        ],
+        "fix": [
+          "Psalm 51:3-4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 31:31-34"
+      ],
+      "responsorial_psalm": [
+        "Psalm 51:3-4"
+      ],
+      "second_reading": [
+        "Hebrews 5:7-9"
+      ],
+      "gospel": [
+        "John 12:20-33"
+      ]
+    },
+    "checked_at": "2026-05-05T23:15:58+00:00"
   }
 }

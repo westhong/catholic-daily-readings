@@ -13569,3 +13569,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 19:8, 9, 10, 11']`, live=`['PS 19:8']`, fix=`['PS 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0cd1410
+
+### ❌ 2027-03-14 — Fifth Sunday of Lent Year B
+- **Checked**: 2026-05-05 23:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031427-YearB.cfm
+- **Status**: mismatch
+- **Lectionary**: 35
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 14-15']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/af58056
