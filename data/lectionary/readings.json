@@ -16611,7 +16611,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 13:4-5, 6",
+            "citation": "Psalm 13:4-5",
             "sources": [
               "USCCB"
             ]
@@ -16632,8 +16632,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Thessalonians 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-30": [

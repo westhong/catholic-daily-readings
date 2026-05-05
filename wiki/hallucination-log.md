@@ -13099,3 +13099,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:53, 61, 134, 150, 155, 158']`, live=`['Psalm 119:53']`, fix=`['Psalm 119:53']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9dcf359
+
+### ❌ 2025-07-21 — Monday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-05 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072125.cfm
+- **Status**: mismatch
+- **Lectionary**: 395
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1252f35
