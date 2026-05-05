@@ -11930,3 +11930,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 6-7, 8, 10']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/91ca7be
+
+### ❌ 2025-10-18 — Feast of Saint Luke, Evangelist
+- **Checked**: 2026-05-05 09:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101825.cfm
+- **Status**: mismatch
+- **Lectionary**: 661
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 12-13, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a825495
