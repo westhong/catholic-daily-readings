@@ -66063,5 +66063,45 @@
       ]
     },
     "checked_at": "2026-05-05T18:00:51+00:00"
+  },
+  "2023-10-25:0": {
+    "date": "2023-10-25",
+    "url": "https://bible.usccb.org/bible/readings/102523.cfm",
+    "lectionary_number": 475,
+    "feast": "Wednesday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 24:42"
+        ],
+        "fix": [
+          "Mt 24:42"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 24:42"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 6:12-18"
+      ],
+      "responsorial_psalm": [
+        "Ps 124:1"
+      ],
+      "alleluia_verse": [
+        "Mt 24:42"
+      ],
+      "gospel": [
+        "Lk 12:39-48"
+      ]
+    },
+    "checked_at": "2026-05-05T18:06:03+00:00"
   }
 }

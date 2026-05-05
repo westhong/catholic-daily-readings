@@ -12953,3 +12953,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:3-4, 35-36, 37']`, live=`['Psalm 106:3-4']`, fix=`['Psalm 106:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f8c052
+
+### ❌ 2023-10-25 — Wednesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 18:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102523.cfm
+- **Status**: mismatch
+- **Lectionary**: 475
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 24:42']`, fix=`['Mt 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5358c30
