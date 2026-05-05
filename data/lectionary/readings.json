@@ -21859,7 +21859,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 106:3-4, 35-36, 37",
+            "citation": "Psalm 106:3-4",
             "sources": [
               "USCCB"
             ]
@@ -21880,8 +21880,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "James 1:21",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-13": [

@@ -12932,3 +12932,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
   - **gospel**: stored=`['Mt 15: 21-28']`, live=`['Mt 15: 21']`, fix=`['Mt 15: 21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/afd145f
+
+### ❌ 2026-03-03 — Tuesday of the Second Week of Lent
+- **Checked**: 2026-05-05 17:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030326.cfm
+- **Status**: mismatch
+- **Lectionary**: 231
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 1:10, 16-20']`, live=`['Isaiah 1:10']`, fix=`['Isaiah 1:10']`
+  - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4b2d7fe
