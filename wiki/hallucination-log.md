@@ -13455,3 +13455,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 2:5']`, fix=`['1 John 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d195642
+
+### ❌ 2025-11-16 — Thirty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-05 22:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111625.cfm
+- **Status**: mismatch
+- **Lectionary**: 159
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:5-6, 7-8, 9']`, live=`['Psalm 98:5-6']`, fix=`['Psalm 98:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3d91793

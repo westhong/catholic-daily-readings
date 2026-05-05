@@ -68676,5 +68676,63 @@
       ]
     },
     "checked_at": "2026-05-05T22:15:15+00:00"
+  },
+  "2025-11-16:0": {
+    "date": "2025-11-16",
+    "url": "https://bible.usccb.org/bible/readings/111625.cfm",
+    "lectionary_number": 159,
+    "feast": "Thirty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 98:5-6, 7-8, 9"
+        ],
+        "live": [
+          "Psalm 98:5-6"
+        ],
+        "fix": [
+          "Psalm 98:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:28"
+        ],
+        "fix": [
+          "Luke 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 98:5-6"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Malachi 3:19-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:5-6"
+      ],
+      "second_reading": [
+        "2 Thessalonians 3:7-12"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ],
+      "gospel": [
+        "Luke 21:5-19"
+      ]
+    },
+    "checked_at": "2026-05-05T22:20:29+00:00"
   }
 }

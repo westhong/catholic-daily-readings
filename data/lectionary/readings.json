@@ -55111,7 +55111,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 22:1-2, 9",
+            "citation": "Gn 22:1-2",
             "sources": [
               "USCCB"
             ]
@@ -55119,7 +55119,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 116:10, 15, 16-17, 18-19",
+            "citation": "Ps 116:10",
             "sources": [
               "USCCB"
             ]
@@ -55141,15 +55141,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Cf. Mt 17:5",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-26": [
