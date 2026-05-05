@@ -14125,7 +14125,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Timothy 1:1-2, 12-14",
+            "citation": "1 Timothy 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -14154,8 +14154,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 17:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-09-13": [

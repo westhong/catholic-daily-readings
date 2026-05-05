@@ -12037,3 +12037,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['47:2-3, 8-9, 10']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 16:28']`, fix=`['Jn 16:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/865ba98
+
+### ❌ 2024-12-23 — Monday of the Fourth Week of Advent
+- **Checked**: 2026-05-05 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122324.cfm
+- **Status**: mismatch
+- **Lectionary**: 199
+- **Mismatches**:
+  - **first_reading**: stored=`['Mal 3:1-4, 23-24']`, live=`['Mal 3:1-4']`, fix=`['Mal 3:1-4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/76475bc

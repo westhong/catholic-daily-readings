@@ -61473,5 +61473,44 @@
       ]
     },
     "checked_at": "2026-05-05T10:05:51+00:00"
+  },
+  "2024-12-23:0": {
+    "date": "2024-12-23",
+    "url": "https://bible.usccb.org/bible/readings/122324.cfm",
+    "lectionary_number": 199,
+    "feast": "Monday of the Fourth Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Mal 3:1-4, 23-24"
+        ],
+        "live": [
+          "Mal 3:1-4"
+        ],
+        "fix": [
+          "Mal 3:1-4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Mal 3:1-4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mal 3:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 25:4-5"
+      ],
+      "gospel": [
+        "Lk 1:57-66"
+      ]
+    },
+    "checked_at": "2026-05-05T10:10:08+00:00"
   }
 }
