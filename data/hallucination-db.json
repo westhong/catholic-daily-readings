@@ -65348,5 +65348,78 @@
       ]
     },
     "checked_at": "2026-05-05T16:55:12+00:00"
+  },
+  "2025-08-17:0": {
+    "date": "2025-08-17",
+    "url": "https://bible.usccb.org/bible/readings/081725.cfm",
+    "lectionary_number": 120,
+    "feast": "Twentieth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jeremiah 38:4-6, 8-10"
+        ],
+        "live": [
+          "Jeremiah 38:4-6"
+        ],
+        "fix": [
+          "Jeremiah 38:4-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 40:2, 3, 4, 18"
+        ],
+        "live": [
+          "Psalm 40:2"
+        ],
+        "fix": [
+          "Psalm 40:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jeremiah 38:4-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 38:4-6"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:2"
+      ],
+      "second_reading": [
+        "Hebrews 12:1-4"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Luke 12:49-53"
+      ]
+    },
+    "checked_at": "2026-05-05T17:00:22+00:00"
   }
 }
