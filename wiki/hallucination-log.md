@@ -11027,3 +11027,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['LK 1:69-70, 71-72, 73-75']`, live=`['LK 1:69-70']`, fix=`['LK 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['ACTS 16:14']`, fix=`['ACTS 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8b637eb
+
+### ❌ 2025-01-21 — Memorial of Saint Agnes, Virgin and Martyr
+- **Checked**: 2026-05-05 01:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012125.cfm
+- **Status**: mismatch
+- **Lectionary**: 312
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 111:1-2, 4-5, 9, 10']`, live=`['Psalm 111:1-2']`, fix=`['Psalm 111:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f13da2f
