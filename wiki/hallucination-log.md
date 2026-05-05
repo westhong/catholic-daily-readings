@@ -11858,3 +11858,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 317
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/230131.cfm`, live=fetch failed
+
+### ❌ 2027-03-25 — 2027-03-25
+- **Checked**: 2026-05-05 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032527-EveningMass.cfm
+- **Status**: mismatch
+- **Lectionary**: 39
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 12:1-8, 11-14']`, live=`['Exodus 12:1-8']`, fix=`['Exodus 12:1-8']`
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **verse_before_gospel**: stored=`['Isaiah 61:1 (cited in Luke 4:18)']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cbb9ee1
