@@ -12486,3 +12486,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 130:1-2, 3-4, 5-7']`, live=`['Psalm 130:1-2']`, fix=`['Psalm 130:1-2']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8eff38c
+
+### 🚫 2026-09-12 — 
+- **Checked**: 2026-05-05 14:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/912.cfm
+- **Status**: url_dead
+- **Lectionary**: 442
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/912.cfm`, live=fetch failed

@@ -18569,7 +18569,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103:1-2, 3-4, 8",
+            "citation": "Psalm 103:1-2",
             "sources": [
               "USCCB"
             ]
@@ -18583,7 +18583,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-11": [
