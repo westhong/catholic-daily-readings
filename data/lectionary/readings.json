@@ -48325,7 +48325,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 146:6-7, 8-9, 9-10",
+            "citation": "Psalm 146:6-7",
             "sources": [
               "USCCB"
             ]
@@ -48347,7 +48347,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-06": [

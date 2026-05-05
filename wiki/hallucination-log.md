@@ -12775,3 +12775,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 57:8-9, 10']`, live=`['Psalm 57:8-9']`, fix=`['Psalm 57:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/02ee62f
+
+### ❌ 2027-05-13 — Thursday of the Seventh Week of Easter
+- **Checked**: 2026-05-05 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051327.cfm
+- **Status**: mismatch
+- **Lectionary**: 300
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 17:21']`, fix=`['John 17:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c7ef58
