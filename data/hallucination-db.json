@@ -56917,5 +56917,62 @@
       ]
     },
     "checked_at": "2026-05-05T02:45:37+00:00"
+  },
+  "2023-07-23:0": {
+    "date": "2023-07-23",
+    "url": "https://bible.usccb.org/bible/readings/072323.cfm",
+    "lectionary_number": 106,
+    "feast": "Sixteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Wis 12:13, 16-19"
+        ],
+        "live": [
+          "Wis 12:13"
+        ],
+        "fix": [
+          "Wis 12:13"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 86:5-6, 9-10, 15-16"
+        ],
+        "live": [
+          "Ps 86:5-6"
+        ],
+        "fix": [
+          "Ps 86:5-6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Wis 12:13"
+      ],
+      "responsorial_psalm": [
+        "Ps 86:5-6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wis 12:13"
+      ],
+      "responsorial_psalm": [
+        "Ps 86:5-6"
+      ],
+      "second_reading": [
+        "Rom 8:26-27"
+      ],
+      "gospel": [
+        "Mt 13:24-43"
+      ]
+    },
+    "checked_at": "2026-05-05T02:50:51+00:00"
   }
 }
