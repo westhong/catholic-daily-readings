@@ -11648,3 +11648,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 80:9, 12, 13-14, 15-16, 19-20']`, live=`['Ps 80:9']`, fix=`['Ps 80:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20d98c6
+
+### ❌ 2025-08-25 — Monday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-05 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082525.cfm
+- **Status**: mismatch
+- **Lectionary**: 425
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Thessalonians 1:1-5, 8']`, live=`['1 Thessalonians 1:1-5']`, fix=`['1 Thessalonians 1:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/19d3dfd
