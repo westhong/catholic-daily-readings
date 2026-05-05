@@ -66008,5 +66008,60 @@
       ]
     },
     "checked_at": "2026-05-05T17:55:39+00:00"
+  },
+  "2026-02-12:0": {
+    "date": "2026-02-12",
+    "url": "https://bible.usccb.org/bible/readings/021226.cfm",
+    "lectionary_number": 332,
+    "feast": "Thursday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 106:3-4, 35-36, 37"
+        ],
+        "live": [
+          "Psalm 106:3-4"
+        ],
+        "fix": [
+          "Psalm 106:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "James 1:21"
+        ],
+        "fix": [
+          "James 1:21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 106:3-4"
+      ],
+      "alleluia_verse": [
+        "James 1:21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 11:4-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 106:3-4"
+      ],
+      "alleluia_verse": [
+        "James 1:21"
+      ],
+      "gospel": [
+        "Mark 7:24-30"
+      ]
+    },
+    "checked_at": "2026-05-05T18:00:51+00:00"
   }
 }
