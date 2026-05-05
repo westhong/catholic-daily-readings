@@ -11721,3 +11721,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 84:3, 4, 5 and 10, 11']`, live=`['Psalm 84:3']`, fix=`['Psalm 84:3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:36']`, fix=`['Psalm 119:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1cc0505
+
+### 🚫 2026-12-16 — 
+- **Checked**: 2026-05-05 07:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261216.cfm
+- **Status**: url_dead
+- **Lectionary**: 189
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261216.cfm`, live=fetch failed
