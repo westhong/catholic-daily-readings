@@ -11189,3 +11189,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Tobit 13:2, 3-4']`, live=`['Tobit 13:2']`, fix=`['Tobit 13:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85634b9
+
+### ❌ 2025-11-11 — Memorial of Saint Martin of Tours, Bishop
+- **Checked**: 2026-05-05 03:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111125.cfm
+- **Status**: mismatch
+- **Lectionary**: 492
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2-3, 16-17, 18-19']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d4e1ca0

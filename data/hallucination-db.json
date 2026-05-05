@@ -57029,5 +57029,60 @@
       ]
     },
     "checked_at": "2026-05-05T02:56:03+00:00"
+  },
+  "2025-11-11:0": {
+    "date": "2025-11-11",
+    "url": "https://bible.usccb.org/bible/readings/111125.cfm",
+    "lectionary_number": 492,
+    "feast": "Memorial of Saint Martin of Tours, Bishop",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:2-3, 16-17, 18-19"
+        ],
+        "live": [
+          "Psalm 34:2-3"
+        ],
+        "fix": [
+          "Psalm 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 2:23–3"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:2-3"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Luke 17:7-10"
+      ]
+    },
+    "checked_at": "2026-05-05T03:00:14+00:00"
   }
 }

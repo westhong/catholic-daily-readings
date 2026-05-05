@@ -43450,7 +43450,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 32:1-2, 5, 6, 7",
+            "citation": "Psalm 32:1-2",
             "sources": [
               "USCCB"
             ]
@@ -43471,8 +43471,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Corinthians 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-25": [
