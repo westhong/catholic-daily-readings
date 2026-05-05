@@ -11594,3 +11594,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:21']`, fix=`['Jas 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/26faf9a
+
+### ❌ 2025-07-28 — Monday of the Seventeenth Week in Ordinary Time
+- **Checked**: 2026-05-05 06:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072825.cfm
+- **Status**: mismatch
+- **Lectionary**: 401
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 32:15-24, 30-34']`, live=`['Exodus 32:15-24']`, fix=`['Exodus 32:15-24']`
+  - **responsorial_psalm**: stored=`['Psalm 106:19-20, 21-22, 23']`, live=`['Psalm 106:19-20']`, fix=`['Psalm 106:19-20']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bb8a2d7
