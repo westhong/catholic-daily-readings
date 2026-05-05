@@ -72364,30 +72364,16 @@
       "feast": "Holy Saturday At the Easter Vigil in the Holy Night of Easter",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "Gn 1:1—2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "Ps 16:5, 8, 9-10, 11",
+            "citation": "Ps 118:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "second_reading": [
-          {
-            "citation": "Gn 22:1-18",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "second_reading": [],
         "third_reading": [
           {
             "citation": "Ex 14:15—15:1",
@@ -72444,7 +72430,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-04-09": [

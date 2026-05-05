@@ -13290,3 +13290,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6993147
+
+### ❌ 2027-09-23 — Memorial of Saint Pius of Pietrelcina, Priest
+- **Checked**: 2026-05-05 20:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092327.cfm
+- **Status**: mismatch
+- **Lectionary**: 452
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b803022
