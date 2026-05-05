@@ -27200,7 +27200,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Deuteronomy 8:2-3, 14",
+            "citation": "Deuteronomy 8:2-3",
             "sources": [
               "USCCB"
             ]
@@ -27208,7 +27208,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 147:12-13, 14-15, 19-20",
+            "citation": "Psalm 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -27237,8 +27237,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 6:51",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-08": [

@@ -11199,3 +11199,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2-3, 16-17, 18-19']`, live=`['Psalm 34:2-3']`, fix=`['Psalm 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d4e1ca0
+
+### ❌ 2027-05-24 — Monday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-05 03:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052427.cfm
+- **Status**: mismatch
+- **Lectionary**: 347
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5134885
