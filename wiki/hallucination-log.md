@@ -12185,3 +12185,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/051823.cfm
 - **Status**: ok
 - **Lectionary**: 58
+
+### ❌ 2025-01-08 — Wednesday after Epiphany
+- **Checked**: 2026-05-05 11:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010825.cfm
+- **Status**: mismatch
+- **Lectionary**: 214
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 10, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Timothy 3:16']`, fix=`['1 Timothy 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aa58126
