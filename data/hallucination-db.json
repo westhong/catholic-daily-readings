@@ -64281,5 +64281,60 @@
       ]
     },
     "checked_at": "2026-05-05T15:10:33+00:00"
+  },
+  "2027-08-19:0": {
+    "date": "2027-08-19",
+    "url": "https://bible.usccb.org/bible/readings/081927.cfm",
+    "lectionary_number": 422,
+    "feast": "Thursday of the Twentieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 40:5, 7-8"
+        ],
+        "live": [
+          "Psalm 40:5"
+        ],
+        "fix": [
+          "Psalm 40:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 95:8"
+        ],
+        "fix": [
+          "Psalm 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 40:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Judges 11:29-39"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:5"
+      ],
+      "alleluia_verse": [
+        "Psalm 95:8"
+      ],
+      "gospel": [
+        "Matthew 22:1-14"
+      ]
+    },
+    "checked_at": "2026-05-05T15:15:47+00:00"
   }
 }

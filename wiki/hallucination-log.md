@@ -12616,3 +12616,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 148:1-2, 11-12, 13, 14']`, live=`['Psalm 148:1-2']`, fix=`['Psalm 148:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/286ad90
+
+### ❌ 2027-08-19 — Thursday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-05 15:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081927.cfm
+- **Status**: mismatch
+- **Lectionary**: 422
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 40:5, 7-8']`, live=`['Psalm 40:5']`, fix=`['Psalm 40:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6422fa6
