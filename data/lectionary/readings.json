@@ -10920,7 +10920,7 @@
         ],
         "gospel": [
           {
-            "citation": "of the Kingdom, and curing every disease",
+            "citation": "Matthew 9:32-38",
             "sources": [
               "USCCB"
             ]
@@ -10933,8 +10933,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-09": [

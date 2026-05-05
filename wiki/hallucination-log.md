@@ -13639,3 +13639,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 93:1, 1-2, 5']`, live=`['Ps 93:1']`, fix=`['Ps 93:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 11:9']`, fix=`['Mk 11:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/12f40e4
+
+### ❌ 2025-09-15 — Memorial of Our Lady of Sorrows
+- **Checked**: 2026-05-05 23:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091525.cfm
+- **Status**: mismatch
+- **Lectionary**: 443
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 28:2, 7, 8-9']`, live=`['Psalm 28:2']`, fix=`['Psalm 28:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/39e9f78
