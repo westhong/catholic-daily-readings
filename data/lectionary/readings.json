@@ -43659,7 +43659,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sirach 44:1, 9-13",
+            "citation": "Sirach 44:1",
             "sources": [
               "USCCB"
             ]
@@ -43688,8 +43688,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-29": [
