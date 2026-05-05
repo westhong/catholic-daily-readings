@@ -24088,20 +24088,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:4-5, 18-19, 20 and 22",
+            "citation": "Psalm 33:4-5",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "sequence": [
-          {
-            "citation": "Victimae paschali laudes (optional, liturgical text)",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "sequence": [],
         "alleluia": [
           {
             "citation": "Psalm 118:24",
@@ -24117,8 +24110,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-08": [
