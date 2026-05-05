@@ -11977,3 +11977,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Matthew 4:17']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7021643
+
+### ❌ 2023-11-11 — Memorial of Saint Martin of Tours, Bishop
+- **Checked**: 2026-05-05 09:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111123.cfm
+- **Status**: mismatch
+- **Lectionary**: 490
+- **Mismatches**:
+  - **first_reading**: stored=`['Rom 16:3-9, 16, 22-27']`, live=`['Rom 16:3-9']`, fix=`['Rom 16:3-9']`
+  - **responsorial_psalm**: stored=`['Ps 145:2-3, 4-5, 10-11']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 8:9']`, fix=`['2 Cor 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c248eb9

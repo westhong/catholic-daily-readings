@@ -61149,5 +61149,75 @@
       ]
     },
     "checked_at": "2026-05-05T09:35:26+00:00"
+  },
+  "2023-11-11:0": {
+    "date": "2023-11-11",
+    "url": "https://bible.usccb.org/bible/readings/111123.cfm",
+    "lectionary_number": 490,
+    "feast": "Memorial of Saint Martin of Tours, Bishop",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Rom 16:3-9, 16, 22-27"
+        ],
+        "live": [
+          "Rom 16:3-9"
+        ],
+        "fix": [
+          "Rom 16:3-9"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:2-3, 4-5, 10-11"
+        ],
+        "live": [
+          "Ps 145:2-3"
+        ],
+        "fix": [
+          "Ps 145:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 8:9"
+        ],
+        "fix": [
+          "2 Cor 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Rom 16:3-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 16:3-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "alleluia_verse": [
+        "2 Cor 8:9"
+      ],
+      "gospel": [
+        "Lk 16:9-15"
+      ]
+    },
+    "checked_at": "2026-05-05T09:40:39+00:00"
   }
 }
