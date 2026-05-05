@@ -17471,7 +17471,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:2-3, 36-37, 42-43",
+            "citation": "Psalm 105:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17492,8 +17492,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Thessalonians 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-16": [

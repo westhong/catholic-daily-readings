@@ -69009,5 +69009,75 @@
       ]
     },
     "checked_at": "2026-05-05T22:45:38+00:00"
+  },
+  "2024-08-12:0": {
+    "date": "2024-08-12",
+    "url": "https://bible.usccb.org/bible/readings/081224.cfm",
+    "lectionary_number": 413,
+    "feast": "Monday of the Nineteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ez 1:2-5, 24-28"
+        ],
+        "live": [
+          "Ez 1:2-5"
+        ],
+        "fix": [
+          "Ez 1:2-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 148:1-2, 11-12, 13, 14"
+        ],
+        "live": [
+          "PS 148:1-2"
+        ],
+        "fix": [
+          "PS 148:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Thes 2:14"
+        ],
+        "fix": [
+          "See 2 Thes 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ez 1:2-5"
+      ],
+      "responsorial_psalm": [
+        "PS 148:1-2"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 1:2-5"
+      ],
+      "responsorial_psalm": [
+        "PS 148:1-2"
+      ],
+      "alleluia_verse": [
+        "See 2 Thes 2:14"
+      ],
+      "gospel": [
+        "Mt 17:22-27"
+      ]
+    },
+    "checked_at": "2026-05-05T22:50:52+00:00"
   }
 }
