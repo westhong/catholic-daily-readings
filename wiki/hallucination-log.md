@@ -13476,3 +13476,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 116:10, 15, 16-17, 18-19']`, live=`['Ps 116:10']`, fix=`['Ps 116:10']`
   - **verse_before_gospel**: stored=`['Cf. Mt 17:5']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bccd94a
+
+### ❌ 2023-01-26 — Memorial of Saints Timothy and Titus, bishops
+- **Checked**: 2026-05-05 22:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012623.cfm
+- **Status**: mismatch
+- **Lectionary**: 520
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Tm 1:1-8']`, live=`['2 Tm 1:1-8', 'Ti 1:1-5']`, fix=`['2 Tm 1:1-8', 'Ti 1:1-5']`
+  - **responsorial_psalm**: stored=`['96:1-2']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:105']`, fix=`['Ps 119:105']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/608348f
