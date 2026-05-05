@@ -12674,3 +12674,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:66, 68, 76, 77, 93, 94']`, live=`['Ps 119:66']`, fix=`['Ps 119:66']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 11:25']`, fix=`['See Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/61f7b3d
+
+### ❌ 2023-03-29 — Wednesday of the Fifth Week of Lent
+- **Checked**: 2026-05-05 15:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032923.cfm
+- **Status**: mismatch
+- **Lectionary**: 253
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 3:14-20, 91-92, 95']`, live=`['Dn 3:14-20']`, fix=`['Dn 3:14-20']`
+  - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
+  - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/683a234

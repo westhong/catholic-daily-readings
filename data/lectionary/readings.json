@@ -60833,7 +60833,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hos 11:1-4, 8",
+            "citation": "Hos 11:1-4",
             "sources": [
               "USCCB"
             ]
@@ -60862,8 +60862,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-12": [
