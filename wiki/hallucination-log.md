@@ -11250,3 +11250,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 147:12-13, 14-15, 19-20']`, live=`['Ps 147:12-13']`, fix=`['Ps 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f05bb0
+
+### ❌ 2026-04-19 — Third Sunday of Easter
+- **Checked**: 2026-05-05 03:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041926.cfm
+- **Status**: mismatch
+- **Lectionary**: 44
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
+  - **responsorial_psalm**: stored=`['Psalm 16:1-2, 5, 7-8, 9-10, 11']`, live=`['Psalm 16:1-2']`, fix=`['Psalm 16:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8a32001
