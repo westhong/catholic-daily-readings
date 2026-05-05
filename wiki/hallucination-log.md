@@ -12287,3 +12287,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Revelation 7:9, 14']`, live=`['Revelation 7:9']`, fix=`['Revelation 7:9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9deb7a2
+
+### ❌ 2025-01-14 — Tuesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-05 12:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011425.cfm
+- **Status**: mismatch
+- **Lectionary**: 306
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 2:13']`, fix=`['1 Thessalonians 2:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8d632fa

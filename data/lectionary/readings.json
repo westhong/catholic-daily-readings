@@ -75302,7 +75302,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 100:1-2, 3, 5",
+            "citation": "Ps 100:1-2",
             "sources": [
               "USCCB"
             ]
@@ -75318,7 +75318,7 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 9:36—10",
+            "citation": "Matthew 9:36",
             "sources": [
               "USCCB"
             ]
@@ -75331,8 +75331,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-19": [
