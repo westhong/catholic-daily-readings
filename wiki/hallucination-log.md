@@ -13465,3 +13465,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:5-6, 7-8, 9']`, live=`['Psalm 98:5-6']`, fix=`['Psalm 98:5-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3d91793
+
+### ❌ 2024-02-25 — Second Sunday of Lent
+- **Checked**: 2026-05-05 22:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022524.cfm
+- **Status**: mismatch
+- **Lectionary**: 26
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 22:1-2, 9']`, live=`['Gn 22:1-2']`, fix=`['Gn 22:1-2']`
+  - **responsorial_psalm**: stored=`['Ps 116:10, 15, 16-17, 18-19']`, live=`['Ps 116:10']`, fix=`['Ps 116:10']`
+  - **verse_before_gospel**: stored=`['Cf. Mt 17:5']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bccd94a

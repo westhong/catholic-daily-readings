@@ -69362,6 +69362,12 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "Ti 1:1-5",
+            "sources": [
+              "USCCB"
+            ]
           }
         ],
         "gospel": [
@@ -69372,14 +69378,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "96:1-2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "alleluia": [
           {
             "citation": "Ps 119:105",
@@ -69387,8 +69386,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 119:105",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-01-27": [

@@ -68734,5 +68734,71 @@
       ]
     },
     "checked_at": "2026-05-05T22:20:29+00:00"
+  },
+  "2024-02-25:0": {
+    "date": "2024-02-25",
+    "url": "https://bible.usccb.org/bible/readings/022524.cfm",
+    "lectionary_number": 26,
+    "feast": "Second Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 22:1-2, 9"
+        ],
+        "live": [
+          "Gn 22:1-2"
+        ],
+        "fix": [
+          "Gn 22:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 116:10, 15, 16-17, 18-19"
+        ],
+        "live": [
+          "Ps 116:10"
+        ],
+        "fix": [
+          "Ps 116:10"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Cf. Mt 17:5"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 22:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:10"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 22:1-2"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:10"
+      ],
+      "second_reading": [
+        "Rom 8:31"
+      ],
+      "gospel": [
+        "Mk 9:2-10"
+      ]
+    },
+    "checked_at": "2026-05-05T22:25:42+00:00"
   }
 }
