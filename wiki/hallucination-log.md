@@ -12129,3 +12129,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 31:5-6, 14, 15-16']`, live=`['Psalm 31:5-6']`, fix=`['Psalm 31:5-6']`
   - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a0d9783
+
+### ❌ 2026-04-20 — Monday of the Third Week of Easter
+- **Checked**: 2026-05-05 11:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042026.cfm
+- **Status**: mismatch
+- **Lectionary**: 274
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:23-24, 26-27, 29-30']`, live=`['Psalm 119:23-24']`, fix=`['Psalm 119:23-24']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:4']`, fix=`['Matthew 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cc23051
