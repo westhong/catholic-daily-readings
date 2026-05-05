@@ -76047,7 +76047,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 23:1-4, 19",
+            "citation": "Gn 23:1-4",
             "sources": [
               "USCCB"
             ]
@@ -76076,8 +76076,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-08": [

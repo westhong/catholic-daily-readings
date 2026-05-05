@@ -61219,5 +61219,45 @@
       ]
     },
     "checked_at": "2026-05-05T09:40:39+00:00"
+  },
+  "2024-09-19:0": {
+    "date": "2024-09-19",
+    "url": "https://bible.usccb.org/bible/readings/091924.cfm",
+    "lectionary_number": 446,
+    "feast": "Thursday of the Twenty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 11:28"
+        ],
+        "fix": [
+          "MT 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "MT 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 15:1-11"
+      ],
+      "responsorial_psalm": [
+        "PS 118:1"
+      ],
+      "alleluia_verse": [
+        "MT 11:28"
+      ],
+      "gospel": [
+        "LK 7:36-50"
+      ]
+    },
+    "checked_at": "2026-05-05T09:45:53+00:00"
   }
 }
