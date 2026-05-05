@@ -17137,7 +17137,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ezekiel 47:1-2, 8-9, 12",
+            "citation": "Ezekiel 47:1-2",
             "sources": [
               "USCCB"
             ]
@@ -17145,7 +17145,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 46:2-3, 5-6, 8-9",
+            "citation": "Psalm 46:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17174,8 +17174,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Chronicles 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-10": [

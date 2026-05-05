@@ -66577,5 +66577,53 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T18:55:05+00:00"
+  },
+  "2023-02-23:0": {
+    "date": "2023-02-23",
+    "url": "https://bible.usccb.org/bible/readings/022323.cfm",
+    "lectionary_number": 220,
+    "feast": "Thursday after Ash Wednesday",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Ps 1:1-2"
+        ],
+        "fix": [
+          "Ps 1:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Mt 4:17"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 30:15-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 1:1-2"
+      ],
+      "gospel": [
+        "Lk 9:22-25"
+      ]
+    },
+    "checked_at": "2026-05-05T19:00:20+00:00"
   }
 }

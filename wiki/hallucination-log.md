@@ -13057,3 +13057,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 451
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/923.cfm`, live=fetch failed
+
+### ❌ 2023-02-23 — Thursday after Ash Wednesday
+- **Checked**: 2026-05-05 19:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022323.cfm
+- **Status**: mismatch
+- **Lectionary**: 220
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 1:1-2, 3, 4']`, live=`['Ps 1:1-2']`, fix=`['Ps 1:1-2']`
+  - **verse_before_gospel**: stored=`['Mt 4:17']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9fcd7b5
