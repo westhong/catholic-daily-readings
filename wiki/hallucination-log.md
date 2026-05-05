@@ -12415,3 +12415,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/53d2af7
+
+### ❌ 2024-06-09 — Tenth Sunday in Ordinary Time
+- **Checked**: 2026-05-05 13:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060924.cfm
+- **Status**: mismatch
+- **Lectionary**: 89
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 130:1-2, 3-4, 5-6, 7-8']`, live=`['Ps 130:1-2']`, fix=`['Ps 130:1-2']`
+  - **second_reading**: stored=`['2 Cor 4:13—5']`, live=`['2 Cor 4:13']`, fix=`['2 Cor 4:13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 12:31']`, fix=`['Jn 12:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/371f2c1

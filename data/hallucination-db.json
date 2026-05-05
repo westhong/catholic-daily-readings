@@ -63334,5 +63334,78 @@
       ]
     },
     "checked_at": "2026-05-05T13:25:18+00:00"
+  },
+  "2024-06-09:0": {
+    "date": "2024-06-09",
+    "url": "https://bible.usccb.org/bible/readings/060924.cfm",
+    "lectionary_number": 89,
+    "feast": "Tenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 130:1-2, 3-4, 5-6, 7-8"
+        ],
+        "live": [
+          "Ps 130:1-2"
+        ],
+        "fix": [
+          "Ps 130:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Cor 4:13—5"
+        ],
+        "live": [
+          "2 Cor 4:13"
+        ],
+        "fix": [
+          "2 Cor 4:13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 12:31"
+        ],
+        "fix": [
+          "Jn 12:31"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 130:1-2"
+      ],
+      "second_reading": [
+        "2 Cor 4:13"
+      ],
+      "alleluia_verse": [
+        "Jn 12:31"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 3:9-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 130:1-2"
+      ],
+      "second_reading": [
+        "2 Cor 4:13"
+      ],
+      "alleluia_verse": [
+        "Jn 12:31"
+      ],
+      "gospel": [
+        "Mk 3:20-35"
+      ]
+    },
+    "checked_at": "2026-05-05T13:30:32+00:00"
   }
 }
