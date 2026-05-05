@@ -77292,14 +77292,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "19:8, 9, 10, 11",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mt 13:18-23",
@@ -77315,8 +77308,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Lk 8:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-29": [
