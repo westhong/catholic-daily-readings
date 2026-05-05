@@ -68351,5 +68351,45 @@
       ]
     },
     "checked_at": "2026-05-05T21:40:47+00:00"
+  },
+  "2023-04-20:0": {
+    "date": "2023-04-20",
+    "url": "https://bible.usccb.org/bible/readings/042023.cfm",
+    "lectionary_number": 270,
+    "feast": "Thursday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 20:29"
+        ],
+        "fix": [
+          "Jn 20:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 20:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 5:27-33"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2"
+      ],
+      "alleluia_verse": [
+        "Jn 20:29"
+      ],
+      "gospel": [
+        "Jn 3:31-36"
+      ]
+    },
+    "checked_at": "2026-05-05T21:46:00+00:00"
   }
 }

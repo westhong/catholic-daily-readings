@@ -13389,3 +13389,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 130:1-2, 3-4, 5-7']`, live=`['Ps 130:1-2']`, fix=`['Ps 130:1-2']`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0d5f67c
+
+### ❌ 2023-04-20 — Thursday of the Second Week of Easter
+- **Checked**: 2026-05-05 21:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042023.cfm
+- **Status**: mismatch
+- **Lectionary**: 270
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/205e8b7
