@@ -10908,3 +10908,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 110:1, 2, 3, 4']`, live=`['Ps 110:1']`, fix=`['Ps 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/969d48b
+
+### ❌ 2023-11-19 — Thirty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-05 00:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111923.cfm
+- **Status**: mismatch
+- **Lectionary**: 157
+- **Mismatches**:
+  - **first_reading**: stored=`['Prv 31:10-13, 19-20, 30-31']`, live=`['Prv 31:10-13']`, fix=`['Prv 31:10-13']`
+  - **responsorial_psalm**: stored=`['Ps 128:1-2, 3, 4-5']`, live=`['Ps 128:1-2']`, fix=`['Ps 128:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a7e6596
