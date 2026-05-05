@@ -8700,7 +8700,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 47:2-3, 6-7, 8-9",
+            "citation": "Psalm 47:2-3",
             "sources": [
               "USCCB"
             ]
@@ -8709,6 +8709,12 @@
         "second_reading": [
           {
             "citation": "Ephesians 1:17-23",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Hebrews 9:24-28",
             "sources": [
               "USCCB"
             ]
@@ -8721,11 +8727,20 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 28:19",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/052925-Ascension.cfm",
       "date": "2025-05-29",
-      "mass": "Ascension"
+      "mass": "Ascension",
+      "mass_idx": 1
     }
   ],
   "2025-05-30": [

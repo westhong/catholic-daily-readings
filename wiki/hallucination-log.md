@@ -12891,3 +12891,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 96:10, 11-12, 13']`, live=`['Psalm 96:10']`, fix=`['Psalm 96:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c447b9
+
+### ❌ 2026-02-13 — Friday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-05 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021326.cfm
+- **Status**: mismatch
+- **Lectionary**: 333
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b97c56
