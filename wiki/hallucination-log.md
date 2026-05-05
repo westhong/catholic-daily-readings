@@ -11623,3 +11623,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3c761af
+
+### 🚫 2026-11-11 — 
+- **Checked**: 2026-05-05 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261111.cfm
+- **Status**: url_dead
+- **Lectionary**: 493
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261111.cfm`, live=fetch failed
