@@ -11738,3 +11738,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c02bf33
+
+### ❌ 2025-12-11 — Thursday of the Second Week of Advent
+- **Checked**: 2026-05-05 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121125.cfm
+- **Status**: mismatch
+- **Lectionary**: 184
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Isaiah 45:8']`, fix=`['See Isaiah 45:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b5c994d

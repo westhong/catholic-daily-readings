@@ -59889,5 +59889,45 @@
       ]
     },
     "checked_at": "2026-05-05T07:35:30+00:00"
+  },
+  "2025-12-11:0": {
+    "date": "2025-12-11",
+    "url": "https://bible.usccb.org/bible/readings/121125.cfm",
+    "lectionary_number": 184,
+    "feast": "Thursday of the Second Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Isaiah 45:8"
+        ],
+        "fix": [
+          "See Isaiah 45:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Isaiah 45:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 41:13-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:1"
+      ],
+      "alleluia_verse": [
+        "See Isaiah 45:8"
+      ],
+      "gospel": [
+        "Matthew 11:11-15"
+      ]
+    },
+    "checked_at": "2026-05-05T07:40:45+00:00"
   }
 }
