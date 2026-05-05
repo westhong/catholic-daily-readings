@@ -65302,5 +65302,51 @@
       ]
     },
     "checked_at": "2026-05-05T16:51:00+00:00"
+  },
+  "2024-06-04:0": {
+    "date": "2024-06-04",
+    "url": "https://bible.usccb.org/bible/readings/060424.cfm",
+    "lectionary_number": 354,
+    "feast": "Tuesday of the Ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "90:2, 3-4, 10, 14 and 16"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ephesians 1:17-18"
+        ],
+        "fix": [
+          "Ephesians 1:17-18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "Ephesians 1:17-18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Pt 3:12-15"
+      ],
+      "alleluia_verse": [
+        "Ephesians 1:17-18"
+      ],
+      "gospel": [
+        "Mk 12:13-17"
+      ]
+    },
+    "checked_at": "2026-05-05T16:55:12+00:00"
   }
 }

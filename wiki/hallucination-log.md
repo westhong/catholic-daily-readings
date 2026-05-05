@@ -12812,3 +12812,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 2:6-7, 8-9, 10-11']`, live=`['Psalm 2:6-7']`, fix=`['Psalm 2:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c1ba35b
+
+### ❌ 2024-06-04 — Tuesday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 16:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060424.cfm
+- **Status**: mismatch
+- **Lectionary**: 354
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['90:2, 3-4, 10, 14 and 16']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c2e5a27

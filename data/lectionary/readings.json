@@ -12920,7 +12920,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jeremiah 38:4-6, 8-10",
+            "citation": "Jeremiah 38:4-6",
             "sources": [
               "USCCB"
             ]
@@ -12928,7 +12928,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 40:2, 3, 4, 18",
+            "citation": "Psalm 40:2",
             "sources": [
               "USCCB"
             ]
@@ -12957,8 +12957,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-18": [
