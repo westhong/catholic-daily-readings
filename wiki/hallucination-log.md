@@ -12522,3 +12522,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['31:20, 21, 22, 23, 24']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4fd8151
+
+### 🚫 2026-12-09 — 
+- **Checked**: 2026-05-05 14:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261209.cfm
+- **Status**: url_dead
+- **Lectionary**: 183
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261209.cfm`, live=fetch failed
