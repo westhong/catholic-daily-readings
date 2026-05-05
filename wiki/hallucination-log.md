@@ -10976,3 +10976,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['96:10, 11-12, 13']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['RV 2:10']`, fix=`['RV 2:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/47aa01c
+
+### ❌ 2026-04-14 — Tuesday of the Second Week of Easter
+- **Checked**: 2026-05-05 01:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041426.cfm
+- **Status**: mismatch
+- **Lectionary**: 268
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 93:1ab, 1cd-2, 5']`, live=`['Psalm 93:1']`, fix=`['Psalm 93:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:14-15']`, fix=`['John 3:14-15']`
+  - **gospel**: stored=`['John 3:7b-15']`, live=`['John 3:7']`, fix=`['John 3:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8486de6

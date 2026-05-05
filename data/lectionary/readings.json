@@ -50877,7 +50877,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Sir 48:1-4, 9-11",
+            "citation": "Sir 48:1-4",
             "sources": [
               "USCCB"
             ]
@@ -50906,8 +50906,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 3:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-17": [
