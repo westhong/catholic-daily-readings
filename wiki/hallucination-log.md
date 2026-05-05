@@ -11360,3 +11360,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
   - **gospel**: stored=`['Matthew 10:34—11']`, live=`['Matthew 10:34']`, fix=`['Matthew 10:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a5f789d
+
+### ❌ 2024-03-29 — Good Friday of the Lord’s Passion
+- **Checked**: 2026-05-05 04:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032924.cfm
+- **Status**: mismatch
+- **Lectionary**: 40
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 52:13—53']`, live=`['Is 52:13']`, fix=`['Is 52:13']`
+  - **responsorial_psalm**: stored=`['Ps 31:2, 6, 12-13, 15-16, 17, 25']`, live=`['Ps 31:2']`, fix=`['Ps 31:2']`
+  - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Jn 18:1—19']`, live=`['Jn 18:1']`, fix=`['Jn 18:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c95aa1e
