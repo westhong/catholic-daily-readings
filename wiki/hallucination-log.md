@@ -11008,3 +11008,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 6, 8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
   - **second_reading**: stored=`['Rom 11:13-15, 29-32']`, live=`['Rom 11:13-15']`, fix=`['Rom 11:13-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f6f0505
+
+### ❌ 2024-12-06 — Friday of the First Week of Advent
+- **Checked**: 2026-05-05 01:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120624.cfm
+- **Status**: mismatch
+- **Lectionary**: 179
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 27:1, 4, 13-14']`, live=`['PS 27:1']`, fix=`['PS 27:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/317d6a9

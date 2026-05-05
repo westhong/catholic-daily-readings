@@ -64687,7 +64687,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "LK 1:69-70, 71-72, 73-75",
+            "citation": "LK 1:69-70",
             "sources": [
               "USCCB"
             ]
@@ -64708,8 +64708,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "ACTS 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-11": [

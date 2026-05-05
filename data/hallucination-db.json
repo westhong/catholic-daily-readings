@@ -56131,5 +56131,44 @@
       ]
     },
     "checked_at": "2026-05-05T01:20:12+00:00"
+  },
+  "2024-12-06:0": {
+    "date": "2024-12-06",
+    "url": "https://bible.usccb.org/bible/readings/120624.cfm",
+    "lectionary_number": 179,
+    "feast": "Friday of the First Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 27:1, 4, 13-14"
+        ],
+        "live": [
+          "PS 27:1"
+        ],
+        "fix": [
+          "PS 27:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 27:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "IS 29:17-24"
+      ],
+      "responsorial_psalm": [
+        "PS 27:1"
+      ],
+      "gospel": [
+        "MT 9:27-31"
+      ]
+    },
+    "checked_at": "2026-05-05T01:25:24+00:00"
   }
 }
