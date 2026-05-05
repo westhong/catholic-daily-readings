@@ -11729,3 +11729,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 189
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261216.cfm`, live=fetch failed
+
+### ❌ 2024-09-23 — Memorial of Saint Pius of Pietrelcina, Priest
+- **Checked**: 2026-05-05 07:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092324.cfm
+- **Status**: mismatch
+- **Lectionary**: 449
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c02bf33

@@ -59849,5 +59849,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T07:30:09+00:00"
+  },
+  "2024-09-23:0": {
+    "date": "2024-09-23",
+    "url": "https://bible.usccb.org/bible/readings/092324.cfm",
+    "lectionary_number": 449,
+    "feast": "Memorial of Saint Pius of Pietrelcina, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:16"
+        ],
+        "fix": [
+          "Mt 5:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 5:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Prv 3:27-34"
+      ],
+      "responsorial_psalm": [
+        "Ps 15:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:16"
+      ],
+      "gospel": [
+        "Lk 8:16-18"
+      ]
+    },
+    "checked_at": "2026-05-05T07:35:30+00:00"
   }
 }
