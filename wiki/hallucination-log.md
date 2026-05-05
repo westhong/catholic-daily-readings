@@ -11518,3 +11518,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 203
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261230.cfm`, live=fetch failed
+
+### ❌ 2026-02-03 — Tuesday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-05 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020326.cfm
+- **Status**: mismatch
+- **Lectionary**: 324
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Samuel 18:9-10, 14']`, live=`['2 Samuel 18:9-10']`, fix=`['2 Samuel 18:9-10']`
+  - **responsorial_psalm**: stored=`['Psalm 86:1-2, 3-4, 5-6']`, live=`['Psalm 86:1-2']`, fix=`['Psalm 86:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 8:17']`, fix=`['Matthew 8:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8911089

@@ -58802,5 +58802,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-05T05:40:25+00:00"
+  },
+  "2026-02-03:0": {
+    "date": "2026-02-03",
+    "url": "https://bible.usccb.org/bible/readings/020326.cfm",
+    "lectionary_number": 324,
+    "feast": "Tuesday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Samuel 18:9-10, 14"
+        ],
+        "live": [
+          "2 Samuel 18:9-10"
+        ],
+        "fix": [
+          "2 Samuel 18:9-10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 86:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "Psalm 86:1-2"
+        ],
+        "fix": [
+          "Psalm 86:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 8:17"
+        ],
+        "fix": [
+          "Matthew 8:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Samuel 18:9-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 86:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 18:9-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 86:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 8:17"
+      ],
+      "gospel": [
+        "Mark 5:21-43"
+      ]
+    },
+    "checked_at": "2026-05-05T05:45:09+00:00"
   }
 }
