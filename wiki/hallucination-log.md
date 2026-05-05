@@ -12746,3 +12746,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['IS 12:2-3, 4']`, live=`['IS 12:2-3']`, fix=`['IS 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 24:42']`, fix=`['MT 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eca62aa
+
+### ❌ 2026-04-01 — Wednesday of Holy Week
+- **Checked**: 2026-05-05 16:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040126.cfm
+- **Status**: mismatch
+- **Lectionary**: 259
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 50:4-9a', 'Isaiah 50:4-9']`, live=`['Isaiah 50:4-9']`, fix=`['Isaiah 50:4-9']`
+  - **responsorial_psalm**: stored=`['Psalm 69:8-10, 21-22, 31 and 33-34', 'Psalm 69:8-10, 21-22, 31, 33-34']`, live=`['Psalm 69:8-10']`, fix=`['Psalm 69:8-10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15c318c

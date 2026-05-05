@@ -64971,5 +64971,61 @@
       ]
     },
     "checked_at": "2026-05-05T16:15:34+00:00"
+  },
+  "2026-04-01:0": {
+    "date": "2026-04-01",
+    "url": "https://bible.usccb.org/bible/readings/040126.cfm",
+    "lectionary_number": 259,
+    "feast": "Wednesday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 50:4-9a",
+          "Isaiah 50:4-9"
+        ],
+        "live": [
+          "Isaiah 50:4-9"
+        ],
+        "fix": [
+          "Isaiah 50:4-9"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 69:8-10, 21-22, 31 and 33-34",
+          "Psalm 69:8-10, 21-22, 31, 33-34"
+        ],
+        "live": [
+          "Psalm 69:8-10"
+        ],
+        "fix": [
+          "Psalm 69:8-10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Isaiah 50:4-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 69:8-10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 50:4-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 69:8-10"
+      ],
+      "gospel": [
+        "Matthew 26:14-25"
+      ]
+    },
+    "checked_at": "2026-05-05T16:20:47+00:00"
   }
 }
