@@ -80402,7 +80402,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 80:9, 12, 13-14, 15-16, 19-20",
+            "citation": "Ps 80:9",
             "sources": [
               "USCCB"
             ]
@@ -80432,7 +80432,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-09": [
