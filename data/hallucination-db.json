@@ -58054,5 +58054,45 @@
       ]
     },
     "checked_at": "2026-05-05T04:25:58+00:00"
+  },
+  "2027-10-23:0": {
+    "date": "2027-10-23",
+    "url": "https://bible.usccb.org/bible/readings/102327.cfm",
+    "lectionary_number": 478,
+    "feast": "Saturday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ezekiel 33:11"
+        ],
+        "fix": [
+          "Ezekiel 33:11"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ezekiel 33:11"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 8:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 24:1"
+      ],
+      "alleluia_verse": [
+        "Ezekiel 33:11"
+      ],
+      "gospel": [
+        "Luke 13:1-9"
+      ]
+    },
+    "checked_at": "2026-05-05T04:30:12+00:00"
   }
 }

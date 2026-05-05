@@ -11372,3 +11372,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Jn 18:1—19']`, live=`['Jn 18:1']`, fix=`['Jn 18:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c95aa1e
+
+### ❌ 2027-10-23 — Saturday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-05 04:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102327.cfm
+- **Status**: mismatch
+- **Lectionary**: 478
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ezekiel 33:11']`, fix=`['Ezekiel 33:11']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bf21d26
