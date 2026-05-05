@@ -67560,5 +67560,45 @@
       ]
     },
     "checked_at": "2026-05-05T20:25:50+00:00"
+  },
+  "2025-04-29:0": {
+    "date": "2025-04-29",
+    "url": "https://bible.usccb.org/bible/readings/042925.cfm",
+    "lectionary_number": 268,
+    "feast": "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 3:14-15"
+        ],
+        "fix": [
+          "John 3:14-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 3:14-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:32-37"
+      ],
+      "responsorial_psalm": [
+        "Psalm 93:1"
+      ],
+      "alleluia_verse": [
+        "John 3:14-15"
+      ],
+      "gospel": [
+        "John 3:7"
+      ]
+    },
+    "checked_at": "2026-05-05T20:31:03+00:00"
   }
 }

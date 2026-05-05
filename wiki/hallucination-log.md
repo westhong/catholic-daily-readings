@@ -13238,3 +13238,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Psalm 80:4']`, fix=`['See Psalm 80:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0332433
+
+### ❌ 2025-04-29 — Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church
+- **Checked**: 2026-05-05 20:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042925.cfm
+- **Status**: mismatch
+- **Lectionary**: 268
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:14-15']`, fix=`['John 3:14-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4494e55
