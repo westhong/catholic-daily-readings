@@ -16325,3 +16325,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:67, 68, 71, 72, 75, 76']`, live=`['Ps 119:67']`, fix=`['Ps 119:67']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9308fa5
+
+### ❌ 2023-11-29 — Wednesday of the Thirty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 23:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112923.cfm
+- **Status**: mismatch
+- **Lectionary**: 505
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 5:1-6, 13-14, 16-17, 23-28']`, live=`['Dn 5:1-6']`, fix=`['Dn 5:1-6']`
+  - **responsorial_psalm**: stored=`['Dn 3:62, 63, 64, 65, 66, 67']`, live=`['Dn 3:62']`, fix=`['Dn 3:62']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Rev 2:10']`, fix=`['Rev 2:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9883855
