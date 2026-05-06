@@ -15044,3 +15044,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 11-12']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f89d2e0
+
+### ❌ 2024-09-08 — Twenty-third Sunday in Ordinary Time
+- **Checked**: 2026-05-06 11:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090824.cfm
+- **Status**: mismatch
+- **Lectionary**: 128
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 146:6-7, 8-9, 9-10']`, live=`['Ps 146:6-7']`, fix=`['Ps 146:6-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1129c8

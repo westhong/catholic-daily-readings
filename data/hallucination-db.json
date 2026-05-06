@@ -76934,5 +76934,47 @@
       ]
     },
     "checked_at": "2026-05-06T11:45:13+00:00"
+  },
+  "2024-09-08:0": {
+    "date": "2024-09-08",
+    "url": "https://bible.usccb.org/bible/readings/090824.cfm",
+    "lectionary_number": 128,
+    "feast": "Twenty-third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 146:6-7, 8-9, 9-10"
+        ],
+        "live": [
+          "Ps 146:6-7"
+        ],
+        "fix": [
+          "Ps 146:6-7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 146:6-7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 35:4-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 146:6-7"
+      ],
+      "second_reading": [
+        "Jas 2:1-5"
+      ],
+      "gospel": [
+        "Mk 7:31-37"
+      ]
+    },
+    "checked_at": "2026-05-06T11:50:26+00:00"
   }
 }

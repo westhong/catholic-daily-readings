@@ -18393,7 +18393,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Daniel 5:1-6, 13-14, 16-17, 23-28",
+            "citation": "Daniel 5:1-6",
             "sources": [
               "USCCB"
             ]
@@ -18401,7 +18401,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:62, 63, 64, 65, 66, 67",
+            "citation": "Daniel 3:62",
             "sources": [
               "USCCB"
             ]
@@ -18422,8 +18422,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Revelation 2:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-27": [
