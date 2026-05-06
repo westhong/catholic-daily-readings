@@ -53423,14 +53423,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "98:1, 2-3",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 1:19-28",
@@ -53446,8 +53439,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "HEB 1:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-03": [

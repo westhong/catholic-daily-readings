@@ -15868,3 +15868,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 113
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/809.cfm`, live=fetch failed
+
+### ❌ 2027-03-10 — Wednesday of the Fourth Week of Lent
+- **Checked**: 2026-05-06 19:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031027.cfm
+- **Status**: mismatch
+- **Lectionary**: 246
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:8-9, 13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
+  - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6042b82
