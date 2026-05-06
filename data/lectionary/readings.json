@@ -43485,7 +43485,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 68:10-11, 20-21",
+            "citation": "Psalm 68:10-11",
             "sources": [
               "USCCB"
             ]
@@ -43498,8 +43498,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-12": [
