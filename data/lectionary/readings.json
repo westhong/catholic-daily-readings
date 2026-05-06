@@ -21706,7 +21706,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Samuel 7:18-19, 24-29",
+            "citation": "2 Samuel 7:18-19",
             "sources": [
               "USCCB"
             ]
@@ -21714,7 +21714,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 132:1-2, 3-5, 11, 12, 13-14",
+            "citation": "Psalm 132:1-2",
             "sources": [
               "USCCB"
             ]
@@ -21735,8 +21735,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 119:105",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-30": [
