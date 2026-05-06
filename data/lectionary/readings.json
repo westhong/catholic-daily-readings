@@ -5849,12 +5849,19 @@
             "sources": [
               "USCCB"
             ]
+          },
+          {
+            "citation": "John 9:1",
+            "sources": [
+              "USCCB"
+            ]
           }
         ]
       },
       "url": "https://bible.usccb.org/bible/readings/033025-YearA.cfm",
       "date": "2025-03-30",
-      "mass": "YearA"
+      "mass": "YearA",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 33,

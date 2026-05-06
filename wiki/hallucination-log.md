@@ -16037,3 +16037,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4cc30ae
+
+### ❌ 2027-03-06 — Saturday of the Third Week of Lent
+- **Checked**: 2026-05-06 20:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030627.cfm
+- **Status**: mismatch
+- **Lectionary**: 242
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 18-19, 20-21']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c53a247
