@@ -12869,7 +12869,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:1, 12, 18-19, 20-22",
+            "citation": "Psalm 33:1",
             "sources": [
               "USCCB"
             ]
@@ -12877,7 +12877,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Hebrews 11:1-2, 8-19",
+            "citation": "Hebrews 11:1-2",
             "sources": [
               "USCCB"
             ]
@@ -12899,7 +12899,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-08-11": [

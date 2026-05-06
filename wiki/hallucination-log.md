@@ -16141,3 +16141,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:4-5, 6-7, 16-17, 18-19']`, live=`['Psalm 34:4-5']`, fix=`['Psalm 34:4-5']`
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a67ab40
+
+### 🚫 2026-10-30 — 
+- **Checked**: 2026-05-06 21:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1030.cfm
+- **Status**: url_dead
+- **Lectionary**: 483
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1030.cfm`, live=fetch failed
