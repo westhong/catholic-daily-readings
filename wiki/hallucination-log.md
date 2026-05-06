@@ -13861,3 +13861,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:29, 72, 89, 101, 104, 163']`, live=`['Ps 119:29']`, fix=`['Ps 119:29']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e3ad1da
+
+### ❌ 2025-02-14 — Memorial of Saints Cyril, Monk, and Methodius, Bishop
+- **Checked**: 2026-05-06 01:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021425.cfm
+- **Status**: mismatch
+- **Lectionary**: 333
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Acts 16:14']`, fix=`['Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/93b4a24
