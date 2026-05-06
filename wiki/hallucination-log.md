@@ -15151,3 +15151,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 7-8, 9']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63c7b5d
+
+### 🚫 2026-11-29 — 
+- **Checked**: 2026-05-06 12:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261129.cfm
+- **Status**: url_dead
+- **Lectionary**: 2
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261129.cfm`, live=fetch failed
