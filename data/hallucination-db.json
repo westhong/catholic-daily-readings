@@ -71277,5 +71277,45 @@
       ]
     },
     "checked_at": "2026-05-06T02:25:45+00:00"
+  },
+  "2023-04-14:0": {
+    "date": "2023-04-14",
+    "url": "https://bible.usccb.org/bible/readings/041423.cfm",
+    "lectionary_number": 265,
+    "feast": "Friday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 118:24"
+        ],
+        "fix": [
+          "Ps 118:24"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 118:24"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:1-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 118:1-2"
+      ],
+      "alleluia_verse": [
+        "Ps 118:24"
+      ],
+      "gospel": [
+        "Jn 21:1-14"
+      ]
+    },
+    "checked_at": "2026-05-06T02:30:58+00:00"
   }
 }

@@ -13953,3 +13953,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8922ba5
+
+### ❌ 2023-04-14 — Friday in the Octave of Easter
+- **Checked**: 2026-05-06 02:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041423.cfm
+- **Status**: mismatch
+- **Lectionary**: 265
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d73b9b0
