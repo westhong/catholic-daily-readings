@@ -15978,3 +15978,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 45:10, 11, 12, 16']`, live=`['Psalm 45:10']`, fix=`['Psalm 45:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78a66e8
+
+### ❌ 2023-12-25 — The Nativity of the Lord (Christmas) Mass at Dawn
+- **Checked**: 2026-05-06 20:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122523-Dawn.cfm
+- **Status**: mismatch
+- **Lectionary**: 15
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 97:1, 6, 11-12']`, live=`['Ps 97:1']`, fix=`['Ps 97:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:14']`, fix=`['Lk 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f45ee3d

@@ -22700,7 +22700,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:67, 68, 71, 72, 75, 76",
+            "citation": "Psalm 119:67",
             "sources": [
               "USCCB"
             ]
@@ -22721,8 +22721,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-17": [
