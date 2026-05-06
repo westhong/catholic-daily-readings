@@ -27659,7 +27659,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 98:1, 2-3ab, 3cd-4",
+            "citation": "Psalm 98:1",
             "sources": [
               "USCCB"
             ]
@@ -27680,8 +27680,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-27": [

@@ -83016,5 +83016,60 @@
       ]
     },
     "checked_at": "2026-05-06T22:25:38+00:00"
+  },
+  "2024-09-04:0": {
+    "date": "2024-09-04",
+    "url": "https://bible.usccb.org/bible/readings/090424.cfm",
+    "lectionary_number": 433,
+    "feast": "Wednesday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 33:12-13, 14-15, 20-21"
+        ],
+        "live": [
+          "PS 33:12-13"
+        ],
+        "fix": [
+          "PS 33:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 4:18"
+        ],
+        "fix": [
+          "LK 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 33:12-13"
+      ],
+      "alleluia_verse": [
+        "LK 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 3:1-9"
+      ],
+      "responsorial_psalm": [
+        "PS 33:12-13"
+      ],
+      "alleluia_verse": [
+        "LK 4:18"
+      ],
+      "gospel": [
+        "LK 4:38-44"
+      ]
+    },
+    "checked_at": "2026-05-06T22:30:53+00:00"
   }
 }
