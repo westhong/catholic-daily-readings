@@ -16111,3 +16111,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Corinthians 15:54b-57']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Luke 11:27-28']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a4be288
+
+### ❌ 2024-10-01 — Memorial of Saint Thérèse of the Child Jesus, virgin and doctor of the Church
+- **Checked**: 2026-05-06 21:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100124.cfm
+- **Status**: mismatch
+- **Lectionary**: 456
+- **Mismatches**:
+  - **first_reading**: stored=`['Jb 3:1-3, 11-17, 20-23']`, live=`['Jb 3:1-3']`, fix=`['Jb 3:1-3']`
+  - **responsorial_psalm**: stored=`['Ps 88:2-3, 4-5, 6, 7-8']`, live=`['Ps 88:2-3']`, fix=`['Ps 88:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0500fc4
