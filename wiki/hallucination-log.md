@@ -15492,3 +15492,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0f9360
+
+### ❌ 2027-09-08 — Feast of the Nativity of the Blessed Virgin Mary
+- **Checked**: 2026-05-06 15:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090827.cfm
+- **Status**: mismatch
+- **Lectionary**: 636
+- **Mismatches**:
+  - **gospel**: stored=`['Matthew 1:1-16, 18-23']`, live=`['Matthew 1:1-16']`, fix=`['Matthew 1:1-16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b565d45
