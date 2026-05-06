@@ -73709,5 +73709,60 @@
       ]
     },
     "checked_at": "2026-05-06T06:45:36+00:00"
+  },
+  "2027-09-04:0": {
+    "date": "2027-09-04",
+    "url": "https://bible.usccb.org/bible/readings/090427.cfm",
+    "lectionary_number": 436,
+    "feast": "Saturday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 54:3-4, 6"
+        ],
+        "live": [
+          "Psalm 54:3-4"
+        ],
+        "fix": [
+          "Psalm 54:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:6"
+        ],
+        "fix": [
+          "John 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 54:3-4"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 1:21-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 54:3-4"
+      ],
+      "alleluia_verse": [
+        "John 14:6"
+      ],
+      "gospel": [
+        "Luke 6:1-5"
+      ]
+    },
+    "checked_at": "2026-05-06T06:50:52+00:00"
   }
 }

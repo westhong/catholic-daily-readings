@@ -14450,3 +14450,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
   - **gospel**: stored=`['John 15:26—16']`, live=`['John 15:26']`, fix=`['John 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e2e5d3
+
+### ❌ 2027-09-04 — Saturday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 06:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090427.cfm
+- **Status**: mismatch
+- **Lectionary**: 436
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 54:3-4, 6']`, live=`['Psalm 54:3-4']`, fix=`['Psalm 54:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d5280f
