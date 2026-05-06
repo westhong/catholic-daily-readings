@@ -13706,3 +13706,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 16:5, 8, 9-10, 11']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
   - **second_reading**: stored=`['Genesis 22:1-18']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9831389
+
+### ❌ 2025-09-30 — Memorial of Saint Jerome, Priest and Doctor of the Church
+- **Checked**: 2026-05-06 00:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/093025.cfm
+- **Status**: mismatch
+- **Lectionary**: 456
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/132363b
