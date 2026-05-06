@@ -15998,3 +15998,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:67, 68, 71, 72, 75, 76']`, live=`['Psalm 119:67']`, fix=`['Psalm 119:67']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a9ecaf0
+
+### ❌ 2027-06-02 — Wednesday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-06 20:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060227.cfm
+- **Status**: mismatch
+- **Lectionary**: 355
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 25:2-3, 4-5']`, live=`['Psalm 25:2-3']`, fix=`['Psalm 25:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 11:25']`, fix=`['John 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88933ba
