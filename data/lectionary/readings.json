@@ -39555,7 +39555,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 27:1, 3, 5, 8",
+            "citation": "Psalm 27:1",
             "sources": [
               "USCCB"
             ]
@@ -39576,8 +39576,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 8:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-02-06": [

@@ -15638,3 +15638,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 89:2-3, 21-22, 25']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Revelation 1:5']`, fix=`['See Revelation 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9db90fe
+
+### ❌ 2023-08-23 — Wednesday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-06 17:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082323.cfm
+- **Status**: mismatch
+- **Lectionary**: 421
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 21:2-3, 4-5, 6-7']`, live=`['Ps 21:2-3']`, fix=`['Ps 21:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b61bac7
