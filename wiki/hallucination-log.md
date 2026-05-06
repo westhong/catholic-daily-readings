@@ -13676,3 +13676,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 146:2, 5-6']`, live=`['Psalm 146:2']`, fix=`['Psalm 146:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e4b416
+
+### ❌ 2025-06-08 — Pentecost Sunday - Vigil Mass
+- **Checked**: 2026-05-06 00:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060825-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 62
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 11:1-9']`, live=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`, fix=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`
+  - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24, 35, 27-28, 29, 30']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3f6b767
