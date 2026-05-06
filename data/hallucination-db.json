@@ -73764,5 +73764,60 @@
       ]
     },
     "checked_at": "2026-05-06T06:50:52+00:00"
+  },
+  "2023-06-14:0": {
+    "date": "2023-06-14",
+    "url": "https://bible.usccb.org/bible/readings/061423.cfm",
+    "lectionary_number": 361,
+    "feast": "Wednesday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 99:5, 6, 7, 8, 9"
+        ],
+        "live": [
+          "Ps 99:5"
+        ],
+        "fix": [
+          "Ps 99:5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 25:4"
+        ],
+        "fix": [
+          "Ps 25:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 99:5"
+      ],
+      "alleluia_verse": [
+        "Ps 25:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 3:4-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 99:5"
+      ],
+      "alleluia_verse": [
+        "Ps 25:4"
+      ],
+      "gospel": [
+        "Mt 5:17-19"
+      ]
+    },
+    "checked_at": "2026-05-06T06:55:06+00:00"
   }
 }

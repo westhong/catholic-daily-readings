@@ -14460,3 +14460,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 54:3-4, 6']`, live=`['Psalm 54:3-4']`, fix=`['Psalm 54:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d5280f
+
+### ❌ 2023-06-14 — Wednesday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-06 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061423.cfm
+- **Status**: mismatch
+- **Lectionary**: 361
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 99:5, 6, 7, 8, 9']`, live=`['Ps 99:5']`, fix=`['Ps 99:5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0990f9e
