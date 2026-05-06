@@ -16149,3 +16149,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 483
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1030.cfm`, live=fetch failed
+
+### ❌ 2025-08-10 — Nineteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 21:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081025.cfm
+- **Status**: mismatch
+- **Lectionary**: 117
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 33:1, 12, 18-19, 20-22']`, live=`['Psalm 33:1']`, fix=`['Psalm 33:1']`
+  - **second_reading**: stored=`['Hebrews 11:1-2, 8-19']`, live=`['Hebrews 11:1-2']`, fix=`['Hebrews 11:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d32d2ad
