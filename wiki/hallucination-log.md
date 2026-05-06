@@ -16027,3 +16027,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e95d5d9
+
+### ❌ 2027-03-18 — Thursday of the Fifth Week of Lent
+- **Checked**: 2026-05-06 20:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031827.cfm
+- **Status**: mismatch
+- **Lectionary**: 254
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4cc30ae
