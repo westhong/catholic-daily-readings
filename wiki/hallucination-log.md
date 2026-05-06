@@ -14725,3 +14725,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Eph 3:8-12, 14-19']`, live=`['Eph 3:8-12']`, fix=`['Eph 3:8-12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9cfbbc0
+
+### ❌ 2023-12-20 — Wednesday of the Third Week of Advent
+- **Checked**: 2026-05-06 09:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122023.cfm
+- **Status**: mismatch
+- **Lectionary**: 196
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 24:1-2, 3-4']`, live=`['Ps 24:1-2']`, fix=`['Ps 24:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/21fba89
