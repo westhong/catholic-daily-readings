@@ -14001,3 +14001,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Is 26:7-9, 12, 16-19']`, live=`['Is 26:7-9']`, fix=`['Is 26:7-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/46793d4
+
+### ❌ 2026-02-07 — Saturday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 02:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020726.cfm
+- **Status**: mismatch
+- **Lectionary**: 328
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:9, 10, 11, 12, 13, 14']`, live=`['Psalm 119:9']`, fix=`['Psalm 119:9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f291cce

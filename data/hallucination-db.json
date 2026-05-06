@@ -71522,5 +71522,60 @@
       ]
     },
     "checked_at": "2026-05-06T02:50:52+00:00"
+  },
+  "2026-02-07:0": {
+    "date": "2026-02-07",
+    "url": "https://bible.usccb.org/bible/readings/020726.cfm",
+    "lectionary_number": 328,
+    "feast": "Saturday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:9, 10, 11, 12, 13, 14"
+        ],
+        "live": [
+          "Psalm 119:9"
+        ],
+        "fix": [
+          "Psalm 119:9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:9"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 3:4-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:9"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Mark 6:30-34"
+      ]
+    },
+    "checked_at": "2026-05-06T02:56:04+00:00"
   }
 }
