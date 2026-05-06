@@ -79572,5 +79572,60 @@
       ]
     },
     "checked_at": "2026-05-06T16:25:10+00:00"
+  },
+  "2024-01-23:0": {
+    "date": "2024-01-23",
+    "url": "https://bible.usccb.org/bible/readings/012324.cfm",
+    "lectionary_number": 318,
+    "feast": "Tuesday of the Third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 24:7, 8, 9, 10"
+        ],
+        "live": [
+          "PS 24:7"
+        ],
+        "fix": [
+          "PS 24:7"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "SEE MT 11:25"
+        ],
+        "fix": [
+          "SEE MT 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 24:7"
+      ],
+      "alleluia_verse": [
+        "SEE MT 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 6:12"
+      ],
+      "responsorial_psalm": [
+        "PS 24:7"
+      ],
+      "alleluia_verse": [
+        "SEE MT 11:25"
+      ],
+      "gospel": [
+        "Mk 3:31-35"
+      ]
+    },
+    "checked_at": "2026-05-06T16:30:22+00:00"
   }
 }

@@ -15578,3 +15578,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6 and 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2134dd
+
+### ❌ 2024-01-23 — Tuesday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-06 16:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012324.cfm
+- **Status**: mismatch
+- **Lectionary**: 318
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 24:7, 8, 9, 10']`, live=`['PS 24:7']`, fix=`['PS 24:7']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['SEE MT 11:25']`, fix=`['SEE MT 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9594e34
