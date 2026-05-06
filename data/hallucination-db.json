@@ -77265,5 +77265,45 @@
       ]
     },
     "checked_at": "2026-05-06T12:20:56+00:00"
+  },
+  "2025-12-29:0": {
+    "date": "2025-12-29",
+    "url": "https://bible.usccb.org/bible/readings/122925.cfm",
+    "lectionary_number": 202,
+    "feast": "The Fifth Day in the Octave of Christmas",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 2:32"
+        ],
+        "fix": [
+          "Luke 2:32"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Luke 2:32"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 John 2:3-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:1-2"
+      ],
+      "alleluia_verse": [
+        "Luke 2:32"
+      ],
+      "gospel": [
+        "Luke 2:22-35"
+      ]
+    },
+    "checked_at": "2026-05-06T12:25:09+00:00"
   }
 }
