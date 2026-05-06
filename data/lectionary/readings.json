@@ -60763,7 +60763,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Kgs 11:1-4, 9-18, 20",
+            "citation": "2 Kgs 11:1-4",
             "sources": [
               "USCCB"
             ]
@@ -60771,7 +60771,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 132:11, 12, 13-14, 17-18",
+            "citation": "Ps 132:11",
             "sources": [
               "USCCB"
             ]
@@ -60792,8 +60792,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-22": [

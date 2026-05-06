@@ -75382,5 +75382,75 @@
       ]
     },
     "checked_at": "2026-05-06T09:20:19+00:00"
+  },
+  "2025-07-24:0": {
+    "date": "2025-07-24",
+    "url": "https://bible.usccb.org/bible/readings/072425.cfm",
+    "lectionary_number": 398,
+    "feast": "Thursday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 19:1-2, 9-11, 16-20"
+        ],
+        "live": [
+          "Exodus 19:1-2"
+        ],
+        "fix": [
+          "Exodus 19:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:52, 53, 54, 55, 56"
+        ],
+        "live": [
+          "Daniel 3:52"
+        ],
+        "fix": [
+          "Daniel 3:52"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 11:25"
+        ],
+        "fix": [
+          "See Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 19:1-2"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:52"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ],
+      "gospel": [
+        "Matthew 13:10-17"
+      ]
+    },
+    "checked_at": "2026-05-06T09:25:31+00:00"
   }
 }
