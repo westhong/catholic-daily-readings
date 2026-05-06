@@ -14648,3 +14648,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6c061f6
+
+### ❌ 2024-01-20 — Saturday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-06 08:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012024.cfm
+- **Status**: mismatch
+- **Lectionary**: 316
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 1:1-4, 11-12, 19, 23-27']`, live=`['2 Sm 1:1-4']`, fix=`['2 Sm 1:1-4']`
+  - **responsorial_psalm**: stored=`['PS 80:2-3, 5-7']`, live=`['PS 80:2-3']`, fix=`['PS 80:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15b265c
