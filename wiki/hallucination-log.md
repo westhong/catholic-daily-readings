@@ -14778,3 +14778,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 132:11, 12, 13-14, 17-18']`, live=`['Ps 132:11']`, fix=`['Ps 132:11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f72b347
+
+### ❌ 2026-06-09 — Tuesday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-06 09:36 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060926.cfm
+- **Status**: mismatch
+- **Lectionary**: 360
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 4:2-3, 4-5, 7']`, live=`['Psalm 4:2-3']`, fix=`['Psalm 4:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cd9753e

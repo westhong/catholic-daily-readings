@@ -75522,5 +75522,60 @@
       ]
     },
     "checked_at": "2026-05-06T09:30:48+00:00"
+  },
+  "2026-06-09:0": {
+    "date": "2026-06-09",
+    "url": "https://bible.usccb.org/bible/readings/060926.cfm",
+    "lectionary_number": 360,
+    "feast": "Tuesday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 4:2-3, 4-5, 7"
+        ],
+        "live": [
+          "Psalm 4:2-3"
+        ],
+        "fix": [
+          "Psalm 4:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 5:16"
+        ],
+        "fix": [
+          "Matthew 5:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 4:2-3"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 17:7-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 4:2-3"
+      ],
+      "alleluia_verse": [
+        "Matthew 5:16"
+      ],
+      "gospel": [
+        "Matthew 5:13-16"
+      ]
+    },
+    "checked_at": "2026-05-06T09:36:02+00:00"
   }
 }
