@@ -74984,5 +74984,63 @@
       ]
     },
     "checked_at": "2026-05-06T08:51:00+00:00"
+  },
+  "2024-09-15:0": {
+    "date": "2024-09-15",
+    "url": "https://bible.usccb.org/bible/readings/091524.cfm",
+    "lectionary_number": 131,
+    "feast": "Twenty-fourth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 116:1-2, 3-4, 5-6, 8-9"
+        ],
+        "live": [
+          "Ps 116:1-2"
+        ],
+        "fix": [
+          "Ps 116:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Gal 6:14"
+        ],
+        "fix": [
+          "Gal 6:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 116:1-2"
+      ],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 50:5-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:1-2"
+      ],
+      "second_reading": [
+        "Jas 2:14-18"
+      ],
+      "alleluia_verse": [
+        "Gal 6:14"
+      ],
+      "gospel": [
+        "Mk 8:27-35"
+      ]
+    },
+    "checked_at": "2026-05-06T08:55:10+00:00"
   }
 }

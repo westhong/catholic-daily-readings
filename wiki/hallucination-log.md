@@ -14692,3 +14692,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/010523.cfm
 - **Status**: ok
 - **Lectionary**: 208
+
+### ❌ 2024-09-15 — Twenty-fourth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091524.cfm
+- **Status**: mismatch
+- **Lectionary**: 131
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 116:1-2, 3-4, 5-6, 8-9']`, live=`['Ps 116:1-2']`, fix=`['Ps 116:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Gal 6:14']`, fix=`['Gal 6:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eae4148
