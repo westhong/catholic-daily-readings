@@ -15948,3 +15948,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 33:4-5, 6, 9, 18-19, 20, 22']`, live=`['Ps 33:4-5']`, fix=`['Ps 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Rv 1:8']`, fix=`['Rv 1:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bbfd78b
+
+### ❌ 2027-08-10 — Feast of Saint Lawrence, Deacon and Martyr
+- **Checked**: 2026-05-06 19:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081027.cfm
+- **Status**: mismatch
+- **Lectionary**: 618
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 112:1-2, 5-6, 7-8, 9']`, live=`['Psalm 112:1-2']`, fix=`['Psalm 112:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8fae488

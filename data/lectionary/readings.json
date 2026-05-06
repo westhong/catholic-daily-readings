@@ -68583,17 +68583,10 @@
       "feast": "Saturday of the Thirty-second Week in Ordinary Time",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "3 JN 5-8 Beloved, you are faithful in al",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
-            "citation": "PS 112:1-2, 3-4, 5-6",
+            "citation": "PS 112:1-2",
             "sources": [
               "USCCB"
             ]
@@ -68614,8 +68607,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 THES 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-17": [

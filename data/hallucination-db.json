@@ -81518,5 +81518,60 @@
       ]
     },
     "checked_at": "2026-05-06T19:50:29+00:00"
+  },
+  "2027-08-10:0": {
+    "date": "2027-08-10",
+    "url": "https://bible.usccb.org/bible/readings/081027.cfm",
+    "lectionary_number": 618,
+    "feast": "Feast of Saint Lawrence, Deacon and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 112:1-2, 5-6, 7-8, 9"
+        ],
+        "live": [
+          "Psalm 112:1-2"
+        ],
+        "fix": [
+          "Psalm 112:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 112:1-2"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 9:6-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 112:1-2"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "John 12:24-26"
+      ]
+    },
+    "checked_at": "2026-05-06T19:55:42+00:00"
   }
 }
