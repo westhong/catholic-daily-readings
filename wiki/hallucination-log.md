@@ -15168,3 +15168,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 6:40']`, fix=`['See John 6:40']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/804deaa
+
+### ❌ 2025-12-19 — Friday of the Third Week of Advent
+- **Checked**: 2026-05-06 12:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121925.cfm
+- **Status**: mismatch
+- **Lectionary**: 195
+- **Mismatches**:
+  - **first_reading**: stored=`['Judges 13:2-7, 24-25']`, live=`['Judges 13:2-7']`, fix=`['Judges 13:2-7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40f9ee5
