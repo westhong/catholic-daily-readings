@@ -14983,3 +14983,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 4:14']`, fix=`['1 Peter 4:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b7d4962
+
+### ❌ 2025-05-23 — Friday of the Fifth Week of Easter
+- **Checked**: 2026-05-06 11:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052325.cfm
+- **Status**: mismatch
+- **Lectionary**: 289
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 57:8-9, 10']`, live=`['Psalm 57:8-9']`, fix=`['Psalm 57:8-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/19a8e50

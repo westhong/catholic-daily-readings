@@ -54519,7 +54519,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 15:13-14, 30",
+            "citation": "2 Sm 15:13-14",
             "sources": [
               "USCCB"
             ]
@@ -54527,7 +54527,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 3:2-3, 4-5, 6-7",
+            "citation": "PS 3:2-3",
             "sources": [
               "USCCB"
             ]
@@ -54548,8 +54548,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-30": [
