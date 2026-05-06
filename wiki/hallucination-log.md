@@ -13841,3 +13841,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Ps 84:5']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Ps 84:5']`, live=`['Mt 1:16']`, fix=`['Mt 1:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a40451
+
+### ❌ 2024-05-17 — Friday of the Seventh Week of Easter
+- **Checked**: 2026-05-06 01:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051724.cfm
+- **Status**: mismatch
+- **Lectionary**: 301
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 11-12, 19-20']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:26']`, fix=`['Jn 14:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ff75152

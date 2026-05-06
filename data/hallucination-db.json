@@ -70664,5 +70664,60 @@
       ]
     },
     "checked_at": "2026-05-06T01:30:07+00:00"
+  },
+  "2024-05-17:0": {
+    "date": "2024-05-17",
+    "url": "https://bible.usccb.org/bible/readings/051724.cfm",
+    "lectionary_number": 301,
+    "feast": "Friday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 11-12, 19-20"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:26"
+        ],
+        "fix": [
+          "Jn 14:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 14:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 25:13"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 14:26"
+      ],
+      "gospel": [
+        "Jn 21:15-19"
+      ]
+    },
+    "checked_at": "2026-05-06T01:35:22+00:00"
   }
 }

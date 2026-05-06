@@ -65017,7 +65017,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:29, 72, 89, 101, 104, 163",
+            "citation": "Ps 119:29",
             "sources": [
               "USCCB"
             ]
@@ -65038,8 +65038,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-26": [
