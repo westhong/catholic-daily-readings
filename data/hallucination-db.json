@@ -72384,5 +72384,60 @@
       ]
     },
     "checked_at": "2026-05-06T04:15:52+00:00"
+  },
+  "2024-11-22:0": {
+    "date": "2024-11-22",
+    "url": "https://bible.usccb.org/bible/readings/112224.cfm",
+    "lectionary_number": 501,
+    "feast": "Memorial of Saint Cecilia, Virgin and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:14, 24, 72, 103, 111, 131"
+        ],
+        "live": [
+          "PS 119:14"
+        ],
+        "fix": [
+          "PS 119:14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 10:27"
+        ],
+        "fix": [
+          "JN 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 119:14"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "RV 10:8-11"
+      ],
+      "responsorial_psalm": [
+        "PS 119:14"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ],
+      "gospel": [
+        "LK 19:45-48"
+      ]
+    },
+    "checked_at": "2026-05-06T04:20:04+00:00"
   }
 }

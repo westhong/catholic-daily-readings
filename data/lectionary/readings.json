@@ -10924,7 +10924,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 91:1-2, 3-4, 14-15",
+            "citation": "Psalm 91:1-2",
             "sources": [
               "USCCB"
             ]
@@ -10945,8 +10945,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Timothy 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-08": [

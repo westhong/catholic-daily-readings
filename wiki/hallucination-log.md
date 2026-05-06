@@ -14168,3 +14168,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 136:1-3, 16-18, 21-22']`, live=`['Psalm 136:1-3']`, fix=`['Psalm 136:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thessalonians 2:13']`, fix=`['See 1 Thessalonians 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d6f461
+
+### ❌ 2024-11-22 — Memorial of Saint Cecilia, Virgin and Martyr
+- **Checked**: 2026-05-06 04:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112224.cfm
+- **Status**: mismatch
+- **Lectionary**: 501
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 119:14, 24, 72, 103, 111, 131']`, live=`['PS 119:14']`, fix=`['PS 119:14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 10:27']`, fix=`['JN 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fa9b8f7
