@@ -15226,3 +15226,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 51:3-4, 5-6']`, live=`['Ps 51:3-4']`, fix=`['Ps 51:3-4']`
   - **verse_before_gospel**: stored=`['See Am 5:14']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2d2e4c4
+
+### ❌ 2025-01-26 — Third Sunday in Ordinary Time
+- **Checked**: 2026-05-06 13:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012625.cfm
+- **Status**: mismatch
+- **Lectionary**: 69
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c75a333

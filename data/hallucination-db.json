@@ -77807,5 +77807,47 @@
       ]
     },
     "checked_at": "2026-05-06T13:20:44+00:00"
+  },
+  "2025-01-26:0": {
+    "date": "2025-01-26",
+    "url": "https://bible.usccb.org/bible/readings/012625.cfm",
+    "lectionary_number": 69,
+    "feast": "Third Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 15"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nehemiah 8:2-4"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "second_reading": [
+        "1 Corinthians 12:12-30"
+      ],
+      "gospel": [
+        "Luke 1:1-4"
+      ]
+    },
+    "checked_at": "2026-05-06T13:25:59+00:00"
   }
 }
