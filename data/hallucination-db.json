@@ -83417,5 +83417,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T23:05:36+00:00"
+  },
+  "2024-02-12:0": {
+    "date": "2024-02-12",
+    "url": "https://bible.usccb.org/bible/readings/021224.cfm",
+    "lectionary_number": 335,
+    "feast": "Monday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:67, 68, 71, 72, 75, 76"
+        ],
+        "live": [
+          "Ps 119:67"
+        ],
+        "fix": [
+          "Ps 119:67"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:67"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 1:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:67"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Mk 8:11-13"
+      ]
+    },
+    "checked_at": "2026-05-06T23:10:54+00:00"
   }
 }

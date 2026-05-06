@@ -16315,3 +16315,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 462
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1006.cfm`, live=fetch failed
+
+### ❌ 2024-02-12 — Monday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-06 23:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021224.cfm
+- **Status**: mismatch
+- **Lectionary**: 335
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:67, 68, 71, 72, 75, 76']`, live=`['Ps 119:67']`, fix=`['Ps 119:67']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9308fa5
