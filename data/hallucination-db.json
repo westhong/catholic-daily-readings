@@ -76118,5 +76118,45 @@
       ]
     },
     "checked_at": "2026-05-06T10:25:25+00:00"
+  },
+  "2025-09-09:0": {
+    "date": "2025-09-09",
+    "url": "https://bible.usccb.org/bible/readings/090925.cfm",
+    "lectionary_number": 438,
+    "feast": "Memorial of Saint Peter Claver, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 15:16"
+        ],
+        "fix": [
+          "See John 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See John 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Colossians 2:6-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:1"
+      ],
+      "alleluia_verse": [
+        "See John 15:16"
+      ],
+      "gospel": [
+        "Luke 6:12-19"
+      ]
+    },
+    "checked_at": "2026-05-06T10:30:39+00:00"
   }
 }
