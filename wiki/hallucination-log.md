@@ -15382,3 +15382,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 6, 8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 1:1-2']`, fix=`['Heb 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/70b8b9d
+
+### ❌ 2025-09-25 — Thursday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-06 14:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092525.cfm
+- **Status**: mismatch
+- **Lectionary**: 452
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/975d3f7
