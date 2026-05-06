@@ -15177,3 +15177,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **first_reading**: stored=`['Judges 13:2-7, 24-25']`, live=`['Judges 13:2-7']`, fix=`['Judges 13:2-7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40f9ee5
+
+### 🚫 2026-07-30 — 
+- **Checked**: 2026-05-06 13:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/730.cfm
+- **Status**: url_dead
+- **Lectionary**: 404
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/730.cfm`, live=fetch failed

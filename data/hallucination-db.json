@@ -77567,5 +77567,24 @@
       ]
     },
     "checked_at": "2026-05-06T12:55:34+00:00"
+  },
+  "2026-07-30:0": {
+    "date": "2026-07-30",
+    "url": "https://bible.usccb.org/bible/readings/730.cfm",
+    "lectionary_number": 404,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/730.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T13:00:49+00:00"
   }
 }
