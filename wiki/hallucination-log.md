@@ -14669,3 +14669,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 71:1-2, 3-4']`, live=`['Ps 71:1-2']`, fix=`['Ps 71:1-2']`
   - **gospel**: stored=`['Jn 13:21-33, 36-38']`, live=`['Jn 13:21-33']`, fix=`['Jn 13:21-33']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8726c29
+
+### ❌ 2024-10-27 — Thirtieth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102724.cfm
+- **Status**: mismatch
+- **Lectionary**: 149
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 126:1-2, 2-3, 4-5, 6']`, live=`['Ps 126:1-2']`, fix=`['Ps 126:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b9c70c5

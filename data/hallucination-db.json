@@ -74901,5 +74901,47 @@
       ]
     },
     "checked_at": "2026-05-06T08:35:13+00:00"
+  },
+  "2024-10-27:0": {
+    "date": "2024-10-27",
+    "url": "https://bible.usccb.org/bible/readings/102724.cfm",
+    "lectionary_number": 149,
+    "feast": "Thirtieth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 126:1-2, 2-3, 4-5, 6"
+        ],
+        "live": [
+          "Ps 126:1-2"
+        ],
+        "fix": [
+          "Ps 126:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 126:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 31:7-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 126:1-2"
+      ],
+      "second_reading": [
+        "Heb 5:1-6"
+      ],
+      "gospel": [
+        "Mk 10:46-52"
+      ]
+    },
+    "checked_at": "2026-05-06T08:40:27+00:00"
   }
 }
