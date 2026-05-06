@@ -15082,3 +15082,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:10-11, 15-16, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c25e38
+
+### ❌ 2025-03-12 — Wednesday of the First Week in Lent
+- **Checked**: 2026-05-06 12:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031225.cfm
+- **Status**: mismatch
+- **Lectionary**: 226
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 18-19']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a095a3f
