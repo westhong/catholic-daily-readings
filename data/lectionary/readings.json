@@ -8600,7 +8600,7 @@
         ],
         "gospel": [
           {
-            "citation": "John 15:26—16",
+            "citation": "John 15:26",
             "sources": [
               "USCCB"
             ]
@@ -8613,8 +8613,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:26",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-27": [
