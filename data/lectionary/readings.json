@@ -61678,7 +61678,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 26:7-9, 12, 16-19",
+            "citation": "Is 26:7-9",
             "sources": [
               "USCCB"
             ]
@@ -61707,8 +61707,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-19": [

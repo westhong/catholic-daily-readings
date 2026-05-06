@@ -13982,3 +13982,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:89, 90, 91, 130, 135, 175']`, live=`['Psalm 119:89']`, fix=`['Psalm 119:89']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:5']`, fix=`['John 15:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4094fc3
+
+### ❌ 2024-04-09 — Tuesday of the Second Week of Easter
+- **Checked**: 2026-05-06 02:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040924.cfm
+- **Status**: mismatch
+- **Lectionary**: 268
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:14-15']`, fix=`['Jn 3:14-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eb659a4

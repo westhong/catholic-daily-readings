@@ -71427,5 +71427,45 @@
       ]
     },
     "checked_at": "2026-05-06T02:40:25+00:00"
+  },
+  "2024-04-09:0": {
+    "date": "2024-04-09",
+    "url": "https://bible.usccb.org/bible/readings/040924.cfm",
+    "lectionary_number": 268,
+    "feast": "Tuesday of the Second Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 3:14-15"
+        ],
+        "fix": [
+          "Jn 3:14-15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 3:14-15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:32-37"
+      ],
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "alleluia_verse": [
+        "Jn 3:14-15"
+      ],
+      "gospel": [
+        "Jn 3:7"
+      ]
+    },
+    "checked_at": "2026-05-06T02:45:39+00:00"
   }
 }
