@@ -13829,3 +13829,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/977a543
+
+### ❌ 2023-03-20 — Solemnity of Saint Joseph, spouse of the Blessed Virgin Mary
+- **Checked**: 2026-05-06 01:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032023.cfm
+- **Status**: mismatch
+- **Lectionary**: 543
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 89:2-3, 4-5, 27']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
+  - **second_reading**: stored=`['Rom 4:13, 16-18, 22']`, live=`['Rom 4:13']`, fix=`['Rom 4:13']`
+  - **verse_before_gospel**: stored=`['Ps 84:5']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Ps 84:5']`, live=`['Mt 1:16']`, fix=`['Mt 1:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4a40451
