@@ -14040,3 +14040,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:1-2, 4-5, 7-8']`, live=`['Psalm 119:1-2']`, fix=`['Psalm 119:1-2']`
   - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03dca5e
+
+### ❌ 2024-05-14 — Feast of Saint Matthias, Apostle
+- **Checked**: 2026-05-06 03:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051424.cfm
+- **Status**: mismatch
+- **Lectionary**: 564
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 1:15-17, 20-26']`, live=`['Acts 1:15-17']`, fix=`['Acts 1:15-17']`
+  - **responsorial_psalm**: stored=`['113:1-2, 3-4, 5-6, 7-8']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/275a05f
