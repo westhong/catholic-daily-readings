@@ -14837,3 +14837,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee0e212
+
+### ❌ 2025-02-01 — Saturday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-06 10:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020125.cfm
+- **Status**: mismatch
+- **Lectionary**: 322
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 11:1-2, 8-19']`, live=`['Hebrews 11:1-2']`, fix=`['Hebrews 11:1-2']`
+  - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8947d38
