@@ -14550,3 +14550,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 118:1-2, 16-17, 22-23']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1be4454
+
+### ❌ 2026-01-16 — Friday of the First Week in Ordinary Time
+- **Checked**: 2026-05-06 07:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011626.cfm
+- **Status**: mismatch
+- **Lectionary**: 309
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Samuel 8:4-7, 10-22']`, live=`['1 Samuel 8:4-7']`, fix=`['1 Samuel 8:4-7']`
+  - **responsorial_psalm**: stored=`['Psalm 89:16-17, 18-19']`, live=`['Psalm 89:16-17']`, fix=`['Psalm 89:16-17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ffd213b
