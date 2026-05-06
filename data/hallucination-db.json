@@ -76259,5 +76259,63 @@
       ]
     },
     "checked_at": "2026-05-06T10:45:23+00:00"
+  },
+  "2023-06-25:0": {
+    "date": "2023-06-25",
+    "url": "https://bible.usccb.org/bible/readings/062523.cfm",
+    "lectionary_number": 94,
+    "feast": "Twelfth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 69:8-10, 14, 17, 33-35"
+        ],
+        "live": [
+          "Ps 69:8-10"
+        ],
+        "fix": [
+          "Ps 69:8-10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:26"
+        ],
+        "fix": [
+          "Jn 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 69:8-10"
+      ],
+      "alleluia_verse": [
+        "Jn 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 20:10-13"
+      ],
+      "responsorial_psalm": [
+        "Ps 69:8-10"
+      ],
+      "second_reading": [
+        "Rom 5:12-15"
+      ],
+      "alleluia_verse": [
+        "Jn 15:26"
+      ],
+      "gospel": [
+        "Mt 10:26-33"
+      ]
+    },
+    "checked_at": "2026-05-06T10:50:38+00:00"
   }
 }

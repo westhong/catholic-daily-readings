@@ -14923,3 +14923,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
   - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e7b053
+
+### ❌ 2023-06-25 — Twelfth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 10:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062523.cfm
+- **Status**: mismatch
+- **Lectionary**: 94
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 69:8-10, 14, 17, 33-35']`, live=`['Ps 69:8-10']`, fix=`['Ps 69:8-10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f60beb
