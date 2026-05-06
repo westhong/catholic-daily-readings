@@ -73874,5 +73874,24 @@
       ]
     },
     "checked_at": "2026-05-06T07:00:21+00:00"
+  },
+  "2026-07-20:0": {
+    "date": "2026-07-20",
+    "url": "https://bible.usccb.org/bible/readings/720.cfm",
+    "lectionary_number": 395,
+    "feast": "Monday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/720.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T07:05:36+00:00"
   }
 }

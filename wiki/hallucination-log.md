@@ -14480,3 +14480,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ab6a16d
+
+### 🚫 2026-07-20 — Monday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 07:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/720.cfm
+- **Status**: url_dead
+- **Lectionary**: 395
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/720.cfm`, live=fetch failed
