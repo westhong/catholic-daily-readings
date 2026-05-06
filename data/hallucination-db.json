@@ -82136,5 +82136,59 @@
       ]
     },
     "checked_at": "2026-05-06T21:00:56+00:00"
+  },
+  "2024-07-24:0": {
+    "date": "2024-07-24",
+    "url": "https://bible.usccb.org/bible/readings/072424.cfm",
+    "lectionary_number": 397,
+    "feast": "Wednesday of the Sixteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jer 1:1, 4-10"
+        ],
+        "live": [
+          "Jer 1:1"
+        ],
+        "fix": [
+          "Jer 1:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 71:1-2, 3-4"
+        ],
+        "live": [
+          "Ps 71:1-2"
+        ],
+        "fix": [
+          "Ps 71:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Jer 1:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 71:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 1:1"
+      ],
+      "responsorial_psalm": [
+        "Ps 71:1-2"
+      ],
+      "gospel": [
+        "Mt 13:1-9"
+      ]
+    },
+    "checked_at": "2026-05-06T21:05:09+00:00"
   }
 }

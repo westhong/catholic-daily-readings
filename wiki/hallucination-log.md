@@ -16066,3 +16066,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fe20d6d
+
+### ❌ 2024-07-24 — Wednesday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 21:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072424.cfm
+- **Status**: mismatch
+- **Lectionary**: 397
+- **Mismatches**:
+  - **first_reading**: stored=`['Jer 1:1, 4-10']`, live=`['Jer 1:1']`, fix=`['Jer 1:1']`
+  - **responsorial_psalm**: stored=`['Ps 71:1-2, 3-4']`, live=`['Ps 71:1-2']`, fix=`['Ps 71:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/538385c
