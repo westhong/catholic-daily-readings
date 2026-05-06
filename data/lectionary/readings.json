@@ -62917,7 +62917,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ex 16:2-4, 12-15",
+            "citation": "Ex 16:2-4",
             "sources": [
               "USCCB"
             ]
@@ -62925,7 +62925,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 78:3-4, 23-24, 25, 54",
+            "citation": "Ps 78:3-4",
             "sources": [
               "USCCB"
             ]
@@ -62933,7 +62933,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Eph 4:17, 20-24",
+            "citation": "Eph 4:17",
             "sources": [
               "USCCB"
             ]
@@ -62954,8 +62954,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 4:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-05": [
