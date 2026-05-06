@@ -62828,7 +62828,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Jer 1:1, 4-10",
+            "citation": "Jer 1:1",
             "sources": [
               "USCCB"
             ]
@@ -62836,7 +62836,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 71:1-2, 3-4",
+            "citation": "Ps 71:1-2",
             "sources": [
               "USCCB"
             ]
@@ -62850,7 +62850,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-25": [

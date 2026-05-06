@@ -16056,3 +16056,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/28d0d4a
+
+### ❌ 2025-01-03 — Christmas Weekday
+- **Checked**: 2026-05-06 21:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010325.cfm
+- **Status**: mismatch
+- **Lectionary**: 206
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 1:14']`, fix=`['John 1:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fe20d6d
