@@ -15689,3 +15689,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **verse_before_gospel**: stored=`['Am 5:14']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1f0008
+
+### ❌ 2024-08-18 — Twentieth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 17:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081824.cfm
+- **Status**: mismatch
+- **Lectionary**: 119
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:56']`, fix=`['Jn 6:56']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc9749a

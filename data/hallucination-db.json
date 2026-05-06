@@ -80189,5 +80189,63 @@
       ]
     },
     "checked_at": "2026-05-06T17:30:23+00:00"
+  },
+  "2024-08-18:0": {
+    "date": "2024-08-18",
+    "url": "https://bible.usccb.org/bible/readings/081824.cfm",
+    "lectionary_number": 119,
+    "feast": "Twentieth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:56"
+        ],
+        "fix": [
+          "Jn 6:56"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 6:56"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Prv 9:1-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "second_reading": [
+        "Eph 5:15-20"
+      ],
+      "alleluia_verse": [
+        "Jn 6:56"
+      ],
+      "gospel": [
+        "Jn 6:51-58"
+      ]
+    },
+    "checked_at": "2026-05-06T17:35:35+00:00"
   }
 }
