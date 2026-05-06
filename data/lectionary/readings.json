@@ -57280,14 +57280,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "8:2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Lk 24:35-48",
@@ -57303,8 +57296,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ps 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-05": [

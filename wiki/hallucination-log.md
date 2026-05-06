@@ -15282,3 +15282,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:23']`, fix=`['Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8082eb9
+
+### ❌ 2027-03-22 — Monday of Holy Week
+- **Checked**: 2026-05-06 13:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032227.cfm
+- **Status**: mismatch
+- **Lectionary**: 257
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 2, 3, 13-14']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aa31e79
