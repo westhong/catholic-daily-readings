@@ -70950,5 +70950,60 @@
       ]
     },
     "checked_at": "2026-05-06T02:00:35+00:00"
+  },
+  "2025-01-18:0": {
+    "date": "2025-01-18",
+    "url": "https://bible.usccb.org/bible/readings/011825.cfm",
+    "lectionary_number": 310,
+    "feast": "Saturday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 15"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 4:18"
+        ],
+        "fix": [
+          "Luke 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 4:12-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "Luke 4:18"
+      ],
+      "gospel": [
+        "Mark 2:13-17"
+      ]
+    },
+    "checked_at": "2026-05-06T02:05:48+00:00"
   }
 }

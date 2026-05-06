@@ -16311,7 +16311,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Romans 5:12, 15",
+            "citation": "Romans 5:12",
             "sources": [
               "USCCB"
             ]
@@ -16340,8 +16340,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:36",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-10-22": [
