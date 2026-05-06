@@ -13743,3 +13743,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 96:1-2, 3']`, live=`['Ps 96:1-2']`, fix=`['Ps 96:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5effcdb
+
+### ❌ 2024-01-17 — Memorial of Saint Anthony, Abbot
+- **Checked**: 2026-05-06 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011724.cfm
+- **Status**: mismatch
+- **Lectionary**: 313
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Sm 17:32-33, 37, 40-51']`, live=`['1 Sm 17:32-33']`, fix=`['1 Sm 17:32-33']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40a6ee5
