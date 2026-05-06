@@ -14101,3 +14101,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 119:105']`, fix=`['Ps 119:105']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/08ad1d9
+
+### 🚫 2026-05-17 — Seventh Sunday of Easter
+- **Checked**: 2026-05-06 03:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051726-Sunday.cfm
+- **Status**: url_dead
+- **Lectionary**: 59
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/051726-Sunday.cfm`, live=fetch failed

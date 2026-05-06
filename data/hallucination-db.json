@@ -72063,5 +72063,24 @@
       ]
     },
     "checked_at": "2026-05-06T03:40:18+00:00"
+  },
+  "2026-05-17:0": {
+    "date": "2026-05-17",
+    "url": "https://bible.usccb.org/bible/readings/051726-Sunday.cfm",
+    "lectionary_number": 59,
+    "feast": "Seventh Sunday of Easter",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/051726-Sunday.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T03:45:31+00:00"
   }
 }
