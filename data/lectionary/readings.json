@@ -7890,7 +7890,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 1:15-17, 20-26",
+            "citation": "Acts 1:15-17",
             "sources": [
               "USCCB"
             ]
@@ -7898,7 +7898,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 113:1-2, 3-4, 5-6, 7-8",
+            "citation": "Psalm 113:1-2",
             "sources": [
               "USCCB"
             ]
@@ -7919,8 +7919,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-05-15": [

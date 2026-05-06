@@ -13771,3 +13771,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 495
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261113.cfm`, live=fetch failed
+
+### ❌ 2025-04-10 — Thursday of the Fifth Week of Lent
+- **Checked**: 2026-05-06 01:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041025.cfm
+- **Status**: mismatch
+- **Lectionary**: 254
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1e5a2f
