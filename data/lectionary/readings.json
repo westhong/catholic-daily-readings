@@ -11317,7 +11317,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:1-2, 3-4, 6-7",
+            "citation": "Psalm 105:1-2",
             "sources": [
               "USCCB"
             ]
@@ -11338,8 +11338,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Peter 4:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-13": [

@@ -76502,5 +76502,45 @@
       ]
     },
     "checked_at": "2026-05-06T11:05:18+00:00"
+  },
+  "2025-06-12:0": {
+    "date": "2025-06-12",
+    "url": "https://bible.usccb.org/bible/readings/061225.cfm",
+    "lectionary_number": 362,
+    "feast": "Thursday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 13:34"
+        ],
+        "fix": [
+          "John 13:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 13:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 3:15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 85:9"
+      ],
+      "alleluia_verse": [
+        "John 13:34"
+      ],
+      "gospel": [
+        "Matthew 5:20-26"
+      ]
+    },
+    "checked_at": "2026-05-06T11:10:32+00:00"
   }
 }

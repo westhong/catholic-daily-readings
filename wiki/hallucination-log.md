@@ -14964,3 +14964,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 56:2-3, 9-10']`, live=`['Psalm 56:2-3']`, fix=`['Psalm 56:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a5d029
+
+### ❌ 2025-06-12 — Thursday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-06 11:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061225.cfm
+- **Status**: mismatch
+- **Lectionary**: 362
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4292c0c
