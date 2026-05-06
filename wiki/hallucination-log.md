@@ -14083,3 +14083,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Acts 10:34-38']`, live=`['Acts 10:34-38', '1 John 5:1-9']`, fix=`['Acts 10:34-38', '1 John 5:1-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mark 9:7']`, fix=`['See Mark 9:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/739dc06
+
+### ❌ 2024-04-20 — Saturday of the Third Week of Easter
+- **Checked**: 2026-05-06 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042024.cfm
+- **Status**: mismatch
+- **Lectionary**: 278
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 116:12-13, 14-15, 16-17']`, live=`['Ps 116:12-13']`, fix=`['Ps 116:12-13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/077f950

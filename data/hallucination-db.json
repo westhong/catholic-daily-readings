@@ -71984,5 +71984,44 @@
       ]
     },
     "checked_at": "2026-05-06T03:30:47+00:00"
+  },
+  "2024-04-20:0": {
+    "date": "2024-04-20",
+    "url": "https://bible.usccb.org/bible/readings/042024.cfm",
+    "lectionary_number": 278,
+    "feast": "Saturday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 116:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Ps 116:12-13"
+        ],
+        "fix": [
+          "Ps 116:12-13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 9:31-42"
+      ],
+      "responsorial_psalm": [
+        "Ps 116:12-13"
+      ],
+      "gospel": [
+        "Jn 6:60-69"
+      ]
+    },
+    "checked_at": "2026-05-06T03:35:05+00:00"
   }
 }
