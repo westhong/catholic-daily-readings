@@ -72961,5 +72961,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T05:20:50+00:00"
+  },
+  "2026-11-17:0": {
+    "date": "2026-11-17",
+    "url": "https://bible.usccb.org/bible/readings/261117.cfm",
+    "lectionary_number": 498,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261117.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T05:25:13+00:00"
   }
 }
