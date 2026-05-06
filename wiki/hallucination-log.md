@@ -15556,3 +15556,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 11:28']`, fix=`['MT 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e81f0a
+
+### ❌ 2023-02-01 — Wednesday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 16:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020123.cfm
+- **Status**: mismatch
+- **Lectionary**: 325
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 12:4-7, 11-15']`, live=`['Heb 12:4-7']`, fix=`['Heb 12:4-7']`
+  - **responsorial_psalm**: stored=`['103:1-2, 13-14, 17-18']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a63ff29

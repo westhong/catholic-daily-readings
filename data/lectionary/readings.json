@@ -26068,7 +26068,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 12:24-13:5a",
+            "citation": "Acts 12:24",
             "sources": [
               "USCCB"
             ]
@@ -26076,7 +26076,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 67:2-3, 5, 6 and 8",
+            "citation": "Psalm 67:2-3",
             "sources": [
               "USCCB"
             ]
@@ -26097,8 +26097,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-30": [
