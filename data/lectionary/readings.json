@@ -25857,7 +25857,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 2:6-7, 8-9, 10-11ab",
+            "citation": "Psalm 2:6-7",
             "sources": [
               "USCCB"
             ]
@@ -25878,8 +25878,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-02": [

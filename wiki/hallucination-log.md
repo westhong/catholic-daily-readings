@@ -14422,3 +14422,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 10:45']`, fix=`['Mk 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cef62fe
+
+### 🚫 2026-12-14 — 
+- **Checked**: 2026-05-06 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261214.cfm
+- **Status**: url_dead
+- **Lectionary**: 187
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261214.cfm`, live=fetch failed
