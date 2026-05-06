@@ -76895,5 +76895,44 @@
       ]
     },
     "checked_at": "2026-05-06T11:40:58+00:00"
+  },
+  "2023-12-27:0": {
+    "date": "2023-12-27",
+    "url": "https://bible.usccb.org/bible/readings/122723.cfm",
+    "lectionary_number": 697,
+    "feast": "Feast of Saint John, Apostle and evangelist",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 97:1-2, 5-6, 11-12"
+        ],
+        "live": [
+          "Ps 97:1-2"
+        ],
+        "fix": [
+          "Ps 97:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Jn 1:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ],
+      "gospel": [
+        "Jn 20:1"
+      ]
+    },
+    "checked_at": "2026-05-06T11:45:13+00:00"
   }
 }
