@@ -14356,3 +14356,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:26']`, fix=`['Ps 118:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24902c9
+
+### ❌ 2025-04-28 — Monday of the Second Week of Easter
+- **Checked**: 2026-05-06 06:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042825.cfm
+- **Status**: mismatch
+- **Lectionary**: 267
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 2:1-3, 4-7']`, live=`['Psalm 2:1-3']`, fix=`['Psalm 2:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Colossians 3:1']`, fix=`['Colossians 3:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d279c10
