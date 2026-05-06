@@ -15822,3 +15822,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 1:1-2, 3, 4']`, live=`['PS 1:1-2']`, fix=`['PS 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 10:27']`, fix=`['JN 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4326c21
+
+### 🚫 2026-09-19 — 
+- **Checked**: 2026-05-06 18:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/919.cfm
+- **Status**: url_dead
+- **Lectionary**: 448
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/919.cfm`, live=fetch failed

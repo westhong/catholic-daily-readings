@@ -61092,7 +61092,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 97:1-2, 3-4, 5-6, 7",
+            "citation": "PS 97:1-2",
             "sources": [
               "USCCB"
             ]
@@ -61113,8 +61113,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "ROM 8:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-21": [

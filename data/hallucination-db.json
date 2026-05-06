@@ -80904,5 +80904,24 @@
       ]
     },
     "checked_at": "2026-05-06T18:41:03+00:00"
+  },
+  "2026-09-19:0": {
+    "date": "2026-09-19",
+    "url": "https://bible.usccb.org/bible/readings/919.cfm",
+    "lectionary_number": 448,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/919.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T18:45:15+00:00"
   }
 }
