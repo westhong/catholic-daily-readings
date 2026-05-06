@@ -40962,7 +40962,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:8-9, 13",
+            "citation": "Psalm 145:8-9",
             "sources": [
               "USCCB"
             ]
@@ -40976,15 +40976,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "John 11:25a, 26",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-11": [

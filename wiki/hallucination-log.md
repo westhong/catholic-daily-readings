@@ -15860,3 +15860,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['pS 105:1-2, 3-4, 6-7, 8-9']`, live=`['pS 105:1-2']`, fix=`['pS 105:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a2305b6
+
+### 🚫 2026-08-09 — 
+- **Checked**: 2026-05-06 19:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/809.cfm
+- **Status**: url_dead
+- **Lectionary**: 113
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/809.cfm`, live=fetch failed
