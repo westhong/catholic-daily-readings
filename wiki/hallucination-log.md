@@ -16383,3 +16383,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:8, 9, 10, 11']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f304a50
+
+### ❌ 2027-01-20 — Wednesday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-06 23:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012027.cfm
+- **Status**: mismatch
+- **Lectionary**: 313
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 7:1-3, 15-17']`, live=`['Hebrews 7:1-3']`, fix=`['Hebrews 7:1-3']`
+  - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e2e634
