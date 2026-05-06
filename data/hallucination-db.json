@@ -82190,5 +82190,68 @@
       ]
     },
     "checked_at": "2026-05-06T21:05:09+00:00"
+  },
+  "2023-04-02:0": {
+    "date": "2023-04-02",
+    "url": "https://bible.usccb.org/bible/readings/040223.cfm",
+    "lectionary_number": 37,
+    "feast": "Palm Sunday of the Lord&#039;s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 50:4-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "22:8-9, 17-18, 19-20, 23-24"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Phil 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mt 26:14—27"
+        ],
+        "live": [
+          "Mt 26:14"
+        ],
+        "fix": [
+          "Mt 26:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Mt 26:14"
+      ]
+    },
+    "live_readings": {
+      "second_reading": [
+        "Phil 2:6-11"
+      ],
+      "gospel": [
+        "Mt 26:14"
+      ]
+    },
+    "checked_at": "2026-05-06T21:10:21+00:00"
   }
 }

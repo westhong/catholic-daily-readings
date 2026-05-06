@@ -16076,3 +16076,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Jer 1:1, 4-10']`, live=`['Jer 1:1']`, fix=`['Jer 1:1']`
   - **responsorial_psalm**: stored=`['Ps 71:1-2, 3-4']`, live=`['Ps 71:1-2']`, fix=`['Ps 71:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/538385c
+
+### ❌ 2023-04-02 — Palm Sunday of the Lord&#039;s Passion
+- **Checked**: 2026-05-06 21:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040223.cfm
+- **Status**: mismatch
+- **Lectionary**: 37
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 50:4-7']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['22:8-9, 17-18, 19-20, 23-24']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mt 26:14—27']`, live=`['Mt 26:14']`, fix=`['Mt 26:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/89bfe10
