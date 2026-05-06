@@ -14327,3 +14327,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 100:2, 3, 4, 5']`, live=`['PS 100:2']`, fix=`['PS 100:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/241955d
+
+### ❌ 2027-08-23 — Monday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-06 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082327.cfm
+- **Status**: mismatch
+- **Lectionary**: 425
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Thessalonians 1:1-5, 8']`, live=`['1 Thessalonians 1:1-5']`, fix=`['1 Thessalonians 1:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1d1e95
