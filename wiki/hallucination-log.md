@@ -15988,3 +15988,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 97:1, 6, 11-12']`, live=`['Ps 97:1']`, fix=`['Ps 97:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:14']`, fix=`['Lk 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f45ee3d
+
+### ❌ 2026-02-16 — Monday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-06 20:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021626.cfm
+- **Status**: mismatch
+- **Lectionary**: 335
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:67, 68, 71, 72, 75, 76']`, live=`['Psalm 119:67']`, fix=`['Psalm 119:67']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a9ecaf0
