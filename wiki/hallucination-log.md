@@ -14954,3 +14954,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 103: 1-2, 3-4, 6-7, 8, 11']`, live=`['Psalm 103: 1']`, fix=`['Psalm 103: 1']`
   - **second_reading**: stored=`['1 Corinthians 10:1-6, 10-12']`, live=`['1 Corinthians 10:1-6']`, fix=`['1 Corinthians 10:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8965368
+
+### ❌ 2026-01-22 — Day of Prayer for the Legal Protection of Unborn Children
+- **Checked**: 2026-05-06 11:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012226.cfm
+- **Status**: mismatch
+- **Lectionary**: 314
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 56:2-3, 9-10']`, live=`['Psalm 56:2-3']`, fix=`['Psalm 56:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a5d029

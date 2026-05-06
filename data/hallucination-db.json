@@ -76447,5 +76447,60 @@
       ]
     },
     "checked_at": "2026-05-06T11:00:05+00:00"
+  },
+  "2026-01-22:0": {
+    "date": "2026-01-22",
+    "url": "https://bible.usccb.org/bible/readings/012226.cfm",
+    "lectionary_number": 314,
+    "feast": "Day of Prayer for the Legal Protection of Unborn Children",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 56:2-3, 9-10"
+        ],
+        "live": [
+          "Psalm 56:2-3"
+        ],
+        "fix": [
+          "Psalm 56:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Timothy 1:10"
+        ],
+        "fix": [
+          "2 Timothy 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 56:2-3"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 18:6-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 56:2-3"
+      ],
+      "alleluia_verse": [
+        "2 Timothy 1:10"
+      ],
+      "gospel": [
+        "Mark 3:7-12"
+      ]
+    },
+    "checked_at": "2026-05-06T11:05:18+00:00"
   }
 }
