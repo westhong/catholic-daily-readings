@@ -13943,3 +13943,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Cor 15:20-26, 28']`, live=`['1 Cor 15:20-26']`, fix=`['1 Cor 15:20-26']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mk 11:9']`, fix=`['Mk 11:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a58f2ad
+
+### ❌ 2024-03-23 — Saturday of the Fifth Week of Lent
+- **Checked**: 2026-05-06 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032324.cfm
+- **Status**: mismatch
+- **Lectionary**: 256
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **verse_before_gospel**: stored=`['Ez 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8922ba5

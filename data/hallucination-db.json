@@ -71229,5 +71229,53 @@
       ]
     },
     "checked_at": "2026-05-06T02:20:31+00:00"
+  },
+  "2024-03-23:0": {
+    "date": "2024-03-23",
+    "url": "https://bible.usccb.org/bible/readings/032324.cfm",
+    "lectionary_number": 256,
+    "feast": "Saturday of the Fifth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Jeremiah 31:10, 11-12"
+        ],
+        "live": [
+          "Jeremiah 31:10"
+        ],
+        "fix": [
+          "Jeremiah 31:10"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ez 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 37:21-28"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "gospel": [
+        "Jn 11:45-56"
+      ]
+    },
+    "checked_at": "2026-05-06T02:25:45+00:00"
   }
 }
