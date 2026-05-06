@@ -13753,3 +13753,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Sm 17:32-33, 37, 40-51']`, live=`['1 Sm 17:32-33']`, fix=`['1 Sm 17:32-33']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/40a6ee5
+
+### ❌ 2027-10-19 — Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs
+- **Checked**: 2026-05-06 00:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101927.cfm
+- **Status**: mismatch
+- **Lectionary**: 474
+- **Mismatches**:
+  - **first_reading**: stored=`['Romans 5:12, 15']`, live=`['Romans 5:12']`, fix=`['Romans 5:12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5284f20
