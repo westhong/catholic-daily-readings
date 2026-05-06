@@ -15391,3 +15391,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/975d3f7
+
+### 🚫 2026-12-24 — 
+- **Checked**: 2026-05-06 14:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261224.cfm
+- **Status**: url_dead
+- **Lectionary**: 200
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261224.cfm`, live=fetch failed
