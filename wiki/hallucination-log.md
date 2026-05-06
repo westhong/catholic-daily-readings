@@ -15351,3 +15351,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Daniel 3:25, 34-43']`, live=`['Daniel 3:25']`, fix=`['Daniel 3:25']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/515fd7d
+
+### ❌ 2026-01-29 — Thursday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-06 14:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012926.cfm
+- **Status**: mismatch
+- **Lectionary**: 320
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Samuel 7:18-19, 24-29']`, live=`['2 Samuel 7:18-19']`, fix=`['2 Samuel 7:18-19']`
+  - **responsorial_psalm**: stored=`['Psalm 132:1-2, 3-5, 11, 12, 13-14']`, live=`['Psalm 132:1-2']`, fix=`['Psalm 132:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e07df1a
