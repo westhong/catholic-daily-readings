@@ -70128,5 +70128,44 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T00:35:21+00:00"
+  },
+  "2024-12-10:0": {
+    "date": "2024-12-10",
+    "url": "https://bible.usccb.org/bible/readings/121024.cfm",
+    "lectionary_number": 182,
+    "feast": "Tuesday of the Second Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 96:1-2, 3"
+        ],
+        "live": [
+          "Ps 96:1-2"
+        ],
+        "fix": [
+          "Ps 96:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 96:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 40:1-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 96:1-2"
+      ],
+      "gospel": [
+        "Mt 18:12-14"
+      ]
+    },
+    "checked_at": "2026-05-06T00:40:39+00:00"
   }
 }
