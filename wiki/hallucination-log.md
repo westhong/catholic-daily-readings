@@ -16017,3 +16017,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6f5d875
+
+### ❌ 2023-11-10 — Memorial of Saint Leo the Great, Pope and Doctor of the Church
+- **Checked**: 2026-05-06 20:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111023.cfm
+- **Status**: mismatch
+- **Lectionary**: 489
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Jn 2:5']`, fix=`['1 Jn 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e95d5d9

@@ -81884,5 +81884,60 @@
       ]
     },
     "checked_at": "2026-05-06T20:30:30+00:00"
+  },
+  "2023-11-10:0": {
+    "date": "2023-11-10",
+    "url": "https://bible.usccb.org/bible/readings/111023.cfm",
+    "lectionary_number": 489,
+    "feast": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 98:1, 2-3"
+        ],
+        "live": [
+          "Ps 98:1"
+        ],
+        "fix": [
+          "Ps 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Jn 2:5"
+        ],
+        "fix": [
+          "1 Jn 2:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "1 Jn 2:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 15:14-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "1 Jn 2:5"
+      ],
+      "gospel": [
+        "Lk 16:1-8"
+      ]
+    },
+    "checked_at": "2026-05-06T20:35:42+00:00"
   }
 }
