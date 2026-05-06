@@ -68054,7 +68054,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 119:14, 24, 72, 103, 111, 131",
+            "citation": "PS 119:14",
             "sources": [
               "USCCB"
             ]
@@ -68075,8 +68075,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-23": [

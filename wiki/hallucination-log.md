@@ -14158,3 +14158,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a9c3a1
+
+### ❌ 2027-08-13 — Friday of the Nineteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081327.cfm
+- **Status**: mismatch
+- **Lectionary**: 417
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 136:1-3, 16-18, 21-22']`, live=`['Psalm 136:1-3']`, fix=`['Psalm 136:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thessalonians 2:13']`, fix=`['See 1 Thessalonians 2:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1d6f461
