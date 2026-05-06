@@ -73320,5 +73320,38 @@
       ]
     },
     "checked_at": "2026-05-06T06:00:23+00:00"
+  },
+  "2024-03-08:0": {
+    "date": "2024-03-08",
+    "url": "https://bible.usccb.org/bible/readings/030824.cfm",
+    "lectionary_number": 241,
+    "feast": "Friday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Mt 4:17"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 14:2-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 81:6"
+      ],
+      "gospel": [
+        "Mk 12:28-34"
+      ]
+    },
+    "checked_at": "2026-05-06T06:05:40+00:00"
   }
 }
