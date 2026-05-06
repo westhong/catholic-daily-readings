@@ -15072,3 +15072,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 440
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/091224.cfm`, live=fetch failed
+
+### ❌ 2027-07-25 — Seventeenth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 12:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072527.cfm
+- **Status**: mismatch
+- **Lectionary**: 110
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 145:10-11, 15-16, 17-18']`, live=`['Psalm 145:10-11']`, fix=`['Psalm 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9c25e38

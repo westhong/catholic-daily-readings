@@ -77065,5 +77065,63 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T12:00:53+00:00"
+  },
+  "2027-07-25:0": {
+    "date": "2027-07-25",
+    "url": "https://bible.usccb.org/bible/readings/072527.cfm",
+    "lectionary_number": 110,
+    "feast": "Seventeenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 145:10-11, 15-16, 17-18"
+        ],
+        "live": [
+          "Psalm 145:10-11"
+        ],
+        "fix": [
+          "Psalm 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kings 4:42-44"
+      ],
+      "responsorial_psalm": [
+        "Psalm 145:10-11"
+      ],
+      "second_reading": [
+        "Ephesians 4:1-6"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "John 6:1-15"
+      ]
+    },
+    "checked_at": "2026-05-06T12:05:12+00:00"
   }
 }
