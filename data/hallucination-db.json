@@ -73170,5 +73170,60 @@
       ]
     },
     "checked_at": "2026-05-06T05:45:36+00:00"
+  },
+  "2025-01-24:0": {
+    "date": "2025-01-24",
+    "url": "https://bible.usccb.org/bible/readings/012425.cfm",
+    "lectionary_number": 315,
+    "feast": "Memorial of Saint Francis de Sales, Bishop and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 85:8, 10, 11-12, 13-14"
+        ],
+        "live": [
+          "Psalm 85:8"
+        ],
+        "fix": [
+          "Psalm 85:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 5:19-21"
+        ],
+        "fix": [
+          "2 Corinthians 5:19-21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 85:8"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19-21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 8:6-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 85:8"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19-21"
+      ],
+      "gospel": [
+        "Mark 3:13-19"
+      ]
+    },
+    "checked_at": "2026-05-06T05:50:53+00:00"
   }
 }

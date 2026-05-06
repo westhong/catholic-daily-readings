@@ -14337,3 +14337,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Thessalonians 1:1-5, 8']`, live=`['1 Thessalonians 1:1-5']`, fix=`['1 Thessalonians 1:1-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1d1e95
+
+### ❌ 2025-01-24 — Memorial of Saint Francis de Sales, Bishop and Doctor of the Church
+- **Checked**: 2026-05-06 05:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012425.cfm
+- **Status**: mismatch
+- **Lectionary**: 315
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 85:8, 10, 11-12, 13-14']`, live=`['Psalm 85:8']`, fix=`['Psalm 85:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19-21']`, fix=`['2 Corinthians 5:19-21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/024943d
