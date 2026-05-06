@@ -15680,3 +15680,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aec284f
+
+### ❌ 2024-03-11 — Monday of the Fourth Week of Lent
+- **Checked**: 2026-05-06 17:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031124.cfm
+- **Status**: mismatch
+- **Lectionary**: 244
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Am 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b1f0008

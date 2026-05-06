@@ -80156,5 +80156,38 @@
       ]
     },
     "checked_at": "2026-05-06T17:25:10+00:00"
+  },
+  "2024-03-11:0": {
+    "date": "2024-03-11",
+    "url": "https://bible.usccb.org/bible/readings/031124.cfm",
+    "lectionary_number": 244,
+    "feast": "Monday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Am 5:14"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 65:17-21"
+      ],
+      "responsorial_psalm": [
+        "PS 30:2"
+      ],
+      "gospel": [
+        "Jn 4:43-54"
+      ]
+    },
+    "checked_at": "2026-05-06T17:30:23+00:00"
   }
 }

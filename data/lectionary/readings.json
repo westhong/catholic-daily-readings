@@ -64002,7 +64002,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 34:2-3, 4-5, 6-7",
+            "citation": "Ps 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -64031,8 +64031,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 6:56",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-19": [
