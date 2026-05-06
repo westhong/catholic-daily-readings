@@ -83561,5 +83561,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T23:20:18+00:00"
+  },
+  "2023-04-10:0": {
+    "date": "2023-04-10",
+    "url": "https://bible.usccb.org/bible/readings/041023.cfm",
+    "lectionary_number": 261,
+    "feast": "Monday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 2:14, 22-33"
+        ],
+        "live": [
+          "Acts 2:14"
+        ],
+        "fix": [
+          "Acts 2:14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 118:24"
+        ],
+        "fix": [
+          "Ps 118:24"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "alleluia_verse": [
+        "Ps 118:24"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:1-2"
+      ],
+      "alleluia_verse": [
+        "Ps 118:24"
+      ],
+      "gospel": [
+        "Mt 28:8-15"
+      ]
+    },
+    "checked_at": "2026-05-06T23:25:36+00:00"
   }
 }

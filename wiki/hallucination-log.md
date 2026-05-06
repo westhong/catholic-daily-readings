@@ -16344,3 +16344,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 636
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/908.cfm`, live=fetch failed
+
+### ❌ 2023-04-10 — Monday in the Octave of Easter
+- **Checked**: 2026-05-06 23:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041023.cfm
+- **Status**: mismatch
+- **Lectionary**: 261
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fad66f4

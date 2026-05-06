@@ -61911,7 +61911,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Am 8:4-6, 9-12",
+            "citation": "Am 8:4-6",
             "sources": [
               "USCCB"
             ]
@@ -61919,7 +61919,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:2, 10, 20, 30, 40, 131",
+            "citation": "Ps 119:2",
             "sources": [
               "USCCB"
             ]
@@ -61940,8 +61940,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-06": [
