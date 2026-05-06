@@ -80978,5 +80978,53 @@
       ]
     },
     "checked_at": "2026-05-06T18:50:30+00:00"
+  },
+  "2024-03-16:0": {
+    "date": "2024-03-16",
+    "url": "https://bible.usccb.org/bible/readings/031624.cfm",
+    "lectionary_number": 249,
+    "feast": "Saturday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 7:2-3, 9"
+        ],
+        "live": [
+          "Ps 7:2-3"
+        ],
+        "fix": [
+          "Ps 7:2-3"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "See Lk 8:15"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 7:2-3"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jer 11:18-20"
+      ],
+      "responsorial_psalm": [
+        "Ps 7:2-3"
+      ],
+      "gospel": [
+        "Jn 7:40-53"
+      ]
+    },
+    "checked_at": "2026-05-06T18:55:41+00:00"
   }
 }

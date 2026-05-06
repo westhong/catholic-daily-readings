@@ -15840,3 +15840,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 97:1-2, 3-4, 5-6, 7']`, live=`['PS 97:1-2']`, fix=`['PS 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['ROM 8:15']`, fix=`['ROM 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f1fd9f5
+
+### ❌ 2024-03-16 — Saturday of the Fourth Week of Lent
+- **Checked**: 2026-05-06 18:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031624.cfm
+- **Status**: mismatch
+- **Lectionary**: 249
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 7:2-3, 9']`, live=`['Ps 7:2-3']`, fix=`['Ps 7:2-3']`
+  - **verse_before_gospel**: stored=`['See Lk 8:15']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7bfe37f
