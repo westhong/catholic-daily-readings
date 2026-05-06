@@ -83856,7 +83856,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ez 34:11-12, 15-17",
+            "citation": "Ez 34:11-12",
             "sources": [
               "USCCB"
             ]
@@ -83864,7 +83864,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 23:1-2, 2-3, 5-6",
+            "citation": "Ps 23:1-2",
             "sources": [
               "USCCB"
             ]
@@ -83872,7 +83872,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Cor 15:20-26, 28",
+            "citation": "1 Cor 15:20-26",
             "sources": [
               "USCCB"
             ]
@@ -83893,8 +83893,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mk 11:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-27": [

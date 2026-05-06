@@ -13919,3 +13919,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Romans 5:12, 15']`, live=`['Romans 5:12']`, fix=`['Romans 5:12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/085f55f
+
+### ❌ 2023-02-22 — Ash Wednesday
+- **Checked**: 2026-05-06 02:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022223.cfm
+- **Status**: mismatch
+- **Lectionary**: 219
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 51:3-4, 5-6']`, live=`['Ps 51:3-4']`, fix=`['Ps 51:3-4']`
+  - **second_reading**: stored=`['2 Cor 5:20—6']`, live=`['2 Cor 5:20']`, fix=`['2 Cor 5:20']`
+  - **verse_before_gospel**: stored=`['See Ps 95:8']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d25c95a
