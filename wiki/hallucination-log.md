@@ -14532,3 +14532,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Eph 1:3-6, 11-12']`, live=`['Eph 1:3-6']`, fix=`['Eph 1:3-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:28']`, fix=`['See Lk 1:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a43dd5
+
+### ❌ 2027-04-08 — Thursday of the Second Week of Easter
+- **Checked**: 2026-05-06 07:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040827.cfm
+- **Status**: mismatch
+- **Lectionary**: 270
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2354165
