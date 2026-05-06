@@ -15092,3 +15092,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 12-13, 18-19']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Joel 2:12-13']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a095a3f
+
+### ❌ 2025-10-07 — Memorial of Our Lady of the Rosary
+- **Checked**: 2026-05-06 12:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100725.cfm
+- **Status**: mismatch
+- **Lectionary**: 462
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 11:28']`, fix=`['Luke 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc05499
