@@ -78554,5 +78554,63 @@
       ]
     },
     "checked_at": "2026-05-06T14:35:05+00:00"
+  },
+  "2023-01-01:0": {
+    "date": "2023-01-01",
+    "url": "https://bible.usccb.org/bible/readings/010123.cfm",
+    "lectionary_number": 18,
+    "feast": "The Octave Day of Christmas Solemnity of the Blessed Virgin Mary, the Mother of God",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 67:2-3, 5, 6, 8"
+        ],
+        "live": [
+          "Ps 67:2-3"
+        ],
+        "fix": [
+          "Ps 67:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Heb 1:1-2"
+        ],
+        "fix": [
+          "Heb 1:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "alleluia_verse": [
+        "Heb 1:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Nm 6:22-27"
+      ],
+      "responsorial_psalm": [
+        "Ps 67:2-3"
+      ],
+      "second_reading": [
+        "Gal 4:4-7"
+      ],
+      "alleluia_verse": [
+        "Heb 1:1-2"
+      ],
+      "gospel": [
+        "Lk 2:16-21"
+      ]
+    },
+    "checked_at": "2026-05-06T14:40:19+00:00"
   }
 }

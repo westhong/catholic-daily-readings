@@ -15372,3 +15372,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Cor 11:17-26, 33']`, live=`['1 Cor 11:17-26']`, fix=`['1 Cor 11:17-26']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3728c1
+
+### ❌ 2023-01-01 — The Octave Day of Christmas Solemnity of the Blessed Virgin Mary, the Mother of God
+- **Checked**: 2026-05-06 14:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010123.cfm
+- **Status**: mismatch
+- **Lectionary**: 18
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 67:2-3, 5, 6, 8']`, live=`['Ps 67:2-3']`, fix=`['Ps 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Heb 1:1-2']`, fix=`['Heb 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/70b8b9d
