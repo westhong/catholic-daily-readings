@@ -15709,3 +15709,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 14']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0bc79c7
+
+### ❌ 2026-04-10 — Friday in the Octave of Easter
+- **Checked**: 2026-05-06 17:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041026.cfm
+- **Status**: mismatch
+- **Lectionary**: 265
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 118:1-2 and 4, 22-24, 25-27a']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+  - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1db8f5e
