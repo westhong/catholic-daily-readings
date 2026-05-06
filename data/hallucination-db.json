@@ -80849,5 +80849,60 @@
       ]
     },
     "checked_at": "2026-05-06T18:35:52+00:00"
+  },
+  "2024-10-16:0": {
+    "date": "2024-10-16",
+    "url": "https://bible.usccb.org/bible/readings/101624.cfm",
+    "lectionary_number": 469,
+    "feast": "Wednesday of the Twenty-eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 1:1-2, 3, 4"
+        ],
+        "live": [
+          "PS 1:1-2"
+        ],
+        "fix": [
+          "PS 1:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "JN 10:27"
+        ],
+        "fix": [
+          "JN 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 1:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "GAL 5:18-25"
+      ],
+      "responsorial_psalm": [
+        "PS 1:1-2"
+      ],
+      "alleluia_verse": [
+        "JN 10:27"
+      ],
+      "gospel": [
+        "LK 11:42-46"
+      ]
+    },
+    "checked_at": "2026-05-06T18:41:03+00:00"
   }
 }
