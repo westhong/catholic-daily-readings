@@ -15443,3 +15443,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:56']`, fix=`['John 6:56']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f740f0
+
+### ❌ 2023-02-03 — Friday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 15:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020323.cfm
+- **Status**: mismatch
+- **Lectionary**: 327
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 27:1, 3, 5, 8']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 8:15']`, fix=`['See Lk 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1cf9c6d
