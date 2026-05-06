@@ -15510,3 +15510,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:14-15']`, fix=`['John 3:14-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbcbdee
+
+### ❌ 2026-04-16 — Thursday of the Second Week of Easter
+- **Checked**: 2026-05-06 15:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041626.cfm
+- **Status**: mismatch
+- **Lectionary**: 270
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 34:2 and 9, 17-18, 19-20']`, live=`['Psalm 34:2']`, fix=`['Psalm 34:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e99f2f5
