@@ -31459,30 +31459,9 @@
       "feast": "Solemnity of the Assumption of the Blessed Virgin Mary",
       "mass": "Vigil",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "1 Chronicles 15:3-4, 15-16; 16:1-2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
-        "responsorial_psalm": [
-          {
-            "citation": "Psalm 132:6-7, 9-10, 13-14",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
-        "second_reading": [
-          {
-            "citation": "1 Corinthians 15:54b-57",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
+        "responsorial_psalm": [],
+        "second_reading": [],
         "alleluia": [
           {
             "citation": "Luke 11:28",
@@ -31491,15 +31470,9 @@
             ]
           }
         ],
-        "gospel": [
-          {
-            "citation": "Luke 11:27-28",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "gospel": []
+      },
+      "mass_idx": 0
     },
     {
       "date": "2026-08-15",

@@ -16088,3 +16088,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Phil 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 26:14—27']`, live=`['Mt 26:14']`, fix=`['Mt 26:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/89bfe10
+
+### ❌ 2027-05-14 — Feast of Saint Matthias, Apostle
+- **Checked**: 2026-05-06 21:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051427.cfm
+- **Status**: mismatch
+- **Lectionary**: 564
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 1:15-17, 20-26']`, live=`['Acts 1:15-17']`, fix=`['Acts 1:15-17']`
+  - **responsorial_psalm**: stored=`['Psalm 113:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 113:1-2']`, fix=`['Psalm 113:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/243bdee
