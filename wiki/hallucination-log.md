@@ -16257,3 +16257,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3ab, 3cd-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/333953c
+
+### ❌ 2025-01-05 — The Epiphany of the Lord
+- **Checked**: 2026-05-06 22:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010525.cfm
+- **Status**: mismatch
+- **Lectionary**: 20
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 7-8, 10-11, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 2:2']`, fix=`['Matthew 2:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3c0a060

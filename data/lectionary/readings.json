@@ -65866,7 +65866,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Wis 2:12, 17-20",
+            "citation": "Wis 2:12",
             "sources": [
               "USCCB"
             ]
@@ -65874,7 +65874,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 54:3-4, 5, 6",
+            "citation": "Ps 54:3-4",
             "sources": [
               "USCCB"
             ]
@@ -65882,7 +65882,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Jas 3:16—4",
+            "citation": "Jas 3:16",
             "sources": [
               "USCCB"
             ]
@@ -65904,7 +65904,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-23": [
