@@ -15235,3 +15235,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c75a333
+
+### 🚫 2026-11-01 — 
+- **Checked**: 2026-05-06 13:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261101.cfm
+- **Status**: url_dead
+- **Lectionary**: 667
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261101.cfm`, live=fetch failed

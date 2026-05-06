@@ -64759,7 +64759,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 37:3-4, 5-6, 27-28, 39-40",
+            "citation": "PS 37:3-4",
             "sources": [
               "USCCB"
             ]
@@ -64780,8 +64780,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-07": [
