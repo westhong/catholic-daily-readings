@@ -15608,3 +15608,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 72:1-2, 7-8, 12-13, 17']`, live=`['Ps 72:1-2']`, fix=`['Ps 72:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0b2b2f8
+
+### ❌ 2026-06-20 — Saturday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-06 16:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062026.cfm
+- **Status**: mismatch
+- **Lectionary**: 370
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 89:4-5, 29-30, 31-32, 33-34']`, live=`['Psalm 89:4-5']`, fix=`['Psalm 89:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e2df2cc

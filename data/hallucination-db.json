@@ -79742,5 +79742,60 @@
       ]
     },
     "checked_at": "2026-05-06T16:40:48+00:00"
+  },
+  "2026-06-20:0": {
+    "date": "2026-06-20",
+    "url": "https://bible.usccb.org/bible/readings/062026.cfm",
+    "lectionary_number": 370,
+    "feast": "Saturday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 89:4-5, 29-30, 31-32, 33-34"
+        ],
+        "live": [
+          "Psalm 89:4-5"
+        ],
+        "fix": [
+          "Psalm 89:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 8:9"
+        ],
+        "fix": [
+          "2 Corinthians 8:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 89:4-5"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Chronicles 24:17-25"
+      ],
+      "responsorial_psalm": [
+        "Psalm 89:4-5"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 8:9"
+      ],
+      "gospel": [
+        "Matthew 6:24-34"
+      ]
+    },
+    "checked_at": "2026-05-06T16:50:46+00:00"
   }
 }
