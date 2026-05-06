@@ -28086,7 +28086,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 4:2-3, 4-5, 7",
+            "citation": "Psalm 4:2-3",
             "sources": [
               "USCCB"
             ]
@@ -28107,8 +28107,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 5:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-10": [

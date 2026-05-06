@@ -14767,3 +14767,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:52, 53, 54, 55, 56']`, live=`['Daniel 3:52']`, fix=`['Daniel 3:52']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e8c3c3b
+
+### ❌ 2024-06-21 — Memorial of Saint Aloysius Gonzaga, Religious
+- **Checked**: 2026-05-06 09:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062124.cfm
+- **Status**: mismatch
+- **Lectionary**: 369
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kgs 11:1-4, 9-18, 20']`, live=`['2 Kgs 11:1-4']`, fix=`['2 Kgs 11:1-4']`
+  - **responsorial_psalm**: stored=`['Ps 132:11, 12, 13-14, 17-18']`, live=`['Ps 132:11']`, fix=`['Ps 132:11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f72b347

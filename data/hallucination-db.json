@@ -75452,5 +75452,75 @@
       ]
     },
     "checked_at": "2026-05-06T09:25:31+00:00"
+  },
+  "2024-06-21:0": {
+    "date": "2024-06-21",
+    "url": "https://bible.usccb.org/bible/readings/062124.cfm",
+    "lectionary_number": 369,
+    "feast": "Memorial of Saint Aloysius Gonzaga, Religious",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kgs 11:1-4, 9-18, 20"
+        ],
+        "live": [
+          "2 Kgs 11:1-4"
+        ],
+        "fix": [
+          "2 Kgs 11:1-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 132:11, 12, 13-14, 17-18"
+        ],
+        "live": [
+          "Ps 132:11"
+        ],
+        "fix": [
+          "Ps 132:11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:3"
+        ],
+        "fix": [
+          "Mt 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kgs 11:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 132:11"
+      ],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 11:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 132:11"
+      ],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ],
+      "gospel": [
+        "Mt 6:19-23"
+      ]
+    },
+    "checked_at": "2026-05-06T09:30:48+00:00"
   }
 }
