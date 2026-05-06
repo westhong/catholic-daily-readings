@@ -14127,3 +14127,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
   - **verse_before_gospel**: stored=`['Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/51f8354
+
+### ❌ 2027-05-29 — Saturday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-06 04:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052927.cfm
+- **Status**: mismatch
+- **Lectionary**: 352
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 11']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Colossians 3:16']`, fix=`['See Colossians 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b49f754

@@ -72149,5 +72149,60 @@
       ]
     },
     "checked_at": "2026-05-06T03:56:03+00:00"
+  },
+  "2027-05-29:0": {
+    "date": "2027-05-29",
+    "url": "https://bible.usccb.org/bible/readings/052927.cfm",
+    "lectionary_number": 352,
+    "feast": "Saturday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Psalm 19:8"
+        ],
+        "fix": [
+          "Psalm 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Colossians 3:16"
+        ],
+        "fix": [
+          "See Colossians 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "See Colossians 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Sirach 51:12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:8"
+      ],
+      "alleluia_verse": [
+        "See Colossians 3:16"
+      ],
+      "gospel": [
+        "Mark 11:27-33"
+      ]
+    },
+    "checked_at": "2026-05-06T04:00:15+00:00"
   }
 }
