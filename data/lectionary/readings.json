@@ -83085,7 +83085,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 131:1, 2, 3",
+            "citation": "Ps 131:1",
             "sources": [
               "USCCB"
             ]
@@ -83114,8 +83114,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 23:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-06": [
