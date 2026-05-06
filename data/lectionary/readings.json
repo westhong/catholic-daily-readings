@@ -64951,7 +64951,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 116:1-2, 3-4, 5-6, 8-9",
+            "citation": "Ps 116:1-2",
             "sources": [
               "USCCB"
             ]
@@ -64980,8 +64980,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Gal 6:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-09-16": [

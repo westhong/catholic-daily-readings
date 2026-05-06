@@ -14678,3 +14678,17 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 126:1-2, 2-3, 4-5, 6']`, live=`['Ps 126:1-2']`, fix=`['Ps 126:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b9c70c5
+
+### 🚫 2026-10-05 — 
+- **Checked**: 2026-05-06 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1005.cfm
+- **Status**: url_dead
+- **Lectionary**: 461
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1005.cfm`, live=fetch failed
+
+### ✅ 2023-01-05 — Memorial of Saint John Neumann, Bishop
+- **Checked**: 2026-05-06 08:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010523.cfm
+- **Status**: ok
+- **Lectionary**: 208
