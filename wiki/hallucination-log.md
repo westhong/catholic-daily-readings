@@ -15782,3 +15782,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad48df
+
+### ❌ 2025-03-09 — First Sunday of Lent
+- **Checked**: 2026-05-06 18:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030925.cfm
+- **Status**: mismatch
+- **Lectionary**: 24
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 91:1-2, 10-11, 12-13, 14-15']`, live=`['Psalm 91:1-2']`, fix=`['Psalm 91:1-2']`
+  - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3fa47e

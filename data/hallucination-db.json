@@ -80685,5 +80685,56 @@
       ]
     },
     "checked_at": "2026-05-06T18:15:56+00:00"
+  },
+  "2025-03-09:0": {
+    "date": "2025-03-09",
+    "url": "https://bible.usccb.org/bible/readings/030925.cfm",
+    "lectionary_number": 24,
+    "feast": "First Sunday of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 91:1-2, 10-11, 12-13, 14-15"
+        ],
+        "live": [
+          "Psalm 91:1-2"
+        ],
+        "fix": [
+          "Psalm 91:1-2"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Matthew 4:4b"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 91:1-2"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 26:4-10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 91:1-2"
+      ],
+      "second_reading": [
+        "Romans 10:8-13"
+      ],
+      "gospel": [
+        "Luke 4:1-13"
+      ]
+    },
+    "checked_at": "2026-05-06T18:20:08+00:00"
   }
 }
