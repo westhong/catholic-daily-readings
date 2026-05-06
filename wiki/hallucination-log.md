@@ -16394,3 +16394,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5e2e634
+
+### ❌ 2024-09-02 — Monday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 23:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090224.cfm
+- **Status**: mismatch
+- **Lectionary**: 431
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 119:97, 98, 99, 100, 101, 102']`, live=`['PS 119:97']`, fix=`['PS 119:97']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['LK 4:18']`, fix=`['LK 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e4c746a

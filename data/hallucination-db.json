@@ -83830,5 +83830,60 @@
       ]
     },
     "checked_at": "2026-05-06T23:45:46+00:00"
+  },
+  "2024-09-02:0": {
+    "date": "2024-09-02",
+    "url": "https://bible.usccb.org/bible/readings/090224.cfm",
+    "lectionary_number": 431,
+    "feast": "Monday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 119:97, 98, 99, 100, 101, 102"
+        ],
+        "live": [
+          "PS 119:97"
+        ],
+        "fix": [
+          "PS 119:97"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 4:18"
+        ],
+        "fix": [
+          "LK 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 119:97"
+      ],
+      "alleluia_verse": [
+        "LK 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 COR 2:1-5"
+      ],
+      "responsorial_psalm": [
+        "PS 119:97"
+      ],
+      "alleluia_verse": [
+        "LK 4:18"
+      ],
+      "gospel": [
+        "LK 4:16-30"
+      ]
+    },
+    "checked_at": "2026-05-06T23:51:04+00:00"
   }
 }
