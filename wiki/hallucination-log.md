@@ -15501,3 +15501,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **gospel**: stored=`['Matthew 1:1-16, 18-23']`, live=`['Matthew 1:1-16']`, fix=`['Matthew 1:1-16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b565d45
+
+### ❌ 2027-04-06 — Tuesday of the Second Week of Easter
+- **Checked**: 2026-05-06 15:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040627.cfm
+- **Status**: mismatch
+- **Lectionary**: 268
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:14-15']`, fix=`['John 3:14-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dbcbdee

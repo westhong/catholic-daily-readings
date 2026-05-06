@@ -25425,7 +25425,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 34:2 and 9, 17-18, 19-20",
+            "citation": "Psalm 34:2",
             "sources": [
               "USCCB"
             ]
@@ -25446,8 +25446,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 20:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-17": [
