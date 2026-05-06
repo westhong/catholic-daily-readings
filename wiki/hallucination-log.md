@@ -15927,3 +15927,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['44:10-11, 14-15, 24-25']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b249fb5
+
+### ❌ 2023-10-14 — Saturday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-06 19:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101423.cfm
+- **Status**: mismatch
+- **Lectionary**: 466
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 11-12']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c896b5a

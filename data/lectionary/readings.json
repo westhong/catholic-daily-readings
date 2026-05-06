@@ -59822,7 +59822,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Dt 4:32-34, 39-40",
+            "citation": "Dt 4:32-34",
             "sources": [
               "USCCB"
             ]
@@ -59830,7 +59830,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 33:4-5, 6, 9, 18-19, 20, 22",
+            "citation": "Ps 33:4-5",
             "sources": [
               "USCCB"
             ]
@@ -59859,8 +59859,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Rv 1:8",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-27": [

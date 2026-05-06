@@ -81390,5 +81390,60 @@
       ]
     },
     "checked_at": "2026-05-06T19:42:06+00:00"
+  },
+  "2023-10-14:0": {
+    "date": "2023-10-14",
+    "url": "https://bible.usccb.org/bible/readings/101423.cfm",
+    "lectionary_number": 466,
+    "feast": "Saturday of the Twenty-seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 97:1-2, 5-6, 11-12"
+        ],
+        "live": [
+          "Ps 97:1-2"
+        ],
+        "fix": [
+          "Ps 97:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 11:28"
+        ],
+        "fix": [
+          "Lk 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jl 4:12-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 97:1-2"
+      ],
+      "alleluia_verse": [
+        "Lk 11:28"
+      ],
+      "gospel": [
+        "Lk 11:27-28"
+      ]
+    },
+    "checked_at": "2026-05-06T19:45:17+00:00"
   }
 }
