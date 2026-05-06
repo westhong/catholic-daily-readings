@@ -13715,3 +13715,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/132363b
+
+### ❌ 2025-07-18 — Friday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 00:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071825.cfm
+- **Status**: mismatch
+- **Lectionary**: 393
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 11:10—12']`, live=`['Exodus 11:10']`, fix=`['Exodus 11:10']`
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1f739fb

@@ -70039,5 +70039,75 @@
       ]
     },
     "checked_at": "2026-05-06T00:25:55+00:00"
+  },
+  "2025-07-18:0": {
+    "date": "2025-07-18",
+    "url": "https://bible.usccb.org/bible/readings/071825.cfm",
+    "lectionary_number": 393,
+    "feast": "Friday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Exodus 11:10—12"
+        ],
+        "live": [
+          "Exodus 11:10"
+        ],
+        "fix": [
+          "Exodus 11:10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 116:12-13, 15"
+        ],
+        "live": [
+          "Psalm 116:12-13"
+        ],
+        "fix": [
+          "Psalm 116:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:27"
+        ],
+        "fix": [
+          "John 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Exodus 11:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 11:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:12-13"
+      ],
+      "alleluia_verse": [
+        "John 10:27"
+      ],
+      "gospel": [
+        "Matthew 12:1-8"
+      ]
+    },
+    "checked_at": "2026-05-06T00:30:07+00:00"
   }
 }
