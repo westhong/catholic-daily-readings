@@ -83311,5 +83311,35 @@
       ]
     },
     "checked_at": "2026-05-06T22:50:52+00:00"
+  },
+  "2024-04-05:0": {
+    "date": "2024-04-05",
+    "url": "https://bible.usccb.org/bible/readings/040524.cfm",
+    "lectionary_number": 265,
+    "feast": "Friday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "118:1-2"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 4:1-12"
+      ],
+      "gospel": [
+        "Jn 21:1-14"
+      ]
+    },
+    "checked_at": "2026-05-06T22:55:07+00:00"
   }
 }

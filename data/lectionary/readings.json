@@ -42504,7 +42504,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 3:13-15, 17-19",
+            "citation": "Acts 3:13-15",
             "sources": [
               "USCCB"
             ]
@@ -42512,7 +42512,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 4:2, 4, 7-8, 9",
+            "citation": "Psalm 4:2",
             "sources": [
               "USCCB"
             ]
@@ -42542,7 +42542,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-12": [

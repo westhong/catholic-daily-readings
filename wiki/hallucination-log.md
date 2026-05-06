@@ -16288,3 +16288,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:28']`, fix=`['Luke 21:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/350dd4b
+
+### ❌ 2024-04-05 — Friday in the Octave of Easter
+- **Checked**: 2026-05-06 22:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040524.cfm
+- **Status**: mismatch
+- **Lectionary**: 265
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['118:1-2']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b4336dd
