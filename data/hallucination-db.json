@@ -70869,5 +70869,38 @@
       ]
     },
     "checked_at": "2026-05-06T01:50:07+00:00"
+  },
+  "2026-03-16:0": {
+    "date": "2026-03-16",
+    "url": "https://bible.usccb.org/bible/readings/031626.cfm",
+    "lectionary_number": 244,
+    "feast": "Monday of the Fourth Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Amos 5:14"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 65:17-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 30:2"
+      ],
+      "gospel": [
+        "John 4:43-54"
+      ]
+    },
+    "checked_at": "2026-05-06T01:55:23+00:00"
   }
 }

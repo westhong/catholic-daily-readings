@@ -13880,3 +13880,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ff95743
+
+### ❌ 2026-03-16 — Monday of the Fourth Week of Lent
+- **Checked**: 2026-05-06 01:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031626.cfm
+- **Status**: mismatch
+- **Lectionary**: 244
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Amos 5:14']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/11361ab
