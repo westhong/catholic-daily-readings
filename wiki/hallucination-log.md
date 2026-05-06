@@ -14610,3 +14610,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 122:1-2, 3-4ab, 4cd-5']`, live=`['Psalm 122:1-2']`, fix=`['Psalm 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:4']`, fix=`['John 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8c5faac
+
+### ❌ 2025-01-25 — Feast of the Conversion of Saint Paul, Apostle
+- **Checked**: 2026-05-06 08:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012525.cfm
+- **Status**: mismatch
+- **Lectionary**: 519
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 22:3-16']`, live=`['Acts 22:3-16', 'Acts 9:1-22']`, fix=`['Acts 22:3-16', 'Acts 9:1-22']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:16']`, fix=`['John 15:16']`
+  - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mark 16:15-18']`, fix=`['Mark 16:15-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8332c46
