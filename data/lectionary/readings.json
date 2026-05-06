@@ -67017,7 +67017,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 1:1-2, 3, 4",
+            "citation": "PS 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -67038,8 +67038,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "JN 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-17": [
