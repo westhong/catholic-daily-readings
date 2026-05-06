@@ -76976,5 +76976,75 @@
       ]
     },
     "checked_at": "2026-05-06T11:50:26+00:00"
+  },
+  "2025-11-26:0": {
+    "date": "2025-11-26",
+    "url": "https://bible.usccb.org/bible/readings/112625.cfm",
+    "lectionary_number": 505,
+    "feast": "Wednesday of the Thirty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Daniel 5:1-6, 13-14, 16-17, 23-28"
+        ],
+        "live": [
+          "Daniel 5:1-6"
+        ],
+        "fix": [
+          "Daniel 5:1-6"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Daniel 3:62, 63, 64, 65, 66, 67"
+        ],
+        "live": [
+          "Daniel 3:62"
+        ],
+        "fix": [
+          "Daniel 3:62"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Revelation 2:10"
+        ],
+        "fix": [
+          "Revelation 2:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Daniel 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:62"
+      ],
+      "alleluia_verse": [
+        "Revelation 2:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Daniel 5:1-6"
+      ],
+      "responsorial_psalm": [
+        "Daniel 3:62"
+      ],
+      "alleluia_verse": [
+        "Revelation 2:10"
+      ],
+      "gospel": [
+        "Luke 21:12-19"
+      ]
+    },
+    "checked_at": "2026-05-06T11:55:39+00:00"
   }
 }
