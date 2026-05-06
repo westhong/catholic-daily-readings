@@ -15648,3 +15648,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 21:2-3, 4-5, 6-7']`, live=`['Ps 21:2-3']`, fix=`['Ps 21:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Heb 4:12']`, fix=`['Heb 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b61bac7
+
+### ❌ 2027-02-05 — Memorial of Saint Agatha, Virgin and Martyr
+- **Checked**: 2026-05-06 17:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020527.cfm
+- **Status**: mismatch
+- **Lectionary**: 327
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 27:1, 3, 5, 8']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 8:15']`, fix=`['Luke 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1c350d1
