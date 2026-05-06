@@ -14912,3 +14912,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 472
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1017.cfm`, live=fetch failed
+
+### ❌ 2027-02-23 — Tuesday of the Second Week of Lent
+- **Checked**: 2026-05-06 10:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022327.cfm
+- **Status**: mismatch
+- **Lectionary**: 231
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 1:10, 16-20']`, live=`['Isaiah 1:10']`, fix=`['Isaiah 1:10']`
+  - **responsorial_psalm**: stored=`['Psalm 50:8-9, 16']`, live=`['Psalm 50:8-9']`, fix=`['Psalm 50:8-9']`
+  - **verse_before_gospel**: stored=`['Ezekiel 18:31']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9e7b053

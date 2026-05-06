@@ -76196,5 +76196,68 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T10:40:10+00:00"
+  },
+  "2027-02-23:0": {
+    "date": "2027-02-23",
+    "url": "https://bible.usccb.org/bible/readings/022327.cfm",
+    "lectionary_number": 231,
+    "feast": "Tuesday of the Second Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 1:10, 16-20"
+        ],
+        "live": [
+          "Isaiah 1:10"
+        ],
+        "fix": [
+          "Isaiah 1:10"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 50:8-9, 16"
+        ],
+        "live": [
+          "Psalm 50:8-9"
+        ],
+        "fix": [
+          "Psalm 50:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ezekiel 18:31"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Isaiah 1:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 1:10"
+      ],
+      "responsorial_psalm": [
+        "Psalm 50:8-9"
+      ],
+      "gospel": [
+        "Matthew 23:1-12"
+      ]
+    },
+    "checked_at": "2026-05-06T10:45:23+00:00"
   }
 }
