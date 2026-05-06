@@ -19922,7 +19922,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 97:1, 6, 11-12",
+            "citation": "Psalm 97:1",
             "sources": [
               "USCCB"
             ]
@@ -19943,8 +19943,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 2
     },
     {
       "date": "2025-12-25",

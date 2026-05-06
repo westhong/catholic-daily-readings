@@ -15732,3 +15732,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['1 Corinthians 15:20-27']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Luke 1:39-56']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fecb1ff
+
+### ❌ 2027-04-24 — Saturday of the Fourth Week of Easter
+- **Checked**: 2026-05-06 17:57 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042427.cfm
+- **Status**: mismatch
+- **Lectionary**: 284
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeb1f0f
