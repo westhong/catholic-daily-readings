@@ -13820,3 +13820,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 439
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/909.cfm`, live=fetch failed
+
+### ❌ 2025-11-10 — Memorial of Saint Leo the Great, Pope and Doctor of the Church
+- **Checked**: 2026-05-06 01:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111025.cfm
+- **Status**: mismatch
+- **Lectionary**: 491
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/977a543
