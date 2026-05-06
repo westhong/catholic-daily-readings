@@ -78726,5 +78726,45 @@
       ]
     },
     "checked_at": "2026-05-06T14:55:04+00:00"
+  },
+  "2027-01-12:0": {
+    "date": "2027-01-12",
+    "url": "https://bible.usccb.org/bible/readings/011227.cfm",
+    "lectionary_number": 306,
+    "feast": "Tuesday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Thessalonians 2:13"
+        ],
+        "fix": [
+          "1 Thessalonians 2:13"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "1 Thessalonians 2:13"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 2:5-12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 8:2"
+      ],
+      "alleluia_verse": [
+        "1 Thessalonians 2:13"
+      ],
+      "gospel": [
+        "Mark 1:21-28"
+      ]
+    },
+    "checked_at": "2026-05-06T15:00:19+00:00"
   }
 }

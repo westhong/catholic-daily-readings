@@ -15409,3 +15409,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 5-6, 23-24, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97236a3
+
+### ❌ 2027-01-12 — Tuesday of the First Week in Ordinary Time
+- **Checked**: 2026-05-06 15:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011227.cfm
+- **Status**: mismatch
+- **Lectionary**: 306
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 2:13']`, fix=`['1 Thessalonians 2:13']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/73cb011
