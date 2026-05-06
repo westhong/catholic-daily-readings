@@ -73654,5 +73654,60 @@
       ]
     },
     "checked_at": "2026-05-06T06:40:22+00:00"
+  },
+  "2025-05-26:0": {
+    "date": "2025-05-26",
+    "url": "https://bible.usccb.org/bible/readings/052625.cfm",
+    "lectionary_number": 291,
+    "feast": "Memorial of Saint Philip Neri, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:26"
+        ],
+        "fix": [
+          "John 15:26"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "John 15:26—16"
+        ],
+        "live": [
+          "John 15:26"
+        ],
+        "fix": [
+          "John 15:26"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 15:26"
+      ],
+      "gospel": [
+        "John 15:26"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:11-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 149:1"
+      ],
+      "alleluia_verse": [
+        "John 15:26"
+      ],
+      "gospel": [
+        "John 15:26"
+      ]
+    },
+    "checked_at": "2026-05-06T06:45:36+00:00"
   }
 }

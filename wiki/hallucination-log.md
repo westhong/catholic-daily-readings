@@ -14440,3 +14440,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 2:6-7, 8-9, 10-11ab']`, live=`['Psalm 2:6-7']`, fix=`['Psalm 2:6-7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/babaafc
+
+### ❌ 2025-05-26 — Memorial of Saint Philip Neri, Priest
+- **Checked**: 2026-05-06 06:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052625.cfm
+- **Status**: mismatch
+- **Lectionary**: 291
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:26']`, fix=`['John 15:26']`
+  - **gospel**: stored=`['John 15:26—16']`, live=`['John 15:26']`, fix=`['John 15:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e2e5d3
