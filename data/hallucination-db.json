@@ -71577,5 +71577,45 @@
       ]
     },
     "checked_at": "2026-05-06T02:56:04+00:00"
+  },
+  "2023-10-19:0": {
+    "date": "2023-10-19",
+    "url": "https://bible.usccb.org/bible/readings/101923.cfm",
+    "lectionary_number": 470,
+    "feast": "Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:6"
+        ],
+        "fix": [
+          "Jn 14:6"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 14:6"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 3:21-30"
+      ],
+      "responsorial_psalm": [
+        "Ps 130:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:6"
+      ],
+      "gospel": [
+        "Lk 11:47-54"
+      ]
+    },
+    "checked_at": "2026-05-06T03:00:19+00:00"
   }
 }

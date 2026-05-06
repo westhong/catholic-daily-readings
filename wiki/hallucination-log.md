@@ -14011,3 +14011,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:9, 10, 11, 12, 13, 14']`, live=`['Psalm 119:9']`, fix=`['Psalm 119:9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f291cce
+
+### ❌ 2023-10-19 — Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs
+- **Checked**: 2026-05-06 03:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101923.cfm
+- **Status**: mismatch
+- **Lectionary**: 470
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/741a4de
