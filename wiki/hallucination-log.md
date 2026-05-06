@@ -13802,3 +13802,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 37:5-6, 30-31, 39-40']`, live=`['PS 37:5-6']`, fix=`['PS 37:5-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/69f60ce
+
+### ❌ 2025-10-01 — Memorial of Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church
+- **Checked**: 2026-05-06 01:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100125.cfm
+- **Status**: mismatch
+- **Lectionary**: 457
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 137:1-2, 3, 4-5, 6']`, live=`['Psalm 137:1-2']`, fix=`['Psalm 137:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 3:8-9']`, fix=`['Philippians 3:8-9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16f4ec4
