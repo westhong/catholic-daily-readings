@@ -22214,7 +22214,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 112:4-5, 6-7, 8-9",
+            "citation": "Psalm 112:4-5",
             "sources": [
               "USCCB"
             ]
@@ -22243,8 +22243,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-09": [
