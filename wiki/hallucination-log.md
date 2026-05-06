@@ -14385,3 +14385,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 119:12, 16, 18, 27, 34, 35']`, live=`['Psalm 119:12']`, fix=`['Psalm 119:12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 17:17']`, fix=`['John 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f505f7d
+
+### 🚫 2026-08-20 — 
+- **Checked**: 2026-05-06 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/820.cfm
+- **Status**: url_dead
+- **Lectionary**: 422
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/820.cfm`, live=fetch failed

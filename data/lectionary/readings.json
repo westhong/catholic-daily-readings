@@ -27294,7 +27294,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 147:12-13, 14-15, 19-20",
+            "citation": "Psalm 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -27315,8 +27315,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 10:45",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-28": [
