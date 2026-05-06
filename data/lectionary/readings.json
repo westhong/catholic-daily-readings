@@ -47248,7 +47248,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:10-11, 15-16, 17-18",
+            "citation": "Psalm 145:10-11",
             "sources": [
               "USCCB"
             ]
@@ -47269,8 +47269,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-07-26": [

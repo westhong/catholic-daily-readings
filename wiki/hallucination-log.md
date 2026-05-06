@@ -15064,3 +15064,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Daniel 3:62, 63, 64, 65, 66, 67']`, live=`['Daniel 3:62']`, fix=`['Daniel 3:62']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Revelation 2:10']`, fix=`['Revelation 2:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b74eb02
+
+### 🚫 2024-09-12 — Thursday of the Twenty-third Week in Ordinary Time
+- **Checked**: 2026-05-06 12:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091224.cfm
+- **Status**: url_dead
+- **Lectionary**: 440
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/091224.cfm`, live=fetch failed
