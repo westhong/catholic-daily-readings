@@ -71141,5 +71141,93 @@
       ]
     },
     "checked_at": "2026-05-06T02:15:17+00:00"
+  },
+  "2023-11-26:0": {
+    "date": "2023-11-26",
+    "url": "https://bible.usccb.org/bible/readings/112623.cfm",
+    "lectionary_number": 160,
+    "feast": "The Solemnity of Our Lord Jesus Christ, King of the Universe",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ez 34:11-12, 15-17"
+        ],
+        "live": [
+          "Ez 34:11-12"
+        ],
+        "fix": [
+          "Ez 34:11-12"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 23:1-2, 2-3, 5-6"
+        ],
+        "live": [
+          "Ps 23:1-2"
+        ],
+        "fix": [
+          "Ps 23:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Cor 15:20-26, 28"
+        ],
+        "live": [
+          "1 Cor 15:20-26"
+        ],
+        "fix": [
+          "1 Cor 15:20-26"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 11:9"
+        ],
+        "fix": [
+          "Mk 11:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ez 34:11-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 23:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 15:20-26"
+      ],
+      "alleluia_verse": [
+        "Mk 11:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 34:11-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 23:1-2"
+      ],
+      "second_reading": [
+        "1 Cor 15:20-26"
+      ],
+      "alleluia_verse": [
+        "Mk 11:9"
+      ],
+      "gospel": [
+        "Mt 25:31-46"
+      ]
+    },
+    "checked_at": "2026-05-06T02:20:31+00:00"
   }
 }

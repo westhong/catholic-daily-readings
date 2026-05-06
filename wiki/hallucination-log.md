@@ -13931,3 +13931,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['See Ps 95:8']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 6:1-6, 16-18']`, live=`['Mt 6:1-6']`, fix=`['Mt 6:1-6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d25c95a
+
+### ❌ 2023-11-26 — The Solemnity of Our Lord Jesus Christ, King of the Universe
+- **Checked**: 2026-05-06 02:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/112623.cfm
+- **Status**: mismatch
+- **Lectionary**: 160
+- **Mismatches**:
+  - **first_reading**: stored=`['Ez 34:11-12, 15-17']`, live=`['Ez 34:11-12']`, fix=`['Ez 34:11-12']`
+  - **responsorial_psalm**: stored=`['Ps 23:1-2, 2-3, 5-6']`, live=`['Ps 23:1-2']`, fix=`['Ps 23:1-2']`
+  - **second_reading**: stored=`['1 Cor 15:20-26, 28']`, live=`['1 Cor 15:20-26']`, fix=`['1 Cor 15:20-26']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 11:9']`, fix=`['Mk 11:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a58f2ad
