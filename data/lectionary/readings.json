@@ -26635,7 +26635,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 138:1-2ab, 2cde-3, 7c-8",
+            "citation": "Psalm 138:1-2",
             "sources": [
               "USCCB"
             ]
@@ -26656,8 +26656,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 16:7",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-13": [
