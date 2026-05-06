@@ -13972,3 +13972,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a808c1
+
+### ❌ 2025-11-13 — Memorial of Saint Frances Xavier Cabrini, Virgin [In the Dioceses of the United States]
+- **Checked**: 2026-05-06 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111325.cfm
+- **Status**: mismatch
+- **Lectionary**: 494
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:89, 90, 91, 130, 135, 175']`, live=`['Psalm 119:89']`, fix=`['Psalm 119:89']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 15:5']`, fix=`['John 15:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4094fc3

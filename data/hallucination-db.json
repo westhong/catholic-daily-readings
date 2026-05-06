@@ -71372,5 +71372,60 @@
       ]
     },
     "checked_at": "2026-05-06T02:35:10+00:00"
+  },
+  "2025-11-13:0": {
+    "date": "2025-11-13",
+    "url": "https://bible.usccb.org/bible/readings/111325.cfm",
+    "lectionary_number": 494,
+    "feast": "Memorial of Saint Frances Xavier Cabrini, Virgin [In the Dioceses of the United States]",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 119:89, 90, 91, 130, 135, 175"
+        ],
+        "live": [
+          "Psalm 119:89"
+        ],
+        "fix": [
+          "Psalm 119:89"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 15:5"
+        ],
+        "fix": [
+          "John 15:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 119:89"
+      ],
+      "alleluia_verse": [
+        "John 15:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 7:22"
+      ],
+      "responsorial_psalm": [
+        "Psalm 119:89"
+      ],
+      "alleluia_verse": [
+        "John 15:5"
+      ],
+      "gospel": [
+        "Luke 17:20-25"
+      ]
+    },
+    "checked_at": "2026-05-06T02:40:25+00:00"
   }
 }
