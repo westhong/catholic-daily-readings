@@ -70109,5 +70109,24 @@
       ]
     },
     "checked_at": "2026-05-06T00:30:07+00:00"
+  },
+  "2026-07-26:0": {
+    "date": "2026-07-26",
+    "url": "https://bible.usccb.org/bible/readings/726.cfm",
+    "lectionary_number": 109,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/726.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T00:35:21+00:00"
   }
 }

@@ -13726,3 +13726,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:27']`, fix=`['John 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1f739fb
+
+### 🚫 2026-07-26 — 
+- **Checked**: 2026-05-06 00:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/726.cfm
+- **Status**: url_dead
+- **Lectionary**: 109
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/726.cfm`, live=fetch failed
