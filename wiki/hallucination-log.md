@@ -14274,3 +14274,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 68:10-11, 20-21']`, live=`['Psalm 68:10-11']`, fix=`['Psalm 68:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:16']`, fix=`['John 14:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/def8a0c
+
+### 🚫 2026-12-04 — 
+- **Checked**: 2026-05-06 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261204.cfm
+- **Status**: url_dead
+- **Lectionary**: 179
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261204.cfm`, live=fetch failed
