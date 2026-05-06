@@ -14347,3 +14347,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 85:8, 10, 11-12, 13-14']`, live=`['Psalm 85:8']`, fix=`['Psalm 85:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19-21']`, fix=`['2 Corinthians 5:19-21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/024943d
+
+### ❌ 2024-12-26 — Feast of Saint Stephen, first martyr
+- **Checked**: 2026-05-06 05:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122624.cfm
+- **Status**: mismatch
+- **Lectionary**: 696
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:26']`, fix=`['Ps 118:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24902c9
