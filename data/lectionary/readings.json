@@ -80124,7 +80124,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 21:2-3, 4-5, 6-7",
+            "citation": "Ps 21:2-3",
             "sources": [
               "USCCB"
             ]
@@ -80145,8 +80145,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Heb 4:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-24": [
