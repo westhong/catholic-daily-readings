@@ -81573,5 +81573,66 @@
       ]
     },
     "checked_at": "2026-05-06T19:55:42+00:00"
+  },
+  "2024-11-16:0": {
+    "date": "2024-11-16",
+    "url": "https://bible.usccb.org/bible/readings/111624.cfm",
+    "lectionary_number": 496,
+    "feast": "Saturday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "3 JN 5-8 Beloved, you are faithful in al"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 112:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "PS 112:1-2"
+        ],
+        "fix": [
+          "PS 112:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 THES 2:14"
+        ],
+        "fix": [
+          "See 2 THES 2:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "PS 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See 2 THES 2:14"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "PS 112:1-2"
+      ],
+      "alleluia_verse": [
+        "See 2 THES 2:14"
+      ],
+      "gospel": [
+        "LK 18:1-8"
+      ]
+    },
+    "checked_at": "2026-05-06T20:00:54+00:00"
   }
 }

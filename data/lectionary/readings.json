@@ -13159,7 +13159,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 45:10, 11, 12, 16",
+            "citation": "Psalm 45:10",
             "sources": [
               "USCCB"
             ]
@@ -13184,7 +13184,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/081525-Mass.cfm",
       "date": "2025-08-15",
-      "mass": "Mass"
+      "mass": "Mass",
+      "mass_idx": 1
     }
   ],
   "2025-08-16": [

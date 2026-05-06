@@ -15958,3 +15958,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 112:1-2, 5-6, 7-8, 9']`, live=`['Psalm 112:1-2']`, fix=`['Psalm 112:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8fae488
+
+### ❌ 2024-11-16 — Saturday of the Thirty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 20:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111624.cfm
+- **Status**: mismatch
+- **Lectionary**: 496
+- **Mismatches**:
+  - **first_reading**: stored=`['3 JN 5-8 Beloved, you are faithful in al']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['PS 112:1-2, 3-4, 5-6']`, live=`['PS 112:1-2']`, fix=`['PS 112:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 THES 2:14']`, fix=`['See 2 THES 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc9183e
