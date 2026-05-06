@@ -78671,5 +78671,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T14:50:48+00:00"
+  },
+  "2027-01-29:0": {
+    "date": "2027-01-29",
+    "url": "https://bible.usccb.org/bible/readings/012927.cfm",
+    "lectionary_number": 321,
+    "feast": "Friday of the Third Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 37:3-4, 5-6, 23-24, 39-40"
+        ],
+        "live": [
+          "Psalm 37:3-4"
+        ],
+        "fix": [
+          "Psalm 37:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 11:25"
+        ],
+        "fix": [
+          "See Matthew 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 10:32-39"
+      ],
+      "responsorial_psalm": [
+        "Psalm 37:3-4"
+      ],
+      "alleluia_verse": [
+        "See Matthew 11:25"
+      ],
+      "gospel": [
+        "Mark 4:26-34"
+      ]
+    },
+    "checked_at": "2026-05-06T14:55:04+00:00"
   }
 }

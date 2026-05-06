@@ -15399,3 +15399,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 200
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261224.cfm`, live=fetch failed
+
+### ❌ 2027-01-29 — Friday of the Third Week in Ordinary Time
+- **Checked**: 2026-05-06 14:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012927.cfm
+- **Status**: mismatch
+- **Lectionary**: 321
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 37:3-4, 5-6, 23-24, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/97236a3
