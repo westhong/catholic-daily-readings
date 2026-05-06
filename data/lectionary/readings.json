@@ -20818,7 +20818,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Samuel 8:4-7, 10-22",
+            "citation": "1 Samuel 8:4-7",
             "sources": [
               "USCCB"
             ]
@@ -20826,7 +20826,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:16-17, 18-19",
+            "citation": "Psalm 89:16-17",
             "sources": [
               "USCCB"
             ]
@@ -20847,8 +20847,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-17": [

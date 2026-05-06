@@ -14541,3 +14541,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2354165
+
+### ❌ 2027-03-28 — The Resurrection of the Lord The Mass of Easter Day
+- **Checked**: 2026-05-06 07:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032827.cfm
+- **Status**: mismatch
+- **Lectionary**: 42
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 118:1-2, 16-17, 22-23']`, live=`['Psalm 118:1-2']`, fix=`['Psalm 118:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1be4454
