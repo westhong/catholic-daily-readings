@@ -15742,3 +15742,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:31']`, fix=`['John 8:31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eeb1f0f
+
+### ❌ 2025-12-25 — The Nativity of the Lord (Christmas) Mass at Dawn
+- **Checked**: 2026-05-06 18:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122525-Dawn.cfm
+- **Status**: mismatch
+- **Lectionary**: 15
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 97:1, 6, 11-12']`, live=`['Psalm 97:1']`, fix=`['Psalm 97:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 2:14']`, fix=`['Luke 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c6a309d
