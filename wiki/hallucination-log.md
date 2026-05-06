@@ -14030,3 +14030,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 3-4, 7-8']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/050fd5e
+
+### ❌ 2027-02-20 — Saturday of the First Week of Lent
+- **Checked**: 2026-05-06 03:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022027.cfm
+- **Status**: mismatch
+- **Lectionary**: 229
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 119:1-2, 4-5, 7-8']`, live=`['Psalm 119:1-2']`, fix=`['Psalm 119:1-2']`
+  - **verse_before_gospel**: stored=`['2 Corinthians 6:2b']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/03dca5e
