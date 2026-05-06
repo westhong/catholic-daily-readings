@@ -15878,3 +15878,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:8-9, 13']`, live=`['Psalm 145:8-9']`, fix=`['Psalm 145:8-9']`
   - **verse_before_gospel**: stored=`['John 11:25a, 26']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6042b82
+
+### ❌ 2024-01-02 — Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church
+- **Checked**: 2026-05-06 19:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010224.cfm
+- **Status**: mismatch
+- **Lectionary**: 205
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['98:1, 2-3']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['HEB 1:1-2']`, fix=`['HEB 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e665774
