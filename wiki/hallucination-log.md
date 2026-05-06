@@ -16047,3 +16047,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 18-19, 20-21']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c53a247
+
+### ❌ 2025-03-30 — Fourth Sunday of Lent Scrutiny Year A Readings
+- **Checked**: 2026-05-06 20:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/033025-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 31
+- **Mismatches**:
+  - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/28d0d4a
