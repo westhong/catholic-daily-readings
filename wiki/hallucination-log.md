@@ -15888,3 +15888,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['98:1, 2-3']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['HEB 1:1-2']`, fix=`['HEB 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e665774
+
+### ❌ 2023-07-25 — Feast of Saint James, Apostle
+- **Checked**: 2026-05-06 19:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072523.cfm
+- **Status**: mismatch
+- **Lectionary**: 605
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ecde0cc

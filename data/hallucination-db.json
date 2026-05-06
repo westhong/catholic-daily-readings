@@ -81194,5 +81194,45 @@
       ]
     },
     "checked_at": "2026-05-06T19:20:33+00:00"
+  },
+  "2023-07-25:0": {
+    "date": "2023-07-25",
+    "url": "https://bible.usccb.org/bible/readings/072523.cfm",
+    "lectionary_number": 605,
+    "feast": "Feast of Saint James, Apostle",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 15:16"
+        ],
+        "fix": [
+          "See Jn 15:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 4:7-15"
+      ],
+      "responsorial_psalm": [
+        "Ps 126:1"
+      ],
+      "alleluia_verse": [
+        "See Jn 15:16"
+      ],
+      "gospel": [
+        "Mt 20:20-28"
+      ]
+    },
+    "checked_at": "2026-05-06T19:25:44+00:00"
   }
 }
