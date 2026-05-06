@@ -14944,3 +14944,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Eph 4:30—5']`, live=`['Eph 4:30']`, fix=`['Eph 4:30']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a480998
+
+### ❌ 2025-03-23 — Third Sunday of Lent Year C
+- **Checked**: 2026-05-06 11:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/032325-YearC.cfm
+- **Status**: mismatch
+- **Lectionary**: 30
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 103: 1-2, 3-4, 6-7, 8, 11']`, live=`['Psalm 103: 1']`, fix=`['Psalm 103: 1']`
+  - **second_reading**: stored=`['1 Corinthians 10:1-6, 10-12']`, live=`['1 Corinthians 10:1-6']`, fix=`['1 Corinthians 10:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8965368

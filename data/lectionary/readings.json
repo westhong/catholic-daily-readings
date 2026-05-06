@@ -21271,7 +21271,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 56:2-3, 9-10",
+            "citation": "Psalm 56:2-3",
             "sources": [
               "USCCB"
             ]
@@ -21292,8 +21292,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Timothy 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-23": [
