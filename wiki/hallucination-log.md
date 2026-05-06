@@ -15015,3 +15015,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 7-8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:10']`, fix=`['Matthew 5:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a886784
+
+### ❌ 2023-08-24 — Feast of Saint Bartholomew, Apostle
+- **Checked**: 2026-05-06 11:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082423.cfm
+- **Status**: mismatch
+- **Lectionary**: 629
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13, 17-18']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 1:49']`, fix=`['Jn 1:49']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/805791f
