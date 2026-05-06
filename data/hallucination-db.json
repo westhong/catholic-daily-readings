@@ -73045,5 +73045,75 @@
       ]
     },
     "checked_at": "2026-05-06T05:35:55+00:00"
+  },
+  "2024-05-30:0": {
+    "date": "2024-05-30",
+    "url": "https://bible.usccb.org/bible/readings/053024.cfm",
+    "lectionary_number": 350,
+    "feast": "Thursday of the Eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Pt 2:2-5, 9-12"
+        ],
+        "live": [
+          "1 Pt 2:2-5"
+        ],
+        "fix": [
+          "1 Pt 2:2-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 100:2, 3, 4, 5"
+        ],
+        "live": [
+          "PS 100:2"
+        ],
+        "fix": [
+          "PS 100:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 8:12"
+        ],
+        "fix": [
+          "Jn 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Pt 2:2-5"
+      ],
+      "responsorial_psalm": [
+        "PS 100:2"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Pt 2:2-5"
+      ],
+      "responsorial_psalm": [
+        "PS 100:2"
+      ],
+      "alleluia_verse": [
+        "Jn 8:12"
+      ],
+      "gospel": [
+        "Mk 10:46-52"
+      ]
+    },
+    "checked_at": "2026-05-06T05:40:12+00:00"
   }
 }

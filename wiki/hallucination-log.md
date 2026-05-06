@@ -14316,3 +14316,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['87:1']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4f0ecc1
+
+### ❌ 2024-05-30 — Thursday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-06 05:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053024.cfm
+- **Status**: mismatch
+- **Lectionary**: 350
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Pt 2:2-5, 9-12']`, live=`['1 Pt 2:2-5']`, fix=`['1 Pt 2:2-5']`
+  - **responsorial_psalm**: stored=`['PS 100:2, 3, 4, 5']`, live=`['PS 100:2']`, fix=`['PS 100:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/241955d
