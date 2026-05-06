@@ -15141,3 +15141,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f77c242
+
+### ❌ 2025-08-30 — Saturday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-06 12:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083025.cfm
+- **Status**: mismatch
+- **Lectionary**: 430
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 7-8, 9']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/63c7b5d
