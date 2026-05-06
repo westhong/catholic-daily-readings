@@ -78033,5 +78033,45 @@
       ]
     },
     "checked_at": "2026-05-06T13:45:41+00:00"
+  },
+  "2023-02-06:0": {
+    "date": "2023-02-06",
+    "url": "https://bible.usccb.org/bible/readings/020623.cfm",
+    "lectionary_number": 329,
+    "feast": "Memorial of Saint Paul Miki and Companions, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:23"
+        ],
+        "fix": [
+          "Mt 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 1:1-19"
+      ],
+      "responsorial_psalm": [
+        "Ps 104:1-2"
+      ],
+      "alleluia_verse": [
+        "Mt 4:23"
+      ],
+      "gospel": [
+        "Mk 6:53-56"
+      ]
+    },
+    "checked_at": "2026-05-06T13:50:55+00:00"
   }
 }
