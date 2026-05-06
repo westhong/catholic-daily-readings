@@ -17495,7 +17495,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:89, 90, 91, 130, 135, 175",
+            "citation": "Psalm 119:89",
             "sources": [
               "USCCB"
             ]
@@ -17516,8 +17516,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 15:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-14": [

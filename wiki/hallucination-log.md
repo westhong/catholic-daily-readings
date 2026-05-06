@@ -13962,3 +13962,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d73b9b0
+
+### ❌ 2023-10-23 — Monday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-06 02:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102323.cfm
+- **Status**: mismatch
+- **Lectionary**: 473
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1a808c1
