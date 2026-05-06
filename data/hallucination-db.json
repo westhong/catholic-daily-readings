@@ -69905,5 +69905,45 @@
       ]
     },
     "checked_at": "2026-05-06T00:10:18+00:00"
+  },
+  "2023-09-16:0": {
+    "date": "2023-09-16",
+    "url": "https://bible.usccb.org/bible/readings/091623.cfm",
+    "lectionary_number": 442,
+    "feast": "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Tm 1:15-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 113:1"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Lk 6:43-49"
+      ]
+    },
+    "checked_at": "2026-05-06T00:15:32+00:00"
   }
 }

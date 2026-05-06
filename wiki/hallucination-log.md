@@ -13686,3 +13686,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 11:1-9']`, live=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`, fix=`['Genesis 11:1-9', 'Exodus 19:3-8', 'Ezekiel 37:1-14', 'Joel 3:1-5']`
   - **responsorial_psalm**: stored=`['Psalm 104:1-2, 24, 35, 27-28, 29, 30']`, live=`['Psalm 104:1-2']`, fix=`['Psalm 104:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3f6b767
+
+### ❌ 2023-09-16 — Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+- **Checked**: 2026-05-06 00:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091623.cfm
+- **Status**: mismatch
+- **Lectionary**: 442
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/76af966
