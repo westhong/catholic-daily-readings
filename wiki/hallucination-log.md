@@ -15658,3 +15658,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 27:1, 3, 5, 8']`, live=`['Psalm 27:1']`, fix=`['Psalm 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 8:15']`, fix=`['Luke 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1c350d1
+
+### ❌ 2024-04-07 — Second Sunday of Easter Sunday of Divine Mercy
+- **Checked**: 2026-05-06 17:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040724.cfm
+- **Status**: mismatch
+- **Lectionary**: 44
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 118:2-4, 13-15, 22-24']`, live=`['Ps 118:2-4']`, fix=`['Ps 118:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/501fec4
