@@ -16297,3 +16297,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['118:1-2']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b4336dd
+
+### ❌ 2027-04-11 — Third Sunday of Easter
+- **Checked**: 2026-05-06 23:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041127.cfm
+- **Status**: mismatch
+- **Lectionary**: 47
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 3:13-15, 17-19']`, live=`['Acts 3:13-15']`, fix=`['Acts 3:13-15']`
+  - **responsorial_psalm**: stored=`['Psalm 4:2, 4, 7-8, 9']`, live=`['Psalm 4:2']`, fix=`['Psalm 4:2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79ae41f
