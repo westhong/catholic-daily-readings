@@ -16247,3 +16247,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 33:12-13, 14-15, 20-21']`, live=`['PS 33:12-13']`, fix=`['PS 33:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 4:18']`, fix=`['LK 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/56221a9
+
+### ❌ 2026-05-26 — Memorial of Saint Philip Neri, Priest
+- **Checked**: 2026-05-06 22:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052626.cfm
+- **Status**: mismatch
+- **Lectionary**: 348
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3ab, 3cd-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 11:25']`, fix=`['See Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/333953c
