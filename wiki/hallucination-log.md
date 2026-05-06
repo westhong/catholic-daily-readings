@@ -15185,3 +15185,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 404
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/730.cfm`, live=fetch failed
+
+### ❌ 2024-03-01 — Friday of the Second Week of Lent
+- **Checked**: 2026-05-06 13:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030124.cfm
+- **Status**: mismatch
+- **Lectionary**: 234
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 37:3-4, 12-13']`, live=`['Gn 37:3-4']`, fix=`['Gn 37:3-4']`
+  - **responsorial_psalm**: stored=`['Ps 105:16-17, 18-19, 20-21']`, live=`['Ps 105:16-17']`, fix=`['Ps 105:16-17']`
+  - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Mt 21:33-43, 45-46']`, live=`['Mt 21:33-43']`, fix=`['Mt 21:33-43']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6103b4f
