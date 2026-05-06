@@ -13812,3 +13812,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 137:1-2, 3, 4-5, 6']`, live=`['Psalm 137:1-2']`, fix=`['Psalm 137:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 3:8-9']`, fix=`['Philippians 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16f4ec4
+
+### 🚫 2026-09-09 — 
+- **Checked**: 2026-05-06 01:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/909.cfm
+- **Status**: url_dead
+- **Lectionary**: 439
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/909.cfm`, live=fetch failed
