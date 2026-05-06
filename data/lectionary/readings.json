@@ -59424,7 +59424,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Pt 2:2-5, 9-12",
+            "citation": "1 Pt 2:2-5",
             "sources": [
               "USCCB"
             ]
@@ -59432,7 +59432,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 100:2, 3, 4, 5",
+            "citation": "PS 100:2",
             "sources": [
               "USCCB"
             ]
@@ -59453,8 +59453,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-31": [

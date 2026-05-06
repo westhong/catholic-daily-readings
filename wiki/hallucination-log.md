@@ -14306,3 +14306,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 411
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/807.cfm`, live=fetch failed
+
+### ❌ 2024-04-23 — Tuesday of the Fourth Week of Easter
+- **Checked**: 2026-05-06 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042324.cfm
+- **Status**: mismatch
+- **Lectionary**: 280
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['87:1']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4f0ecc1
