@@ -14713,3 +14713,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d23cc47
+
+### ❌ 2024-06-07 — Solemnity of Most Sacred Heart of Jesus
+- **Checked**: 2026-05-06 09:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060724.cfm
+- **Status**: mismatch
+- **Lectionary**: 171
+- **Mismatches**:
+  - **first_reading**: stored=`['Hos 11:1, 3-4, 8']`, live=`['Hos 11:1']`, fix=`['Hos 11:1']`
+  - **responsorial_psalm**: stored=`['Is 12:2-3, 4, 5-6']`, live=`['Is 12:2-3']`, fix=`['Is 12:2-3']`
+  - **second_reading**: stored=`['Eph 3:8-12, 14-19']`, live=`['Eph 3:8-12']`, fix=`['Eph 3:8-12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:29']`, fix=`['Mt 11:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9cfbbc0

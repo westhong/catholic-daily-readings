@@ -75112,5 +75112,93 @@
       ]
     },
     "checked_at": "2026-05-06T09:00:22+00:00"
+  },
+  "2024-06-07:0": {
+    "date": "2024-06-07",
+    "url": "https://bible.usccb.org/bible/readings/060724.cfm",
+    "lectionary_number": 171,
+    "feast": "Solemnity of Most Sacred Heart of Jesus",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Hos 11:1, 3-4, 8"
+        ],
+        "live": [
+          "Hos 11:1"
+        ],
+        "fix": [
+          "Hos 11:1"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Is 12:2-3, 4, 5-6"
+        ],
+        "live": [
+          "Is 12:2-3"
+        ],
+        "fix": [
+          "Is 12:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Eph 3:8-12, 14-19"
+        ],
+        "live": [
+          "Eph 3:8-12"
+        ],
+        "fix": [
+          "Eph 3:8-12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:29"
+        ],
+        "fix": [
+          "Mt 11:29"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Hos 11:1"
+      ],
+      "responsorial_psalm": [
+        "Is 12:2-3"
+      ],
+      "second_reading": [
+        "Eph 3:8-12"
+      ],
+      "alleluia_verse": [
+        "Mt 11:29"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 11:1"
+      ],
+      "responsorial_psalm": [
+        "Is 12:2-3"
+      ],
+      "second_reading": [
+        "Eph 3:8-12"
+      ],
+      "alleluia_verse": [
+        "Mt 11:29"
+      ],
+      "gospel": [
+        "Jn 19:31-37"
+      ]
+    },
+    "checked_at": "2026-05-06T09:05:36+00:00"
   }
 }
