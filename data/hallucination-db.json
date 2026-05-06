@@ -71005,5 +71005,60 @@
       ]
     },
     "checked_at": "2026-05-06T02:05:48+00:00"
+  },
+  "2025-10-21:0": {
+    "date": "2025-10-21",
+    "url": "https://bible.usccb.org/bible/readings/102125.cfm",
+    "lectionary_number": 474,
+    "feast": "Tuesday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Romans 5:12, 15"
+        ],
+        "live": [
+          "Romans 5:12"
+        ],
+        "fix": [
+          "Romans 5:12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:36"
+        ],
+        "fix": [
+          "Luke 21:36"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Romans 5:12"
+      ],
+      "alleluia_verse": [
+        "Luke 21:36"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 5:12"
+      ],
+      "responsorial_psalm": [
+        "Psalm 40:7-8"
+      ],
+      "alleluia_verse": [
+        "Luke 21:36"
+      ],
+      "gospel": [
+        "Luke 12:35-38"
+      ]
+    },
+    "checked_at": "2026-05-06T02:11:03+00:00"
   }
 }

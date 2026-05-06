@@ -13909,3 +13909,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/566e118
+
+### ❌ 2025-10-21 — Tuesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-06 02:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102125.cfm
+- **Status**: mismatch
+- **Lectionary**: 474
+- **Mismatches**:
+  - **first_reading**: stored=`['Romans 5:12, 15']`, live=`['Romans 5:12']`, fix=`['Romans 5:12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/085f55f
