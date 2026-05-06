@@ -3945,7 +3945,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 1:1-2, 3, 4",
+            "citation": "Psalm 1:1-2",
             "sources": [
               "USCCB"
             ]
@@ -3953,7 +3953,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Corinthians 15:12, 16-20",
+            "citation": "1 Corinthians 15:12",
             "sources": [
               "USCCB"
             ]
@@ -3961,7 +3961,7 @@
         ],
         "gospel": [
           {
-            "citation": "Luke 6:17, 20-26",
+            "citation": "Luke 6:17",
             "sources": [
               "USCCB"
             ]
@@ -3974,8 +3974,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 6:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-17": [

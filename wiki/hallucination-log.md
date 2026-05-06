@@ -15461,3 +15461,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 690
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261212.cfm`, live=fetch failed
+
+### ❌ 2027-09-09 — Memorial of Saint Peter Claver, Priest [In the Dioceses of the United States]
+- **Checked**: 2026-05-06 15:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090927.cfm
+- **Status**: mismatch
+- **Lectionary**: 440
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:12']`, fix=`['1 John 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7133622
