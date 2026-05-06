@@ -16187,3 +16187,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 30:2, 4, 5-6, 11, 12, 13']`, live=`['Psalm 30:2']`, fix=`['Psalm 30:2']`
   - **second_reading**: stored=`['2 Corinthians 8:7, 9, 13-15']`, live=`['2 Corinthians 8:7']`, fix=`['2 Corinthians 8:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cde9f2b
+
+### ❌ 2023-09-07 — Thursday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 22:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090723.cfm
+- **Status**: mismatch
+- **Lectionary**: 434
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/270bf3f

@@ -82738,5 +82738,45 @@
       ]
     },
     "checked_at": "2026-05-06T22:00:32+00:00"
+  },
+  "2023-09-07:0": {
+    "date": "2023-09-07",
+    "url": "https://bible.usccb.org/bible/readings/090723.cfm",
+    "lectionary_number": 434,
+    "feast": "Thursday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:19"
+        ],
+        "fix": [
+          "Mt 4:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Mt 4:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Col 1:9-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 4:19"
+      ],
+      "gospel": [
+        "Lk 5:1-11"
+      ]
+    },
+    "checked_at": "2026-05-06T22:05:43+00:00"
   }
 }
