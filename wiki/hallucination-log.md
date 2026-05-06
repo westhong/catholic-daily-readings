@@ -16354,3 +16354,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 2:14, 22-33']`, live=`['Acts 2:14']`, fix=`['Acts 2:14']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fad66f4
+
+### ❌ 2024-07-05 — Friday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 23:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070524.cfm
+- **Status**: mismatch
+- **Lectionary**: 381
+- **Mismatches**:
+  - **first_reading**: stored=`['Am 8:4-6, 9-12']`, live=`['Am 8:4-6']`, fix=`['Am 8:4-6']`
+  - **responsorial_psalm**: stored=`['Ps 119:2, 10, 20, 30, 40, 131']`, live=`['Ps 119:2']`, fix=`['Ps 119:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2906bb0
