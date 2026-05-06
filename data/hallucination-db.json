@@ -76652,5 +76652,75 @@
       ]
     },
     "checked_at": "2026-05-06T11:20:59+00:00"
+  },
+  "2024-01-29:0": {
+    "date": "2024-01-29",
+    "url": "https://bible.usccb.org/bible/readings/012924.cfm",
+    "lectionary_number": 323,
+    "feast": "Monday of the Fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Sm 15:13-14, 30"
+        ],
+        "live": [
+          "2 Sm 15:13-14"
+        ],
+        "fix": [
+          "2 Sm 15:13-14"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 3:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "PS 3:2-3"
+        ],
+        "fix": [
+          "PS 3:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Lk 7:16"
+        ],
+        "fix": [
+          "Lk 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Sm 15:13-14"
+      ],
+      "responsorial_psalm": [
+        "PS 3:2-3"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Sm 15:13-14"
+      ],
+      "responsorial_psalm": [
+        "PS 3:2-3"
+      ],
+      "alleluia_verse": [
+        "Lk 7:16"
+      ],
+      "gospel": [
+        "Mk 5:1-20"
+      ]
+    },
+    "checked_at": "2026-05-06T11:25:13+00:00"
   }
 }

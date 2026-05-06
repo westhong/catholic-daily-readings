@@ -14993,3 +14993,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 57:8-9, 10']`, live=`['Psalm 57:8-9']`, fix=`['Psalm 57:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:15']`, fix=`['John 15:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/19a8e50
+
+### ❌ 2024-01-29 — Monday of the Fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 11:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012924.cfm
+- **Status**: mismatch
+- **Lectionary**: 323
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Sm 15:13-14, 30']`, live=`['2 Sm 15:13-14']`, fix=`['2 Sm 15:13-14']`
+  - **responsorial_psalm**: stored=`['PS 3:2-3, 4-5, 6-7']`, live=`['PS 3:2-3']`, fix=`['PS 3:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 7:16']`, fix=`['Lk 7:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5379016
