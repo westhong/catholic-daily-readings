@@ -16267,3 +16267,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 72:1-2, 7-8, 10-11, 12-13']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 2:2']`, fix=`['Matthew 2:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3c0a060
+
+### ❌ 2024-09-22 — Twenty-fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 22:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092224.cfm
+- **Status**: mismatch
+- **Lectionary**: 134
+- **Mismatches**:
+  - **first_reading**: stored=`['Wis 2:12, 17-20']`, live=`['Wis 2:12']`, fix=`['Wis 2:12']`
+  - **responsorial_psalm**: stored=`['Ps 54:3-4, 5, 6']`, live=`['Ps 54:3-4']`, fix=`['Ps 54:3-4']`
+  - **second_reading**: stored=`['Jas 3:16—4']`, live=`['Jas 3:16']`, fix=`['Jas 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/95a7fd5

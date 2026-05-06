@@ -17881,7 +17881,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:2-3, 4-5",
+            "citation": "Psalm 19:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17902,8 +17902,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 21:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-15": [
