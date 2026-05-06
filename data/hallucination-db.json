@@ -69762,5 +69762,24 @@
       ]
     },
     "checked_at": "2026-05-05T23:55:36+00:00"
+  },
+  "2026-07-10:0": {
+    "date": "2026-07-10",
+    "url": "https://bible.usccb.org/bible/readings/710.cfm",
+    "lectionary_number": 387,
+    "feast": "Friday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/710.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T00:00:49+00:00"
   }
 }

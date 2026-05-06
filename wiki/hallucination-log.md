@@ -13658,3 +13658,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 10:14']`, fix=`['John 10:14']`
   - **gospel**: stored=`['of the Kingdom, and curing every disease']`, live=`['Matthew 9:32-38']`, fix=`['Matthew 9:32-38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fec55ae
+
+### 🚫 2026-07-10 — Friday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 00:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/710.cfm
+- **Status**: url_dead
+- **Lectionary**: 387
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/710.cfm`, live=fetch failed
