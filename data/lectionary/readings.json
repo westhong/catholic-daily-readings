@@ -64197,7 +64197,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Thes 1:1-5, 11-12",
+            "citation": "2 Thes 1:1-5",
             "sources": [
               "USCCB"
             ]
@@ -64226,8 +64226,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-27": [

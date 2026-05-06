@@ -15197,3 +15197,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Jn 3:16']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Mt 21:33-43, 45-46']`, live=`['Mt 21:33-43']`, fix=`['Mt 21:33-43']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6103b4f
+
+### ❌ 2027-07-24 — Saturday of the Sixteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 13:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072427.cfm
+- **Status**: mismatch
+- **Lectionary**: 400
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c69010
