@@ -15547,3 +15547,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/081523.cfm
 - **Status**: ok
 - **Lectionary**: 621
+
+### ❌ 2024-11-05 — Tuesday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-06 16:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110524.cfm
+- **Status**: mismatch
+- **Lectionary**: 486
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 11:28']`, fix=`['MT 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8e81f0a

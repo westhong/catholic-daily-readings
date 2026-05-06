@@ -79401,5 +79401,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T16:10:35+00:00"
+  },
+  "2024-11-05:0": {
+    "date": "2024-11-05",
+    "url": "https://bible.usccb.org/bible/readings/110524.cfm",
+    "lectionary_number": 486,
+    "feast": "Tuesday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 11:28"
+        ],
+        "fix": [
+          "MT 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "MT 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "PHIL 2:5-11"
+      ],
+      "responsorial_psalm": [
+        "PS 22:26"
+      ],
+      "alleluia_verse": [
+        "MT 11:28"
+      ],
+      "gospel": [
+        "LK 14:15-24"
+      ]
+    },
+    "checked_at": "2026-05-06T16:15:45+00:00"
   }
 }
