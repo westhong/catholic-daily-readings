@@ -3120,7 +3120,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Hebrews 11:1-2, 8-19",
+            "citation": "Hebrews 11:1-2",
             "sources": [
               "USCCB"
             ]
@@ -3128,7 +3128,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Luke 1:69-70, 71-72, 73-75",
+            "citation": "Luke 1:69-70",
             "sources": [
               "USCCB"
             ]
@@ -3149,8 +3149,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-02-02": [

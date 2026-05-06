@@ -14828,3 +14828,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 97:1, 6, 11-12']`, live=`['Ps 97:1']`, fix=`['Ps 97:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:14']`, fix=`['Lk 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dc30d59
+
+### ❌ 2025-02-24 — Monday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-06 10:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022425.cfm
+- **Status**: mismatch
+- **Lectionary**: 341
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ee0e212
