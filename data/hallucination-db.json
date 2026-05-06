@@ -77923,5 +77923,60 @@
       ]
     },
     "checked_at": "2026-05-06T13:35:11+00:00"
+  },
+  "2023-05-24:0": {
+    "date": "2023-05-24",
+    "url": "https://bible.usccb.org/bible/readings/052423.cfm",
+    "lectionary_number": 299,
+    "feast": "Wednesday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 68:29-30, 33-35"
+        ],
+        "live": [
+          "PS 68:29-30"
+        ],
+        "fix": [
+          "PS 68:29-30"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 17:17"
+        ],
+        "fix": [
+          "See Jn 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 68:29-30"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 20:28-38"
+      ],
+      "responsorial_psalm": [
+        "PS 68:29-30"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ],
+      "gospel": [
+        "Jn 17:11"
+      ]
+    },
+    "checked_at": "2026-05-06T13:40:26+00:00"
   }
 }
