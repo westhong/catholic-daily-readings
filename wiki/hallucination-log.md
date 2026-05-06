@@ -13666,3 +13666,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 387
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/710.cfm`, live=fetch failed
+
+### ❌ 2025-06-17 — Tuesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-06 00:06 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061725.cfm
+- **Status**: mismatch
+- **Lectionary**: 366
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 146:2, 5-6']`, live=`['Psalm 146:2']`, fix=`['Psalm 146:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e4b416
