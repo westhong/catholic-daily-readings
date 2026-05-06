@@ -14788,3 +14788,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 4:2-3, 4-5, 7']`, live=`['Psalm 4:2-3']`, fix=`['Psalm 4:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cd9753e
+
+### ❌ 2023-05-04 — Thursday of the Fourth Week of Easter
+- **Checked**: 2026-05-06 09:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050423.cfm
+- **Status**: mismatch
+- **Lectionary**: 282
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 89:2-3, 21-22, 25']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f0d776

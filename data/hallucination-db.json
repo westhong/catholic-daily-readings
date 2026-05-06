@@ -75577,5 +75577,60 @@
       ]
     },
     "checked_at": "2026-05-06T09:36:02+00:00"
+  },
+  "2023-05-04:0": {
+    "date": "2023-05-04",
+    "url": "https://bible.usccb.org/bible/readings/050423.cfm",
+    "lectionary_number": 282,
+    "feast": "Thursday of the Fourth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 89:2-3, 21-22, 25"
+        ],
+        "live": [
+          "Ps 89:2-3"
+        ],
+        "fix": [
+          "Ps 89:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Rv 1:5"
+        ],
+        "fix": [
+          "See Rv 1:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "alleluia_verse": [
+        "See Rv 1:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 13:13-25"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "alleluia_verse": [
+        "See Rv 1:5"
+      ],
+      "gospel": [
+        "Jn 13:16-20"
+      ]
+    },
+    "checked_at": "2026-05-06T09:40:16+00:00"
   }
 }

@@ -67013,7 +67013,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 33:1-2, 4-5, 11-12, 18-19",
+            "citation": "PS 33:1-2",
             "sources": [
               "USCCB"
             ]
@@ -67034,8 +67034,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "PHIL 3:8-9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-10-25": [
