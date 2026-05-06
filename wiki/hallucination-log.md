@@ -16169,3 +16169,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 117:1bc, 2']`, live=`['Psalm 117:1']`, fix=`['Psalm 117:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:56']`, fix=`['John 6:56']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3f14268
+
+### 🚫 2026-11-30 — 
+- **Checked**: 2026-05-06 21:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261130.cfm
+- **Status**: url_dead
+- **Lectionary**: 684
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261130.cfm`, live=fetch failed
