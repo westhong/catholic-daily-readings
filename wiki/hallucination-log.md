@@ -14808,3 +14808,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 33:1-2, 4-5, 11-12, 18-19']`, live=`['PS 33:1-2']`, fix=`['PS 33:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['PHIL 3:8-9']`, fix=`['PHIL 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3327231
+
+### ❌ 2025-11-12 — Memorial of Saint Josaphat, Bishop and Martyr
+- **Checked**: 2026-05-06 09:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111225.cfm
+- **Status**: mismatch
+- **Lectionary**: 493
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 82:3-4, 6-7']`, live=`['Psalm 82:3-4']`, fix=`['Psalm 82:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 5:18']`, fix=`['1 Thessalonians 5:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/102d4a5
