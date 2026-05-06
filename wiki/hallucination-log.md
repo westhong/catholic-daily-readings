@@ -16099,3 +16099,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 113:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 113:1-2']`, fix=`['Psalm 113:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/243bdee
+
+### ❌ 2026-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary
+- **Checked**: 2026-05-06 21:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081526.cfm
+- **Status**: mismatch
+- **Lectionary**: 621
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Chronicles 15:3-4, 15-16; 16:1-2']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Psalm 132:6-7, 9-10, 13-14']`, live=`（空白）`, fix=`[]`
+  - **second_reading**: stored=`['1 Corinthians 15:54b-57']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Luke 11:27-28']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a4be288
