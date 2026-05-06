@@ -15588,3 +15588,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 24:7, 8, 9, 10']`, live=`['PS 24:7']`, fix=`['PS 24:7']`
   - **alleluia_verse**: stored=`（空白）`, live=`['SEE MT 11:25']`, fix=`['SEE MT 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9594e34
+
+### ❌ 2023-12-25 — The Nativity of the Lord (Christmas) Vigil Mass
+- **Checked**: 2026-05-06 16:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122523-Vigil.cfm
+- **Status**: mismatch
+- **Lectionary**: 13
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 89:4-5, 16-17, 27, 29']`, live=`['Ps 89:4-5']`, fix=`['Ps 89:4-5']`
+  - **second_reading**: stored=`['Acts 13:16-17, 22-25']`, live=`['Acts 13:16-17']`, fix=`['Acts 13:16-17']`
+  - **gospel**: stored=`['Mt 1:1-25']`, live=`['Mt 1:1-25', 'Mt 1:18-25']`, fix=`['Mt 1:1-25', 'Mt 1:18-25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/204d6da

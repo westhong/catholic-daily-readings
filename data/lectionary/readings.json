@@ -129,7 +129,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 72:1-2, 7-8, 12-13, 17",
+            "citation": "Ps 72:1-2",
             "sources": [
               "USCCB"
             ]
@@ -143,7 +143,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-12-04": [
