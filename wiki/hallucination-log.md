@@ -15668,3 +15668,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 118:2-4, 13-15, 22-24']`, live=`['Ps 118:2-4']`, fix=`['Ps 118:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 20:29']`, fix=`['Jn 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/501fec4
+
+### ❌ 2025-03-05 — Ash Wednesday
+- **Checked**: 2026-05-06 17:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030525.cfm
+- **Status**: mismatch
+- **Lectionary**: 219
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **second_reading**: stored=`['2 Corinthians 5:20—6']`, live=`['2 Corinthians 5:20']`, fix=`['2 Corinthians 5:20']`
+  - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aec284f
