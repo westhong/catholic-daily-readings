@@ -78766,5 +78766,72 @@
       ]
     },
     "checked_at": "2026-05-06T15:00:19+00:00"
+  },
+  "2024-08-14:0": {
+    "date": "2024-08-14",
+    "url": "https://bible.usccb.org/bible/readings/081424.cfm",
+    "lectionary_number": 415,
+    "feast": "Memorial of Saint Maximilian Kolbe, Priest and Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 113:1-2, 3-4, 5-6"
+        ],
+        "live": [
+          "PS 113:1-2"
+        ],
+        "fix": [
+          "PS 113:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Cor 5:19"
+        ],
+        "fix": [
+          "2 Cor 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 113:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EZ 9:1-7"
+      ],
+      "responsorial_psalm": [
+        "PS 113:1-2"
+      ],
+      "alleluia_verse": [
+        "2 Cor 5:19"
+      ],
+      "gospel": [
+        "Mt 18:15-20"
+      ]
+    },
+    "checked_at": "2026-05-06T15:05:34+00:00"
+  },
+  "2023-06-29:0": {
+    "date": "2023-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062923.cfm",
+    "lectionary_number": 590,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T15:10:49+00:00"
   }
 }
