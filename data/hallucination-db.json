@@ -78987,5 +78987,93 @@
       ]
     },
     "checked_at": "2026-05-06T15:30:44+00:00"
+  },
+  "2025-02-16:0": {
+    "date": "2025-02-16",
+    "url": "https://bible.usccb.org/bible/readings/021625.cfm",
+    "lectionary_number": 78,
+    "feast": "Sixth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Psalm 1:1-2"
+        ],
+        "fix": [
+          "Psalm 1:1-2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Corinthians 15:12, 16-20"
+        ],
+        "live": [
+          "1 Corinthians 15:12"
+        ],
+        "fix": [
+          "1 Corinthians 15:12"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 6:23"
+        ],
+        "fix": [
+          "Luke 6:23"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 6:17, 20-26"
+        ],
+        "live": [
+          "Luke 6:17"
+        ],
+        "fix": [
+          "Luke 6:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "second_reading": [
+        "1 Corinthians 15:12"
+      ],
+      "alleluia_verse": [
+        "Luke 6:23"
+      ],
+      "gospel": [
+        "Luke 6:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jeremiah 17:5-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "second_reading": [
+        "1 Corinthians 15:12"
+      ],
+      "alleluia_verse": [
+        "Luke 6:23"
+      ],
+      "gospel": [
+        "Luke 6:17"
+      ]
+    },
+    "checked_at": "2026-05-06T15:35:58+00:00"
   }
 }

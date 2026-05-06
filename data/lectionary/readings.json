@@ -41803,7 +41803,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Acts 2:14, 22-33",
+            "citation": "Acts 2:14",
             "sources": [
               "USCCB"
             ]
@@ -41832,8 +41832,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-03-30": [

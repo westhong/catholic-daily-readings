@@ -15470,3 +15470,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['1 John 4:12']`, fix=`['1 John 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7133622
+
+### ❌ 2025-02-16 — Sixth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 15:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021625.cfm
+- **Status**: mismatch
+- **Lectionary**: 78
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **second_reading**: stored=`['1 Corinthians 15:12, 16-20']`, live=`['1 Corinthians 15:12']`, fix=`['1 Corinthians 15:12']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 6:23']`, fix=`['Luke 6:23']`
+  - **gospel**: stored=`['Luke 6:17, 20-26']`, live=`['Luke 6:17']`, fix=`['Luke 6:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/71ef5dd
