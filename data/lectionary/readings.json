@@ -81073,7 +81073,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Zec 2:5-9, 14-15",
+            "citation": "Zec 2:5-9",
             "sources": [
               "USCCB"
             ]
@@ -81081,7 +81081,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Jeremiah 31:10, 11-12",
+            "citation": "Jeremiah 31:10",
             "sources": [
               "USCCB"
             ]
@@ -81102,8 +81102,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 2 Tm 1:10",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-10-01": [
