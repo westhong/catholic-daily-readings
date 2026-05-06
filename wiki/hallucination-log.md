@@ -14848,3 +14848,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Luke 1:69-70, 71-72, 73-75']`, live=`['Luke 1:69-70']`, fix=`['Luke 1:69-70']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8947d38
+
+### ❌ 2025-01-23 — Thursday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-06 10:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012325.cfm
+- **Status**: mismatch
+- **Lectionary**: 314
+- **Mismatches**:
+  - **first_reading**: stored=`['Hebrews 7:25—8']`, live=`['Hebrews 7:25']`, fix=`['Hebrews 7:25']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2296098
