@@ -82443,5 +82443,45 @@
       ]
     },
     "checked_at": "2026-05-06T21:25:58+00:00"
+  },
+  "2026-06-15:0": {
+    "date": "2026-06-15",
+    "url": "https://bible.usccb.org/bible/readings/061526.cfm",
+    "lectionary_number": 365,
+    "feast": "Monday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:105"
+        ],
+        "fix": [
+          "Psalm 119:105"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kings 21:1-16"
+      ],
+      "responsorial_psalm": [
+        "Psalm 5:2-3"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ],
+      "gospel": [
+        "Matthew 5:38-42"
+      ]
+    },
+    "checked_at": "2026-05-06T21:30:13+00:00"
   }
 }
