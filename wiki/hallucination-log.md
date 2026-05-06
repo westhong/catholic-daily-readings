@@ -15530,3 +15530,20 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:129, 130, 131, 132, 133, 135']`, live=`['Ps 119:129']`, fix=`['Ps 119:129']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a9abe87
+
+### ❌ 2023-01-23 — Day of Prayer for the Legal Protection of Unborn Children
+- **Checked**: 2026-05-06 16:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012323.cfm
+- **Status**: mismatch
+- **Lectionary**: 317
+- **Mismatches**:
+  - **first_reading**: stored=`['Heb 9:15, 24-28']`, live=`['Heb 9:15']`, fix=`['Heb 9:15']`
+  - **responsorial_psalm**: stored=`['Ps 98:1, 2-3']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2cd87c
+
+### ✅ 2023-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary
+- **Checked**: 2026-05-06 16:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081523.cfm
+- **Status**: ok
+- **Lectionary**: 621
