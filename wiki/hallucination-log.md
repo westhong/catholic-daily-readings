@@ -13792,3 +13792,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 113:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 113:1-2']`, fix=`['Psalm 113:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cc70410
+
+### ❌ 2024-02-07 — Wednesday of the Fifth Week in Ordinary Time
+- **Checked**: 2026-05-06 01:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/020724.cfm
+- **Status**: mismatch
+- **Lectionary**: 331
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 37:5-6, 30-31, 39-40']`, live=`['PS 37:5-6']`, fix=`['PS 37:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/69f60ce

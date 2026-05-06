@@ -70414,5 +70414,60 @@
       ]
     },
     "checked_at": "2026-05-06T01:05:50+00:00"
+  },
+  "2024-02-07:0": {
+    "date": "2024-02-07",
+    "url": "https://bible.usccb.org/bible/readings/020724.cfm",
+    "lectionary_number": 331,
+    "feast": "Wednesday of the Fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 37:5-6, 30-31, 39-40"
+        ],
+        "live": [
+          "PS 37:5-6"
+        ],
+        "fix": [
+          "PS 37:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 17:17"
+        ],
+        "fix": [
+          "See Jn 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 37:5-6"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 10:1-10"
+      ],
+      "responsorial_psalm": [
+        "PS 37:5-6"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ],
+      "gospel": [
+        "Mk 7:14-23"
+      ]
+    },
+    "checked_at": "2026-05-06T01:10:04+00:00"
   }
 }
