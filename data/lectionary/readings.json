@@ -55601,7 +55601,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:67, 68, 71, 72, 75, 76",
+            "citation": "Ps 119:67",
             "sources": [
               "USCCB"
             ]
@@ -55622,8 +55622,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-02-13": [

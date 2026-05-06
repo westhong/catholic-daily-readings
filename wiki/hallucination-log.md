@@ -16307,3 +16307,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Acts 3:13-15, 17-19']`, live=`['Acts 3:13-15']`, fix=`['Acts 3:13-15']`
   - **responsorial_psalm**: stored=`['Psalm 4:2, 4, 7-8, 9']`, live=`['Psalm 4:2']`, fix=`['Psalm 4:2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/79ae41f
+
+### 🚫 2026-10-06 — 
+- **Checked**: 2026-05-06 23:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1006.cfm
+- **Status**: url_dead
+- **Lectionary**: 462
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1006.cfm`, live=fetch failed
