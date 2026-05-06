@@ -57576,14 +57576,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "118:1-2",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 21:1-14",
@@ -57600,7 +57593,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-06": [

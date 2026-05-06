@@ -83256,5 +83256,60 @@
       ]
     },
     "checked_at": "2026-05-06T22:45:37+00:00"
+  },
+  "2025-11-14:0": {
+    "date": "2025-11-14",
+    "url": "https://bible.usccb.org/bible/readings/111425.cfm",
+    "lectionary_number": 495,
+    "feast": "Friday of the Thirty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 19:2-3, 4-5"
+        ],
+        "live": [
+          "Psalm 19:2-3"
+        ],
+        "fix": [
+          "Psalm 19:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 21:28"
+        ],
+        "fix": [
+          "Luke 21:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 13:1-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 19:2-3"
+      ],
+      "alleluia_verse": [
+        "Luke 21:28"
+      ],
+      "gospel": [
+        "Luke 17:26-37"
+      ]
+    },
+    "checked_at": "2026-05-06T22:50:52+00:00"
   }
 }
