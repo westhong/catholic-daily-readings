@@ -17870,7 +17870,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Maccabees 7:1, 20-31",
+            "citation": "2 Maccabees 7:1",
             "sources": [
               "USCCB"
             ]
@@ -17899,8 +17899,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See John 15:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-20": [
