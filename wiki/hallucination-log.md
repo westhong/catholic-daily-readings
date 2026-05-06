@@ -16008,3 +16008,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 25:2-3, 4-5']`, live=`['Psalm 25:2-3']`, fix=`['Psalm 25:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 11:25']`, fix=`['John 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/88933ba
+
+### ❌ 2025-09-22 — Monday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-06 20:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092225.cfm
+- **Status**: mismatch
+- **Lectionary**: 449
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6f5d875
