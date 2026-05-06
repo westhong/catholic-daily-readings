@@ -82888,5 +82888,75 @@
       ]
     },
     "checked_at": "2026-05-06T22:15:09+00:00"
+  },
+  "2024-11-08:0": {
+    "date": "2024-11-08",
+    "url": "https://bible.usccb.org/bible/readings/110824.cfm",
+    "lectionary_number": 489,
+    "feast": "Friday of the Thirty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "PHIL 3:17—4"
+        ],
+        "live": [
+          "PHIL 3:17"
+        ],
+        "fix": [
+          "PHIL 3:17"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 122:1-2, 3-4"
+        ],
+        "live": [
+          "PS 122:1-2"
+        ],
+        "fix": [
+          "PS 122:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 JOHN 2:5"
+        ],
+        "fix": [
+          "1 JOHN 2:5"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "PHIL 3:17"
+      ],
+      "responsorial_psalm": [
+        "PS 122:1-2"
+      ],
+      "alleluia_verse": [
+        "1 JOHN 2:5"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "PHIL 3:17"
+      ],
+      "responsorial_psalm": [
+        "PS 122:1-2"
+      ],
+      "alleluia_verse": [
+        "1 JOHN 2:5"
+      ],
+      "gospel": [
+        "LK 16:1-8"
+      ]
+    },
+    "checked_at": "2026-05-06T22:20:23+00:00"
   }
 }

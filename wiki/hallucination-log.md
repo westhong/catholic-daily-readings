@@ -16216,3 +16216,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 115:1-2, 3-4, 5-6, 8-9']`, live=`['Ps 115:1-2']`, fix=`['Ps 115:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/91a1cc8
+
+### ❌ 2024-11-08 — Friday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-06 22:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110824.cfm
+- **Status**: mismatch
+- **Lectionary**: 489
+- **Mismatches**:
+  - **first_reading**: stored=`['PHIL 3:17—4']`, live=`['PHIL 3:17']`, fix=`['PHIL 3:17']`
+  - **responsorial_psalm**: stored=`['PS 122:1-2, 3-4']`, live=`['PS 122:1-2']`, fix=`['PS 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 JOHN 2:5']`, fix=`['1 JOHN 2:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c495708
