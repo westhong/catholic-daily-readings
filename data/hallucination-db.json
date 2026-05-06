@@ -79502,5 +79502,75 @@
       ]
     },
     "checked_at": "2026-05-06T16:20:57+00:00"
+  },
+  "2026-04-29:0": {
+    "date": "2026-04-29",
+    "url": "https://bible.usccb.org/bible/readings/042926.cfm",
+    "lectionary_number": 658,
+    "feast": "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 12:24-13:5a"
+        ],
+        "live": [
+          "Acts 12:24"
+        ],
+        "fix": [
+          "Acts 12:24"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 67:2-3, 5, 6 and 8"
+        ],
+        "live": [
+          "Psalm 67:2-3"
+        ],
+        "fix": [
+          "Psalm 67:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 8:12"
+        ],
+        "fix": [
+          "John 8:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 12:24"
+      ],
+      "responsorial_psalm": [
+        "Psalm 67:2-3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 12:24"
+      ],
+      "responsorial_psalm": [
+        "Psalm 67:2-3"
+      ],
+      "alleluia_verse": [
+        "John 8:12"
+      ],
+      "gospel": [
+        "John 12:44-50"
+      ]
+    },
+    "checked_at": "2026-05-06T16:25:10+00:00"
   }
 }

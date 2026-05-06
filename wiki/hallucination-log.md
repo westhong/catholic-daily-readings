@@ -15567,3 +15567,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['103:1-2, 13-14, 17-18']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a63ff29
+
+### ❌ 2026-04-29 — Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church
+- **Checked**: 2026-05-06 16:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042926.cfm
+- **Status**: mismatch
+- **Lectionary**: 658
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 12:24-13:5a']`, live=`['Acts 12:24']`, fix=`['Acts 12:24']`
+  - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6 and 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 8:12']`, fix=`['John 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f2134dd
