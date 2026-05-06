@@ -14659,3 +14659,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 80:2-3, 5-7']`, live=`['PS 80:2-3']`, fix=`['PS 80:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Acts 16:14']`, fix=`['See Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15b265c
+
+### ❌ 2023-04-04 — Tuesday of Holy Week
+- **Checked**: 2026-05-06 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040423.cfm
+- **Status**: mismatch
+- **Lectionary**: 258
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 71:1-2, 3-4']`, live=`['Ps 71:1-2']`, fix=`['Ps 71:1-2']`
+  - **gospel**: stored=`['Jn 13:21-33, 36-38']`, live=`['Jn 13:21-33']`, fix=`['Jn 13:21-33']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8726c29
