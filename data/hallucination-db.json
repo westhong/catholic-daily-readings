@@ -72644,5 +72644,60 @@
       ]
     },
     "checked_at": "2026-05-06T04:40:55+00:00"
+  },
+  "2024-07-26:0": {
+    "date": "2024-07-26",
+    "url": "https://bible.usccb.org/bible/readings/072624.cfm",
+    "lectionary_number": 399,
+    "feast": "Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "JER 31:10, 11-12"
+        ],
+        "live": [
+          "JER 31:10"
+        ],
+        "fix": [
+          "JER 31:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 8:15"
+        ],
+        "fix": [
+          "LK 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "JER 31:10"
+      ],
+      "alleluia_verse": [
+        "LK 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "JER 3:14-17"
+      ],
+      "responsorial_psalm": [
+        "JER 31:10"
+      ],
+      "alleluia_verse": [
+        "LK 8:15"
+      ],
+      "gospel": [
+        "MT 13:18-23"
+      ]
+    },
+    "checked_at": "2026-05-06T04:45:07+00:00"
   }
 }
