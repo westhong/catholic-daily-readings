@@ -81445,5 +81445,78 @@
       ]
     },
     "checked_at": "2026-05-06T19:45:17+00:00"
+  },
+  "2024-05-26:0": {
+    "date": "2024-05-26",
+    "url": "https://bible.usccb.org/bible/readings/052624.cfm",
+    "lectionary_number": 165,
+    "feast": "The Solemnity of the Most Holy Trinity",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Dt 4:32-34, 39-40"
+        ],
+        "live": [
+          "Dt 4:32-34"
+        ],
+        "fix": [
+          "Dt 4:32-34"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:4-5, 6, 9, 18-19, 20, 22"
+        ],
+        "live": [
+          "Ps 33:4-5"
+        ],
+        "fix": [
+          "Ps 33:4-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Rv 1:8"
+        ],
+        "fix": [
+          "Rv 1:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Dt 4:32-34"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "alleluia_verse": [
+        "Rv 1:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 4:32-34"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:4-5"
+      ],
+      "second_reading": [
+        "Rom 8:14-17"
+      ],
+      "alleluia_verse": [
+        "Rv 1:8"
+      ],
+      "gospel": [
+        "Mt 28:16-20"
+      ]
+    },
+    "checked_at": "2026-05-06T19:50:29+00:00"
   }
 }

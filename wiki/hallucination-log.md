@@ -15937,3 +15937,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 11-12']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c896b5a
+
+### ❌ 2024-05-26 — The Solemnity of the Most Holy Trinity
+- **Checked**: 2026-05-06 19:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052624.cfm
+- **Status**: mismatch
+- **Lectionary**: 165
+- **Mismatches**:
+  - **first_reading**: stored=`['Dt 4:32-34, 39-40']`, live=`['Dt 4:32-34']`, fix=`['Dt 4:32-34']`
+  - **responsorial_psalm**: stored=`['Ps 33:4-5, 6, 9, 18-19, 20, 22']`, live=`['Ps 33:4-5']`, fix=`['Ps 33:4-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Rv 1:8']`, fix=`['Rv 1:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bbfd78b
