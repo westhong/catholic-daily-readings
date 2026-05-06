@@ -15130,3 +15130,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 122:1-2, 3-4']`, live=`['PS 122:1-2']`, fix=`['PS 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc1008e
+
+### ❌ 2024-03-18 — Monday of the Fifth Week of Lent
+- **Checked**: 2026-05-06 12:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031824.cfm
+- **Status**: mismatch
+- **Lectionary**: 251
+- **Mismatches**:
+  - **first_reading**: stored=`['Dn 13:1-9, 15-17, 19-30, 33-62']`, live=`['Dn 13:1-9']`, fix=`['Dn 13:1-9']`
+  - **responsorial_psalm**: stored=`['23:1-3']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Ez 33:11']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f77c242
