@@ -14571,3 +14571,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:10-11, 15-16, 17-18']`, live=`['Psalm 116:10-11']`, fix=`['Psalm 116:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/016e675
+
+### ❌ 2025-01-11 — Saturday after Epiphany
+- **Checked**: 2026-05-06 07:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011125.cfm
+- **Status**: mismatch
+- **Lectionary**: 217
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 149:1-2, 3-4, 5-6']`, live=`['Psalm 149:1-2']`, fix=`['Psalm 149:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85309e7
