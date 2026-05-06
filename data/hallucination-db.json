@@ -83686,5 +83686,24 @@
       ]
     },
     "checked_at": "2026-05-06T23:30:52+00:00"
+  },
+  "2025-09-18:0": {
+    "date": "2025-09-18",
+    "url": "https://bible.usccb.org/bible/readings/091825.cfm",
+    "lectionary_number": 446,
+    "feast": "Thursday of the Twenty-fourth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/091825.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T23:35:06+00:00"
   }
 }

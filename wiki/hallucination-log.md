@@ -16365,3 +16365,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:2, 10, 20, 30, 40, 131']`, live=`['Ps 119:2']`, fix=`['Ps 119:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2906bb0
+
+### 🚫 2025-09-18 — Thursday of the Twenty-fourth Week in Ordinary Time
+- **Checked**: 2026-05-06 23:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091825.cfm
+- **Status**: url_dead
+- **Lectionary**: 446
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/091825.cfm`, live=fetch failed
