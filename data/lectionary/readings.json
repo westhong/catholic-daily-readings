@@ -52882,7 +52882,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 97:1-2, 5-6, 11-12",
+            "citation": "Ps 97:1-2",
             "sources": [
               "USCCB"
             ]
@@ -52896,7 +52896,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-12-28": [
