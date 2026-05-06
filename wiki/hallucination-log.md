@@ -14117,3 +14117,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 508
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261128.cfm`, live=fetch failed
+
+### ❌ 2023-03-06 — Monday of the Second Week in Lent
+- **Checked**: 2026-05-06 03:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030623.cfm
+- **Status**: mismatch
+- **Lectionary**: 230
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 79:8, 9, 11']`, live=`['Ps 79:8']`, fix=`['Ps 79:8']`
+  - **verse_before_gospel**: stored=`['Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/51f8354
