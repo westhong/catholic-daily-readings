@@ -15792,3 +15792,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 91:1-2, 10-11, 12-13, 14-15']`, live=`['Psalm 91:1-2']`, fix=`['Psalm 91:1-2']`
   - **verse_before_gospel**: stored=`['Matthew 4:4b']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b3fa47e
+
+### ❌ 2026-01-01 — Solemnity of Mary, the Holy Mother of God The Octave Day of the Nativity of the Lord
+- **Checked**: 2026-05-06 18:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010126.cfm
+- **Status**: mismatch
+- **Lectionary**: 18
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 67:2-3, 5, 6, 8']`, live=`['Psalm 67:2-3']`, fix=`['Psalm 67:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/00a43b1

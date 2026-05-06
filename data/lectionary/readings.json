@@ -49349,7 +49349,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 62:6-7, 9",
+            "citation": "Psalm 62:6-7",
             "sources": [
               "USCCB"
             ]
@@ -49362,8 +49362,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-07": [
