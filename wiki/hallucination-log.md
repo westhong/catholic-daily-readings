@@ -16206,3 +16206,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 3:8-9']`, fix=`['Philippians 3:8-9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a471c9
+
+### ❌ 2023-07-06 — Thursday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 22:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070623.cfm
+- **Status**: mismatch
+- **Lectionary**: 380
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 115:1-2, 3-4, 5-6, 8-9']`, live=`['Ps 115:1-2']`, fix=`['Ps 115:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Cor 5:19']`, fix=`['2 Cor 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/91a1cc8

@@ -68255,7 +68255,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "PHIL 3:17—4",
+            "citation": "PHIL 3:17",
             "sources": [
               "USCCB"
             ]
@@ -68263,7 +68263,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 122:1-2, 3-4",
+            "citation": "PS 122:1-2",
             "sources": [
               "USCCB"
             ]
@@ -68284,8 +68284,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 JOHN 2:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-09": [
