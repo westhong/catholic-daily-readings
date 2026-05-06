@@ -15263,3 +15263,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 68:29-30, 33-35']`, live=`['PS 68:29-30']`, fix=`['PS 68:29-30']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/819c469
+
+### ❌ 2025-01-02 — Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church
+- **Checked**: 2026-05-06 13:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010225.cfm
+- **Status**: mismatch
+- **Lectionary**: 205
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 1:1-2']`, fix=`['Hebrews 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aad722a
