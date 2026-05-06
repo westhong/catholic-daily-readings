@@ -14520,3 +14520,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 1:15']`, fix=`['Mark 1:15']`
   - **gospel**: stored=`['of God: “This is the time of fulfillment']`, live=`['Mark 1:14-20']`, fix=`['Mark 1:14-20']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c40dd18
+
+### ❌ 2023-12-08 — Solemnity of the Immaculate Conception of the Blessed Virgin Mary
+- **Checked**: 2026-05-06 07:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120823.cfm
+- **Status**: mismatch
+- **Lectionary**: 689
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 3:9-15, 20']`, live=`['Gn 3:9-15']`, fix=`['Gn 3:9-15']`
+  - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
+  - **second_reading**: stored=`['Eph 1:3-6, 11-12']`, live=`['Eph 1:3-6']`, fix=`['Eph 1:3-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:28']`, fix=`['See Lk 1:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a43dd5
