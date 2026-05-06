@@ -14798,3 +14798,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 89:2-3, 21-22, 25']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Rv 1:5']`, fix=`['See Rv 1:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7f0d776
+
+### ❌ 2024-10-24 — Thursday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-06 09:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102424.cfm
+- **Status**: mismatch
+- **Lectionary**: 476
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 33:1-2, 4-5, 11-12, 18-19']`, live=`['PS 33:1-2']`, fix=`['PS 33:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['PHIL 3:8-9']`, fix=`['PHIL 3:8-9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3327231
