@@ -15453,3 +15453,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 27:1, 3, 5, 8']`, live=`['Ps 27:1']`, fix=`['Ps 27:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 8:15']`, fix=`['See Lk 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1cf9c6d
+
+### 🚫 2026-12-12 — 
+- **Checked**: 2026-05-06 15:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261212.cfm
+- **Status**: url_dead
+- **Lectionary**: 690
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261212.cfm`, live=fetch failed
