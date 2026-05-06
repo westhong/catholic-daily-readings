@@ -81634,5 +81634,47 @@
       ]
     },
     "checked_at": "2026-05-06T20:00:54+00:00"
+  },
+  "2025-08-15:1": {
+    "date": "2025-08-15",
+    "url": "https://bible.usccb.org/bible/readings/081525-Mass.cfm",
+    "lectionary_number": 622,
+    "feast": "Solemnity of the Assumption of the Blessed Virgin Mary Mass during the Day",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 45:10, 11, 12, 16"
+        ],
+        "live": [
+          "Psalm 45:10"
+        ],
+        "fix": [
+          "Psalm 45:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 45:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Revelation 11:19"
+      ],
+      "responsorial_psalm": [
+        "Psalm 45:10"
+      ],
+      "second_reading": [
+        "1 Corinthians 15:20-27"
+      ],
+      "gospel": [
+        "Luke 1:39-56"
+      ]
+    },
+    "checked_at": "2026-05-06T20:05:06+00:00"
   }
 }

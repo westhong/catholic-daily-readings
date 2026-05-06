@@ -15969,3 +15969,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 112:1-2, 3-4, 5-6']`, live=`['PS 112:1-2']`, fix=`['PS 112:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 THES 2:14']`, fix=`['See 2 THES 2:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fc9183e
+
+### ❌ 2025-08-15 — Solemnity of the Assumption of the Blessed Virgin Mary Mass during the Day
+- **Checked**: 2026-05-06 20:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081525-Mass.cfm
+- **Status**: mismatch
+- **Lectionary**: 622
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 45:10, 11, 12, 16']`, live=`['Psalm 45:10']`, fix=`['Psalm 45:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/78a66e8

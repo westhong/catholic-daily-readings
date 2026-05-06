@@ -52996,7 +52996,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 97:1, 6, 11-12",
+            "citation": "Ps 97:1",
             "sources": [
               "USCCB"
             ]
@@ -53017,8 +53017,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 2:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 2
     },
     {
       "date": "2023-12-25",
