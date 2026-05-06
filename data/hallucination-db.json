@@ -75294,5 +75294,93 @@
       ]
     },
     "checked_at": "2026-05-06T09:15:05+00:00"
+  },
+  "2024-08-04:0": {
+    "date": "2024-08-04",
+    "url": "https://bible.usccb.org/bible/readings/080424.cfm",
+    "lectionary_number": 113,
+    "feast": "Eighteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 16:2-4, 12-15"
+        ],
+        "live": [
+          "Ex 16:2-4"
+        ],
+        "fix": [
+          "Ex 16:2-4"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 78:3-4, 23-24, 25, 54"
+        ],
+        "live": [
+          "Ps 78:3-4"
+        ],
+        "fix": [
+          "Ps 78:3-4"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Eph 4:17, 20-24"
+        ],
+        "live": [
+          "Eph 4:17"
+        ],
+        "fix": [
+          "Eph 4:17"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 4:4"
+        ],
+        "fix": [
+          "Mt 4:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 16:2-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 78:3-4"
+      ],
+      "second_reading": [
+        "Eph 4:17"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 16:2-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 78:3-4"
+      ],
+      "second_reading": [
+        "Eph 4:17"
+      ],
+      "alleluia_verse": [
+        "Mt 4:4"
+      ],
+      "gospel": [
+        "Jn 6:24-35"
+      ]
+    },
+    "checked_at": "2026-05-06T09:20:19+00:00"
   }
 }

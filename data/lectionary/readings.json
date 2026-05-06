@@ -11846,7 +11846,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Exodus 19:1-2, 9-11, 16-20",
+            "citation": "Exodus 19:1-2",
             "sources": [
               "USCCB"
             ]
@@ -11854,7 +11854,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Daniel 3:52, 53, 54, 55, 56",
+            "citation": "Daniel 3:52",
             "sources": [
               "USCCB"
             ]
@@ -11875,8 +11875,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-07-25": [

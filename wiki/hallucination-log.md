@@ -14744,3 +14744,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 149:1-2, 3-4, 5-6']`, live=`['Psalm 149:1-2']`, fix=`['Psalm 149:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/89bd337
+
+### ❌ 2024-08-04 — Eighteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080424.cfm
+- **Status**: mismatch
+- **Lectionary**: 113
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 16:2-4, 12-15']`, live=`['Ex 16:2-4']`, fix=`['Ex 16:2-4']`
+  - **responsorial_psalm**: stored=`['Ps 78:3-4, 23-24, 25, 54']`, live=`['Ps 78:3-4']`, fix=`['Ps 78:3-4']`
+  - **second_reading**: stored=`['Eph 4:17, 20-24']`, live=`['Eph 4:17']`, fix=`['Eph 4:17']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:4']`, fix=`['Mt 4:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a10d3f3
