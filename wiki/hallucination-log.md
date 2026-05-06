@@ -15206,3 +15206,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:21']`, fix=`['James 1:21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0c69010
+
+### ❌ 2024-08-26 — Monday of the Twenty-first Week in Ordinary Time
+- **Checked**: 2026-05-06 13:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082624.cfm
+- **Status**: mismatch
+- **Lectionary**: 425
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Thes 1:1-5, 11-12']`, live=`['2 Thes 1:1-5']`, fix=`['2 Thes 1:1-5']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/23de969

@@ -77704,5 +77704,60 @@
       ]
     },
     "checked_at": "2026-05-06T13:10:17+00:00"
+  },
+  "2024-08-26:0": {
+    "date": "2024-08-26",
+    "url": "https://bible.usccb.org/bible/readings/082624.cfm",
+    "lectionary_number": 425,
+    "feast": "Monday of the Twenty-first Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Thes 1:1-5, 11-12"
+        ],
+        "live": [
+          "2 Thes 1:1-5"
+        ],
+        "fix": [
+          "2 Thes 1:1-5"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Thes 1:1-5"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Thes 1:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 96:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Mt 23:13-22"
+      ]
+    },
+    "checked_at": "2026-05-06T13:15:29+00:00"
   }
 }
