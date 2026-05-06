@@ -79075,5 +79075,60 @@
       ]
     },
     "checked_at": "2026-05-06T15:35:58+00:00"
+  },
+  "2027-03-29:0": {
+    "date": "2027-03-29",
+    "url": "https://bible.usccb.org/bible/readings/032927.cfm",
+    "lectionary_number": 261,
+    "feast": "Monday in the Octave of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 2:14, 22-33"
+        ],
+        "live": [
+          "Acts 2:14"
+        ],
+        "fix": [
+          "Acts 2:14"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 118:24"
+        ],
+        "fix": [
+          "Psalm 118:24"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "alleluia_verse": [
+        "Psalm 118:24"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "responsorial_psalm": [
+        "Psalm 16:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 118:24"
+      ],
+      "gospel": [
+        "Matthew 28:8-15"
+      ]
+    },
+    "checked_at": "2026-05-06T15:40:13+00:00"
   }
 }
