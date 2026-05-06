@@ -80366,5 +80366,55 @@
       ]
     },
     "checked_at": "2026-05-06T17:45:59+00:00"
+  },
+  "2026-08-15:1": {
+    "date": "2026-08-15",
+    "url": "https://bible.usccb.org/bible/readings/081526.cfm",
+    "lectionary_number": 622,
+    "feast": "Solemnity of the Assumption of the Blessed Virgin Mary",
+    "mass_idx": 1,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Revelation 11:19A; 12:1-6A, 10AB"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 45:10, 11, 12, 16"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "1 Corinthians 15:20-27"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Luke 1:39-56"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [],
+      "second_reading": [],
+      "gospel": []
+    },
+    "live_readings": {},
+    "checked_at": "2026-05-06T17:50:11+00:00"
   }
 }
