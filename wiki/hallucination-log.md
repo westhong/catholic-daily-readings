@@ -14973,3 +14973,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 13:34']`, fix=`['John 13:34']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4292c0c
+
+### ❌ 2025-07-12 — Saturday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 11:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071225.cfm
+- **Status**: mismatch
+- **Lectionary**: 388
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 4:14']`, fix=`['1 Peter 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b7d4962
