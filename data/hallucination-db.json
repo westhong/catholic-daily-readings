@@ -71467,5 +71467,60 @@
       ]
     },
     "checked_at": "2026-05-06T02:45:39+00:00"
+  },
+  "2024-07-18:0": {
+    "date": "2024-07-18",
+    "url": "https://bible.usccb.org/bible/readings/071824.cfm",
+    "lectionary_number": 392,
+    "feast": "Thursday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 26:7-9, 12, 16-19"
+        ],
+        "live": [
+          "Is 26:7-9"
+        ],
+        "fix": [
+          "Is 26:7-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:28"
+        ],
+        "fix": [
+          "Mt 11:28"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 26:7-9"
+      ],
+      "alleluia_verse": [
+        "Mt 11:28"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 26:7-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 102:13-14"
+      ],
+      "alleluia_verse": [
+        "Mt 11:28"
+      ],
+      "gospel": [
+        "Mt 11:28-30"
+      ]
+    },
+    "checked_at": "2026-05-06T02:50:52+00:00"
   }
 }

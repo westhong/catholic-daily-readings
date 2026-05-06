@@ -21842,7 +21842,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 119:9, 10, 11, 12, 13, 14",
+            "citation": "Psalm 119:9",
             "sources": [
               "USCCB"
             ]
@@ -21863,8 +21863,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-08": [

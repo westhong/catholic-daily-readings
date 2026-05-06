@@ -13991,3 +13991,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:14-15']`, fix=`['Jn 3:14-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/eb659a4
+
+### ❌ 2024-07-18 — Thursday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 02:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071824.cfm
+- **Status**: mismatch
+- **Lectionary**: 392
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 26:7-9, 12, 16-19']`, live=`['Is 26:7-9']`, fix=`['Is 26:7-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:28']`, fix=`['Mt 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/46793d4
