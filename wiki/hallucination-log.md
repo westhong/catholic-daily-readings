@@ -14499,3 +14499,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 147:12-13, 15-16, 19-20']`, live=`['PS 147:12-13']`, fix=`['PS 147:12-13']`
   - **verse_before_gospel**: stored=`['See Jn 6:63c, 68c']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b0c934f
+
+### ❌ 2025-11-19 — Wednesday of the Thirty-third Week in Ordinary Time
+- **Checked**: 2026-05-06 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/111925.cfm
+- **Status**: mismatch
+- **Lectionary**: 499
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Maccabees 7:1, 20-31']`, live=`['2 Maccabees 7:1']`, fix=`['2 Maccabees 7:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/25dc07d

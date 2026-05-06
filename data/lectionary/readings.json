@@ -20618,7 +20618,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 116:12-13, 14-17, 18-19",
+            "citation": "Psalm 116:12-13",
             "sources": [
               "USCCB"
             ]
@@ -20626,7 +20626,7 @@
         ],
         "gospel": [
           {
-            "citation": "of God: “This is the time of fulfillment",
+            "citation": "Mark 1:14-20",
             "sources": [
               "USCCB"
             ]
@@ -20639,8 +20639,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 1:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-13": [
