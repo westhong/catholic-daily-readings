@@ -15699,3 +15699,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:56']`, fix=`['Jn 6:56']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc9749a
+
+### ❌ 2027-01-07 — Thursday after Epiphany
+- **Checked**: 2026-05-06 17:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010727.cfm
+- **Status**: mismatch
+- **Lectionary**: 215
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 72:1-2, 14']`, live=`['Psalm 72:1-2']`, fix=`['Psalm 72:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0bc79c7
