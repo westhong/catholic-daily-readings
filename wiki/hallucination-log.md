@@ -14818,3 +14818,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 82:3-4, 6-7']`, live=`['Psalm 82:3-4']`, fix=`['Psalm 82:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 5:18']`, fix=`['1 Thessalonians 5:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/102d4a5
+
+### ❌ 2024-12-25 — The Nativity of the Lord (Christmas) Mass at Dawn
+- **Checked**: 2026-05-06 09:56 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122524-Dawn.cfm
+- **Status**: mismatch
+- **Lectionary**: 15
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 97:1, 6, 11-12']`, live=`['Ps 97:1']`, fix=`['Ps 97:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:14']`, fix=`['Lk 2:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dc30d59
