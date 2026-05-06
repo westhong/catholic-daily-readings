@@ -13871,3 +13871,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 32:1-2, 5, 6, 7']`, live=`['Psalm 32:1-2']`, fix=`['Psalm 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Acts 16:14']`, fix=`['Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/93b4a24
+
+### ❌ 2025-06-30 — Monday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 01:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/063025.cfm
+- **Status**: mismatch
+- **Lectionary**: 377
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 95:8']`, fix=`['Psalm 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ff95743
