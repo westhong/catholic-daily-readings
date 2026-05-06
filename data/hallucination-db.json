@@ -74657,5 +74657,45 @@
       ]
     },
     "checked_at": "2026-05-06T08:11:02+00:00"
+  },
+  "2027-08-30:0": {
+    "date": "2027-08-30",
+    "url": "https://bible.usccb.org/bible/readings/083027.cfm",
+    "lectionary_number": 431,
+    "feast": "Monday of the Twenty-second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 4:18"
+        ],
+        "fix": [
+          "See Luke 4:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "See Luke 4:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Thessalonians 4:13-18"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:1"
+      ],
+      "alleluia_verse": [
+        "See Luke 4:18"
+      ],
+      "gospel": [
+        "Luke 4:16-30"
+      ]
+    },
+    "checked_at": "2026-05-06T08:15:19+00:00"
   }
 }

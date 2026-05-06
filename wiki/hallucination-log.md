@@ -14621,3 +14621,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 15:16']`, fix=`['John 15:16']`
   - **gospel**: stored=`['to every creature. Whoever believes and']`, live=`['Mark 16:15-18']`, fix=`['Mark 16:15-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8332c46
+
+### ❌ 2027-08-30 — Monday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/083027.cfm
+- **Status**: mismatch
+- **Lectionary**: 431
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 4:18']`, fix=`['See Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a8ae05
