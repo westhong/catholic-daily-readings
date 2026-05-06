@@ -81344,5 +81344,51 @@
       ]
     },
     "checked_at": "2026-05-06T19:35:07+00:00"
+  },
+  "2024-01-11:0": {
+    "date": "2024-01-11",
+    "url": "https://bible.usccb.org/bible/readings/011124.cfm",
+    "lectionary_number": 308,
+    "feast": "Thursday of the First Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "44:10-11, 14-15, 24-25"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mt 4:23"
+        ],
+        "fix": [
+          "See Mt 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See Mt 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Sm 4:1-11"
+      ],
+      "alleluia_verse": [
+        "See Mt 4:23"
+      ],
+      "gospel": [
+        "Mk 1:40-45"
+      ]
+    },
+    "checked_at": "2026-05-06T19:42:06+00:00"
   }
 }

@@ -15917,3 +15917,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:7-8, 10-11, 12-13']`, live=`['Ps 34:7-8']`, fix=`['Ps 34:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:18']`, fix=`['Jas 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1916593
+
+### ❌ 2024-01-11 — Thursday of the First Week in Ordinary Time
+- **Checked**: 2026-05-06 19:42 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011124.cfm
+- **Status**: mismatch
+- **Lectionary**: 308
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['44:10-11, 14-15, 24-25']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mt 4:23']`, fix=`['See Mt 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b249fb5
