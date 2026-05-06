@@ -13781,3 +13781,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 105:4-5, 6-7, 8-9']`, live=`['Psalm 105:4-5']`, fix=`['Psalm 105:4-5']`
   - **verse_before_gospel**: stored=`['Psalm 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e1e5a2f
+
+### ❌ 2025-05-14 — Feast of Saint Matthias, Apostle
+- **Checked**: 2026-05-06 01:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051425.cfm
+- **Status**: mismatch
+- **Lectionary**: 564
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 1:15-17, 20-26']`, live=`['Acts 1:15-17']`, fix=`['Acts 1:15-17']`
+  - **responsorial_psalm**: stored=`['Psalm 113:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 113:1-2']`, fix=`['Psalm 113:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/cc70410
