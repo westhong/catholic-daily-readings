@@ -82681,5 +82681,62 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T21:55:18+00:00"
+  },
+  "2027-06-27:0": {
+    "date": "2027-06-27",
+    "url": "https://bible.usccb.org/bible/readings/062727.cfm",
+    "lectionary_number": 98,
+    "feast": "Thirteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 30:2, 4, 5-6, 11, 12, 13"
+        ],
+        "live": [
+          "Psalm 30:2"
+        ],
+        "fix": [
+          "Psalm 30:2"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "2 Corinthians 8:7, 9, 13-15"
+        ],
+        "live": [
+          "2 Corinthians 8:7"
+        ],
+        "fix": [
+          "2 Corinthians 8:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 30:2"
+      ],
+      "second_reading": [
+        "2 Corinthians 8:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Wisdom 1:13-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 30:2"
+      ],
+      "second_reading": [
+        "2 Corinthians 8:7"
+      ],
+      "gospel": [
+        "Mark 5:21-43"
+      ]
+    },
+    "checked_at": "2026-05-06T22:00:32+00:00"
   }
 }
