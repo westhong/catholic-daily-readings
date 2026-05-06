@@ -73482,5 +73482,63 @@
       ]
     },
     "checked_at": "2026-05-06T06:20:27+00:00"
+  },
+  "2023-11-05:0": {
+    "date": "2023-11-05",
+    "url": "https://bible.usccb.org/bible/readings/110523.cfm",
+    "lectionary_number": 151,
+    "feast": "Thirty-first Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 131:1, 2, 3"
+        ],
+        "live": [
+          "Ps 131:1"
+        ],
+        "fix": [
+          "Ps 131:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 23:9"
+        ],
+        "fix": [
+          "Mt 23:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 131:1"
+      ],
+      "alleluia_verse": [
+        "Mt 23:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Mal 1:14"
+      ],
+      "responsorial_psalm": [
+        "Ps 131:1"
+      ],
+      "second_reading": [
+        "1 Thes 2:7"
+      ],
+      "alleluia_verse": [
+        "Mt 23:9"
+      ],
+      "gospel": [
+        "Mt 23:1-12"
+      ]
+    },
+    "checked_at": "2026-05-06T06:25:40+00:00"
   }
 }

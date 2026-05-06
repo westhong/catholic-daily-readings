@@ -14403,3 +14403,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/035eefc
+
+### ❌ 2023-11-05 — Thirty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-06 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110523.cfm
+- **Status**: mismatch
+- **Lectionary**: 151
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 131:1, 2, 3']`, live=`['Ps 131:1']`, fix=`['Ps 131:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 23:9']`, fix=`['Mt 23:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/b110656
