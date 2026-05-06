@@ -16373,3 +16373,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 446
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/091825.cfm`, live=fetch failed
+
+### ❌ 2023-10-05 — Thursday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-06 23:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100523.cfm
+- **Status**: mismatch
+- **Lectionary**: 458
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 19:8, 9, 10, 11']`, live=`['Ps 19:8']`, fix=`['Ps 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mk 1:15']`, fix=`['Mk 1:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f304a50

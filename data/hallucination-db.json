@@ -83705,5 +83705,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T23:35:06+00:00"
+  },
+  "2023-10-05:0": {
+    "date": "2023-10-05",
+    "url": "https://bible.usccb.org/bible/readings/100523.cfm",
+    "lectionary_number": 458,
+    "feast": "Thursday of the Twenty-sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 19:8, 9, 10, 11"
+        ],
+        "live": [
+          "Ps 19:8"
+        ],
+        "fix": [
+          "Ps 19:8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Neh 8:1-4"
+      ],
+      "responsorial_psalm": [
+        "Ps 19:8"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Lk 10:1-12"
+      ]
+    },
+    "checked_at": "2026-05-06T23:40:28+00:00"
   }
 }
