@@ -15771,3 +15771,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16bc, 17-18', 'Psalm 116:12-13, 15-16, 17-18']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
   - **verse_before_gospel**: stored=`['John 13:34']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5243101
+
+### ❌ 2027-03-07 — Fourth Sunday of Lent
+- **Checked**: 2026-05-06 18:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030727-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 31
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 23: 1-3']`, live=`['Psalm 23: 1']`, fix=`['Psalm 23: 1']`
+  - **verse_before_gospel**: stored=`['John 8:12']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 9:1-41']`, live=`['John 9:1-41', 'John 9:1']`, fix=`['John 9:1-41', 'John 9:1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5ad48df
