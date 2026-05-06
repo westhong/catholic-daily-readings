@@ -74321,5 +74321,60 @@
       ]
     },
     "checked_at": "2026-05-06T07:40:30+00:00"
+  },
+  "2025-06-13:0": {
+    "date": "2025-06-13",
+    "url": "https://bible.usccb.org/bible/readings/061325.cfm",
+    "lectionary_number": 363,
+    "feast": "Memorial of Saint Anthony of Padua, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 116:10-11, 15-16, 17-18"
+        ],
+        "live": [
+          "Psalm 116:10-11"
+        ],
+        "fix": [
+          "Psalm 116:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Philippians 2:15"
+        ],
+        "fix": [
+          "Philippians 2:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 116:10-11"
+      ],
+      "alleluia_verse": [
+        "Philippians 2:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 4:7-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 116:10-11"
+      ],
+      "alleluia_verse": [
+        "Philippians 2:15"
+      ],
+      "gospel": [
+        "Matthew 5:27-32"
+      ]
+    },
+    "checked_at": "2026-05-06T07:45:47+00:00"
   }
 }

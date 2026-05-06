@@ -2030,7 +2030,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 149:1-2, 3-4, 5-6",
+            "citation": "Psalm 149:1-2",
             "sources": [
               "USCCB"
             ]
@@ -2051,8 +2051,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 4:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-01-12": [

@@ -14561,3 +14561,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 89:16-17, 18-19']`, live=`['Psalm 89:16-17']`, fix=`['Psalm 89:16-17']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ffd213b
+
+### ❌ 2025-06-13 — Memorial of Saint Anthony of Padua, Priest and Doctor of the Church
+- **Checked**: 2026-05-06 07:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061325.cfm
+- **Status**: mismatch
+- **Lectionary**: 363
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 116:10-11, 15-16, 17-18']`, live=`['Psalm 116:10-11']`, fix=`['Psalm 116:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 2:15']`, fix=`['Philippians 2:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/016e675
