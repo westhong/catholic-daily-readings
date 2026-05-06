@@ -13763,3 +13763,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Romans 5:12, 15']`, live=`['Romans 5:12']`, fix=`['Romans 5:12']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 21:36']`, fix=`['Luke 21:36']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5284f20
+
+### 🚫 2026-11-13 — 
+- **Checked**: 2026-05-06 00:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261113.cfm
+- **Status**: url_dead
+- **Lectionary**: 495
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261113.cfm`, live=fetch failed
