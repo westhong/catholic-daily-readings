@@ -76020,5 +76020,45 @@
       ]
     },
     "checked_at": "2026-05-06T10:15:59+00:00"
+  },
+  "2023-05-11:0": {
+    "date": "2023-05-11",
+    "url": "https://bible.usccb.org/bible/readings/051123.cfm",
+    "lectionary_number": 288,
+    "feast": "Thursday of the Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 10:27"
+        ],
+        "fix": [
+          "Jn 10:27"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Jn 10:27"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 15:7-21"
+      ],
+      "responsorial_psalm": [
+        "Ps 96:1-2"
+      ],
+      "alleluia_verse": [
+        "Jn 10:27"
+      ],
+      "gospel": [
+        "Jn 15:9-11"
+      ]
+    },
+    "checked_at": "2026-05-06T10:20:13+00:00"
   }
 }

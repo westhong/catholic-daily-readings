@@ -26112,7 +26112,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:1-2, 4-5, 18-19",
+            "citation": "Psalm 33:1-2",
             "sources": [
               "USCCB"
             ]
@@ -26141,8 +26141,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 14:6",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-04": [

@@ -14868,3 +14868,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 24:46']`, fix=`['See Lk 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e81e0d5
+
+### ❌ 2023-05-11 — Thursday of the Fifth Week of Easter
+- **Checked**: 2026-05-06 10:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051123.cfm
+- **Status**: mismatch
+- **Lectionary**: 288
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 10:27']`, fix=`['Jn 10:27']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/66402a1
