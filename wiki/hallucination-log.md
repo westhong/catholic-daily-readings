@@ -15434,3 +15434,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/062923.cfm
 - **Status**: ok
 - **Lectionary**: 590
+
+### ❌ 2025-05-09 — Friday of the Third Week of Easter
+- **Checked**: 2026-05-06 15:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050925.cfm
+- **Status**: mismatch
+- **Lectionary**: 277
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 6:56']`, fix=`['John 6:56']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2f740f0
