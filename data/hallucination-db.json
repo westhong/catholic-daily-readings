@@ -72259,5 +72259,75 @@
       ]
     },
     "checked_at": "2026-05-06T04:05:27+00:00"
+  },
+  "2023-09-30:0": {
+    "date": "2023-09-30",
+    "url": "https://bible.usccb.org/bible/readings/093023.cfm",
+    "lectionary_number": 454,
+    "feast": "Memorial of Saint Jerome, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Zec 2:5-9, 14-15"
+        ],
+        "live": [
+          "Zec 2:5-9"
+        ],
+        "fix": [
+          "Zec 2:5-9"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Jeremiah 31:10, 11-12"
+        ],
+        "live": [
+          "Jeremiah 31:10"
+        ],
+        "fix": [
+          "Jeremiah 31:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See 2 Tm 1:10"
+        ],
+        "fix": [
+          "See 2 Tm 1:10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Zec 2:5-9"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zec 2:5-9"
+      ],
+      "responsorial_psalm": [
+        "Jeremiah 31:10"
+      ],
+      "alleluia_verse": [
+        "See 2 Tm 1:10"
+      ],
+      "gospel": [
+        "Lk 9:43"
+      ]
+    },
+    "checked_at": "2026-05-06T04:10:41+00:00"
   }
 }

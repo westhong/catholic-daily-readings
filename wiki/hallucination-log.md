@@ -14147,3 +14147,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 110:1, 2, 3, 4']`, live=`['Psalm 110:1']`, fix=`['Psalm 110:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/019318a
+
+### ❌ 2023-09-30 — Memorial of Saint Jerome, Priest and Doctor of the Church
+- **Checked**: 2026-05-06 04:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/093023.cfm
+- **Status**: mismatch
+- **Lectionary**: 454
+- **Mismatches**:
+  - **first_reading**: stored=`['Zec 2:5-9, 14-15']`, live=`['Zec 2:5-9']`, fix=`['Zec 2:5-9']`
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Tm 1:10']`, fix=`['See 2 Tm 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a9c3a1

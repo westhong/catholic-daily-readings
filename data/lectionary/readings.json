@@ -47730,7 +47730,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 136:1-3, 16-18, 21-22",
+            "citation": "Psalm 136:1-3",
             "sources": [
               "USCCB"
             ]
@@ -47743,8 +47743,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See 1 Thessalonians 2:13",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-14": [
