@@ -14237,3 +14237,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Galatians 6:14']`, fix=`['Galatians 6:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dd865d2
+
+### ❌ 2027-09-20 — Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs
+- **Checked**: 2026-05-06 04:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092027.cfm
+- **Status**: mismatch
+- **Lectionary**: 449
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f25214
