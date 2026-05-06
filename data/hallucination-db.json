@@ -76317,5 +76317,78 @@
       ]
     },
     "checked_at": "2026-05-06T10:50:38+00:00"
+  },
+  "2024-08-11:0": {
+    "date": "2024-08-11",
+    "url": "https://bible.usccb.org/bible/readings/081124.cfm",
+    "lectionary_number": 116,
+    "feast": "Nineteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Eph 4:30—5"
+        ],
+        "live": [
+          "Eph 4:30"
+        ],
+        "fix": [
+          "Eph 4:30"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 6:51"
+        ],
+        "fix": [
+          "Jn 6:51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "second_reading": [
+        "Eph 4:30"
+      ],
+      "alleluia_verse": [
+        "Jn 6:51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Kgs 19:4-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "second_reading": [
+        "Eph 4:30"
+      ],
+      "alleluia_verse": [
+        "Jn 6:51"
+      ],
+      "gospel": [
+        "Jn 6:41-51"
+      ]
+    },
+    "checked_at": "2026-05-06T10:55:51+00:00"
   }
 }

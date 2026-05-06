@@ -5538,7 +5538,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 103: 1-2, 3-4, 6-7, 8, 11",
+            "citation": "Psalm 103: 1",
             "sources": [
               "USCCB"
             ]
@@ -5546,7 +5546,7 @@
         ],
         "second_reading": [
           {
-            "citation": "1 Corinthians 10:1-6, 10-12",
+            "citation": "1 Corinthians 10:1-6",
             "sources": [
               "USCCB"
             ]
@@ -5563,7 +5563,8 @@
       },
       "url": "https://bible.usccb.org/bible/readings/032325-YearC.cfm",
       "date": "2025-03-23",
-      "mass": "YearC"
+      "mass": "YearC",
+      "mass_idx": 1
     }
   ],
   "2025-03-24": [

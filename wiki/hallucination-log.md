@@ -14933,3 +14933,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 69:8-10, 14, 17, 33-35']`, live=`['Ps 69:8-10']`, fix=`['Ps 69:8-10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:26']`, fix=`['Jn 15:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0f60beb
+
+### ❌ 2024-08-11 — Nineteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 10:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081124.cfm
+- **Status**: mismatch
+- **Lectionary**: 116
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **second_reading**: stored=`['Eph 4:30—5']`, live=`['Eph 4:30']`, fix=`['Eph 4:30']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 6:51']`, fix=`['Jn 6:51']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a480998
