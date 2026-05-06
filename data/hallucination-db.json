@@ -70719,5 +70719,60 @@
       ]
     },
     "checked_at": "2026-05-06T01:35:22+00:00"
+  },
+  "2024-09-25:0": {
+    "date": "2024-09-25",
+    "url": "https://bible.usccb.org/bible/readings/092524.cfm",
+    "lectionary_number": 451,
+    "feast": "Wednesday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:29, 72, 89, 101, 104, 163"
+        ],
+        "live": [
+          "Ps 119:29"
+        ],
+        "fix": [
+          "Ps 119:29"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mk 1:15"
+        ],
+        "fix": [
+          "Mk 1:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:29"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Prv 30:5-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:29"
+      ],
+      "alleluia_verse": [
+        "Mk 1:15"
+      ],
+      "gospel": [
+        "Lk 9:1-6"
+      ]
+    },
+    "checked_at": "2026-05-06T01:40:38+00:00"
   }
 }
