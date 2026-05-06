@@ -72868,5 +72868,60 @@
       ]
     },
     "checked_at": "2026-05-06T05:06:02+00:00"
+  },
+  "2027-05-11:0": {
+    "date": "2027-05-11",
+    "url": "https://bible.usccb.org/bible/readings/051127.cfm",
+    "lectionary_number": 298,
+    "feast": "Tuesday of the Seventh Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 68:10-11, 20-21"
+        ],
+        "live": [
+          "Psalm 68:10-11"
+        ],
+        "fix": [
+          "Psalm 68:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:16"
+        ],
+        "fix": [
+          "John 14:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 68:10-11"
+      ],
+      "alleluia_verse": [
+        "John 14:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 20:17-27"
+      ],
+      "responsorial_psalm": [
+        "Psalm 68:10-11"
+      ],
+      "alleluia_verse": [
+        "John 14:16"
+      ],
+      "gospel": [
+        "John 17:1-11"
+      ]
+    },
+    "checked_at": "2026-05-06T05:10:18+00:00"
   }
 }
