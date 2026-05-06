@@ -53917,7 +53917,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Sm 1:1-4, 11-12, 19, 23-27",
+            "citation": "2 Sm 1:1-4",
             "sources": [
               "USCCB"
             ]
@@ -53925,7 +53925,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 80:2-3, 5-7",
+            "citation": "PS 80:2-3",
             "sources": [
               "USCCB"
             ]
@@ -53946,8 +53946,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Acts 16:14",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-21": [
