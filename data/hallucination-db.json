@@ -82958,5 +82958,63 @@
       ]
     },
     "checked_at": "2026-05-06T22:20:23+00:00"
+  },
+  "2024-11-03:0": {
+    "date": "2024-11-03",
+    "url": "https://bible.usccb.org/bible/readings/110324.cfm",
+    "lectionary_number": 152,
+    "feast": "Thirty-first Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 18:2-3, 3-4, 47, 51"
+        ],
+        "live": [
+          "Ps 18:2-3"
+        ],
+        "fix": [
+          "Ps 18:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 14:23"
+        ],
+        "fix": [
+          "Jn 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 18:2-3"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Dt 6:2-6"
+      ],
+      "responsorial_psalm": [
+        "Ps 18:2-3"
+      ],
+      "second_reading": [
+        "Heb 7:23-28"
+      ],
+      "alleluia_verse": [
+        "Jn 14:23"
+      ],
+      "gospel": [
+        "Mk 12:28"
+      ]
+    },
+    "checked_at": "2026-05-06T22:25:38+00:00"
   }
 }

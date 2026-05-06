@@ -16227,3 +16227,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 122:1-2, 3-4']`, live=`['PS 122:1-2']`, fix=`['PS 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 JOHN 2:5']`, fix=`['1 JOHN 2:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c495708
+
+### ❌ 2024-11-03 — Thirty-first Sunday in Ordinary Time
+- **Checked**: 2026-05-06 22:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110324.cfm
+- **Status**: mismatch
+- **Lectionary**: 152
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 18:2-3, 3-4, 47, 51']`, live=`['Ps 18:2-3']`, fix=`['Ps 18:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:23']`, fix=`['Jn 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2b0fbc5
