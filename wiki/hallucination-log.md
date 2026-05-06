@@ -14246,3 +14246,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:16']`, fix=`['Matthew 5:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f25214
+
+### 🚫 2026-08-13 — 
+- **Checked**: 2026-05-06 05:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/813.cfm
+- **Status**: url_dead
+- **Lectionary**: 416
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/813.cfm`, live=fetch failed
