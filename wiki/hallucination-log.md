@@ -14630,3 +14630,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 4:18']`, fix=`['See Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9a8ae05
+
+### ❌ 2025-10-17 — Memorial of Saint Ignatius of Antioch, Bishop and Martyr
+- **Checked**: 2026-05-06 08:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101725.cfm
+- **Status**: mismatch
+- **Lectionary**: 471
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 33:22']`, fix=`['Psalm 33:22']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/70e79eb
