@@ -15760,3 +15760,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 629
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/824.cfm`, live=fetch failed
+
+### ❌ 2026-04-02 — Holy Thursday-Evening Mass of the Lord's Supper
+- **Checked**: 2026-05-06 18:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040226-Supper.cfm
+- **Status**: mismatch
+- **Lectionary**: 39
+- **Mismatches**:
+  - **first_reading**: stored=`['Exodus 12:1-8, 11-14']`, live=`['Exodus 12:1-8']`, fix=`['Exodus 12:1-8']`
+  - **responsorial_psalm**: stored=`['Psalm 116:12-13, 15-16bc, 17-18', 'Psalm 116:12-13, 15-16, 17-18']`, live=`['Psalm 116:12-13']`, fix=`['Psalm 116:12-13']`
+  - **verse_before_gospel**: stored=`['John 13:34']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5243101
