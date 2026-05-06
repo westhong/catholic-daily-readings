@@ -16196,3 +16196,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 4:19']`, fix=`['Mt 4:19']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/270bf3f
+
+### ❌ 2025-10-23 — Thursday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-06 22:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102325.cfm
+- **Status**: mismatch
+- **Lectionary**: 476
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 1:1-2, 3, 4']`, live=`['Psalm 1:1-2']`, fix=`['Psalm 1:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Philippians 3:8-9']`, fix=`['Philippians 3:8-9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2a471c9

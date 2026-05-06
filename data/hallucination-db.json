@@ -82778,5 +82778,60 @@
       ]
     },
     "checked_at": "2026-05-06T22:05:43+00:00"
+  },
+  "2025-10-23:0": {
+    "date": "2025-10-23",
+    "url": "https://bible.usccb.org/bible/readings/102325.cfm",
+    "lectionary_number": 476,
+    "feast": "Thursday of the Twenty-ninth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 1:1-2, 3, 4"
+        ],
+        "live": [
+          "Psalm 1:1-2"
+        ],
+        "fix": [
+          "Psalm 1:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Philippians 3:8-9"
+        ],
+        "fix": [
+          "Philippians 3:8-9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "alleluia_verse": [
+        "Philippians 3:8-9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Romans 6:19-23"
+      ],
+      "responsorial_psalm": [
+        "Psalm 1:1-2"
+      ],
+      "alleluia_verse": [
+        "Philippians 3:8-9"
+      ],
+      "gospel": [
+        "Luke 12:49-53"
+      ]
+    },
+    "checked_at": "2026-05-06T22:10:56+00:00"
   }
 }
