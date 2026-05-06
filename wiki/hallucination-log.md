@@ -15243,3 +15243,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 667
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261101.cfm`, live=fetch failed
+
+### ❌ 2024-09-06 — Friday of the Twenty-second Week in Ordinary Time
+- **Checked**: 2026-05-06 13:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/090624.cfm
+- **Status**: mismatch
+- **Lectionary**: 435
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 37:3-4, 5-6, 27-28, 39-40']`, live=`['PS 37:3-4']`, fix=`['PS 37:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['JN 8:12']`, fix=`['JN 8:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2066b88

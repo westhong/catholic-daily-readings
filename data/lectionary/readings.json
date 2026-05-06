@@ -75505,7 +75505,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 68:29-30, 33-35",
+            "citation": "PS 68:29-30",
             "sources": [
               "USCCB"
             ]
@@ -75526,8 +75526,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Jn 17:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-05-26": [
