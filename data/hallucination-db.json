@@ -79797,5 +79797,60 @@
       ]
     },
     "checked_at": "2026-05-06T16:50:46+00:00"
+  },
+  "2027-09-24:0": {
+    "date": "2027-09-24",
+    "url": "https://bible.usccb.org/bible/readings/092427.cfm",
+    "lectionary_number": 453,
+    "feast": "Friday of the Twenty-fifth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 43:1, 2, 3, 4"
+        ],
+        "live": [
+          "Psalm 43:1"
+        ],
+        "fix": [
+          "Psalm 43:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mark 10:45"
+        ],
+        "fix": [
+          "Mark 10:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 43:1"
+      ],
+      "alleluia_verse": [
+        "Mark 10:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Haggai 2:1-9"
+      ],
+      "responsorial_psalm": [
+        "Psalm 43:1"
+      ],
+      "alleluia_verse": [
+        "Mark 10:45"
+      ],
+      "gospel": [
+        "Luke 9:18-22"
+      ]
+    },
+    "checked_at": "2026-05-06T16:55:58+00:00"
   }
 }
