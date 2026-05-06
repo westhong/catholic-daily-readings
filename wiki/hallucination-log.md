@@ -15897,3 +15897,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 15:16']`, fix=`['See Jn 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ecde0cc
+
+### ❌ 2025-10-16 — Thursday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-06 19:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101625.cfm
+- **Status**: mismatch
+- **Lectionary**: 470
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/920b24f

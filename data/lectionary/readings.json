@@ -77756,7 +77756,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 21:5, 8-20",
+            "citation": "Gn 21:5",
             "sources": [
               "USCCB"
             ]
@@ -77764,7 +77764,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 34:7-8, 10-11, 12-13",
+            "citation": "Ps 34:7-8",
             "sources": [
               "USCCB"
             ]
@@ -77785,8 +77785,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jas 1:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-06": [
