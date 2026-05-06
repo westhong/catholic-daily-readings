@@ -71884,5 +71884,105 @@
       ]
     },
     "checked_at": "2026-05-06T03:25:33+00:00"
+  },
+  "2027-01-10:0": {
+    "date": "2027-01-10",
+    "url": "https://bible.usccb.org/bible/readings/011027.cfm",
+    "lectionary_number": 21,
+    "feast": "The Baptism of the Lord",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 42:1-4, 6-7"
+        ],
+        "live": [
+          "Isaiah 42:1-4",
+          "Isaiah 55:1-11"
+        ],
+        "fix": [
+          "Isaiah 42:1-4",
+          "Isaiah 55:1-11"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 29:1-2, 3-4, 3, 9-10"
+        ],
+        "live": [
+          "Psalm 29:1-2",
+          "Isaiah 12:2-3"
+        ],
+        "fix": [
+          "Psalm 29:1-2",
+          "Isaiah 12:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Acts 10:34-38"
+        ],
+        "live": [
+          "Acts 10:34-38",
+          "1 John 5:1-9"
+        ],
+        "fix": [
+          "Acts 10:34-38",
+          "1 John 5:1-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Mark 9:7"
+        ],
+        "fix": [
+          "See Mark 9:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Isaiah 42:1-4",
+        "Isaiah 55:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 29:1-2",
+        "Isaiah 12:2-3"
+      ],
+      "second_reading": [
+        "Acts 10:34-38",
+        "1 John 5:1-9"
+      ],
+      "alleluia_verse": [
+        "See Mark 9:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 42:1-4",
+        "Isaiah 55:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 29:1-2",
+        "Isaiah 12:2-3"
+      ],
+      "second_reading": [
+        "Acts 10:34-38",
+        "1 John 5:1-9"
+      ],
+      "alleluia_verse": [
+        "See Mark 9:7"
+      ],
+      "gospel": [
+        "Mark 1:7-11"
+      ]
+    },
+    "checked_at": "2026-05-06T03:30:47+00:00"
   }
 }

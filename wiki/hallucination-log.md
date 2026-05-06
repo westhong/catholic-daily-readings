@@ -14071,3 +14071,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 31:5-6, 14, 15-16']`, live=`['Ps 31:5-6']`, fix=`['Ps 31:5-6']`
   - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f98edd3
+
+### ❌ 2027-01-10 — The Baptism of the Lord
+- **Checked**: 2026-05-06 03:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011027.cfm
+- **Status**: mismatch
+- **Lectionary**: 21
+- **Mismatches**:
+  - **first_reading**: stored=`['Isaiah 42:1-4, 6-7']`, live=`['Isaiah 42:1-4', 'Isaiah 55:1-11']`, fix=`['Isaiah 42:1-4', 'Isaiah 55:1-11']`
+  - **responsorial_psalm**: stored=`['Psalm 29:1-2, 3-4, 3, 9-10']`, live=`['Psalm 29:1-2', 'Isaiah 12:2-3']`, fix=`['Psalm 29:1-2', 'Isaiah 12:2-3']`
+  - **second_reading**: stored=`['Acts 10:34-38']`, live=`['Acts 10:34-38', '1 John 5:1-9']`, fix=`['Acts 10:34-38', '1 John 5:1-9']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Mark 9:7']`, fix=`['See Mark 9:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/739dc06
