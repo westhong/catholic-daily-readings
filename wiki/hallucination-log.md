@@ -15120,3 +15120,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 2:32']`, fix=`['Luke 2:32']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8ebc48
+
+### ❌ 2024-05-01 — Wednesday of the Fifth Week of Easter
+- **Checked**: 2026-05-06 12:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050124.cfm
+- **Status**: mismatch
+- **Lectionary**: 287
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 122:1-2, 3-4']`, live=`['PS 122:1-2']`, fix=`['PS 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc1008e
