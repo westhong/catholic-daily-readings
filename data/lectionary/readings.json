@@ -19526,7 +19526,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Judges 13:2-7, 24-25",
+            "citation": "Judges 13:2-7",
             "sources": [
               "USCCB"
             ]
@@ -19548,7 +19548,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-12-20": [
