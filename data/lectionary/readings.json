@@ -37710,7 +37710,13 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Isaiah 42:1-4, 6-7",
+            "citation": "Isaiah 42:1-4",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Isaiah 55:1-11",
             "sources": [
               "USCCB"
             ]
@@ -37718,7 +37724,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 29:1-2, 3-4, 3, 9-10",
+            "citation": "Psalm 29:1-2",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "Isaiah 12:2-3",
             "sources": [
               "USCCB"
             ]
@@ -37727,6 +37739,12 @@
         "second_reading": [
           {
             "citation": "Acts 10:34-38",
+            "sources": [
+              "USCCB"
+            ]
+          },
+          {
+            "citation": "1 John 5:1-9",
             "sources": [
               "USCCB"
             ]
@@ -37753,8 +37771,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mark 9:7",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-11": [

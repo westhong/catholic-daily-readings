@@ -14061,3 +14061,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['1 Samuel 2:1, 4-5, 6-7, 8']`, live=`['1 Samuel 2:1']`, fix=`['1 Samuel 2:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 1 Thes 2:13']`, fix=`['See 1 Thes 2:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d987634
+
+### ❌ 2024-02-28 — Wednesday of the Second Week of Lent
+- **Checked**: 2026-05-06 03:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022824.cfm
+- **Status**: mismatch
+- **Lectionary**: 232
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 31:5-6, 14, 15-16']`, live=`['Ps 31:5-6']`, fix=`['Ps 31:5-6']`
+  - **verse_before_gospel**: stored=`['Jn 8:12']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f98edd3
