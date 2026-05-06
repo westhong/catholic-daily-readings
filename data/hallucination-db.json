@@ -80923,5 +80923,60 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-06T18:45:15+00:00"
+  },
+  "2024-06-20:0": {
+    "date": "2024-06-20",
+    "url": "https://bible.usccb.org/bible/readings/062024.cfm",
+    "lectionary_number": 368,
+    "feast": "Thursday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 97:1-2, 3-4, 5-6, 7"
+        ],
+        "live": [
+          "PS 97:1-2"
+        ],
+        "fix": [
+          "PS 97:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "ROM 8:15"
+        ],
+        "fix": [
+          "ROM 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "PS 97:1-2"
+      ],
+      "alleluia_verse": [
+        "ROM 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "SIR 48:1-14"
+      ],
+      "responsorial_psalm": [
+        "PS 97:1-2"
+      ],
+      "alleluia_verse": [
+        "ROM 8:15"
+      ],
+      "gospel": [
+        "MT 6:7-15"
+      ]
+    },
+    "checked_at": "2026-05-06T18:50:30+00:00"
   }
 }

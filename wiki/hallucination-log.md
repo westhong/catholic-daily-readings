@@ -15830,3 +15830,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 448
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/919.cfm`, live=fetch failed
+
+### ❌ 2024-06-20 — Thursday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-06 18:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062024.cfm
+- **Status**: mismatch
+- **Lectionary**: 368
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 97:1-2, 3-4, 5-6, 7']`, live=`['PS 97:1-2']`, fix=`['PS 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['ROM 8:15']`, fix=`['ROM 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f1fd9f5
