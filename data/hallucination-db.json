@@ -80529,5 +80529,24 @@
       ]
     },
     "checked_at": "2026-05-06T18:00:13+00:00"
+  },
+  "2026-08-24:0": {
+    "date": "2026-08-24",
+    "url": "https://bible.usccb.org/bible/readings/824.cfm",
+    "lectionary_number": 629,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/824.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-06T18:05:25+00:00"
   }
 }
