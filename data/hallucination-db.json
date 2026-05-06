@@ -72494,5 +72494,60 @@
       ]
     },
     "checked_at": "2026-05-06T04:25:19+00:00"
+  },
+  "2026-04-23:0": {
+    "date": "2026-04-23",
+    "url": "https://bible.usccb.org/bible/readings/042326.cfm",
+    "lectionary_number": 277,
+    "feast": "Thursday of the Third Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 66:8-9, 16-17, 20"
+        ],
+        "live": [
+          "Psalm 66:8-9"
+        ],
+        "fix": [
+          "Psalm 66:8-9"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 6:51"
+        ],
+        "fix": [
+          "John 6:51"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 66:8-9"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 8:26-40"
+      ],
+      "responsorial_psalm": [
+        "Psalm 66:8-9"
+      ],
+      "alleluia_verse": [
+        "John 6:51"
+      ],
+      "gospel": [
+        "John 6:44-51"
+      ]
+    },
+    "checked_at": "2026-05-06T04:30:32+00:00"
   }
 }
