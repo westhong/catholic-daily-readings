@@ -79264,5 +79264,60 @@
       ]
     },
     "checked_at": "2026-05-06T15:55:54+00:00"
+  },
+  "2023-06-13:0": {
+    "date": "2023-06-13",
+    "url": "https://bible.usccb.org/bible/readings/061323.cfm",
+    "lectionary_number": 360,
+    "feast": "Memorial of Saint Anthony of Padua, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 119:129, 130, 131, 132, 133, 135"
+        ],
+        "live": [
+          "Ps 119:129"
+        ],
+        "fix": [
+          "Ps 119:129"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:16"
+        ],
+        "fix": [
+          "Mt 5:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 119:129"
+      ],
+      "alleluia_verse": [
+        "Mt 5:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 1:18-22"
+      ],
+      "responsorial_psalm": [
+        "Ps 119:129"
+      ],
+      "alleluia_verse": [
+        "Mt 5:16"
+      ],
+      "gospel": [
+        "Mt 5:13-16"
+      ]
+    },
+    "checked_at": "2026-05-06T16:00:09+00:00"
   }
 }

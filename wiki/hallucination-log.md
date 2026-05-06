@@ -15520,3 +15520,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:2 and 9, 17-18, 19-20']`, live=`['Psalm 34:2']`, fix=`['Psalm 34:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e99f2f5
+
+### ❌ 2023-06-13 — Memorial of Saint Anthony of Padua, Priest and Doctor of the Church
+- **Checked**: 2026-05-06 16:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061323.cfm
+- **Status**: mismatch
+- **Lectionary**: 360
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:129, 130, 131, 132, 133, 135']`, live=`['Ps 119:129']`, fix=`['Ps 119:129']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:16']`, fix=`['Mt 5:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a9abe87
