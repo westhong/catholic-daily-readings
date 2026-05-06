@@ -74431,5 +74431,47 @@
       ]
     },
     "checked_at": "2026-05-06T07:51:03+00:00"
+  },
+  "2025-11-30:0": {
+    "date": "2025-11-30",
+    "url": "https://bible.usccb.org/bible/readings/113025.cfm",
+    "lectionary_number": 1,
+    "feast": "First Sunday of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 122: 1-2, 3-4, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 122: 1"
+        ],
+        "fix": [
+          "Psalm 122: 1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 122: 1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Isaiah 2:1-5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 122: 1"
+      ],
+      "second_reading": [
+        "Romans 13:11-14"
+      ],
+      "gospel": [
+        "Matthew 24:37-44"
+      ]
+    },
+    "checked_at": "2026-05-06T07:55:16+00:00"
   }
 }

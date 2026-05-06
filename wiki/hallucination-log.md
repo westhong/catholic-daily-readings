@@ -14581,3 +14581,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 149:1-2, 3-4, 5-6']`, live=`['Psalm 149:1-2']`, fix=`['Psalm 149:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 4:16']`, fix=`['Matthew 4:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85309e7
+
+### ❌ 2025-11-30 — First Sunday of Advent
+- **Checked**: 2026-05-06 07:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/113025.cfm
+- **Status**: mismatch
+- **Lectionary**: 1
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 122: 1-2, 3-4, 4-5, 6-7, 8-9']`, live=`['Psalm 122: 1']`, fix=`['Psalm 122: 1']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/55408be
