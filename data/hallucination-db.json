@@ -78499,5 +78499,60 @@
       ]
     },
     "checked_at": "2026-05-06T14:30:49+00:00"
+  },
+  "2024-09-16:0": {
+    "date": "2024-09-16",
+    "url": "https://bible.usccb.org/bible/readings/091624.cfm",
+    "lectionary_number": 443,
+    "feast": "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Cor 11:17-26, 33"
+        ],
+        "live": [
+          "1 Cor 11:17-26"
+        ],
+        "fix": [
+          "1 Cor 11:17-26"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 3:16"
+        ],
+        "fix": [
+          "Jn 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Cor 11:17-26"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Cor 11:17-26"
+      ],
+      "responsorial_psalm": [
+        "Ps 40:7-8"
+      ],
+      "alleluia_verse": [
+        "Jn 3:16"
+      ],
+      "gospel": [
+        "Lk 7:1-10"
+      ]
+    },
+    "checked_at": "2026-05-06T14:35:05+00:00"
   }
 }

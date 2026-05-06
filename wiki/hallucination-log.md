@@ -15362,3 +15362,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 132:1-2, 3-5, 11, 12, 13-14']`, live=`['Psalm 132:1-2']`, fix=`['Psalm 132:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e07df1a
+
+### ❌ 2024-09-16 — Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+- **Checked**: 2026-05-06 14:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091624.cfm
+- **Status**: mismatch
+- **Lectionary**: 443
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Cor 11:17-26, 33']`, live=`['1 Cor 11:17-26']`, fix=`['1 Cor 11:17-26']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 3:16']`, fix=`['Jn 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a3728c1
