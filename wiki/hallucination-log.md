@@ -14590,3 +14590,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 122: 1-2, 3-4, 4-5, 6-7, 8-9']`, live=`['Psalm 122: 1']`, fix=`['Psalm 122: 1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/55408be
+
+### ❌ 2027-09-27 — Memorial of Saint Vincent de Paul, Priest
+- **Checked**: 2026-05-06 08:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092727.cfm
+- **Status**: mismatch
+- **Lectionary**: 455
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 102:16-18, 19-21, 29']`, live=`['Psalm 102:16-18']`, fix=`['Psalm 102:16-18']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fa8c08a
