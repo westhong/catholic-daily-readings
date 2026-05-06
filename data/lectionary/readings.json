@@ -53866,14 +53866,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "44:10-11, 14-15, 24-25",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mk 1:40-45",
@@ -53889,8 +53882,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Mt 4:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-01-12": [

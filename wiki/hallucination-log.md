@@ -15906,3 +15906,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/920b24f
+
+### ❌ 2023-07-05 — Wednesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-06 19:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070523.cfm
+- **Status**: mismatch
+- **Lectionary**: 379
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 21:5, 8-20']`, live=`['Gn 21:5']`, fix=`['Gn 21:5']`
+  - **responsorial_psalm**: stored=`['Ps 34:7-8, 10-11, 12-13']`, live=`['Ps 34:7-8']`, fix=`['Ps 34:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jas 1:18']`, fix=`['Jas 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1916593

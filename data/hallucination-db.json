@@ -81274,5 +81274,75 @@
       ]
     },
     "checked_at": "2026-05-06T19:30:55+00:00"
+  },
+  "2023-07-05:0": {
+    "date": "2023-07-05",
+    "url": "https://bible.usccb.org/bible/readings/070523.cfm",
+    "lectionary_number": 379,
+    "feast": "Wednesday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Gn 21:5, 8-20"
+        ],
+        "live": [
+          "Gn 21:5"
+        ],
+        "fix": [
+          "Gn 21:5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:7-8, 10-11, 12-13"
+        ],
+        "live": [
+          "Ps 34:7-8"
+        ],
+        "fix": [
+          "Ps 34:7-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jas 1:18"
+        ],
+        "fix": [
+          "Jas 1:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Gn 21:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:7-8"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 21:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:7-8"
+      ],
+      "alleluia_verse": [
+        "Jas 1:18"
+      ],
+      "gospel": [
+        "Mt 8:28-34"
+      ]
+    },
+    "checked_at": "2026-05-06T19:35:07+00:00"
   }
 }
