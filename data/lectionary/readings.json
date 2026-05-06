@@ -62185,7 +62185,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "JER 31:10, 11-12",
+            "citation": "JER 31:10",
             "sources": [
               "USCCB"
             ]
@@ -62206,8 +62206,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "LK 8:15",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-27": [
