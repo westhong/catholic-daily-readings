@@ -14198,3 +14198,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 66:8-9, 16-17, 20']`, live=`['Psalm 66:8-9']`, fix=`['Psalm 66:8-9']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 6:51']`, fix=`['John 6:51']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ebf21f8
+
+### ❌ 2023-12-29 — The Fifth Day in the Octave of Christmas
+- **Checked**: 2026-05-06 04:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122923.cfm
+- **Status**: mismatch
+- **Lectionary**: 202
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 2:32']`, fix=`['Lk 2:32']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/28d01a4

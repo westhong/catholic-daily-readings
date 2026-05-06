@@ -82877,7 +82877,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 147:12-13, 14-15, 19-20",
+            "citation": "Ps 147:12-13",
             "sources": [
               "USCCB"
             ]
@@ -82898,8 +82898,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 10:27",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-11-04": [
