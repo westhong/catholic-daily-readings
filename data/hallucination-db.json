@@ -75965,5 +75965,60 @@
       ]
     },
     "checked_at": "2026-05-06T10:10:44+00:00"
+  },
+  "2024-04-30:0": {
+    "date": "2024-04-30",
+    "url": "https://bible.usccb.org/bible/readings/043024.cfm",
+    "lectionary_number": 286,
+    "feast": "Tuesday of Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:10-11, 12-13"
+        ],
+        "live": [
+          "Ps 145:10-11"
+        ],
+        "fix": [
+          "Ps 145:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Lk 24:46"
+        ],
+        "fix": [
+          "See Lk 24:46"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Lk 24:46"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 14:19-28"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:10-11"
+      ],
+      "alleluia_verse": [
+        "See Lk 24:46"
+      ],
+      "gospel": [
+        "Jn 14:27-31"
+      ]
+    },
+    "checked_at": "2026-05-06T10:15:59+00:00"
   }
 }

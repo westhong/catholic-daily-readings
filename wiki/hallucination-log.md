@@ -14858,3 +14858,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Hebrews 7:25—8']`, live=`['Hebrews 7:25']`, fix=`['Hebrews 7:25']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Timothy 1:10']`, fix=`['2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2296098
+
+### ❌ 2024-04-30 — Tuesday of Fifth Week of Easter
+- **Checked**: 2026-05-06 10:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/043024.cfm
+- **Status**: mismatch
+- **Lectionary**: 286
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:10-11, 12-13']`, live=`['Ps 145:10-11']`, fix=`['Ps 145:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 24:46']`, fix=`['See Lk 24:46']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e81e0d5
