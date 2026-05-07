@@ -25974,7 +25974,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "1 Peter 5:5b-14",
+            "citation": "1 Peter 5:5",
             "sources": [
               "USCCB"
             ]
@@ -25982,7 +25982,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 89:2-3, 6-7, 16-17",
+            "citation": "Psalm 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -26003,8 +26003,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Corinthians 1:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-26": [
