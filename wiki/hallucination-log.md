@@ -17386,3 +17386,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/803ffcf
+
+### ❌ 2025-11-08 — Saturday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-07 08:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110825.cfm
+- **Status**: mismatch
+- **Lectionary**: 490
+- **Mismatches**:
+  - **first_reading**: stored=`['Romans 16:3-9, 16, 22-27']`, live=`['Romans 16:3-9']`, fix=`['Romans 16:3-9']`
+  - **responsorial_psalm**: stored=`['Psalm 145:2-3, 4-5, 10-11']`, live=`['Psalm 145:2-3']`, fix=`['Psalm 145:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dda012c
