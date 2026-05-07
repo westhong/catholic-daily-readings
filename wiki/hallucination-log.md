@@ -17185,3 +17185,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Ephesians 1:3-6, 11-12']`, live=`['Ephesians 1:3-6']`, fix=`['Ephesians 1:3-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:28']`, fix=`['See Luke 1:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57aaf8a
+
+### ❌ 2023-08-26 — Saturday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-07 06:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082623.cfm
+- **Status**: mismatch
+- **Lectionary**: 424
+- **Mismatches**:
+  - **first_reading**: stored=`['Ru 2:1-3, 8-11']`, live=`['Ru 2:1-3']`, fix=`['Ru 2:1-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 23:9']`, fix=`['Mt 23:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/395d7b7

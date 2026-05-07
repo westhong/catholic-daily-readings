@@ -28165,14 +28165,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "90:2, 3-4, 10, 14",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Mark 12:13-17",
@@ -28188,8 +28181,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Ephesians 1:17-18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-06-03": [
