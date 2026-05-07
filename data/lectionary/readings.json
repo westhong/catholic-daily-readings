@@ -42304,7 +42304,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 118:2-4, 13-15, 22-24",
+            "citation": "Psalm 118:2-4",
             "sources": [
               "USCCB"
             ]
@@ -42333,8 +42333,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 20:29",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-04-05": [
