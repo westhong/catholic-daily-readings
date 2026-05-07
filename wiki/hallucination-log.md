@@ -16601,3 +16601,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 98:1, 7-8, 9']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['HEB 1:1-2']`, fix=`['HEB 1:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/191f05b
+
+### 🚫 2026-08-17 — 
+- **Checked**: 2026-05-07 01:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/817.cfm
+- **Status**: url_dead
+- **Lectionary**: 419
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/817.cfm`, live=fetch failed
