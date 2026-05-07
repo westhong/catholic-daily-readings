@@ -86954,5 +86954,60 @@
       ]
     },
     "checked_at": "2026-05-07T05:00:44+00:00"
+  },
+  "2023-02-10:0": {
+    "date": "2023-02-10",
+    "url": "https://bible.usccb.org/bible/readings/021023.cfm",
+    "lectionary_number": 333,
+    "feast": "Memorial of Saint Scholastica, Virgin",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 32:1-2, 5, 6, 7"
+        ],
+        "live": [
+          "Ps 32:1-2"
+        ],
+        "fix": [
+          "Ps 32:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Acts 16:14"
+        ],
+        "fix": [
+          "Acts 16:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 32:1-2"
+      ],
+      "alleluia_verse": [
+        "Acts 16:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 3:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 32:1-2"
+      ],
+      "alleluia_verse": [
+        "Acts 16:14"
+      ],
+      "gospel": [
+        "Mk 7:31-37"
+      ]
+    },
+    "checked_at": "2026-05-07T05:05:57+00:00"
   }
 }
