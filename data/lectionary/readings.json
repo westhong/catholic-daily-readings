@@ -21864,7 +21864,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:3-4, 5-6",
+            "citation": "Psalm 51:3-4",
             "sources": [
               "USCCB"
             ]
@@ -21885,8 +21885,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Matthew 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-01-31": [
