@@ -16619,3 +16619,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3, 3-4']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Thessalonians 5:18']`, fix=`['1 Thessalonians 5:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a39628c
+
+### 🚫 2026-11-27 — 
+- **Checked**: 2026-05-07 01:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261127.cfm
+- **Status**: url_dead
+- **Lectionary**: 507
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261127.cfm`, live=fetch failed
