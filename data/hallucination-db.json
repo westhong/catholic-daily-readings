@@ -85894,5 +85894,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T03:11:03+00:00"
+  },
+  "2025-06-07:0": {
+    "date": "2025-06-07",
+    "url": "https://bible.usccb.org/bible/readings/060725.cfm",
+    "lectionary_number": 302,
+    "feast": "Saturday of the Seventh Week of Easter - Mass in the Morning",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 28:16-20, 30-31"
+        ],
+        "live": [
+          "Acts 28:16-20"
+        ],
+        "fix": [
+          "Acts 28:16-20"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 11:4, 5"
+        ],
+        "live": [
+          "Psalm 11:4"
+        ],
+        "fix": [
+          "Psalm 11:4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 16:7"
+        ],
+        "fix": [
+          "John 16:7"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 28:16-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 11:4"
+      ],
+      "alleluia_verse": [
+        "John 16:7"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 28:16-20"
+      ],
+      "responsorial_psalm": [
+        "Psalm 11:4"
+      ],
+      "alleluia_verse": [
+        "John 16:7"
+      ],
+      "gospel": [
+        "John 21:20-25"
+      ]
+    },
+    "checked_at": "2026-05-07T03:15:24+00:00"
   }
 }

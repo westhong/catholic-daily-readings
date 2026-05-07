@@ -16795,3 +16795,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 136
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/927.cfm`, live=fetch failed
+
+### ❌ 2025-06-07 — Saturday of the Seventh Week of Easter - Mass in the Morning
+- **Checked**: 2026-05-07 03:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060725.cfm
+- **Status**: mismatch
+- **Lectionary**: 302
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 28:16-20, 30-31']`, live=`['Acts 28:16-20']`, fix=`['Acts 28:16-20']`
+  - **responsorial_psalm**: stored=`['Psalm 11:4, 5']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b64574
