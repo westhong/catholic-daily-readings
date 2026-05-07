@@ -16529,3 +16529,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 477
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1023.cfm`, live=fetch failed
+
+### ❌ 2027-06-16 — Wednesday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-07 01:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061627.cfm
+- **Status**: mismatch
+- **Lectionary**: 367
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+  - **gospel**: stored=`['Matthew 6:1-6, 16-18']`, live=`['Matthew 6:1-6']`, fix=`['Matthew 6:1-6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0898c75
