@@ -17215,3 +17215,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/437b59d
+
+### ❌ 2023-04-13 — Thursday in the Octave of Easter
+- **Checked**: 2026-05-07 06:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041323.cfm
+- **Status**: mismatch
+- **Lectionary**: 264
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4566b2a
