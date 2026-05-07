@@ -16998,3 +16998,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d46d6f3
+
+### ❌ 2026-01-23 — Friday of the Second Week in Ordinary Time
+- **Checked**: 2026-05-07 05:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/012326.cfm
+- **Status**: mismatch
+- **Lectionary**: 315
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 57:2, 3-4, 6']`, live=`['Psalm 57:2']`, fix=`['Psalm 57:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 5:19']`, fix=`['2 Corinthians 5:19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/784a129

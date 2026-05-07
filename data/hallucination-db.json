@@ -86899,5 +86899,60 @@
       ]
     },
     "checked_at": "2026-05-07T04:55:31+00:00"
+  },
+  "2026-01-23:0": {
+    "date": "2026-01-23",
+    "url": "https://bible.usccb.org/bible/readings/012326.cfm",
+    "lectionary_number": 315,
+    "feast": "Friday of the Second Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 57:2, 3-4, 6"
+        ],
+        "live": [
+          "Psalm 57:2"
+        ],
+        "fix": [
+          "Psalm 57:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "2 Corinthians 5:19"
+        ],
+        "fix": [
+          "2 Corinthians 5:19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 57:2"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Samuel 24:3-21"
+      ],
+      "responsorial_psalm": [
+        "Psalm 57:2"
+      ],
+      "alleluia_verse": [
+        "2 Corinthians 5:19"
+      ],
+      "gospel": [
+        "Mark 3:13-19"
+      ]
+    },
+    "checked_at": "2026-05-07T05:00:44+00:00"
   }
 }
