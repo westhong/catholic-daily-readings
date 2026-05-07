@@ -88939,5 +88939,60 @@
       ]
     },
     "checked_at": "2026-05-07T08:30:36+00:00"
+  },
+  "2026-01-31:0": {
+    "date": "2026-01-31",
+    "url": "https://bible.usccb.org/bible/readings/013126.cfm",
+    "lectionary_number": 322,
+    "feast": "Memorial of Saint John Bosco, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 51:12-13, 14-15, 16-17"
+        ],
+        "live": [
+          "Psalm 51:12-13"
+        ],
+        "fix": [
+          "Psalm 51:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 3:16"
+        ],
+        "fix": [
+          "John 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 51:12-13"
+      ],
+      "alleluia_verse": [
+        "John 3:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Samuel 12:1-7"
+      ],
+      "responsorial_psalm": [
+        "Psalm 51:12-13"
+      ],
+      "alleluia_verse": [
+        "John 3:16"
+      ],
+      "gospel": [
+        "Mark 4:35-41"
+      ]
+    },
+    "checked_at": "2026-05-07T08:35:50+00:00"
   }
 }

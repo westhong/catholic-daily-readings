@@ -17406,3 +17406,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d5b9f3
+
+### ❌ 2026-01-31 — Memorial of Saint John Bosco, Priest
+- **Checked**: 2026-05-07 08:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013126.cfm
+- **Status**: mismatch
+- **Lectionary**: 322
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:12-13, 14-15, 16-17']`, live=`['Psalm 51:12-13']`, fix=`['Psalm 51:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/54149b4

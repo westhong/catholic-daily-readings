@@ -40751,7 +40751,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 95:1-2, 6-7, 8-9",
+            "citation": "Psalm 95:1-2",
             "sources": [
               "USCCB"
             ]
@@ -40759,7 +40759,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Romans 5:1-2, 5-8",
+            "citation": "Romans 5:1-2",
             "sources": [
               "USCCB"
             ]
@@ -40771,20 +40771,20 @@
             "sources": [
               "USCCB"
             ]
-          }
-        ],
-        "verse_before_gospel": [
+          },
           {
-            "citation": "John 3:16",
+            "citation": "John 4:5-15",
             "sources": [
               "USCCB"
             ]
           }
-        ]
+        ],
+        "verse_before_gospel": []
       },
       "url": "https://bible.usccb.org/bible/readings/022827-YearA.cfm",
       "date": "2027-02-28",
-      "mass": "YearA"
+      "mass": "YearA",
+      "mass_idx": 0
     },
     {
       "lectionary_number": 29,
