@@ -88115,5 +88115,60 @@
       ]
     },
     "checked_at": "2026-05-07T07:00:32+00:00"
+  },
+  "2027-01-28:0": {
+    "date": "2027-01-28",
+    "url": "https://bible.usccb.org/bible/readings/012827.cfm",
+    "lectionary_number": 320,
+    "feast": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 24:1-2, 3-4"
+        ],
+        "live": [
+          "Psalm 24:1-2"
+        ],
+        "fix": [
+          "Psalm 24:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Psalm 119:105"
+        ],
+        "fix": [
+          "Psalm 119:105"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 24:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hebrews 10:19-25"
+      ],
+      "responsorial_psalm": [
+        "Psalm 24:1-2"
+      ],
+      "alleluia_verse": [
+        "Psalm 119:105"
+      ],
+      "gospel": [
+        "Mark 4:21-25"
+      ]
+    },
+    "checked_at": "2026-05-07T07:05:50+00:00"
   }
 }

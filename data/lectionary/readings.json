@@ -78197,7 +78197,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Kgs 4:8-11, 14-16",
+            "citation": "2 Kgs 4:8-11",
             "sources": [
               "USCCB"
             ]
@@ -78205,7 +78205,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 89:2-3, 16-17, 18-19",
+            "citation": "Ps 89:2-3",
             "sources": [
               "USCCB"
             ]
@@ -78213,7 +78213,7 @@
         ],
         "second_reading": [
           {
-            "citation": "Rom 6:3-4, 8-11",
+            "citation": "Rom 6:3-4",
             "sources": [
               "USCCB"
             ]
@@ -78234,8 +78234,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Pt 2:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-03": [
