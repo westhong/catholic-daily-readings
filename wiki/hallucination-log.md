@@ -17195,3 +17195,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Ru 2:1-3, 8-11']`, live=`['Ru 2:1-3']`, fix=`['Ru 2:1-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 23:9']`, fix=`['Mt 23:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/395d7b7
+
+### ❌ 2026-06-02 — Tuesday of the Ninth Week in Ordinary Time
+- **Checked**: 2026-05-07 06:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060226.cfm
+- **Status**: mismatch
+- **Lectionary**: 354
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['90:2, 3-4, 10, 14']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/46c025a
