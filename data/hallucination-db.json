@@ -85296,5 +85296,75 @@
       ]
     },
     "checked_at": "2026-05-07T02:15:14+00:00"
+  },
+  "2027-08-04:0": {
+    "date": "2027-08-04",
+    "url": "https://bible.usccb.org/bible/readings/080427.cfm",
+    "lectionary_number": 409,
+    "feast": "Memorial of Saint John Vianney, Priest",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Numbers 13:1-2, 25–14"
+        ],
+        "live": [
+          "Numbers 13:1-2"
+        ],
+        "fix": [
+          "Numbers 13:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Luke 7:16"
+        ],
+        "fix": [
+          "Luke 7:16"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 15: 21-28"
+        ],
+        "live": [
+          "Matthew 15: 21"
+        ],
+        "fix": [
+          "Matthew 15: 21"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Numbers 13:1-2"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Matthew 15: 21"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Numbers 13:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 106:6-7"
+      ],
+      "alleluia_verse": [
+        "Luke 7:16"
+      ],
+      "gospel": [
+        "Matthew 15: 21"
+      ]
+    },
+    "checked_at": "2026-05-07T02:20:26+00:00"
   }
 }

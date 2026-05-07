@@ -16684,3 +16684,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['JER 31:10, 11-12']`, live=`['JER 31:10']`, fix=`['JER 31:10']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 7:16']`, fix=`['LK 7:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fd7f6c3
+
+### ❌ 2027-08-04 — Memorial of Saint John Vianney, Priest
+- **Checked**: 2026-05-07 02:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080427.cfm
+- **Status**: mismatch
+- **Lectionary**: 409
+- **Mismatches**:
+  - **first_reading**: stored=`['Numbers 13:1-2, 25–14']`, live=`['Numbers 13:1-2']`, fix=`['Numbers 13:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
+  - **gospel**: stored=`['Matthew 15: 21-28']`, live=`['Matthew 15: 21']`, fix=`['Matthew 15: 21']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5bb51a4

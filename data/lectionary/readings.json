@@ -82191,7 +82191,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ezr 6:7-8, 12",
+            "citation": "Ezr 6:7-8",
             "sources": [
               "USCCB"
             ]
@@ -82199,7 +82199,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 122:1-2, 3-4",
+            "citation": "Ps 122:1-2",
             "sources": [
               "USCCB"
             ]
@@ -82220,8 +82220,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Lk 11:28",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-09-27": [
