@@ -17686,7 +17686,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Romans 16:3-9, 16, 22-27",
+            "citation": "Romans 16:3-9",
             "sources": [
               "USCCB"
             ]
@@ -17702,7 +17702,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 145:2-3, 4-5, 10-11",
+            "citation": "Psalm 145:2-3",
             "sources": [
               "USCCB"
             ]
@@ -17715,8 +17715,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "2 Corinthians 8:9",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2025-11-09": [

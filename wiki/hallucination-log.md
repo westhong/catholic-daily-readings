@@ -17375,3 +17375,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 393
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/717.cfm`, live=fetch failed
+
+### ❌ 2027-09-25 — Saturday of the Twenty-Fifth Week in Ordinary Time
+- **Checked**: 2026-05-07 08:21 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092527.cfm
+- **Status**: mismatch
+- **Lectionary**: 454
+- **Mismatches**:
+  - **first_reading**: stored=`['Zechariah 2:5-9, 14-15']`, live=`['Zechariah 2:5-9']`, fix=`['Zechariah 2:5-9']`
+  - **responsorial_psalm**: stored=`['Jeremiah 31:10, 11-12']`, live=`['Jeremiah 31:10']`, fix=`['Jeremiah 31:10']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See 2 Timothy 1:10']`, fix=`['See 2 Timothy 1:10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/803ffcf
