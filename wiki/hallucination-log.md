@@ -17162,3 +17162,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75ed0fb
+
+### ❌ 2024-08-06 — Feast of the Transfiguration of the Lord
+- **Checked**: 2026-05-07 06:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080624.cfm
+- **Status**: mismatch
+- **Lectionary**: 614
+- **Mismatches**:
+  - **first_reading**: stored=`['DN 7:9-10, 13-14']`, live=`['DN 7:9-10']`, fix=`['DN 7:9-10']`
+  - **responsorial_psalm**: stored=`['PS 97:1-2, 5-6, 9']`, live=`['PS 97:1-2']`, fix=`['PS 97:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 17:5']`, fix=`['MT 17:5']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b7b1e7
