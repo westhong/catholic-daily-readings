@@ -17080,3 +17080,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 47:2-3, 4-5, 6-7']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 24:46']`, fix=`['See Luke 24:46']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d25ba33
+
+### 🚫 2026-07-01 — Wednesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-07 05:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/71.cfm
+- **Status**: url_dead
+- **Lectionary**: 379
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/71.cfm`, live=fetch failed
