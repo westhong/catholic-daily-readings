@@ -85755,5 +85755,79 @@
       ]
     },
     "checked_at": "2026-05-07T02:55:17+00:00"
+  },
+  "2025-05-31:0": {
+    "date": "2025-05-31",
+    "url": "https://bible.usccb.org/bible/readings/053125.cfm",
+    "lectionary_number": 572,
+    "feast": "Feast of the Visitation of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Zephaniah 3:14-18"
+        ],
+        "live": [
+          "Zephaniah 3:14-18",
+          "Romans 12:9-16"
+        ],
+        "fix": [
+          "Zephaniah 3:14-18",
+          "Romans 12:9-16"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Isaiah 12:2-3, 4"
+        ],
+        "live": [
+          "Isaiah 12:2-3"
+        ],
+        "fix": [
+          "Isaiah 12:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Luke 1:45"
+        ],
+        "fix": [
+          "See Luke 1:45"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Zephaniah 3:14-18",
+        "Romans 12:9-16"
+      ],
+      "responsorial_psalm": [
+        "Isaiah 12:2-3"
+      ],
+      "alleluia_verse": [
+        "See Luke 1:45"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Zephaniah 3:14-18",
+        "Romans 12:9-16"
+      ],
+      "responsorial_psalm": [
+        "Isaiah 12:2-3"
+      ],
+      "alleluia_verse": [
+        "See Luke 1:45"
+      ],
+      "gospel": [
+        "Luke 1:39-56"
+      ]
+    },
+    "checked_at": "2026-05-07T03:00:30+00:00"
   }
 }

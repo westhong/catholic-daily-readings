@@ -68115,14 +68115,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "144:1",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "alleluia": [
           {
             "citation": "See LK 19:38; 2:14",
@@ -68130,8 +68123,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See LK 19:38",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-11-01": [

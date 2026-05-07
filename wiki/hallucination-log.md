@@ -16766,3 +16766,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:26']`, fix=`['Ps 118:26']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8a886a
+
+### ❌ 2025-05-31 — Feast of the Visitation of the Blessed Virgin Mary
+- **Checked**: 2026-05-07 03:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053125.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Zephaniah 3:14-18']`, live=`['Zephaniah 3:14-18', 'Romans 12:9-16']`, fix=`['Zephaniah 3:14-18', 'Romans 12:9-16']`
+  - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:45']`, fix=`['See Luke 1:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/12d38f8
