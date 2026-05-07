@@ -16977,3 +16977,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 475
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/1021.cfm`, live=fetch failed
+
+### ❌ 2023-06-23 — Friday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-07 04:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062323.cfm
+- **Status**: mismatch
+- **Lectionary**: 369
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Cor 11:18, 21-30']`, live=`['2 Cor 11:18']`, fix=`['2 Cor 11:18']`
+  - **responsorial_psalm**: stored=`['PS 34:2-3, 4-5, 6-7']`, live=`['PS 34:2-3']`, fix=`['PS 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9788282

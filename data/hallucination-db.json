@@ -86774,5 +86774,75 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T04:45:06+00:00"
+  },
+  "2023-06-23:0": {
+    "date": "2023-06-23",
+    "url": "https://bible.usccb.org/bible/readings/062323.cfm",
+    "lectionary_number": 369,
+    "feast": "Friday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Cor 11:18, 21-30"
+        ],
+        "live": [
+          "2 Cor 11:18"
+        ],
+        "fix": [
+          "2 Cor 11:18"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "PS 34:2-3, 4-5, 6-7"
+        ],
+        "live": [
+          "PS 34:2-3"
+        ],
+        "fix": [
+          "PS 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:3"
+        ],
+        "fix": [
+          "Mt 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Cor 11:18"
+      ],
+      "responsorial_psalm": [
+        "PS 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 11:18"
+      ],
+      "responsorial_psalm": [
+        "PS 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:3"
+      ],
+      "gospel": [
+        "Mt 6:19-23"
+      ]
+    },
+    "checked_at": "2026-05-07T04:50:18+00:00"
   }
 }
