@@ -88569,5 +88569,24 @@
       ]
     },
     "checked_at": "2026-05-07T07:45:10+00:00"
+  },
+  "2026-09-21:0": {
+    "date": "2026-09-21",
+    "url": "https://bible.usccb.org/bible/readings/921.cfm",
+    "lectionary_number": 643,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/921.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T07:50:26+00:00"
   }
 }
