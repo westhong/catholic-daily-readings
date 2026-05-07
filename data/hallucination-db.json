@@ -85829,5 +85829,51 @@
       ]
     },
     "checked_at": "2026-05-07T03:00:30+00:00"
+  },
+  "2024-10-31:0": {
+    "date": "2024-10-31",
+    "url": "https://bible.usccb.org/bible/readings/103124.cfm",
+    "lectionary_number": 482,
+    "feast": "Thursday of the Thirtieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "144:1"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See LK 19:38"
+        ],
+        "fix": [
+          "See LK 19:38"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "alleluia_verse": [
+        "See LK 19:38"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EPH 6:10-20"
+      ],
+      "alleluia_verse": [
+        "See LK 19:38"
+      ],
+      "gospel": [
+        "LK 13:31-35"
+      ]
+    },
+    "checked_at": "2026-05-07T03:05:48+00:00"
   }
 }

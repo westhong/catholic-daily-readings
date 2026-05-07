@@ -16777,3 +16777,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:45']`, fix=`['See Luke 1:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/12d38f8
+
+### ❌ 2024-10-31 — Thursday of the Thirtieth Week in Ordinary Time
+- **Checked**: 2026-05-07 03:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/103124.cfm
+- **Status**: mismatch
+- **Lectionary**: 482
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['144:1']`, live=`（空白）`, fix=`[]`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See LK 19:38']`, fix=`['See LK 19:38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0e65d4
