@@ -16503,3 +16503,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['DEUTERONOMY 32:18-19, 20, 21']`, live=`['DEUTERONOMY 32:18-19']`, fix=`['DEUTERONOMY 32:18-19']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:3']`, fix=`['MT 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ad1ed30
+
+### ❌ 2024-06-26 — Wednesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-07 00:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062624.cfm
+- **Status**: mismatch
+- **Lectionary**: 373
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 119:33, 34, 35, 36, 37, 40']`, live=`['Ps 119:33']`, fix=`['Ps 119:33']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9f652fa
