@@ -88057,5 +88057,63 @@
       ]
     },
     "checked_at": "2026-05-07T06:55:18+00:00"
+  },
+  "2025-10-19:0": {
+    "date": "2025-10-19",
+    "url": "https://bible.usccb.org/bible/readings/101925.cfm",
+    "lectionary_number": 147,
+    "feast": "Twenty-ninth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 121:1-2, 3-4, 5-6, 7-8"
+        ],
+        "live": [
+          "Psalm 121:1-2"
+        ],
+        "fix": [
+          "Psalm 121:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Hebrews 4:12"
+        ],
+        "fix": [
+          "Hebrews 4:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 121:1-2"
+      ],
+      "alleluia_verse": [
+        "Hebrews 4:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Exodus 17:8-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 121:1-2"
+      ],
+      "second_reading": [
+        "2 Timothy 3:14-4"
+      ],
+      "alleluia_verse": [
+        "Hebrews 4:12"
+      ],
+      "gospel": [
+        "Luke 18:1-8"
+      ]
+    },
+    "checked_at": "2026-05-07T07:00:32+00:00"
   }
 }

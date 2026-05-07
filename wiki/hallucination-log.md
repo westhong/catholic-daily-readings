@@ -17224,3 +17224,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:24']`, fix=`['Ps 118:24']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4566b2a
+
+### ❌ 2025-10-19 — Twenty-ninth Sunday in Ordinary Time
+- **Checked**: 2026-05-07 07:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101925.cfm
+- **Status**: mismatch
+- **Lectionary**: 147
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 121:1-2, 3-4, 5-6, 7-8']`, live=`['Psalm 121:1-2']`, fix=`['Psalm 121:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f3db3b
