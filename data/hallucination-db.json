@@ -86469,5 +86469,60 @@
       ]
     },
     "checked_at": "2026-05-07T04:15:49+00:00"
+  },
+  "2025-08-07:0": {
+    "date": "2025-08-07",
+    "url": "https://bible.usccb.org/bible/readings/080725.cfm",
+    "lectionary_number": 410,
+    "feast": "Thursday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 95:1-2, 6-7, 8-9"
+        ],
+        "live": [
+          "Psalm 95:1-2"
+        ],
+        "fix": [
+          "Psalm 95:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Matthew 16:18"
+        ],
+        "fix": [
+          "Matthew 16:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 16:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Numbers 20:1-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 95:1-2"
+      ],
+      "alleluia_verse": [
+        "Matthew 16:18"
+      ],
+      "gospel": [
+        "Matthew 16:13-23"
+      ]
+    },
+    "checked_at": "2026-05-07T04:21:02+00:00"
   }
 }

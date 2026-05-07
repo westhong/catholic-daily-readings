@@ -25112,20 +25112,13 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 105:1-2, 3-4, 6-7, 8-9",
+            "citation": "Psalm 105:1-2",
             "sources": [
               "USCCB"
             ]
           }
         ],
-        "sequence": [
-          {
-            "citation": "Victimae paschali laudes (optional, liturgical text)",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "sequence": [],
         "alleluia": [
           {
             "citation": "Psalm 118:24",
@@ -25141,8 +25134,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Psalm 118:24",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-04-09": [
