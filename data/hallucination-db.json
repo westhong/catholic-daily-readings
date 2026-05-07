@@ -84742,5 +84742,60 @@
       ]
     },
     "checked_at": "2026-05-07T01:15:25+00:00"
+  },
+  "2024-08-23:0": {
+    "date": "2024-08-23",
+    "url": "https://bible.usccb.org/bible/readings/082324.cfm",
+    "lectionary_number": 423,
+    "feast": "Friday of the Twentieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 107:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 107:2-3"
+        ],
+        "fix": [
+          "Ps 107:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 25:4"
+        ],
+        "fix": [
+          "Ps 25:4"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 107:2-3"
+      ],
+      "alleluia_verse": [
+        "Ps 25:4"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ez 37:1-14"
+      ],
+      "responsorial_psalm": [
+        "Ps 107:2-3"
+      ],
+      "alleluia_verse": [
+        "Ps 25:4"
+      ],
+      "gospel": [
+        "Mt 22:34-40"
+      ]
+    },
+    "checked_at": "2026-05-07T01:20:39+00:00"
   }
 }

@@ -79506,7 +79506,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Lv 23:1, 4-11, 15-16, 27, 34",
+            "citation": "Lv 23:1",
             "sources": [
               "USCCB"
             ]
@@ -79514,7 +79514,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 81:3-4, 5-6, 10-11",
+            "citation": "Ps 81:3-4",
             "sources": [
               "USCCB"
             ]
@@ -79535,8 +79535,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "1 Pt 1:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-08-05": [

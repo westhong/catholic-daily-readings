@@ -16570,3 +16570,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 11:4, 5']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37bb1ce
+
+### ❌ 2024-08-23 — Friday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-07 01:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082324.cfm
+- **Status**: mismatch
+- **Lectionary**: 423
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 107:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 107:2-3']`, fix=`['Ps 107:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20d6d28
