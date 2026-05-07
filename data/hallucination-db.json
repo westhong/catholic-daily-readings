@@ -89366,5 +89366,108 @@
       ]
     },
     "checked_at": "2026-05-07T09:10:41+00:00"
+  },
+  "2027-08-29:0": {
+    "date": "2027-08-29",
+    "url": "https://bible.usccb.org/bible/readings/082927.cfm",
+    "lectionary_number": 125,
+    "feast": "Twenty-second Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Deuteronomy 4:1-2, 6-8"
+        ],
+        "live": [
+          "Deuteronomy 4:1-2"
+        ],
+        "fix": [
+          "Deuteronomy 4:1-2"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 15:2-3, 3-4, 4-5"
+        ],
+        "live": [
+          "Psalm 15:2-3"
+        ],
+        "fix": [
+          "Psalm 15:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "James 1:17-18, 21"
+        ],
+        "live": [
+          "James 1:17-18"
+        ],
+        "fix": [
+          "James 1:17-18"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "James 1:18"
+        ],
+        "fix": [
+          "James 1:18"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Mark 7:1-8, 14-15, 21-23"
+        ],
+        "live": [
+          "Mark 7:1-8"
+        ],
+        "fix": [
+          "Mark 7:1-8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Deuteronomy 4:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 15:2-3"
+      ],
+      "second_reading": [
+        "James 1:17-18"
+      ],
+      "alleluia_verse": [
+        "James 1:18"
+      ],
+      "gospel": [
+        "Mark 7:1-8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Deuteronomy 4:1-2"
+      ],
+      "responsorial_psalm": [
+        "Psalm 15:2-3"
+      ],
+      "second_reading": [
+        "James 1:17-18"
+      ],
+      "alleluia_verse": [
+        "James 1:18"
+      ],
+      "gospel": [
+        "Mark 7:1-8"
+      ]
+    },
+    "checked_at": "2026-05-07T09:15:59+00:00"
   }
 }

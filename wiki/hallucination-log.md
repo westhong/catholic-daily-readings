@@ -17486,3 +17486,16 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 34:7-8, 10-11, 12-13']`, live=`['Psalm 34:7-8']`, fix=`['Psalm 34:7-8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/681e1e5
+
+### ❌ 2027-08-29 — Twenty-second Sunday in Ordinary Time
+- **Checked**: 2026-05-07 09:16 UTC
+- **URL**: https://bible.usccb.org/bible/readings/082927.cfm
+- **Status**: mismatch
+- **Lectionary**: 125
+- **Mismatches**:
+  - **first_reading**: stored=`['Deuteronomy 4:1-2, 6-8']`, live=`['Deuteronomy 4:1-2']`, fix=`['Deuteronomy 4:1-2']`
+  - **responsorial_psalm**: stored=`['Psalm 15:2-3, 3-4, 4-5']`, live=`['Psalm 15:2-3']`, fix=`['Psalm 15:2-3']`
+  - **second_reading**: stored=`['James 1:17-18, 21']`, live=`['James 1:17-18']`, fix=`['James 1:17-18']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
+  - **gospel**: stored=`['Mark 7:1-8, 14-15, 21-23']`, live=`['Mark 7:1-8']`, fix=`['Mark 7:1-8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/941a029
