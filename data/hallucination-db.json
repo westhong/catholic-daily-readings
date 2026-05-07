@@ -87009,5 +87009,72 @@
       ]
     },
     "checked_at": "2026-05-07T05:05:57+00:00"
+  },
+  "2024-05-24:0": {
+    "date": "2024-05-24",
+    "url": "https://bible.usccb.org/bible/readings/052424.cfm",
+    "lectionary_number": 345,
+    "feast": "Friday of the Seventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 3-4, 8-9, 11-12"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Jn 17:17"
+        ],
+        "fix": [
+          "See Jn 17:17"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Jas 5:9-12"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "alleluia_verse": [
+        "See Jn 17:17"
+      ],
+      "gospel": [
+        "Mk 10:1-12"
+      ]
+    },
+    "checked_at": "2026-05-07T05:10:09+00:00"
+  },
+  "2024-03-17:0": {
+    "date": "2024-03-17",
+    "url": "https://bible.usccb.org/bible/readings/031724.cfm",
+    "lectionary_number": 34,
+    "feast": "Fifth Sunday of Lent",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T05:15:23+00:00"
   }
 }

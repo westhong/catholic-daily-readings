@@ -17018,3 +17018,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 32:1-2, 5, 6, 7']`, live=`['Ps 32:1-2']`, fix=`['Ps 32:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Acts 16:14']`, fix=`['Acts 16:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ef075be
+
+### ❌ 2024-05-24 — Friday of the Seventh Week in Ordinary Time
+- **Checked**: 2026-05-07 05:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052424.cfm
+- **Status**: mismatch
+- **Lectionary**: 345
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 8-9, 11-12']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Jn 17:17']`, fix=`['See Jn 17:17']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/277747e
+
+### ✅ 2024-03-17 — Fifth Sunday of Lent
+- **Checked**: 2026-05-07 05:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/031724.cfm
+- **Status**: ok
+- **Lectionary**: 34
