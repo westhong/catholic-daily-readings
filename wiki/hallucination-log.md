@@ -16513,3 +16513,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 119:33, 34, 35, 36, 37, 40']`, live=`['Ps 119:33']`, fix=`['Ps 119:33']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9f652fa
+
+### 🚫 2026-12-29 — 
+- **Checked**: 2026-05-07 00:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261229.cfm
+- **Status**: url_dead
+- **Lectionary**: 202
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261229.cfm`, live=fetch failed
