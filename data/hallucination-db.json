@@ -89187,5 +89187,59 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T08:55:54+00:00"
+  },
+  "2027-05-17:0": {
+    "date": "2027-05-17",
+    "url": "https://bible.usccb.org/bible/readings/051727.cfm",
+    "lectionary_number": 572,
+    "feast": "Memorial of the Blessed Virgin Mary, Mother of the Church",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 3:9-15, 20"
+        ],
+        "live": [
+          "Genesis 3:9-15"
+        ],
+        "fix": [
+          "Genesis 3:9-15"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 87:1-2, 3"
+        ],
+        "live": [
+          "Psalm 87:1-2"
+        ],
+        "fix": [
+          "Psalm 87:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 3:9-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 87:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 3:9-15"
+      ],
+      "responsorial_psalm": [
+        "Psalm 87:1-2"
+      ],
+      "gospel": [
+        "John 19:25-34"
+      ]
+    },
+    "checked_at": "2026-05-07T09:00:11+00:00"
   }
 }

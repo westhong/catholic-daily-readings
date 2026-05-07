@@ -17455,3 +17455,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 414
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/811.cfm`, live=fetch failed
+
+### ❌ 2027-05-17 — Memorial of the Blessed Virgin Mary, Mother of the Church
+- **Checked**: 2026-05-07 09:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051727.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15']`, fix=`['Genesis 3:9-15']`
+  - **responsorial_psalm**: stored=`['Psalm 87:1-2, 3']`, live=`['Psalm 87:1-2']`, fix=`['Psalm 87:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/31f6811
