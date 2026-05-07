@@ -17108,3 +17108,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 118:2-4, 13-15, 22-24']`, live=`['Psalm 118:2-4']`, fix=`['Psalm 118:2-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/218bd09
+
+### ❌ 2027-10-24 — Thirtieth Sunday in Ordinary Time
+- **Checked**: 2026-05-07 06:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102427.cfm
+- **Status**: mismatch
+- **Lectionary**: 149
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 126:1-2, 2-3, 4-5, 6']`, live=`['Psalm 126:1-2']`, fix=`['Psalm 126:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a5b6d2
