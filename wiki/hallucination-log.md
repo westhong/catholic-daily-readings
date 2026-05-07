@@ -16644,3 +16644,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 424
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/822.cfm`, live=fetch failed
+
+### ❌ 2024-12-12 — Feast of Our Lady of Guadalupe
+- **Checked**: 2026-05-07 02:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121224.cfm
+- **Status**: mismatch
+- **Lectionary**: 690
+- **Mismatches**:
+  - **first_reading**: stored=`['ZEC 2:14-17']`, live=`['ZEC 2:14-17', 'Rv 11:19']`, fix=`['ZEC 2:14-17', 'Rv 11:19']`
+  - **gospel**: stored=`['LK 1:26-38']`, live=`['LK 1:26-38', 'Lk 1:39-47']`, fix=`['LK 1:26-38', 'Lk 1:39-47']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5c2c902

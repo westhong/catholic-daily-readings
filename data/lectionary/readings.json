@@ -79127,7 +79127,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Ex 16:1-5, 9-15",
+            "citation": "Ex 16:1-5",
             "sources": [
               "USCCB"
             ]
@@ -79135,7 +79135,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 78:18-19, 23-24, 25-26, 27-28",
+            "citation": "Ps 78:18-19",
             "sources": [
               "USCCB"
             ]
@@ -79149,7 +79149,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-07-27": [
