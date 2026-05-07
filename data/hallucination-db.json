@@ -88432,5 +88432,45 @@
       ]
     },
     "checked_at": "2026-05-07T07:30:27+00:00"
+  },
+  "2027-04-19:0": {
+    "date": "2027-04-19",
+    "url": "https://bible.usccb.org/bible/readings/041927.cfm",
+    "lectionary_number": 279,
+    "feast": "Monday of the Fourth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 10:14"
+        ],
+        "fix": [
+          "John 10:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 10:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 11:1-18"
+      ],
+      "responsorial_psalm": [
+        "Psalm 42:2-3"
+      ],
+      "alleluia_verse": [
+        "John 10:14"
+      ],
+      "gospel": [
+        "John 10:1-10"
+      ]
+    },
+    "checked_at": "2026-05-07T07:35:42+00:00"
   }
 }
