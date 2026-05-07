@@ -16739,3 +16739,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:45']`, fix=`['See Lk 1:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81bd35d
+
+### ❌ 2027-01-16 — Saturday of the First Week in Ordinary Time
+- **Checked**: 2026-05-07 02:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/011627.cfm
+- **Status**: mismatch
+- **Lectionary**: 310
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc07695
