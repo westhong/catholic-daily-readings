@@ -17312,3 +17312,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['51:3-4, 18-19, 20-21']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ps 95:8']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4dd6f1f
+
+### ❌ 2024-12-22 — Fourth Sunday of Advent
+- **Checked**: 2026-05-07 07:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122224.cfm
+- **Status**: mismatch
+- **Lectionary**: 12
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 80:2-3, 15-16, 18-19']`, live=`['Ps 80:2-3']`, fix=`['Ps 80:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 1:38']`, fix=`['Lk 1:38']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7c0e218
