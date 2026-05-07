@@ -59551,7 +59551,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 47:2-3, 4-5, 6-7",
+            "citation": "Ps 47:2-3",
             "sources": [
               "USCCB"
             ]
@@ -59572,8 +59572,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "See Lk 24:46",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-11": [

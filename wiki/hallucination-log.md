@@ -17256,3 +17256,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **second_reading**: stored=`['Rom 6:3-4, 8-11']`, live=`['Rom 6:3-4']`, fix=`['Rom 6:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 2:9']`, fix=`['1 Pt 2:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4840547
+
+### ❌ 2025-11-05 — Wednesday of the Thirty-first Week in Ordinary Time
+- **Checked**: 2026-05-07 07:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/110525.cfm
+- **Status**: mismatch
+- **Lectionary**: 487
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Peter 4:14']`, fix=`['1 Peter 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/632d61f
