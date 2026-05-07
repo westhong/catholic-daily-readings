@@ -16591,3 +16591,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 81:3-4, 5-6, 10-11']`, live=`['Ps 81:3-4']`, fix=`['Ps 81:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 1:25']`, fix=`['1 Pt 1:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0618f06
+
+### ❌ 2023-01-04 — Memorial of Saint Elizabeth Ann Seton, Religious
+- **Checked**: 2026-05-07 01:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010423.cfm
+- **Status**: mismatch
+- **Lectionary**: 207
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 98:1, 7-8, 9']`, live=`['Ps 98:1']`, fix=`['Ps 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['HEB 1:1-2']`, fix=`['HEB 1:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/191f05b
