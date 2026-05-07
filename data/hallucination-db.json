@@ -85436,5 +85436,66 @@
       ]
     },
     "checked_at": "2026-05-07T02:25:42+00:00"
+  },
+  "2024-06-01:0": {
+    "date": "2024-06-01",
+    "url": "https://bible.usccb.org/bible/readings/060124.cfm",
+    "lectionary_number": 352,
+    "feast": "Memorial of Saint Justin, Martyr",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Jude 17, 20b-25 Beloved, remember the wo"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 63:2, 3-4, 5-6"
+        ],
+        "live": [
+          "Ps 63:2"
+        ],
+        "fix": [
+          "Ps 63:2"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Col 3:16"
+        ],
+        "fix": [
+          "See Col 3:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "alleluia_verse": [
+        "See Col 3:16"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Ps 63:2"
+      ],
+      "alleluia_verse": [
+        "See Col 3:16"
+      ],
+      "gospel": [
+        "Mk 11:27-33"
+      ]
+    },
+    "checked_at": "2026-05-07T02:30:58+00:00"
   }
 }

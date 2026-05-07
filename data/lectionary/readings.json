@@ -27039,7 +27039,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 47:2-3, 8-9, 10",
+            "citation": "Psalm 47:2-3",
             "sources": [
               "USCCB"
             ]
@@ -27055,13 +27055,22 @@
         ],
         "gospel": [
           {
-            "citation": "John 16:23b-28",
+            "citation": "John 16:23",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 16:28",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-05-17": [

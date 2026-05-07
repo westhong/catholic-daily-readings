@@ -16706,3 +16706,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 122:1-2, 3-4']`, live=`['Ps 122:1-2']`, fix=`['Ps 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8627f1
+
+### ❌ 2024-06-01 — Memorial of Saint Justin, Martyr
+- **Checked**: 2026-05-07 02:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/060124.cfm
+- **Status**: mismatch
+- **Lectionary**: 352
+- **Mismatches**:
+  - **first_reading**: stored=`['Jude 17, 20b-25 Beloved, remember the wo']`, live=`（空白）`, fix=`[]`
+  - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Col 3:16']`, fix=`['See Col 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85d96e1
