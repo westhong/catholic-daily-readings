@@ -17117,3 +17117,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Psalm 126:1-2, 2-3, 4-5, 6']`, live=`['Psalm 126:1-2']`, fix=`['Psalm 126:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7a5b6d2
+
+### ❌ 2025-03-04 — Tuesday of the Eighth Week in Ordinary Time
+- **Checked**: 2026-05-07 06:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030425.cfm
+- **Status**: mismatch
+- **Lectionary**: 348
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 50:5-6, 7-8, 14, 23']`, live=`['Psalm 50:5-6']`, fix=`['Psalm 50:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
+  - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mark 10:28-31']`, fix=`['Mark 10:28-31']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dfed4b7
