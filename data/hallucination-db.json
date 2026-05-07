@@ -85241,5 +85241,60 @@
       ]
     },
     "checked_at": "2026-05-07T02:10:59+00:00"
+  },
+  "2024-08-07:0": {
+    "date": "2024-08-07",
+    "url": "https://bible.usccb.org/bible/readings/080724.cfm",
+    "lectionary_number": 409,
+    "feast": "Wednesday of the Eighteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "JER 31:10, 11-12"
+        ],
+        "live": [
+          "JER 31:10"
+        ],
+        "fix": [
+          "JER 31:10"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "LK 7:16"
+        ],
+        "fix": [
+          "LK 7:16"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "JER 31:10"
+      ],
+      "alleluia_verse": [
+        "LK 7:16"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "JER 31:1-7"
+      ],
+      "responsorial_psalm": [
+        "JER 31:10"
+      ],
+      "alleluia_verse": [
+        "LK 7:16"
+      ],
+      "gospel": [
+        "MT 15:21-28"
+      ]
+    },
+    "checked_at": "2026-05-07T02:15:14+00:00"
   }
 }

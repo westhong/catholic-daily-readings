@@ -48015,7 +48015,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Numbers 13:1-2, 25–14",
+            "citation": "Numbers 13:1-2",
             "sources": [
               "USCCB"
             ]
@@ -48031,13 +48031,22 @@
         ],
         "gospel": [
           {
-            "citation": "Matthew 15: 21-28",
+            "citation": "Matthew 15: 21",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 7:16",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-05": [
