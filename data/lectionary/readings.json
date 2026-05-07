@@ -77580,7 +77580,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Gn 13:2, 5-18",
+            "citation": "Gn 13:2",
             "sources": [
               "USCCB"
             ]
@@ -77596,7 +77596,7 @@
         ],
         "gospel": [
           {
-            "citation": "Mt 7:6, 12-14",
+            "citation": "Mt 7:6",
             "sources": [
               "USCCB"
             ]
@@ -77609,8 +77609,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 8:12",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-28": [

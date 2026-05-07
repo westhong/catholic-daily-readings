@@ -16453,3 +16453,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 37:3-4, 18-19, 27-28, 39-40']`, live=`['Psalm 37:3-4']`, fix=`['Psalm 37:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:13']`, fix=`['John 16:13']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/fb1dc93
+
+### ❌ 2026-01-30 — Friday of the Third Week of Ordinary Time
+- **Checked**: 2026-05-07 00:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/013026.cfm
+- **Status**: mismatch
+- **Lectionary**: 321
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9b472fa
