@@ -16434,3 +16434,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['1 Jn 1:5—2']`, live=`['1 Jn 1:5']`, fix=`['1 Jn 1:5']`
   - **responsorial_psalm**: stored=`['Ps 124:2-3, 4-5, 7']`, live=`['Ps 124:2-3']`, fix=`['Ps 124:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4076006
+
+### 🚫 2026-10-04 — 
+- **Checked**: 2026-05-07 00:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1004.cfm
+- **Status**: url_dead
+- **Lectionary**: 139
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1004.cfm`, live=fetch failed
