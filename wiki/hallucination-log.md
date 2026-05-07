@@ -17428,3 +17428,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['John 4:5-42']`, live=`['John 4:5-42', 'John 4:5-15']`, fix=`['John 4:5-42', 'John 4:5-15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c6f343b
+
+### ❌ 2023-02-17 — Friday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-07 08:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021723.cfm
+- **Status**: mismatch
+- **Lectionary**: 339
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 33:10-11, 12-13, 14-15']`, live=`['Ps 33:10-11']`, fix=`['Ps 33:10-11']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:15']`, fix=`['Jn 15:15']`
+  - **gospel**: stored=`['will save it. What profit is there for o']`, live=`['Mk 8:34']`, fix=`['Mk 8:34']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/130cd1b

@@ -89079,5 +89079,75 @@
       ]
     },
     "checked_at": "2026-05-07T08:40:06+00:00"
+  },
+  "2023-02-17:0": {
+    "date": "2023-02-17",
+    "url": "https://bible.usccb.org/bible/readings/021723.cfm",
+    "lectionary_number": 339,
+    "feast": "Friday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 33:10-11, 12-13, 14-15"
+        ],
+        "live": [
+          "Ps 33:10-11"
+        ],
+        "fix": [
+          "Ps 33:10-11"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Jn 15:15"
+        ],
+        "fix": [
+          "Jn 15:15"
+        ]
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "will save it. What profit is there for o"
+        ],
+        "live": [
+          "Mk 8:34"
+        ],
+        "fix": [
+          "Mk 8:34"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 33:10-11"
+      ],
+      "alleluia_verse": [
+        "Jn 15:15"
+      ],
+      "gospel": [
+        "Mk 8:34"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Gn 11:1-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 33:10-11"
+      ],
+      "alleluia_verse": [
+        "Jn 15:15"
+      ],
+      "gospel": [
+        "Mk 8:34"
+      ]
+    },
+    "checked_at": "2026-05-07T08:45:21+00:00"
   }
 }
