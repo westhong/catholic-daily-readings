@@ -16654,3 +16654,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['ZEC 2:14-17']`, live=`['ZEC 2:14-17', 'Rv 11:19']`, fix=`['ZEC 2:14-17', 'Rv 11:19']`
   - **gospel**: stored=`['LK 1:26-38']`, live=`['LK 1:26-38', 'Lk 1:39-47']`, fix=`['LK 1:26-38', 'Lk 1:39-47']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5c2c902
+
+### ❌ 2023-07-26 — Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary
+- **Checked**: 2026-05-07 02:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/072623.cfm
+- **Status**: mismatch
+- **Lectionary**: 397
+- **Mismatches**:
+  - **first_reading**: stored=`['Ex 16:1-5, 9-15']`, live=`['Ex 16:1-5']`, fix=`['Ex 16:1-5']`
+  - **responsorial_psalm**: stored=`['Ps 78:18-19, 23-24, 25-26, 27-28']`, live=`['Ps 78:18-19']`, fix=`['Ps 78:18-19']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e96dd9c

@@ -85139,5 +85139,59 @@
       ]
     },
     "checked_at": "2026-05-07T02:00:31+00:00"
+  },
+  "2023-07-26:0": {
+    "date": "2023-07-26",
+    "url": "https://bible.usccb.org/bible/readings/072623.cfm",
+    "lectionary_number": 397,
+    "feast": "Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Ex 16:1-5, 9-15"
+        ],
+        "live": [
+          "Ex 16:1-5"
+        ],
+        "fix": [
+          "Ex 16:1-5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 78:18-19, 23-24, 25-26, 27-28"
+        ],
+        "live": [
+          "Ps 78:18-19"
+        ],
+        "fix": [
+          "Ps 78:18-19"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Ex 16:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 78:18-19"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Ex 16:1-5"
+      ],
+      "responsorial_psalm": [
+        "Ps 78:18-19"
+      ],
+      "gospel": [
+        "Mt 13:1-9"
+      ]
+    },
+    "checked_at": "2026-05-07T02:05:46+00:00"
   }
 }
