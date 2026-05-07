@@ -16814,3 +16814,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 586
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/062426-Day.cfm`, live=fetch failed
+
+### ❌ 2024-04-13 — Saturday of the Second Week of Easter
+- **Checked**: 2026-05-07 03:26 UTC
+- **URL**: https://bible.usccb.org/bible/readings/041324.cfm
+- **Status**: mismatch
+- **Lectionary**: 272
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['PS 33:1-2, 4-5, 18-19']`, live=`['PS 33:1-2']`, fix=`['PS 33:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2238697
