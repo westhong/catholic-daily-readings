@@ -49376,7 +49376,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Deuteronomy 4:1-2, 6-8",
+            "citation": "Deuteronomy 4:1-2",
             "sources": [
               "USCCB"
             ]
@@ -49384,7 +49384,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 15:2-3, 3-4, 4-5",
+            "citation": "Psalm 15:2-3",
             "sources": [
               "USCCB"
             ]
@@ -49392,7 +49392,7 @@
         ],
         "second_reading": [
           {
-            "citation": "James 1:17-18, 21",
+            "citation": "James 1:17-18",
             "sources": [
               "USCCB"
             ]
@@ -49400,13 +49400,22 @@
         ],
         "gospel": [
           {
-            "citation": "Mark 7:1-8, 14-15, 21-23",
+            "citation": "Mark 7:1-8",
+            "sources": [
+              "USCCB"
+            ]
+          }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "James 1:18",
             "sources": [
               "USCCB"
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-08-30": [

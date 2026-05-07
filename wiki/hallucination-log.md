@@ -17475,3 +17475,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 98:1, 2-3']`, live=`['PS 98:1']`, fix=`['PS 98:1']`
   - **alleluia_verse**: stored=`（空白）`, live=`['JN 14:6']`, fix=`['JN 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/aac81a5
+
+### ❌ 2025-07-02 — Wednesday of the Thirteenth Week in Ordinary Time
+- **Checked**: 2026-05-07 09:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070225.cfm
+- **Status**: mismatch
+- **Lectionary**: 379
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 21:5, 8-20']`, live=`['Genesis 21:5']`, fix=`['Genesis 21:5']`
+  - **responsorial_psalm**: stored=`['Psalm 34:7-8, 10-11, 12-13']`, live=`['Psalm 34:7-8']`, fix=`['Psalm 34:7-8']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/681e1e5

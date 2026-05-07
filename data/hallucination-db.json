@@ -89296,5 +89296,75 @@
       ]
     },
     "checked_at": "2026-05-07T09:05:26+00:00"
+  },
+  "2025-07-02:0": {
+    "date": "2025-07-02",
+    "url": "https://bible.usccb.org/bible/readings/070225.cfm",
+    "lectionary_number": 379,
+    "feast": "Wednesday of the Thirteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Genesis 21:5, 8-20"
+        ],
+        "live": [
+          "Genesis 21:5"
+        ],
+        "fix": [
+          "Genesis 21:5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 34:7-8, 10-11, 12-13"
+        ],
+        "live": [
+          "Psalm 34:7-8"
+        ],
+        "fix": [
+          "Psalm 34:7-8"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "James 1:18"
+        ],
+        "fix": [
+          "James 1:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Genesis 21:5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:7-8"
+      ],
+      "alleluia_verse": [
+        "James 1:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Genesis 21:5"
+      ],
+      "responsorial_psalm": [
+        "Psalm 34:7-8"
+      ],
+      "alleluia_verse": [
+        "James 1:18"
+      ],
+      "gospel": [
+        "Matthew 8:28-34"
+      ]
+    },
+    "checked_at": "2026-05-07T09:10:41+00:00"
   }
 }
