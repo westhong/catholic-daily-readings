@@ -17397,3 +17397,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 145:2-3, 4-5, 10-11']`, live=`['Psalm 145:2-3']`, fix=`['Psalm 145:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['2 Corinthians 8:9']`, fix=`['2 Corinthians 8:9']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dda012c
+
+### ❌ 2023-10-16 — Monday of the Twenty-eighth Week in Ordinary Time
+- **Checked**: 2026-05-07 08:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/101623.cfm
+- **Status**: mismatch
+- **Lectionary**: 467
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 95:8']`, fix=`['Ps 95:8']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4d5b9f3

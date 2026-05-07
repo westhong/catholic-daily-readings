@@ -88899,5 +88899,45 @@
       ]
     },
     "checked_at": "2026-05-07T08:25:21+00:00"
+  },
+  "2023-10-16:0": {
+    "date": "2023-10-16",
+    "url": "https://bible.usccb.org/bible/readings/101623.cfm",
+    "lectionary_number": 467,
+    "feast": "Monday of the Twenty-eighth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Ps 95:8"
+        ],
+        "fix": [
+          "Ps 95:8"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Ps 95:8"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Rom 1:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 98:1"
+      ],
+      "alleluia_verse": [
+        "Ps 95:8"
+      ],
+      "gospel": [
+        "Lk 11:29-32"
+      ]
+    },
+    "checked_at": "2026-05-07T08:30:36+00:00"
   }
 }

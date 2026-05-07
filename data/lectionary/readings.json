@@ -22066,7 +22066,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 51:12-13, 14-15, 16-17",
+            "citation": "Psalm 51:12-13",
             "sources": [
               "USCCB"
             ]
@@ -22087,8 +22087,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "John 3:16",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2026-02-01": [
