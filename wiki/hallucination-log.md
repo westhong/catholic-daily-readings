@@ -16559,3 +16559,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 86:3-4, 5-6, 9-10']`, live=`['Psalm 86:3-4']`, fix=`['Psalm 86:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a6d37b5
+
+### ❌ 2027-05-15 — Saturday of the Seventh Week of Easter - Mass in the Morning
+- **Checked**: 2026-05-07 01:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051527.cfm
+- **Status**: mismatch
+- **Lectionary**: 302
+- **Mismatches**:
+  - **first_reading**: stored=`['Acts 28:16-20, 30-31']`, live=`['Acts 28:16-20']`, fix=`['Acts 28:16-20']`
+  - **responsorial_psalm**: stored=`['Psalm 11:4, 5']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/37bb1ce
