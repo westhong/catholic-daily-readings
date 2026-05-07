@@ -16413,3 +16413,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 145:2-3, 8-9, 17-18']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca9bee5
+
+### ❌ 2024-07-17 — Wednesday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-07 00:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071724.cfm
+- **Status**: mismatch
+- **Lectionary**: 391
+- **Mismatches**:
+  - **first_reading**: stored=`['Is 10:5-7, 13']`, live=`['Is 10:5-7']`, fix=`['Is 10:5-7']`
+  - **responsorial_psalm**: stored=`['Ps 94:5-6, 7-8, 9-10, 14-15']`, live=`['Ps 94:5-6']`, fix=`['Ps 94:5-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:25']`, fix=`['Mt 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a84a094

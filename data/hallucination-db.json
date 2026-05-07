@@ -83927,5 +83927,75 @@
       ]
     },
     "checked_at": "2026-05-06T23:55:20+00:00"
+  },
+  "2024-07-17:0": {
+    "date": "2024-07-17",
+    "url": "https://bible.usccb.org/bible/readings/071724.cfm",
+    "lectionary_number": 391,
+    "feast": "Wednesday of the Fifteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Is 10:5-7, 13"
+        ],
+        "live": [
+          "Is 10:5-7"
+        ],
+        "fix": [
+          "Is 10:5-7"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 94:5-6, 7-8, 9-10, 14-15"
+        ],
+        "live": [
+          "Ps 94:5-6"
+        ],
+        "fix": [
+          "Ps 94:5-6"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 11:25"
+        ],
+        "fix": [
+          "Mt 11:25"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Is 10:5-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 94:5-6"
+      ],
+      "alleluia_verse": [
+        "Mt 11:25"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 10:5-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 94:5-6"
+      ],
+      "alleluia_verse": [
+        "Mt 11:25"
+      ],
+      "gospel": [
+        "Mt 11:25-27"
+      ]
+    },
+    "checked_at": "2026-05-07T00:00:32+00:00"
   }
 }
