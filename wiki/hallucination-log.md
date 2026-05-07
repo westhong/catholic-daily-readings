@@ -17357,3 +17357,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['68:29-30, 33-35']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 17:17']`, fix=`['Jn 17:17']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ef7569e
+
+### ❌ 2026-05-25 — Memorial of the Blessed Virgin Mary, Mother of the Church
+- **Checked**: 2026-05-07 08:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052526.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15']`, fix=`['Genesis 3:9-15']`
+  - **responsorial_psalm**: stored=`['Psalm 87:1-2, 3 and 5, 6-7']`, live=`['Psalm 87:1-2']`, fix=`['Psalm 87:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a52ebfc
