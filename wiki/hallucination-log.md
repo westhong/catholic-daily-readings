@@ -16901,3 +16901,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:12']`, fix=`['Mt 5:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df31c64
+
+### 🚫 2026-05-24 — Pentecost Sunday (Vigil Mass)
+- **Checked**: 2026-05-07 04:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/052426-Vigil.cfm
+- **Status**: url_dead
+- **Lectionary**: 62
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/052426-Vigil.cfm`, live=fetch failed
