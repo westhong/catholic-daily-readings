@@ -16424,3 +16424,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 94:5-6, 7-8, 9-10, 14-15']`, live=`['Ps 94:5-6']`, fix=`['Ps 94:5-6']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 11:25']`, fix=`['Mt 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a84a094
+
+### ❌ 2024-12-28 — Feast of the Holy Innocents, martyrs
+- **Checked**: 2026-05-07 00:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122824.cfm
+- **Status**: mismatch
+- **Lectionary**: 698
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Jn 1:5—2']`, live=`['1 Jn 1:5']`, fix=`['1 Jn 1:5']`
+  - **responsorial_psalm**: stored=`['Ps 124:2-3, 4-5, 7']`, live=`['Ps 124:2-3']`, fix=`['Ps 124:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4076006

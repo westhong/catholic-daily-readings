@@ -83997,5 +83997,59 @@
       ]
     },
     "checked_at": "2026-05-07T00:00:32+00:00"
+  },
+  "2024-12-28:0": {
+    "date": "2024-12-28",
+    "url": "https://bible.usccb.org/bible/readings/122824.cfm",
+    "lectionary_number": 698,
+    "feast": "Feast of the Holy Innocents, martyrs",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "1 Jn 1:5—2"
+        ],
+        "live": [
+          "1 Jn 1:5"
+        ],
+        "fix": [
+          "1 Jn 1:5"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 124:2-3, 4-5, 7"
+        ],
+        "live": [
+          "Ps 124:2-3"
+        ],
+        "fix": [
+          "Ps 124:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "1 Jn 1:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 124:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 Jn 1:5"
+      ],
+      "responsorial_psalm": [
+        "Ps 124:2-3"
+      ],
+      "gospel": [
+        "Mt 2:13-18"
+      ]
+    },
+    "checked_at": "2026-05-07T00:05:47+00:00"
   }
 }
