@@ -16870,3 +16870,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 19:2-3, 4-5']`, live=`['Ps 19:2-3']`, fix=`['Ps 19:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 14:6']`, fix=`['Jn 14:6']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc8757a
+
+### ❌ 2026-04-25 — Feast of Saint Mark, Evangelist
+- **Checked**: 2026-05-07 03:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/042526.cfm
+- **Status**: mismatch
+- **Lectionary**: 573
+- **Mismatches**:
+  - **first_reading**: stored=`['1 Peter 5:5b-14']`, live=`['1 Peter 5:5']`, fix=`['1 Peter 5:5']`
+  - **responsorial_psalm**: stored=`['Psalm 89:2-3, 6-7, 16-17']`, live=`['Psalm 89:2-3']`, fix=`['Psalm 89:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Corinthians 1:23']`, fix=`['1 Corinthians 1:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/34401e9

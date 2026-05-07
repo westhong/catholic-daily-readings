@@ -51343,7 +51343,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 33:4-5, 18-19, 20, 22",
+            "citation": "Psalm 33:4-5",
             "sources": [
               "USCCB"
             ]
@@ -51364,8 +51364,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mark 10:45",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-18": [
