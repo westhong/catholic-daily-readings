@@ -88588,5 +88588,24 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T07:50:26+00:00"
+  },
+  "2026-09-02:0": {
+    "date": "2026-09-02",
+    "url": "https://bible.usccb.org/bible/readings/902.cfm",
+    "lectionary_number": 433,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/902.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T07:55:42+00:00"
   }
 }
