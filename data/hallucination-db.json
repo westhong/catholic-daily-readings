@@ -89149,5 +89149,24 @@
       ]
     },
     "checked_at": "2026-05-07T08:45:21+00:00"
+  },
+  "2026-11-02:0": {
+    "date": "2026-11-02",
+    "url": "https://bible.usccb.org/bible/readings/261102.cfm",
+    "lectionary_number": 668,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/261102.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T08:50:36+00:00"
   }
 }
