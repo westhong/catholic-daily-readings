@@ -17338,3 +17338,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 433
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/902.cfm`, live=fetch failed
+
+### ❌ 2024-02-22 — Feast of the Chair of Saint Peter, Apostle
+- **Checked**: 2026-05-07 08:00 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022224.cfm
+- **Status**: mismatch
+- **Lectionary**: 535
+- **Mismatches**:
+  - **verse_before_gospel**: stored=`['Mt 16:18']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8daca6c

@@ -59775,14 +59775,7 @@
             ]
           }
         ],
-        "responsorial_psalm": [
-          {
-            "citation": "68:29-30, 33-35",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "responsorial_psalm": [],
         "gospel": [
           {
             "citation": "Jn 17:11",
@@ -59798,8 +59791,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 17:17",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-05-16": [
