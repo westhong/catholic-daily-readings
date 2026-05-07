@@ -88353,5 +88353,45 @@
       ]
     },
     "checked_at": "2026-05-07T07:20:58+00:00"
+  },
+  "2024-05-04:0": {
+    "date": "2024-05-04",
+    "url": "https://bible.usccb.org/bible/readings/050424.cfm",
+    "lectionary_number": 290,
+    "feast": "Saturday of the Fifth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Col 3:1"
+        ],
+        "fix": [
+          "Col 3:1"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Col 3:1"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 16:1-10"
+      ],
+      "responsorial_psalm": [
+        "Ps 100:1"
+      ],
+      "alleluia_verse": [
+        "Col 3:1"
+      ],
+      "gospel": [
+        "Jn 15:18-21"
+      ]
+    },
+    "checked_at": "2026-05-07T07:25:11+00:00"
   }
 }
