@@ -17059,3 +17059,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Est C:12, 14-16, 23-25 Queen Esther, sei']`, live=`（空白）`, fix=`[]`
   - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2e9c057
+
+### ❌ 2027-09-19 — Twenty-fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-07 05:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/091927.cfm
+- **Status**: mismatch
+- **Lectionary**: 134
+- **Mismatches**:
+  - **first_reading**: stored=`['Wisdom 2:12, 17-20']`, live=`['Wisdom 2:12']`, fix=`['Wisdom 2:12']`
+  - **responsorial_psalm**: stored=`['Psalm 54:3-4, 5, 6']`, live=`['Psalm 54:3-4']`, fix=`['Psalm 54:3-4']`
+  - **second_reading**: stored=`['James 3:16—4']`, live=`['James 3:16']`, fix=`['James 3:16']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/676ba34
