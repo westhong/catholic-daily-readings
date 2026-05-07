@@ -17244,3 +17244,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 24:1-2, 3-4']`, live=`['Psalm 24:1-2']`, fix=`['Psalm 24:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 119:105']`, fix=`['Psalm 119:105']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/8595fe9
+
+### ❌ 2023-07-02 — Thirteenth Sunday in Ordinary Time
+- **Checked**: 2026-05-07 07:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/070223.cfm
+- **Status**: mismatch
+- **Lectionary**: 97
+- **Mismatches**:
+  - **first_reading**: stored=`['2 Kgs 4:8-11, 14-16']`, live=`['2 Kgs 4:8-11']`, fix=`['2 Kgs 4:8-11']`
+  - **responsorial_psalm**: stored=`['Ps 89:2-3, 16-17, 18-19']`, live=`['Ps 89:2-3']`, fix=`['Ps 89:2-3']`
+  - **second_reading**: stored=`['Rom 6:3-4, 8-11']`, live=`['Rom 6:3-4']`, fix=`['Rom 6:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 2:9']`, fix=`['1 Pt 2:9']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/4840547

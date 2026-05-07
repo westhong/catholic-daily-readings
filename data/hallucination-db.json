@@ -88170,5 +88170,93 @@
       ]
     },
     "checked_at": "2026-05-07T07:05:50+00:00"
+  },
+  "2023-07-02:0": {
+    "date": "2023-07-02",
+    "url": "https://bible.usccb.org/bible/readings/070223.cfm",
+    "lectionary_number": 97,
+    "feast": "Thirteenth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "2 Kgs 4:8-11, 14-16"
+        ],
+        "live": [
+          "2 Kgs 4:8-11"
+        ],
+        "fix": [
+          "2 Kgs 4:8-11"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 89:2-3, 16-17, 18-19"
+        ],
+        "live": [
+          "Ps 89:2-3"
+        ],
+        "fix": [
+          "Ps 89:2-3"
+        ]
+      },
+      {
+        "type": "second_reading",
+        "stored": [
+          "Rom 6:3-4, 8-11"
+        ],
+        "live": [
+          "Rom 6:3-4"
+        ],
+        "fix": [
+          "Rom 6:3-4"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Pt 2:9"
+        ],
+        "fix": [
+          "1 Pt 2:9"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "2 Kgs 4:8-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "second_reading": [
+        "Rom 6:3-4"
+      ],
+      "alleluia_verse": [
+        "1 Pt 2:9"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Kgs 4:8-11"
+      ],
+      "responsorial_psalm": [
+        "Ps 89:2-3"
+      ],
+      "second_reading": [
+        "Rom 6:3-4"
+      ],
+      "alleluia_verse": [
+        "1 Pt 2:9"
+      ],
+      "gospel": [
+        "Mt 10:37-42"
+      ]
+    },
+    "checked_at": "2026-05-07T07:10:34+00:00"
   }
 }
