@@ -17447,3 +17447,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 668
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261102.cfm`, live=fetch failed
+
+### 🚫 2026-08-11 — 
+- **Checked**: 2026-05-07 08:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/811.cfm
+- **Status**: url_dead
+- **Lectionary**: 414
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/811.cfm`, live=fetch failed

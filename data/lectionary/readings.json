@@ -44603,7 +44603,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Genesis 3:9-15, 20",
+            "citation": "Genesis 3:9-15",
             "sources": [
               "USCCB"
             ]
@@ -44611,7 +44611,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 87:1-2, 3",
+            "citation": "Psalm 87:1-2",
             "sources": [
               "USCCB"
             ]
@@ -44625,7 +44625,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-05-18": [
