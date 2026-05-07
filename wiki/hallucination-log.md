@@ -16627,3 +16627,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 507
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/261127.cfm`, live=fetch failed
+
+### ❌ 2024-07-13 — Saturday of the Fourteenth Week in Ordinary Time
+- **Checked**: 2026-05-07 01:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/071324.cfm
+- **Status**: mismatch
+- **Lectionary**: 388
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 4:14']`, fix=`['1 Pt 4:14']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c0aa68d

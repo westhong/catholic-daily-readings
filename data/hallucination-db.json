@@ -85018,5 +85018,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T01:45:50+00:00"
+  },
+  "2024-07-13:0": {
+    "date": "2024-07-13",
+    "url": "https://bible.usccb.org/bible/readings/071324.cfm",
+    "lectionary_number": 388,
+    "feast": "Saturday of the Fourteenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "1 Pt 4:14"
+        ],
+        "fix": [
+          "1 Pt 4:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 6:1-8"
+      ],
+      "responsorial_psalm": [
+        "Ps 93:1"
+      ],
+      "alleluia_verse": [
+        "1 Pt 4:14"
+      ],
+      "gospel": [
+        "Mt 10:24-33"
+      ]
+    },
+    "checked_at": "2026-05-07T01:50:04+00:00"
   }
 }
