@@ -87544,5 +87544,82 @@
       ]
     },
     "checked_at": "2026-05-07T06:05:54+00:00"
+  },
+  "2027-05-06:0": {
+    "date": "2027-05-06",
+    "url": "https://bible.usccb.org/bible/readings/050627-thursday.cfm",
+    "lectionary_number": 294,
+    "feast": "Thursday of the Sixth Week of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 98:1, 2-3"
+        ],
+        "live": [
+          "Psalm 98:1"
+        ],
+        "fix": [
+          "Psalm 98:1"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See John 14:18"
+        ],
+        "fix": [
+          "See John 14:18"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "See John 14:18"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 18:1-8"
+      ],
+      "responsorial_psalm": [
+        "Psalm 98:1"
+      ],
+      "alleluia_verse": [
+        "See John 14:18"
+      ],
+      "gospel": [
+        "John 16:16-20"
+      ]
+    },
+    "checked_at": "2026-05-07T06:10:10+00:00"
+  },
+  "2023-12-30:0": {
+    "date": "2023-12-30",
+    "url": "https://bible.usccb.org/bible/readings/123023.cfm",
+    "lectionary_number": 203,
+    "feast": "The Sixth Day in the Octave of Christmas",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {
+      "first_reading": [
+        "1 Jn 2:12-17"
+      ],
+      "responsorial_psalm": [
+        "Ps 96:7-8"
+      ],
+      "gospel": [
+        "Lk 2:36-40"
+      ]
+    },
+    "checked_at": "2026-05-07T06:15:25+00:00"
   }
 }

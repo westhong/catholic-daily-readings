@@ -17128,3 +17128,19 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
   - **gospel**: stored=`['who will not receive a hundred times mor']`, live=`['Mark 10:28-31']`, fix=`['Mark 10:28-31']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/dfed4b7
+
+### ❌ 2027-05-06 — Thursday of the Sixth Week of Easter
+- **Checked**: 2026-05-07 06:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050627-thursday.cfm
+- **Status**: mismatch
+- **Lectionary**: 294
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See John 14:18']`, fix=`['See John 14:18']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/538d393
+
+### ✅ 2023-12-30 — The Sixth Day in the Octave of Christmas
+- **Checked**: 2026-05-07 06:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123023.cfm
+- **Status**: ok
+- **Lectionary**: 203
