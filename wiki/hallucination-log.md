@@ -16717,3 +16717,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 63:2, 3-4, 5-6']`, live=`['Ps 63:2']`, fix=`['Ps 63:2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['See Col 3:16']`, fix=`['See Col 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/85d96e1
+
+### ❌ 2026-05-16 — Saturday of the Sixth Week of Easter
+- **Checked**: 2026-05-07 02:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/051626.cfm
+- **Status**: mismatch
+- **Lectionary**: 296
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 47:2-3, 8-9, 10']`, live=`['Psalm 47:2-3']`, fix=`['Psalm 47:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 16:28']`, fix=`['John 16:28']`
+  - **gospel**: stored=`['John 16:23b-28']`, live=`['John 16:23']`, fix=`['John 16:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e056c4e
