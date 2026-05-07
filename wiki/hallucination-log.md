@@ -17284,3 +17284,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['Col 3:1']`, fix=`['Col 3:1']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/efdf4aa
+
+### ❌ 2024-12-27 — Feast of Saint John, Apostle and evangelist
+- **Checked**: 2026-05-07 07:30 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122724.cfm
+- **Status**: mismatch
+- **Lectionary**: 697
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 97:1-2, 5-6, 11-12']`, live=`['Ps 97:1-2']`, fix=`['Ps 97:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e749d7
