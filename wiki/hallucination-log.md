@@ -17153,3 +17153,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 8']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f15c8a
+
+### ❌ 2027-10-20 — Wednesday of the Twenty-ninth Week in Ordinary Time
+- **Checked**: 2026-05-07 06:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/102027.cfm
+- **Status**: mismatch
+- **Lectionary**: 475
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 24:42']`, fix=`['Matthew 24:42']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/75ed0fb

@@ -63850,7 +63850,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "DN 7:9-10, 13-14",
+            "citation": "DN 7:9-10",
             "sources": [
               "USCCB"
             ]
@@ -63858,7 +63858,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 97:1-2, 5-6, 9",
+            "citation": "PS 97:1-2",
             "sources": [
               "USCCB"
             ]
@@ -63887,8 +63887,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "MT 17:5",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-08-07": [
