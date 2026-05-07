@@ -16787,3 +16787,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['144:1']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['See LK 19:38']`, fix=`['See LK 19:38']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d0e65d4
+
+### 🚫 2026-09-27 — 
+- **Checked**: 2026-05-07 03:11 UTC
+- **URL**: https://bible.usccb.org/bible/readings/927.cfm
+- **Status**: url_dead
+- **Lectionary**: 136
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/927.cfm`, live=fetch failed

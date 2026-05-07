@@ -85875,5 +85875,24 @@
       ]
     },
     "checked_at": "2026-05-07T03:05:48+00:00"
+  },
+  "2026-09-27:0": {
+    "date": "2026-09-27",
+    "url": "https://bible.usccb.org/bible/readings/927.cfm",
+    "lectionary_number": 136,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/927.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T03:11:03+00:00"
   }
 }
