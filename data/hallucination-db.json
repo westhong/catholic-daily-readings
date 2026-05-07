@@ -88472,5 +88472,44 @@
       ]
     },
     "checked_at": "2026-05-07T07:35:42+00:00"
+  },
+  "2023-03-18:0": {
+    "date": "2023-03-18",
+    "url": "https://bible.usccb.org/bible/readings/031823.cfm",
+    "lectionary_number": 242,
+    "feast": "Saturday of the Third Week of Lent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "51:3-4, 18-19, 20-21"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Ps 95:8"
+        ],
+        "live": [],
+        "fix": []
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [],
+      "verse_before_gospel": []
+    },
+    "live_readings": {
+      "first_reading": [
+        "Hos 6:1-6"
+      ],
+      "gospel": [
+        "Lk 18:9-14"
+      ]
+    },
+    "checked_at": "2026-05-07T07:40:56+00:00"
   }
 }
