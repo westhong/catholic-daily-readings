@@ -16757,3 +16757,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 590
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/062926-Day.cfm`, live=fetch failed
+
+### ❌ 2023-12-26 — Feast of Saint Stephen, first martyr
+- **Checked**: 2026-05-07 02:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/122623.cfm
+- **Status**: mismatch
+- **Lectionary**: 696
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Ps 118:26']`, fix=`['Ps 118:26']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8a886a
