@@ -84359,5 +84359,60 @@
       ]
     },
     "checked_at": "2026-05-07T00:35:12+00:00"
+  },
+  "2024-08-19:0": {
+    "date": "2024-08-19",
+    "url": "https://bible.usccb.org/bible/readings/081924.cfm",
+    "lectionary_number": 419,
+    "feast": "Monday of the Twentieth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "DEUTERONOMY 32:18-19, 20, 21"
+        ],
+        "live": [
+          "DEUTERONOMY 32:18-19"
+        ],
+        "fix": [
+          "DEUTERONOMY 32:18-19"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "MT 5:3"
+        ],
+        "fix": [
+          "MT 5:3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "DEUTERONOMY 32:18-19"
+      ],
+      "alleluia_verse": [
+        "MT 5:3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "EZ 24:15-23"
+      ],
+      "responsorial_psalm": [
+        "DEUTERONOMY 32:18-19"
+      ],
+      "alleluia_verse": [
+        "MT 5:3"
+      ],
+      "gospel": [
+        "MT 19:16-22"
+      ]
+    },
+    "checked_at": "2026-05-07T00:40:28+00:00"
   }
 }

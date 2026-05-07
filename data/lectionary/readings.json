@@ -61539,7 +61539,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 119:33, 34, 35, 36, 37, 40",
+            "citation": "Ps 119:33",
             "sources": [
               "USCCB"
             ]
@@ -61560,8 +61560,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Jn 15:4",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-06-27": [

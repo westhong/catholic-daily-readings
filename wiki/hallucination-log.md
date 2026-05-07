@@ -16493,3 +16493,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **responsorial_psalm**: stored=`['Ps 69:8-10, 21-22, 31']`, live=`['Ps 69:8-10']`, fix=`['Ps 69:8-10']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a64fdb
+
+### ❌ 2024-08-19 — Monday of the Twentieth Week in Ordinary Time
+- **Checked**: 2026-05-07 00:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/081924.cfm
+- **Status**: mismatch
+- **Lectionary**: 419
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['DEUTERONOMY 32:18-19, 20, 21']`, live=`['DEUTERONOMY 32:18-19']`, fix=`['DEUTERONOMY 32:18-19']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['MT 5:3']`, fix=`['MT 5:3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ad1ed30
