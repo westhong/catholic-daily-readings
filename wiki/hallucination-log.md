@@ -16695,3 +16695,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 7:16']`, fix=`['Luke 7:16']`
   - **gospel**: stored=`['Matthew 15: 21-28']`, live=`['Matthew 15: 21']`, fix=`['Matthew 15: 21']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5bb51a4
+
+### ❌ 2023-09-26 — Tuesday of the Twenty-fifth Week in Ordinary Time
+- **Checked**: 2026-05-07 02:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092623.cfm
+- **Status**: mismatch
+- **Lectionary**: 450
+- **Mismatches**:
+  - **first_reading**: stored=`['Ezr 6:7-8, 12']`, live=`['Ezr 6:7-8']`, fix=`['Ezr 6:7-8']`
+  - **responsorial_psalm**: stored=`['Ps 122:1-2, 3-4']`, live=`['Ps 122:1-2']`, fix=`['Ps 122:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Lk 11:28']`, fix=`['Lk 11:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c8627f1
