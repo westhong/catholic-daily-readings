@@ -17367,3 +17367,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15']`, fix=`['Genesis 3:9-15']`
   - **responsorial_psalm**: stored=`['Psalm 87:1-2, 3 and 5, 6-7']`, live=`['Psalm 87:1-2']`, fix=`['Psalm 87:1-2']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a52ebfc
+
+### 🚫 2026-07-17 — Friday of the Fifteenth Week in Ordinary Time
+- **Checked**: 2026-05-07 08:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/717.cfm
+- **Status**: url_dead
+- **Lectionary**: 393
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/717.cfm`, live=fetch failed
