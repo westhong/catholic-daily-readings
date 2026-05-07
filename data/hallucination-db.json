@@ -86429,5 +86429,45 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T04:10:33+00:00"
+  },
+  "2027-06-17:0": {
+    "date": "2027-06-17",
+    "url": "https://bible.usccb.org/bible/readings/061727.cfm",
+    "lectionary_number": 368,
+    "feast": "Thursday of the Eleventh Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Romans 8:15"
+        ],
+        "fix": [
+          "Romans 8:15"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "Romans 8:15"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Corinthians 11:1-11"
+      ],
+      "responsorial_psalm": [
+        "Psalm 111:1"
+      ],
+      "alleluia_verse": [
+        "Romans 8:15"
+      ],
+      "gospel": [
+        "Matthew 6:7-15"
+      ]
+    },
+    "checked_at": "2026-05-07T04:15:49+00:00"
   }
 }

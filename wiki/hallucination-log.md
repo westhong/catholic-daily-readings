@@ -16909,3 +16909,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Lectionary**: 62
 - **Mismatches**:
   - **URL**: stored=`https://bible.usccb.org/bible/readings/052426-Vigil.cfm`, live=fetch failed
+
+### ❌ 2027-06-17 — Thursday of the Eleventh Week in Ordinary Time
+- **Checked**: 2026-05-07 04:15 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061727.cfm
+- **Status**: mismatch
+- **Lectionary**: 368
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f8d8ac0
