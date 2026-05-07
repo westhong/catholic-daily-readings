@@ -16988,3 +16988,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 34:2-3, 4-5, 6-7']`, live=`['PS 34:2-3']`, fix=`['PS 34:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:3']`, fix=`['Mt 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9788282
+
+### ❌ 2025-05-03 — Feast of Saints Philip and James, Apostles
+- **Checked**: 2026-05-07 04:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/050325.cfm
+- **Status**: mismatch
+- **Lectionary**: 561
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 19:2-3, 4-5']`, live=`['Psalm 19:2-3']`, fix=`['Psalm 19:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:6']`, fix=`['John 14:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/d46d6f3
