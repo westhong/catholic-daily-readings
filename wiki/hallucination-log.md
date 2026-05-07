@@ -16891,3 +16891,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:4-5, 18-19, 20, 22']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Mark 10:45']`, fix=`['Mark 10:45']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6cecd45
+
+### ❌ 2023-06-12 — Monday of the Tenth Week in Ordinary Time
+- **Checked**: 2026-05-07 04:05 UTC
+- **URL**: https://bible.usccb.org/bible/readings/061223.cfm
+- **Status**: mismatch
+- **Lectionary**: 359
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 34:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 34:2-3']`, fix=`['Ps 34:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Mt 5:12']`, fix=`['Mt 5:12']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/df31c64

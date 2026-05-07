@@ -86355,5 +86355,60 @@
       ]
     },
     "checked_at": "2026-05-07T04:01:06+00:00"
+  },
+  "2023-06-12:0": {
+    "date": "2023-06-12",
+    "url": "https://bible.usccb.org/bible/readings/061223.cfm",
+    "lectionary_number": 359,
+    "feast": "Monday of the Tenth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 34:2-3, 4-5, 6-7, 8-9"
+        ],
+        "live": [
+          "Ps 34:2-3"
+        ],
+        "fix": [
+          "Ps 34:2-3"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "Mt 5:12"
+        ],
+        "fix": [
+          "Mt 5:12"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:12"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "2 Cor 1:1-7"
+      ],
+      "responsorial_psalm": [
+        "Ps 34:2-3"
+      ],
+      "alleluia_verse": [
+        "Mt 5:12"
+      ],
+      "gospel": [
+        "Mt 5:1-12"
+      ]
+    },
+    "checked_at": "2026-05-07T04:05:19+00:00"
   }
 }
