@@ -58124,7 +58124,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 33:1-2, 4-5, 18-19",
+            "citation": "PS 33:1-2",
             "sources": [
               "USCCB"
             ]
@@ -58138,7 +58138,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-04-14": [

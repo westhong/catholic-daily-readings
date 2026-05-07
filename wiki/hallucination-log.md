@@ -16806,3 +16806,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 11:4, 5']`, live=`['Psalm 11:4']`, fix=`['Psalm 11:4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:7']`, fix=`['John 16:7']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7b64574
+
+### 🚫 2026-06-24 — The Nativity of Saint John the Baptist
+- **Checked**: 2026-05-07 03:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062426-Day.cfm
+- **Status**: url_dead
+- **Lectionary**: 586
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/062426-Day.cfm`, live=fetch failed
