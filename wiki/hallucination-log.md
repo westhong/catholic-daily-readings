@@ -16928,3 +16928,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 16:18']`, fix=`['Matthew 16:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/849d72b
+
+### ❌ 2026-04-08 — Wednesday in the Octave of Easter
+- **Checked**: 2026-05-07 04:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040826.cfm
+- **Status**: mismatch
+- **Lectionary**: 263
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 105:1-2, 3-4, 6-7, 8-9']`, live=`['Psalm 105:1-2']`, fix=`['Psalm 105:1-2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Psalm 118:24']`, fix=`['Psalm 118:24']`
+  - **sequence**: stored=`['Victimae paschali laudes (optional, liturgical text)']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/3e8cd1f
