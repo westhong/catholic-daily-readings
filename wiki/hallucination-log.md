@@ -17205,3 +17205,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['90:2, 3-4, 10, 14']`, live=`（空白）`, fix=`[]`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ephesians 1:17-18']`, fix=`['Ephesians 1:17-18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/46c025a
+
+### ❌ 2027-01-08 — Friday after Epiphany
+- **Checked**: 2026-05-07 06:50 UTC
+- **URL**: https://bible.usccb.org/bible/readings/010827.cfm
+- **Status**: mismatch
+- **Lectionary**: 216
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 147:12-13, 14-15, 19-20']`, live=`['Psalm 147:12-13']`, fix=`['Psalm 147:12-13']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Matthew 4:23']`, fix=`['See Matthew 4:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/437b59d

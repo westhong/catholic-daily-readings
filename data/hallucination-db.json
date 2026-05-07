@@ -87962,5 +87962,60 @@
       ]
     },
     "checked_at": "2026-05-07T06:45:51+00:00"
+  },
+  "2027-01-08:0": {
+    "date": "2027-01-08",
+    "url": "https://bible.usccb.org/bible/readings/010827.cfm",
+    "lectionary_number": 216,
+    "feast": "Friday after Epiphany",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 147:12-13, 14-15, 19-20"
+        ],
+        "live": [
+          "Psalm 147:12-13"
+        ],
+        "fix": [
+          "Psalm 147:12-13"
+        ]
+      },
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "See Matthew 4:23"
+        ],
+        "fix": [
+          "See Matthew 4:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "1 John 5:5-13"
+      ],
+      "responsorial_psalm": [
+        "Psalm 147:12-13"
+      ],
+      "alleluia_verse": [
+        "See Matthew 4:23"
+      ],
+      "gospel": [
+        "Luke 5:12-16"
+      ]
+    },
+    "checked_at": "2026-05-07T06:50:04+00:00"
   }
 }
