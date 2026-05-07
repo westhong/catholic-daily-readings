@@ -86022,5 +86022,77 @@
       ]
     },
     "checked_at": "2026-05-07T03:25:58+00:00"
+  },
+  "2026-03-29:0": {
+    "date": "2026-03-29",
+    "url": "https://bible.usccb.org/bible/readings/032926.cfm",
+    "lectionary_number": 37,
+    "feast": "Palm Sunday of the Lord&#039;s Passion",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Isaiah 50:4-7"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Psalm 22:8-9, 17-18, 19-20, 23-24"
+        ],
+        "live": [
+          "Psalm 22:8-9"
+        ],
+        "fix": [
+          "Psalm 22:8-9"
+        ]
+      },
+      {
+        "type": "verse_before_gospel",
+        "stored": [
+          "Philippians 2:8-9"
+        ],
+        "live": [],
+        "fix": []
+      },
+      {
+        "type": "gospel",
+        "stored": [
+          "Matthew 26:14—27"
+        ],
+        "live": [
+          "Matthew 26:14"
+        ],
+        "fix": [
+          "Matthew 26:14"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [],
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "verse_before_gospel": [],
+      "gospel": [
+        "Matthew 26:14"
+      ]
+    },
+    "live_readings": {
+      "responsorial_psalm": [
+        "Psalm 22:8-9"
+      ],
+      "second_reading": [
+        "Philippians 2:6-11"
+      ],
+      "gospel": [
+        "Matthew 26:14"
+      ]
+    },
+    "checked_at": "2026-05-07T03:30:10+00:00"
   }
 }
