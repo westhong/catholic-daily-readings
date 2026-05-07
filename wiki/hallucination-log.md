@@ -16636,3 +16636,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 4:14']`, fix=`['1 Pt 4:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c0aa68d
+
+### 🚫 2026-08-22 — 
+- **Checked**: 2026-05-07 01:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/822.cfm
+- **Status**: url_dead
+- **Lectionary**: 424
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/822.cfm`, live=fetch failed
