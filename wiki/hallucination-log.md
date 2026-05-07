@@ -16463,3 +16463,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:3-4, 5-6']`, live=`['Psalm 51:3-4']`, fix=`['Psalm 51:3-4']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 11:25']`, fix=`['Matthew 11:25']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/9b472fa
+
+### ❌ 2023-06-27 — Tuesday of the Twelfth Week in Ordinary Time
+- **Checked**: 2026-05-07 00:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062723.cfm
+- **Status**: mismatch
+- **Lectionary**: 372
+- **Mismatches**:
+  - **first_reading**: stored=`['Gn 13:2, 5-18']`, live=`['Gn 13:2']`, fix=`['Gn 13:2']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Jn 8:12']`, fix=`['Jn 8:12']`
+  - **gospel**: stored=`['Mt 7:6, 12-14']`, live=`['Mt 7:6']`, fix=`['Mt 7:6']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/24bd6a1
