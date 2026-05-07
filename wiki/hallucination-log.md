@@ -16835,3 +16835,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **verse_before_gospel**: stored=`['Philippians 2:8-9']`, live=`（空白）`, fix=`[]`
   - **gospel**: stored=`['Matthew 26:14—27']`, live=`['Matthew 26:14']`, fix=`['Matthew 26:14']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/697e231
+
+### 🚫 2026-11-08 — 
+- **Checked**: 2026-05-07 03:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/261108.cfm
+- **Status**: url_dead
+- **Lectionary**: 154
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/261108.cfm`, live=fetch failed
