@@ -16549,3 +16549,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 122:1-2, 3-4']`, live=`['Ps 122:1-2']`, fix=`['Ps 122:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Jn 15:4']`, fix=`['Jn 15:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/15407b6
+
+### ❌ 2027-10-06 — Wednesday of the Twenty-seventh Week in Ordinary Time
+- **Checked**: 2026-05-07 01:10 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100627.cfm
+- **Status**: mismatch
+- **Lectionary**: 463
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 86:3-4, 5-6, 9-10']`, live=`['Psalm 86:3-4']`, fix=`['Psalm 86:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['Romans 8:15']`, fix=`['Romans 8:15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/a6d37b5
