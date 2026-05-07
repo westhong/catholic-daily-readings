@@ -16852,3 +16852,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **Mismatches**:
   - **alleluia_verse**: stored=`（空白）`, live=`['See John 15:16']`, fix=`['See John 15:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/16b9dd7
+
+### 🚫 2026-07-23 — 
+- **Checked**: 2026-05-07 03:46 UTC
+- **URL**: https://bible.usccb.org/bible/readings/723.cfm
+- **Status**: url_dead
+- **Lectionary**: 398
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/723.cfm`, live=fetch failed

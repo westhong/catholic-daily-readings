@@ -86153,5 +86153,24 @@
       ]
     },
     "checked_at": "2026-05-07T03:40:44+00:00"
+  },
+  "2026-07-23:0": {
+    "date": "2026-07-23",
+    "url": "https://bible.usccb.org/bible/readings/723.cfm",
+    "lectionary_number": 398,
+    "feast": "",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/723.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T03:46:00+00:00"
   }
 }
