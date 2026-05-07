@@ -16580,3 +16580,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Ps 107:2-3, 4-5, 6-7, 8-9']`, live=`['Ps 107:2-3']`, fix=`['Ps 107:2-3']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Ps 25:4']`, fix=`['Ps 25:4']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/20d6d28
+
+### ❌ 2023-08-04 — Memorial of Saint John Vianney, Priest
+- **Checked**: 2026-05-07 01:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/080423.cfm
+- **Status**: mismatch
+- **Lectionary**: 405
+- **Mismatches**:
+  - **first_reading**: stored=`['Lv 23:1, 4-11, 15-16, 27, 34']`, live=`['Lv 23:1']`, fix=`['Lv 23:1']`
+  - **responsorial_psalm**: stored=`['Ps 81:3-4, 5-6, 10-11']`, live=`['Ps 81:3-4']`, fix=`['Ps 81:3-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['1 Pt 1:25']`, fix=`['1 Pt 1:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/0618f06
