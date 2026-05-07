@@ -17144,3 +17144,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/123023.cfm
 - **Status**: ok
 - **Lectionary**: 203
+
+### ❌ 2024-12-11 — Wednesday of the Second Week of Advent
+- **Checked**: 2026-05-07 06:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/121124.cfm
+- **Status**: mismatch
+- **Lectionary**: 183
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 103:1-2, 3-4, 8']`, live=`['Ps 103:1-2']`, fix=`['Ps 103:1-2']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5f15c8a

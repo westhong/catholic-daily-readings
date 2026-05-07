@@ -87621,5 +87621,44 @@
       ]
     },
     "checked_at": "2026-05-07T06:15:25+00:00"
+  },
+  "2024-12-11:0": {
+    "date": "2024-12-11",
+    "url": "https://bible.usccb.org/bible/readings/121124.cfm",
+    "lectionary_number": 183,
+    "feast": "Wednesday of the Second Week of Advent",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 103:1-2, 3-4, 8"
+        ],
+        "live": [
+          "Ps 103:1-2"
+        ],
+        "fix": [
+          "Ps 103:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 40:25-31"
+      ],
+      "responsorial_psalm": [
+        "Ps 103:1-2"
+      ],
+      "gospel": [
+        "Mt 11:28-30"
+      ]
+    },
+    "checked_at": "2026-05-07T06:20:38+00:00"
   }
 }
