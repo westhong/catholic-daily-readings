@@ -87076,5 +87076,67 @@
     "fixed_readings": {},
     "live_readings": {},
     "checked_at": "2026-05-07T05:15:23+00:00"
+  },
+  "2026-02-17:0": {
+    "date": "2026-02-17",
+    "url": "https://bible.usccb.org/bible/readings/021726.cfm",
+    "lectionary_number": 336,
+    "feast": "Tuesday of the Sixth Week in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "alleluia_verse",
+        "stored": [],
+        "live": [
+          "John 14:23"
+        ],
+        "fix": [
+          "John 14:23"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "alleluia_verse": [
+        "John 14:23"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "James 1:12-18"
+      ],
+      "responsorial_psalm": [
+        "Psalm 94:12-13"
+      ],
+      "alleluia_verse": [
+        "John 14:23"
+      ],
+      "gospel": [
+        "Mark 8:14-21"
+      ]
+    },
+    "checked_at": "2026-05-07T05:20:34+00:00"
+  },
+  "2025-12-30:0": {
+    "date": "2025-12-30",
+    "url": "https://bible.usccb.org/bible/readings/123025.cfm",
+    "lectionary_number": 203,
+    "feast": "The Sixth Day in the Octave of Christmas",
+    "mass_idx": 0,
+    "status": "ok",
+    "mismatches": [],
+    "fixed_readings": {},
+    "live_readings": {
+      "first_reading": [
+        "1 John 2:12-17"
+      ],
+      "responsorial_psalm": [
+        "Psalm 96:7-8"
+      ],
+      "gospel": [
+        "Luke 2:36-40"
+      ]
+    },
+    "checked_at": "2026-05-07T05:25:50+00:00"
   }
 }

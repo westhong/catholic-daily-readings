@@ -72626,14 +72626,7 @@
       "feast": "Thursday of the First Week in Lent",
       "mass": "default",
       "readings": {
-        "first_reading": [
-          {
-            "citation": "Est C:12, 14-16, 23-25 Queen Esther, sei",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ],
+        "first_reading": [],
         "responsorial_psalm": [
           {
             "citation": "Ps 138:1-2",
@@ -72650,15 +72643,9 @@
             ]
           }
         ],
-        "verse_before_gospel": [
-          {
-            "citation": "Ps 51:12a, 14a",
-            "sources": [
-              "USCCB"
-            ]
-          }
-        ]
-      }
+        "verse_before_gospel": []
+      },
+      "mass_idx": 0
     }
   ],
   "2023-03-03": [

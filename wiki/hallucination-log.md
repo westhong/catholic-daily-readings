@@ -17034,3 +17034,18 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/031724.cfm
 - **Status**: ok
 - **Lectionary**: 34
+
+### ❌ 2026-02-17 — Tuesday of the Sixth Week in Ordinary Time
+- **Checked**: 2026-05-07 05:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/021726.cfm
+- **Status**: mismatch
+- **Lectionary**: 336
+- **Mismatches**:
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 14:23']`, fix=`['John 14:23']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/7161515
+
+### ✅ 2025-12-30 — The Sixth Day in the Octave of Christmas
+- **Checked**: 2026-05-07 05:25 UTC
+- **URL**: https://bible.usccb.org/bible/readings/123025.cfm
+- **Status**: ok
+- **Lectionary**: 203
