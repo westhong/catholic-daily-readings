@@ -50170,7 +50170,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Wisdom 2:12, 17-20",
+            "citation": "Wisdom 2:12",
             "sources": [
               "USCCB"
             ]
@@ -50178,7 +50178,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 54:3-4, 5, 6",
+            "citation": "Psalm 54:3-4",
             "sources": [
               "USCCB"
             ]
@@ -50186,7 +50186,7 @@
         ],
         "second_reading": [
           {
-            "citation": "James 3:16—4",
+            "citation": "James 3:16",
             "sources": [
               "USCCB"
             ]
@@ -50200,7 +50200,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-09-20": [

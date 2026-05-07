@@ -17049,3 +17049,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
 - **URL**: https://bible.usccb.org/bible/readings/123025.cfm
 - **Status**: ok
 - **Lectionary**: 203
+
+### ❌ 2023-03-02 — Thursday of the First Week in Lent
+- **Checked**: 2026-05-07 05:31 UTC
+- **URL**: https://bible.usccb.org/bible/readings/030223.cfm
+- **Status**: mismatch
+- **Lectionary**: 227
+- **Mismatches**:
+  - **first_reading**: stored=`['Est C:12, 14-16, 23-25 Queen Esther, sei']`, live=`（空白）`, fix=`[]`
+  - **verse_before_gospel**: stored=`['Ps 51:12a, 14a']`, live=`（空白）`, fix=`[]`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/2e9c057
