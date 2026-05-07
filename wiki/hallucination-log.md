@@ -17173,3 +17173,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 97:1-2, 5-6, 9']`, live=`['PS 97:1-2']`, fix=`['PS 97:1-2']`
   - **alleluia_verse**: stored=`（空白）`, live=`['MT 17:5']`, fix=`['MT 17:5']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/1b7b1e7
+
+### ❌ 2025-12-08 — Solemnity of the Immaculate Conception of the Blessed Virgin Mary
+- **Checked**: 2026-05-07 06:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/120825.cfm
+- **Status**: mismatch
+- **Lectionary**: 689
+- **Mismatches**:
+  - **first_reading**: stored=`['Genesis 3:9-15, 20']`, live=`['Genesis 3:9-15']`, fix=`['Genesis 3:9-15']`
+  - **responsorial_psalm**: stored=`['Psalm 98:1, 2-3']`, live=`['Psalm 98:1']`, fix=`['Psalm 98:1']`
+  - **second_reading**: stored=`['Ephesians 1:3-6, 11-12']`, live=`['Ephesians 1:3-6']`, fix=`['Ephesians 1:3-6']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Luke 1:28']`, fix=`['See Luke 1:28']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/57aaf8a
