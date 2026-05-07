@@ -38604,7 +38604,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 19:8, 9, 10, 15",
+            "citation": "Psalm 19:8",
             "sources": [
               "USCCB"
             ]
@@ -38625,8 +38625,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Luke 4:18",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-01-17": [

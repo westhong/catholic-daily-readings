@@ -16728,3 +16728,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['John 16:28']`, fix=`['John 16:28']`
   - **gospel**: stored=`['John 16:23b-28']`, live=`['John 16:23']`, fix=`['John 16:23']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e056c4e
+
+### ❌ 2024-05-31 — Feast of the Visitation of the Blessed Virgin Mary
+- **Checked**: 2026-05-07 02:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/053124.cfm
+- **Status**: mismatch
+- **Lectionary**: 572
+- **Mismatches**:
+  - **first_reading**: stored=`['Zep 3:14-18']`, live=`['Zep 3:14-18', 'Rom 12:9-16']`, fix=`['Zep 3:14-18', 'Rom 12:9-16']`
+  - **responsorial_psalm**: stored=`['Isaiah 12:2-3, 4']`, live=`['Isaiah 12:2-3']`, fix=`['Isaiah 12:2-3']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See Lk 1:45']`, fix=`['See Lk 1:45']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/81bd35d
