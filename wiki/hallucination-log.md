@@ -17416,3 +17416,15 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 51:12-13, 14-15, 16-17']`, live=`['Psalm 51:12-13']`, fix=`['Psalm 51:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['John 3:16']`, fix=`['John 3:16']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/54149b4
+
+### ❌ 2027-02-28 — Third Sunday of Lent  - Year A
+- **Checked**: 2026-05-07 08:40 UTC
+- **URL**: https://bible.usccb.org/bible/readings/022827-YearA.cfm
+- **Status**: mismatch
+- **Lectionary**: 28
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 95:1-2, 6-7, 8-9']`, live=`['Psalm 95:1-2']`, fix=`['Psalm 95:1-2']`
+  - **second_reading**: stored=`['Romans 5:1-2, 5-8']`, live=`['Romans 5:1-2']`, fix=`['Romans 5:1-2']`
+  - **verse_before_gospel**: stored=`['John 3:16']`, live=`（空白）`, fix=`[]`
+  - **gospel**: stored=`['John 4:5-42']`, live=`['John 4:5-42', 'John 4:5-15']`, fix=`['John 4:5-42', 'John 4:5-15']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/c6f343b
