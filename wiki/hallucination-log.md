@@ -16969,3 +16969,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:12-13, 18-19, 20']`, live=`['Psalm 33:12-13']`, fix=`['Psalm 33:12-13']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Hebrews 4:12']`, fix=`['Hebrews 4:12']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f7062de
+
+### 🚫 2026-10-21 — 
+- **Checked**: 2026-05-07 04:45 UTC
+- **URL**: https://bible.usccb.org/bible/readings/1021.cfm
+- **Status**: url_dead
+- **Lectionary**: 475
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/1021.cfm`, live=fetch failed

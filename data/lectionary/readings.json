@@ -77682,7 +77682,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "2 Cor 11:18, 21-30",
+            "citation": "2 Cor 11:18",
             "sources": [
               "USCCB"
             ]
@@ -77690,7 +77690,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "PS 34:2-3, 4-5, 6-7",
+            "citation": "PS 34:2-3",
             "sources": [
               "USCCB"
             ]
@@ -77711,8 +77711,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 5:3",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2023-06-24": [
