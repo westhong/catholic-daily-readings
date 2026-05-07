@@ -17499,3 +17499,14 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **alleluia_verse**: stored=`（空白）`, live=`['James 1:18']`, fix=`['James 1:18']`
   - **gospel**: stored=`['Mark 7:1-8, 14-15, 21-23']`, live=`['Mark 7:1-8']`, fix=`['Mark 7:1-8']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/941a029
+
+### ❌ 2024-10-05 — Saturday of the Twenty-sixth Week in Ordinary Time
+- **Checked**: 2026-05-07 09:20 UTC
+- **URL**: https://bible.usccb.org/bible/readings/100524.cfm
+- **Status**: mismatch
+- **Lectionary**: 460
+- **Mismatches**:
+  - **first_reading**: stored=`['JB 42:1-3, 5-6, 12-17']`, live=`['JB 42:1-3']`, fix=`['JB 42:1-3']`
+  - **responsorial_psalm**: stored=`['PS 119:66, 71, 75, 91, 125, 130']`, live=`['PS 119:66']`, fix=`['PS 119:66']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['See MT 11:25']`, fix=`['See MT 11:25']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/6d1a9cb
