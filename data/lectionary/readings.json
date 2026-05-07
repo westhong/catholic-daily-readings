@@ -62535,7 +62535,7 @@
       "readings": {
         "first_reading": [
           {
-            "citation": "Is 10:5-7, 13",
+            "citation": "Is 10:5-7",
             "sources": [
               "USCCB"
             ]
@@ -62543,7 +62543,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Ps 94:5-6, 7-8, 9-10, 14-15",
+            "citation": "Ps 94:5-6",
             "sources": [
               "USCCB"
             ]
@@ -62564,8 +62564,17 @@
               "USCCB"
             ]
           }
+        ],
+        "alleluia_verse": [
+          {
+            "citation": "Mt 11:25",
+            "sources": [
+              "USCCB"
+            ]
+          }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2024-07-18": [

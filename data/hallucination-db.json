@@ -83885,5 +83885,47 @@
       ]
     },
     "checked_at": "2026-05-06T23:51:04+00:00"
+  },
+  "2023-09-24:0": {
+    "date": "2023-09-24",
+    "url": "https://bible.usccb.org/bible/readings/092423.cfm",
+    "lectionary_number": 133,
+    "feast": "Twenty-fifth Sunday in Ordinary Time",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 145:2-3, 8-9, 17-18"
+        ],
+        "live": [
+          "Ps 145:2-3"
+        ],
+        "fix": [
+          "Ps 145:2-3"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 55:6-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 145:2-3"
+      ],
+      "second_reading": [
+        "Phil 1:20"
+      ],
+      "gospel": [
+        "Mt 20:1-16"
+      ]
+    },
+    "checked_at": "2026-05-06T23:55:20+00:00"
   }
 }

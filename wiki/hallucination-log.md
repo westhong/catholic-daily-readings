@@ -16404,3 +16404,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['PS 119:97, 98, 99, 100, 101, 102']`, live=`['PS 119:97']`, fix=`['PS 119:97']`
   - **alleluia_verse**: stored=`（空白）`, live=`['LK 4:18']`, fix=`['LK 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/e4c746a
+
+### ❌ 2023-09-24 — Twenty-fifth Sunday in Ordinary Time
+- **Checked**: 2026-05-06 23:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/092423.cfm
+- **Status**: mismatch
+- **Lectionary**: 133
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 145:2-3, 8-9, 17-18']`, live=`['Ps 145:2-3']`, fix=`['Ps 145:2-3']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/ca9bee5
