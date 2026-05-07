@@ -17098,3 +17098,13 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 33:4-5, 18-19, 20, 22']`, live=`['Psalm 33:4-5']`, fix=`['Psalm 33:4-5']`
   - **verse_before_gospel**: stored=`['Matthew 17:5']`, live=`（空白）`, fix=`[]`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/da09961
+
+### ❌ 2027-04-04 — Second Sunday of Easter Sunday of Divine Mercy
+- **Checked**: 2026-05-07 05:55 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040427.cfm
+- **Status**: mismatch
+- **Lectionary**: 44
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Psalm 118:2-4, 13-15, 22-24']`, live=`['Psalm 118:2-4']`, fix=`['Psalm 118:2-4']`
+  - **alleluia_verse**: stored=`（空白）`, live=`['John 20:29']`, fix=`['John 20:29']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/218bd09

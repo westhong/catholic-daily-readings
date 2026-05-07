@@ -51728,7 +51728,7 @@
         ],
         "responsorial_psalm": [
           {
-            "citation": "Psalm 126:1-2, 2-3, 4-5, 6",
+            "citation": "Psalm 126:1-2",
             "sources": [
               "USCCB"
             ]
@@ -51750,7 +51750,8 @@
             ]
           }
         ]
-      }
+      },
+      "mass_idx": 0
     }
   ],
   "2027-10-25": [
