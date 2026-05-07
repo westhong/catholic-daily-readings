@@ -16484,3 +16484,12 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 106:34-35, 36-37, 39-40, 43']`, live=`['Psalm 106:34-35']`, fix=`['Psalm 106:34-35']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Matthew 5:3']`, fix=`['Matthew 5:3']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/f668ce7
+
+### ❌ 2023-04-05 — Wednesday of Holy Week
+- **Checked**: 2026-05-07 00:35 UTC
+- **URL**: https://bible.usccb.org/bible/readings/040523.cfm
+- **Status**: mismatch
+- **Lectionary**: 259
+- **Mismatches**:
+  - **responsorial_psalm**: stored=`['Ps 69:8-10, 21-22, 31']`, live=`['Ps 69:8-10']`, fix=`['Ps 69:8-10']`
+- **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/5a64fdb

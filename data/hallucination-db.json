@@ -84320,5 +84320,44 @@
       ]
     },
     "checked_at": "2026-05-07T00:30:59+00:00"
+  },
+  "2023-04-05:0": {
+    "date": "2023-04-05",
+    "url": "https://bible.usccb.org/bible/readings/040523.cfm",
+    "lectionary_number": 259,
+    "feast": "Wednesday of Holy Week",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 69:8-10, 21-22, 31"
+        ],
+        "live": [
+          "Ps 69:8-10"
+        ],
+        "fix": [
+          "Ps 69:8-10"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "responsorial_psalm": [
+        "Ps 69:8-10"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Is 50:4-9"
+      ],
+      "responsorial_psalm": [
+        "Ps 69:8-10"
+      ],
+      "gospel": [
+        "Mt 26:14-25"
+      ]
+    },
+    "checked_at": "2026-05-07T00:35:12+00:00"
   }
 }
