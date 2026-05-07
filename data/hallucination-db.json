@@ -86588,5 +86588,62 @@
       ]
     },
     "checked_at": "2026-05-07T04:25:14+00:00"
+  },
+  "2023-04-23:0": {
+    "date": "2023-04-23",
+    "url": "https://bible.usccb.org/bible/readings/042323.cfm",
+    "lectionary_number": 46,
+    "feast": "Third Sunday of Easter",
+    "mass_idx": 0,
+    "status": "mismatch",
+    "mismatches": [
+      {
+        "type": "first_reading",
+        "stored": [
+          "Acts 2:14, 22-33"
+        ],
+        "live": [
+          "Acts 2:14"
+        ],
+        "fix": [
+          "Acts 2:14"
+        ]
+      },
+      {
+        "type": "responsorial_psalm",
+        "stored": [
+          "Ps 16:1-2, 5, 7-8, 9-10, 11"
+        ],
+        "live": [
+          "Ps 16:1-2"
+        ],
+        "fix": [
+          "Ps 16:1-2"
+        ]
+      }
+    ],
+    "fixed_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:1-2"
+      ]
+    },
+    "live_readings": {
+      "first_reading": [
+        "Acts 2:14"
+      ],
+      "responsorial_psalm": [
+        "Ps 16:1-2"
+      ],
+      "second_reading": [
+        "1 Pt 1:17-21"
+      ],
+      "gospel": [
+        "Lk 24:13-35"
+      ]
+    },
+    "checked_at": "2026-05-07T04:30:26+00:00"
   }
 }
