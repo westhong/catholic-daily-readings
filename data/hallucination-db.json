@@ -85696,5 +85696,24 @@
       ]
     },
     "checked_at": "2026-05-07T02:45:44+00:00"
+  },
+  "2026-06-29:0": {
+    "date": "2026-06-29",
+    "url": "https://bible.usccb.org/bible/readings/062926-Day.cfm",
+    "lectionary_number": 590,
+    "feast": "Solemnity of Saints Peter and Paul, Apostles",
+    "mass_idx": 0,
+    "status": "url_dead",
+    "mismatches": [
+      {
+        "type": "url",
+        "stored": "https://bible.usccb.org/bible/readings/062926-Day.cfm",
+        "live": "fetch failed",
+        "fix": ""
+      }
+    ],
+    "fixed_readings": {},
+    "live_readings": {},
+    "checked_at": "2026-05-07T02:50:59+00:00"
   }
 }

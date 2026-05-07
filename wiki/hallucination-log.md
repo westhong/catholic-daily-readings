@@ -16749,3 +16749,11 @@ _自動驗證：每 5 分鐘隨機驗一個 readings.json entry_
   - **responsorial_psalm**: stored=`['Psalm 19:8, 9, 10, 15']`, live=`['Psalm 19:8']`, fix=`['Psalm 19:8']`
   - **alleluia_verse**: stored=`（空白）`, live=`['Luke 4:18']`, fix=`['Luke 4:18']`
 - **GitHub**: https://github.com/westhong/catholic-daily-readings/commit/bc07695
+
+### 🚫 2026-06-29 — Solemnity of Saints Peter and Paul, Apostles
+- **Checked**: 2026-05-07 02:51 UTC
+- **URL**: https://bible.usccb.org/bible/readings/062926-Day.cfm
+- **Status**: url_dead
+- **Lectionary**: 590
+- **Mismatches**:
+  - **URL**: stored=`https://bible.usccb.org/bible/readings/062926-Day.cfm`, live=fetch failed
