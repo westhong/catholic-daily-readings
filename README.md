@@ -1,6 +1,8 @@
 # Catholic Daily Readings
 
-**免費、開源的天主教每日讀經。**
+**開源的天主教每日彌撒讀經 metadata service。**
+
+這個專案提供每日天主教禮儀讀經的結構化 metadata：日期、禮儀日、讀經類型、Lectionary Number、章節引用與可選讀經。它不儲存受版權保護的聖經正文，而是讓網站、API、CLI、App、Telegram bot、語音服務與不同語言社群，可以套用自己合法使用的譯本，產生適合自己的每日讀經。
 
 為神做一些事，去填補這個世界應該要有的東西，讓神的話語更能遠傳。溫柔地對待這個世界。
 
@@ -125,7 +127,9 @@ MIT — 自由使用，為主服務。
 
 ## English
 
-**Catholic Daily Readings** is a free, open-source project providing daily Catholic Mass readings, starting with Chinese translations to serve Chinese-speaking Catholics worldwide.
+**Catholic Daily Readings** is an open metadata service for Catholic daily Mass readings.
+
+It provides structured lectionary metadata — dates, liturgical days, reading types, lectionary numbers, citations, and optional readings — without storing copyrighted Bible text. Apps, APIs, CLI tools, bots, audio services, and language communities can use this metadata with their own licensed Bible translations to render the daily readings in the language, format, or voice their users prefer.
 
 > *"Go, therefore, and make disciples of all nations."* — Matthew 28:19
 
