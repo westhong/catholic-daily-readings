@@ -76,11 +76,30 @@ uvicorn src.api.main:app --host 0.0.0.0 --port 8000
 
 ## 🌐 Gospel Metadata API
 
+這個 repo 有兩個 API runtime：
+
+- **Local / Docker:** FastAPI at `src/api/main.py`
+- **Cloudflare Workers:** TypeScript Worker at `worker/`
+
 第一個 public interface 提供 citation-only Gospel metadata。若沒有提供日期，會使用 `America/Edmonton` 的今天。
 
+FastAPI local:
+
 ```bash
+uvicorn src.api.main:app --host 0.0.0.0 --port 8000
 curl http://localhost:8000/api/v1/gospel
 curl 'http://localhost:8000/api/v1/gospel?date=2026-04-19'
+```
+
+Cloudflare Worker local / deploy prep:
+
+```bash
+cd worker
+npm install
+npm test
+npm run build          # wrangler dry-run build, no deploy
+npm run dev            # local Worker dev server
+# npm run deploy       # deploy later when ready
 ```
 
 Response example:
