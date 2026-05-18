@@ -12,7 +12,26 @@ describe("worker fetch", () => {
     expect(body.records[0].gospels).toEqual([{ citation: "Luke 24:13-35", sources: ["USCCB"] }]);
   });
 
-  it("serves today when date is omitted", async () => {
+  it("serves /api/v1/readings for a specific date", async () => {
+    const response = await worker.fetch(new Request("https://example.com/api/v1/readings?date=2026-05-17"));
+
+    expect(response.status).toBe(200);
+    const body = await response.json();
+    expect(body.records).toHaveLength(2);
+    expect(body.records[0].readings.first_reading).toEqual([{ citation: "Acts 1:12-14", sources: ["USCCB"] }]);
+    expect(body.records[1].readings.gospel).toEqual([{ citation: "Matthew 28:16-20", sources: ["USCCB"] }]);
+  });
+
+  it("serves today readings when date is omitted", async () => {
+    const response = await worker.fetch(new Request("https://example.com/api/v1/readings"), {}, { today: "2026-05-17" });
+
+    expect(response.status).toBe(200);
+    const body = await response.json();
+    expect(body.date).toBe("2026-05-17");
+    expect(body.records[0].readings.gospel).toEqual([{ citation: "John 17:1-11a", sources: ["USCCB"] }]);
+  });
+
+  it("serves today gospel when date is omitted", async () => {
     const response = await worker.fetch(new Request("https://example.com/api/v1/gospel"), {}, { today: "2026-04-19" });
 
     expect(response.status).toBe(200);

@@ -74,14 +74,23 @@ uvicorn src.api.main:app --host 0.0.0.0 --port 8000
 
 ---
 
-## 🌐 Gospel Metadata API
+## 🌐 Metadata API
 
 這個 repo 有兩個 API runtime：
 
 - **Local / Docker:** FastAPI at `src/api/main.py`
 - **Cloudflare Workers:** TypeScript Worker at `worker/`
 
-第一個 public interface 提供 citation-only Gospel metadata。若沒有提供日期，會使用 `America/Edmonton` 的今天。
+Public API 提供 citation-only Mass readings metadata。若沒有提供日期，會使用 `America/Edmonton` 的今天。
+
+Endpoints:
+
+```text
+GET /api/v1/readings
+GET /api/v1/readings?date=YYYY-MM-DD
+GET /api/v1/gospel
+GET /api/v1/gospel?date=YYYY-MM-DD
+```
 
 FastAPI local:
 
@@ -102,7 +111,31 @@ npm run dev            # local Worker dev server
 # npm run deploy       # deploy later when ready
 ```
 
-Response example:
+Full readings response example:
+
+```json
+{
+  "date": "2026-05-17",
+  "timezone": "America/Edmonton",
+  "source": "catholic-daily-readings",
+  "records": [
+    {
+      "feast": "Seventh Sunday of Easter",
+      "mass": "default",
+      "lectionary_number": 59,
+      "readings": {
+        "first_reading": [{"citation": "Acts 1:12-14", "sources": ["USCCB"]}],
+        "responsorial_psalm": [{"citation": "Psalm 27:1, 4, 7-8", "sources": ["USCCB"]}],
+        "second_reading": [{"citation": "1 Peter 4:13-16", "sources": ["USCCB"]}],
+        "alleluia": [{"citation": "John 14:18", "sources": ["USCCB"]}],
+        "gospel": [{"citation": "John 17:1-11a", "sources": ["USCCB"]}]
+      }
+    }
+  ]
+}
+```
+
+Gospel-only response example:
 
 ```json
 {

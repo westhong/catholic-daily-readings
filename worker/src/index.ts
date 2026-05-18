@@ -1,4 +1,5 @@
-import { InvalidDateError, getGospel } from "./gospel";
+import { getGospel } from "./gospel";
+import { InvalidDateError, getReadings } from "./readings";
 
 type TestContext = {
   today?: string;
@@ -23,18 +24,26 @@ export default {
       return new Response(null, { status: 204, headers: JSON_HEADERS });
     }
 
-    if (request.method !== "GET" || url.pathname !== "/api/v1/gospel") {
-      return jsonResponse({ detail: "Not found" }, 404);
-    }
-
     const date = url.searchParams.get("date") ?? undefined;
 
     try {
-      const payload = getGospel(date, { today: ctx?.today });
-      if (payload === null) {
-        return jsonResponse({ detail: `No Gospel metadata found for ${date}` }, 404);
+      if (url.pathname === "/api/v1/gospel") {
+        const payload = getGospel(date, { today: ctx?.today });
+        if (payload === null) {
+          return jsonResponse({ detail: `No Gospel metadata found for ${date}` }, 404);
+        }
+        return jsonResponse(payload);
       }
-      return jsonResponse(payload);
+
+      if (url.pathname === "/api/v1/readings") {
+        const payload = getReadings(date, { today: ctx?.today });
+        if (payload === null) {
+          return jsonResponse({ detail: `No readings metadata found for ${date}` }, 404);
+        }
+        return jsonResponse(payload);
+      }
+
+      return jsonResponse({ detail: "Not found" }, 404);
     } catch (error) {
       if (error instanceof InvalidDateError) {
         return jsonResponse({ detail: error.message }, 400);
