@@ -63,10 +63,44 @@ git clone https://github.com/westhong/catholic-daily-readings.git
 cd catholic-daily-readings
 
 # 安裝依賴
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 
 # 取得今日讀經
 python main.py
+
+# 啟動 Gospel metadata API
+uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+```
+
+---
+
+## 🌐 Gospel Metadata API
+
+第一個 public interface 提供 citation-only Gospel metadata。若沒有提供日期，會使用 `America/Edmonton` 的今天。
+
+```bash
+curl http://localhost:8000/api/v1/gospel
+curl 'http://localhost:8000/api/v1/gospel?date=2026-04-19'
+```
+
+Response example:
+
+```json
+{
+  "date": "2026-04-19",
+  "timezone": "America/Edmonton",
+  "source": "catholic-daily-readings",
+  "records": [
+    {
+      "feast": "Third Sunday of Easter",
+      "mass": "default",
+      "lectionary_number": 44,
+      "gospels": [
+        {"citation": "Luke 24:13-35", "sources": ["USCCB"]}
+      ]
+    }
+  ]
+}
 ```
 
 ---
